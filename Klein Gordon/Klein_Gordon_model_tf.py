@@ -362,10 +362,8 @@ class Klein_Gordon:
                          self.adaptive_constant_bcs],
                         tf_dict)
                     # Print adaptive weights during training
-                    self.adaptive_constant_ics_val = adaptive_constant_ics_val * (
-                            1.0 - self.rate) + self.rate * self.adaptive_constant_ics_val
-                    self.adaptive_constant_bcs_val = adaptive_constant_bcs_val * (
-                            1.0 - self.rate) + self.rate * self.adaptive_constant_bcs_val
+                    self.adaptive_constant_ics_val = adaptive_constant_ics_val * ( 1.0 - self.rate) + self.rate * self.adaptive_constant_ics_val
+                    self.adaptive_constant_bcs_val = adaptive_constant_bcs_val * ( 1.0 - self.rate) + self.rate * self.adaptive_constant_bcs_val
 
                 # Store loss and adaptive weights
                 self.loss_u_log.append(loss_u_value)
