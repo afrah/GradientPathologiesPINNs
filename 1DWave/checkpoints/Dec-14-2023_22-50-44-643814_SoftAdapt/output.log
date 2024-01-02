@@ -1,0 +1,10 @@
+It: 0 |  Loss: 2.216e+01 |  Loss_res: 2.851e+00 |   Loss_bcs1: 1.644e+00 | Loss_bc2s: 1.854e+00 |  loss_ics_u: 5.614e+00 |  Loss_ut_ics: 1.020e+01 |  Time: 1.62
+adaptive_constant_res_val: 1.000e+00
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs_val: 0.000e+00
+Gradients information stored ...
+It: 100 |  Loss: nan |  Loss_res: nan |   Loss_bcs1: nan | Loss_bc2s: nan |  loss_ics_u: nan |  Loss_ut_ics: nan |  Time: 0.03
+adaptive_constant_res_val: 1.000e+00
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs_val: nan
+Gradients information stored ...

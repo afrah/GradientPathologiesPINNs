@@ -1,0 +1,26 @@
+Gradients information stored ...
+It: 100| Loss: 7.923e-01|  loss_bc1: 5.090e-02|  loss_bc2: 2.218e-02| loss_ics_u: 2.932e-01| loss_ics_ut: 2.903e-02|  Loss_res: 1.694e-03 , Time: 0.09
+lambda_balance loss_bc1: 6.7583e-01
+lambda_balance loss_bc2: 1.0431e-01
+lambda_balance loss_ics_u: 1.1138e-01
+lambda_balance loss_ics_ut: 1.0848e-01
+updating  lamda for loss loss_bc1:   [3.0088785]
+updating  lamda for loss loss_bc2:   [0.6312744]
+updating  lamda for loss loss_ics_u:   [0.35797647]
+updating  lamda for loss loss_ics_ut:   [0.35704988]
+Gradients information stored ...
+average adaptive_constant_bcs1_log : 3.0089e+00
+average adaptive_constant_bcs2_log : 6.3127e-01
+average adaptive_constant_ics_log : 3.5798e-01
+Save uv NN parameters successfully in %s ...checkpoints/Dec-19-2023_15-46-00-396408_M5
+Final loss loss_bc1: 1.945222e-01
+Final loss loss_bc2: 4.325351e-04
+Final loss loss_ics_u: 7.019386e-03
+Final loss loss_ics_ut: 1.264363e-02
+
+
+Method: mini_batch
+
+average of time_list:3.4450e+01
+average of error_u_list:1.0180e+00
+average of error_r_list:3.7831e-02

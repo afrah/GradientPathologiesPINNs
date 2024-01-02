@@ -1,0 +1,1619 @@
+It: 0, Loss: 1.367e+04, Loss_bcs: 2.574e-01, Loss_res: 1.367e+04 ,Time: 0.32
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 5.7449e+02
+Gradients information stored ...
+It: 100, Loss: 1.356e+04, Loss_bcs: 1.010e-01, Loss_res: 1.350e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 9.1246e+02
+Gradients information stored ...
+It: 200, Loss: 1.335e+04, Loss_bcs: 2.177e-02, Loss_res: 1.333e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.9553e+03
+It: 300, Loss: 1.316e+04, Loss_bcs: 9.642e-04, Loss_res: 1.316e+04 ,Time: 0.01
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 9.2543e+03
+It: 400, Loss: 1.299e+04, Loss_bcs: 1.690e-06, Loss_res: 1.299e+04 ,Time: 0.05
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 2.2009e+05
+It: 500, Loss: 1.283e+04, Loss_bcs: 8.498e-10, Loss_res: 1.283e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 9.2383e+06
+It: 600, Loss: 1.276e+04, Loss_bcs: 1.246e-11, Loss_res: 1.276e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 5.3385e+07
+It: 700, Loss: 1.274e+04, Loss_bcs: 3.316e-10, Loss_res: 1.274e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 4.0503e+08
+It: 800, Loss: 1.274e+04, Loss_bcs: 2.064e-10, Loss_res: 1.274e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.7849e+07
+It: 900, Loss: 1.273e+04, Loss_bcs: 6.887e-12, Loss_res: 1.273e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.0283e+08
+It: 1000, Loss: 1.272e+04, Loss_bcs: 1.421e-13, Loss_res: 1.272e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 6.4239e+08
+Gradients information stored ...
+It: 1100, Loss: 1.272e+04, Loss_bcs: 1.297e-13, Loss_res: 1.272e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 3.8059e+08
+It: 1200, Loss: 1.271e+04, Loss_bcs: 1.457e-13, Loss_res: 1.271e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.0447e+09
+It: 1300, Loss: 1.270e+04, Loss_bcs: 2.669e-11, Loss_res: 1.270e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 3.3403e+07
+It: 1400, Loss: 1.270e+04, Loss_bcs: 1.510e-12, Loss_res: 1.270e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.9291e+08
+It: 1500, Loss: 1.269e+04, Loss_bcs: 1.457e-13, Loss_res: 1.269e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 5.8986e+09
+It: 1600, Loss: 1.269e+04, Loss_bcs: 6.957e-10, Loss_res: 1.269e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.0302e+07
+It: 1700, Loss: 1.269e+04, Loss_bcs: 6.402e-10, Loss_res: 1.269e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.1366e+07
+It: 1800, Loss: 1.269e+04, Loss_bcs: 6.657e-11, Loss_res: 1.269e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 4.1178e+07
+It: 1900, Loss: 1.268e+04, Loss_bcs: 3.642e-13, Loss_res: 1.268e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 6.2862e+08
+It: 2000, Loss: 1.268e+04, Loss_bcs: 1.776e-15, Loss_res: 1.268e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 3.4864e+09
+It: 2100, Loss: 1.268e+04, Loss_bcs: 8.882e-15, Loss_res: 1.268e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 2.5014e+09
+It: 2200, Loss: 1.268e+04, Loss_bcs: 1.200e-31, Loss_res: 1.268e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 5.2039e+09
+It: 2300, Loss: 1.268e+04, Loss_bcs: 1.030e-13, Loss_res: 1.268e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.2175e+09
+It: 2400, Loss: 1.268e+04, Loss_bcs: 1.776e-15, Loss_res: 1.268e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 2.5322e+09
+It: 2500, Loss: 1.268e+04, Loss_bcs: 3.553e-14, Loss_res: 1.268e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.6909e+09
+It: 2600, Loss: 1.268e+04, Loss_bcs: 8.882e-15, Loss_res: 1.268e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.8712e+09
+It: 2700, Loss: 1.267e+04, Loss_bcs: 1.776e-14, Loss_res: 1.267e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 2.6079e+09
+It: 2800, Loss: 1.267e+04, Loss_bcs: 8.882e-15, Loss_res: 1.267e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 2.6077e+09
+It: 2900, Loss: 1.267e+04, Loss_bcs: 1.421e-14, Loss_res: 1.267e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.8707e+09
+It: 3000, Loss: 1.267e+04, Loss_bcs: 2.309e-14, Loss_res: 1.267e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.2168e+09
+It: 3100, Loss: 1.267e+04, Loss_bcs: 1.776e-14, Loss_res: 1.267e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 2.6070e+09
+It: 3200, Loss: 1.267e+04, Loss_bcs: 8.882e-15, Loss_res: 1.267e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.8066e+09
+It: 3300, Loss: 1.266e+04, Loss_bcs: 3.553e-15, Loss_res: 1.266e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 5.1087e+09
+It: 3400, Loss: 1.266e+04, Loss_bcs: 3.020e-14, Loss_res: 1.266e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 2.5573e+09
+It: 3500, Loss: 1.266e+04, Loss_bcs: 3.553e-15, Loss_res: 1.266e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 3.6505e+09
+It: 3600, Loss: 1.266e+04, Loss_bcs: 2.309e-14, Loss_res: 1.266e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.4215e+09
+It: 3700, Loss: 1.266e+04, Loss_bcs: 7.105e-15, Loss_res: 1.266e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 3.0710e+09
+It: 3800, Loss: 1.266e+04, Loss_bcs: 1.200e-31, Loss_res: 1.266e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 9.2362e+08
+It: 3900, Loss: 1.265e+04, Loss_bcs: 7.105e-15, Loss_res: 1.265e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.8690e+09
+It: 4000, Loss: 1.265e+04, Loss_bcs: 3.553e-15, Loss_res: 1.265e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 3.6487e+09
+It: 4100, Loss: 1.265e+04, Loss_bcs: 2.007e-13, Loss_res: 1.265e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 3.0698e+09
+It: 4200, Loss: 1.265e+04, Loss_bcs: 1.776e-14, Loss_res: 1.265e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 8.2246e+08
+It: 4300, Loss: 1.265e+04, Loss_bcs: 3.553e-14, Loss_res: 1.265e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.8482e+09
+It: 4400, Loss: 1.264e+04, Loss_bcs: 1.776e-14, Loss_res: 1.264e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.8681e+09
+It: 4500, Loss: 1.264e+04, Loss_bcs: 3.197e-14, Loss_res: 1.264e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.8479e+09
+It: 4600, Loss: 1.264e+04, Loss_bcs: 7.105e-15, Loss_res: 1.264e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 3.5618e+09
+It: 4700, Loss: 1.264e+04, Loss_bcs: 3.553e-15, Loss_res: 1.264e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 9.2278e+08
+It: 4800, Loss: 1.263e+04, Loss_bcs: 1.599e-14, Loss_res: 1.263e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.4898e+09
+It: 4900, Loss: 1.263e+04, Loss_bcs: 2.309e-14, Loss_res: 1.263e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.2196e+09
+It: 5000, Loss: 1.263e+04, Loss_bcs: 6.040e-14, Loss_res: 1.263e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.8033e+09
+It: 5100, Loss: 1.263e+04, Loss_bcs: 1.776e-15, Loss_res: 1.263e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 9.2237e+08
+It: 5200, Loss: 1.263e+04, Loss_bcs: 1.776e-14, Loss_res: 1.263e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.6486e+09
+It: 5300, Loss: 1.262e+04, Loss_bcs: 2.309e-14, Loss_res: 1.262e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 2.4335e+09
+It: 5400, Loss: 1.262e+04, Loss_bcs: 3.197e-14, Loss_res: 1.262e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 7.9927e+08
+It: 5500, Loss: 1.262e+04, Loss_bcs: 6.573e-14, Loss_res: 1.262e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.0600e+09
+It: 5600, Loss: 1.262e+04, Loss_bcs: 3.020e-14, Loss_res: 1.262e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.2376e+09
+It: 5700, Loss: 1.261e+04, Loss_bcs: 4.441e-14, Loss_res: 1.261e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.6456e+09
+It: 5800, Loss: 1.261e+04, Loss_bcs: 2.309e-14, Loss_res: 1.261e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.4181e+09
+It: 5900, Loss: 1.261e+04, Loss_bcs: 7.105e-14, Loss_res: 1.261e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 3.6410e+09
+It: 6000, Loss: 1.261e+04, Loss_bcs: 6.573e-14, Loss_res: 1.261e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 3.7781e+08
+It: 6100, Loss: 1.260e+04, Loss_bcs: 3.020e-14, Loss_res: 1.260e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.6846e+09
+It: 6200, Loss: 1.260e+04, Loss_bcs: 2.220e-13, Loss_res: 1.260e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.2177e+09
+It: 6300, Loss: 1.260e+04, Loss_bcs: 1.030e-13, Loss_res: 1.260e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 9.3386e+08
+It: 6400, Loss: 1.259e+04, Loss_bcs: 1.776e-14, Loss_res: 1.259e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.2644e+09
+It: 6500, Loss: 1.259e+04, Loss_bcs: 8.882e-14, Loss_res: 1.259e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 3.0613e+09
+It: 6600, Loss: 1.259e+04, Loss_bcs: 6.395e-14, Loss_res: 1.259e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 6.8287e+08
+It: 6700, Loss: 1.259e+04, Loss_bcs: 3.553e-14, Loss_res: 1.259e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.6455e+09
+It: 6800, Loss: 1.258e+04, Loss_bcs: 3.215e-13, Loss_res: 1.258e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 7.2568e+08
+It: 6900, Loss: 1.258e+04, Loss_bcs: 7.994e-14, Loss_res: 1.258e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.0049e+09
+It: 7000, Loss: 1.258e+04, Loss_bcs: 4.619e-14, Loss_res: 1.258e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.3651e+09
+It: 7100, Loss: 1.257e+04, Loss_bcs: 1.421e-14, Loss_res: 1.257e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 6.9882e+08
+It: 7200, Loss: 1.257e+04, Loss_bcs: 1.776e-14, Loss_res: 1.257e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 3.4668e+09
+It: 7300, Loss: 1.257e+04, Loss_bcs: 1.984e-12, Loss_res: 1.257e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 2.7481e+07
+It: 7400, Loss: 1.257e+04, Loss_bcs: 3.642e-13, Loss_res: 1.257e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 6.1321e+08
+It: 7500, Loss: 1.256e+04, Loss_bcs: 5.151e-14, Loss_res: 1.256e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.1367e+09
+It: 7600, Loss: 1.256e+04, Loss_bcs: 5.151e-14, Loss_res: 1.256e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 7.3853e+08
+It: 7700, Loss: 1.256e+04, Loss_bcs: 2.309e-14, Loss_res: 1.256e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.2344e+09
+It: 7800, Loss: 1.256e+04, Loss_bcs: 4.619e-14, Loss_res: 1.256e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 3.0564e+09
+It: 7900, Loss: 1.256e+04, Loss_bcs: 3.553e-13, Loss_res: 1.256e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 6.3683e+08
+It: 8000, Loss: 1.255e+04, Loss_bcs: 1.599e-14, Loss_res: 1.255e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.5725e+09
+It: 8100, Loss: 1.255e+04, Loss_bcs: 8.882e-15, Loss_res: 1.255e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.0362e+09
+It: 8200, Loss: 1.255e+04, Loss_bcs: 1.776e-15, Loss_res: 1.255e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.6406e+09
+It: 8300, Loss: 1.255e+04, Loss_bcs: 1.208e-13, Loss_res: 1.255e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 8.1740e+08
+It: 8400, Loss: 1.254e+04, Loss_bcs: 3.020e-14, Loss_res: 1.254e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.6402e+09
+It: 8500, Loss: 1.254e+04, Loss_bcs: 7.994e-14, Loss_res: 1.254e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 2.1674e+09
+It: 8600, Loss: 1.254e+04, Loss_bcs: 9.468e-13, Loss_res: 1.254e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 7.2437e+08
+It: 8700, Loss: 1.254e+04, Loss_bcs: 9.415e-14, Loss_res: 1.254e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 2.5418e+09
+It: 8800, Loss: 1.253e+04, Loss_bcs: 1.155e-13, Loss_res: 1.253e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 6.7751e+08
+It: 8900, Loss: 1.253e+04, Loss_bcs: 1.776e-15, Loss_res: 1.253e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 2.4829e+09
+It: 9000, Loss: 1.253e+04, Loss_bcs: 2.593e-13, Loss_res: 1.253e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 5.6810e+08
+It: 9100, Loss: 1.253e+04, Loss_bcs: 1.030e-13, Loss_res: 1.253e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 2.1187e+09
+It: 9200, Loss: 1.252e+04, Loss_bcs: 1.741e-13, Loss_res: 1.252e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 4.7129e+08
+It: 9300, Loss: 1.252e+04, Loss_bcs: 9.237e-14, Loss_res: 1.252e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 3.5142e+09
+It: 9400, Loss: 1.252e+04, Loss_bcs: 2.405e-12, Loss_res: 1.252e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.5771e+08
+It: 9500, Loss: 1.252e+04, Loss_bcs: 1.581e-13, Loss_res: 1.252e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.2597e+09
+It: 9600, Loss: 1.251e+04, Loss_bcs: 6.040e-14, Loss_res: 1.251e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.3694e+09
+It: 9700, Loss: 1.251e+04, Loss_bcs: 1.776e-15, Loss_res: 1.251e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 2.1643e+09
+It: 9800, Loss: 1.251e+04, Loss_bcs: 1.776e-13, Loss_res: 1.251e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 5.1602e+09
+It: 9900, Loss: 1.251e+04, Loss_bcs: 5.252e-11, Loss_res: 1.251e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.1630e+08
+It: 10000, Loss: 1.251e+04, Loss_bcs: 3.020e-14, Loss_res: 1.251e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.9613e+09
+It: 10100, Loss: 1.250e+04, Loss_bcs: 3.197e-14, Loss_res: 1.250e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 2.5109e+09
+It: 10200, Loss: 1.250e+04, Loss_bcs: 2.842e-14, Loss_res: 1.250e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 3.4557e+09
+It: 10300, Loss: 1.250e+04, Loss_bcs: 1.883e-13, Loss_res: 1.250e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.3809e+09
+It: 10400, Loss: 1.250e+04, Loss_bcs: 2.309e-14, Loss_res: 1.250e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.6762e+10
+It: 10500, Loss: 1.250e+04, Loss_bcs: 3.384e-11, Loss_res: 1.250e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 5.7043e+07
+It: 10600, Loss: 1.250e+04, Loss_bcs: 2.476e-12, Loss_res: 1.250e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 2.5536e+08
+It: 10700, Loss: 1.250e+04, Loss_bcs: 5.684e-14, Loss_res: 1.250e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.6500e+09
+It: 10800, Loss: 1.250e+04, Loss_bcs: 1.776e-15, Loss_res: 1.250e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 2.9853e+09
+It: 10900, Loss: 1.250e+04, Loss_bcs: 1.776e-15, Loss_res: 1.250e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 5.0677e+09
+It: 11000, Loss: 1.250e+04, Loss_bcs: 2.842e-14, Loss_res: 1.250e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 3.6217e+09
+It: 11100, Loss: 1.250e+04, Loss_bcs: 3.553e-15, Loss_res: 1.250e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 2.9850e+09
+It: 11200, Loss: 1.250e+04, Loss_bcs: 1.776e-14, Loss_res: 1.250e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 5.0671e+09
+It: 11300, Loss: 1.249e+04, Loss_bcs: 3.553e-14, Loss_res: 1.249e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.6756e+10
+It: 11400, Loss: 1.249e+04, Loss_bcs: 1.883e-13, Loss_res: 1.249e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 4.3084e+08
+It: 11500, Loss: 1.249e+04, Loss_bcs: 3.020e-14, Loss_res: 1.249e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.8347e+09
+It: 11600, Loss: 1.249e+04, Loss_bcs: 1.421e-14, Loss_res: 1.249e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 2.5092e+09
+It: 11700, Loss: 1.249e+04, Loss_bcs: 8.882e-15, Loss_res: 1.249e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 5.0661e+09
+It: 11800, Loss: 1.249e+04, Loss_bcs: 4.441e-14, Loss_res: 1.249e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.8345e+09
+It: 11900, Loss: 1.249e+04, Loss_bcs: 1.421e-14, Loss_res: 1.249e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 2.5499e+09
+It: 12000, Loss: 1.249e+04, Loss_bcs: 8.882e-15, Loss_res: 1.249e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 5.0654e+09
+It: 12100, Loss: 1.249e+04, Loss_bcs: 1.776e-15, Loss_res: 1.249e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.0523e+09
+It: 12200, Loss: 1.249e+04, Loss_bcs: 8.882e-15, Loss_res: 1.249e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.6752e+09
+It: 12300, Loss: 1.249e+04, Loss_bcs: 1.776e-14, Loss_res: 1.249e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 2.1145e+09
+It: 12400, Loss: 1.248e+04, Loss_bcs: 1.200e-31, Loss_res: 1.248e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 2.1144e+09
+It: 12500, Loss: 1.248e+04, Loss_bcs: 3.553e-14, Loss_res: 1.248e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 3.5352e+09
+It: 12600, Loss: 1.248e+04, Loss_bcs: 2.309e-14, Loss_res: 1.248e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 2.9830e+09
+It: 12700, Loss: 1.248e+04, Loss_bcs: 1.776e-15, Loss_res: 1.248e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 2.0287e+09
+It: 12800, Loss: 1.248e+04, Loss_bcs: 8.882e-15, Loss_res: 1.248e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.6352e+09
+It: 12900, Loss: 1.248e+04, Loss_bcs: 1.776e-14, Loss_res: 1.248e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 3.6186e+09
+It: 13000, Loss: 1.248e+04, Loss_bcs: 7.994e-14, Loss_res: 1.248e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.6350e+09
+It: 13100, Loss: 1.248e+04, Loss_bcs: 2.309e-14, Loss_res: 1.248e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 2.4762e+09
+It: 13200, Loss: 1.248e+04, Loss_bcs: 3.553e-15, Loss_res: 1.248e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 5.0623e+09
+It: 13300, Loss: 1.247e+04, Loss_bcs: 7.105e-15, Loss_res: 1.247e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.8331e+09
+It: 13400, Loss: 1.247e+04, Loss_bcs: 1.421e-14, Loss_res: 1.247e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.6366e+09
+It: 13500, Loss: 1.247e+04, Loss_bcs: 7.105e-15, Loss_res: 1.247e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 2.5068e+09
+It: 13600, Loss: 1.247e+04, Loss_bcs: 8.882e-14, Loss_res: 1.247e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.5663e+09
+It: 13700, Loss: 1.247e+04, Loss_bcs: 1.421e-14, Loss_res: 1.247e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 2.5066e+09
+It: 13800, Loss: 1.247e+04, Loss_bcs: 7.105e-15, Loss_res: 1.247e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.6363e+09
+It: 13900, Loss: 1.247e+04, Loss_bcs: 8.882e-15, Loss_res: 1.247e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 3.6167e+09
+It: 14000, Loss: 1.247e+04, Loss_bcs: 5.684e-14, Loss_res: 1.247e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.1543e+09
+It: 14100, Loss: 1.247e+04, Loss_bcs: 1.776e-15, Loss_res: 1.247e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 2.5060e+09
+It: 14200, Loss: 1.246e+04, Loss_bcs: 7.994e-14, Loss_res: 1.246e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.4378e+09
+It: 14300, Loss: 1.246e+04, Loss_bcs: 8.882e-15, Loss_res: 1.246e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 5.1488e+09
+It: 14400, Loss: 1.246e+04, Loss_bcs: 2.842e-14, Loss_res: 1.246e+04 ,Time: 0.02
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.3347e+09
+It: 14500, Loss: 1.246e+04, Loss_bcs: 1.200e-31, Loss_res: 1.246e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 2.9800e+09
+It: 14600, Loss: 1.246e+04, Loss_bcs: 1.279e-13, Loss_res: 1.246e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 5.8317e+09
+It: 14700, Loss: 1.246e+04, Loss_bcs: 2.622e-12, Loss_res: 1.246e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 2.0531e+08
+It: 14800, Loss: 1.246e+04, Loss_bcs: 3.020e-14, Loss_res: 1.246e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 2.0287e+09
+It: 14900, Loss: 1.245e+04, Loss_bcs: 1.723e-13, Loss_res: 1.245e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.6466e+09
+It: 15000, Loss: 1.245e+04, Loss_bcs: 1.776e-15, Loss_res: 1.245e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 2.9791e+09
+It: 15100, Loss: 1.245e+04, Loss_bcs: 3.020e-14, Loss_res: 1.245e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 2.4735e+09
+It: 15200, Loss: 1.245e+04, Loss_bcs: 5.684e-14, Loss_res: 1.245e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 9.5642e+08
+It: 15300, Loss: 1.245e+04, Loss_bcs: 8.882e-15, Loss_res: 1.245e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.4073e+09
+It: 15400, Loss: 1.245e+04, Loss_bcs: 8.882e-15, Loss_res: 1.245e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.1502e+09
+It: 15500, Loss: 1.245e+04, Loss_bcs: 6.040e-14, Loss_res: 1.245e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.2038e+09
+It: 15600, Loss: 1.244e+04, Loss_bcs: 1.155e-13, Loss_res: 1.244e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 5.0554e+09
+It: 15700, Loss: 1.244e+04, Loss_bcs: 1.011e-11, Loss_res: 1.244e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.1539e+08
+It: 15800, Loss: 1.244e+04, Loss_bcs: 8.704e-14, Loss_res: 1.244e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.0567e+09
+It: 15900, Loss: 1.244e+04, Loss_bcs: 5.151e-14, Loss_res: 1.244e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.6328e+09
+It: 16000, Loss: 1.244e+04, Loss_bcs: 6.040e-14, Loss_res: 1.244e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 2.1571e+09
+It: 16100, Loss: 1.244e+04, Loss_bcs: 4.441e-14, Loss_res: 1.244e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 9.2693e+08
+It: 16200, Loss: 1.244e+04, Loss_bcs: 1.776e-15, Loss_res: 1.244e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 3.4451e+09
+It: 16300, Loss: 1.244e+04, Loss_bcs: 3.197e-14, Loss_res: 1.244e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.4718e+09
+It: 16400, Loss: 1.243e+04, Loss_bcs: 8.704e-14, Loss_res: 1.243e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.6339e+09
+It: 16500, Loss: 1.243e+04, Loss_bcs: 2.309e-14, Loss_res: 1.243e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.4064e+09
+It: 16600, Loss: 1.243e+04, Loss_bcs: 4.619e-14, Loss_res: 1.243e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.4757e+09
+It: 16700, Loss: 1.243e+04, Loss_bcs: 1.776e-15, Loss_res: 1.243e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.1999e+09
+It: 16800, Loss: 1.243e+04, Loss_bcs: 1.776e-15, Loss_res: 1.243e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 2.5778e+09
+It: 16900, Loss: 1.243e+04, Loss_bcs: 4.441e-14, Loss_res: 1.243e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 5.7517e+08
+It: 17000, Loss: 1.243e+04, Loss_bcs: 3.553e-15, Loss_res: 1.243e+04 ,Time: 0.01
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 3.6104e+09
+It: 17100, Loss: 1.243e+04, Loss_bcs: 4.619e-13, Loss_res: 1.243e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.6066e+09
+It: 17200, Loss: 1.242e+04, Loss_bcs: 4.441e-14, Loss_res: 1.242e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 6.6543e+08
+It: 17300, Loss: 1.242e+04, Loss_bcs: 7.105e-15, Loss_res: 1.242e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.2027e+09
+It: 17400, Loss: 1.242e+04, Loss_bcs: 1.084e-13, Loss_res: 1.242e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.3519e+09
+It: 17500, Loss: 1.242e+04, Loss_bcs: 2.309e-14, Loss_res: 1.242e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.2542e+09
+It: 17600, Loss: 1.242e+04, Loss_bcs: 8.704e-14, Loss_res: 1.242e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 5.6267e+08
+It: 17700, Loss: 1.242e+04, Loss_bcs: 2.842e-14, Loss_res: 1.242e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 7.9376e+08
+It: 17800, Loss: 1.242e+04, Loss_bcs: 1.421e-14, Loss_res: 1.242e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 2.0229e+09
+It: 17900, Loss: 1.241e+04, Loss_bcs: 4.619e-14, Loss_res: 1.241e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 2.3580e+09
+It: 18000, Loss: 1.241e+04, Loss_bcs: 3.020e-14, Loss_res: 1.241e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 7.3436e+08
+It: 18100, Loss: 1.241e+04, Loss_bcs: 1.030e-13, Loss_res: 1.241e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 2.1544e+09
+It: 18200, Loss: 1.241e+04, Loss_bcs: 5.578e-13, Loss_res: 1.241e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.8817e+09
+It: 18300, Loss: 1.241e+04, Loss_bcs: 1.510e-13, Loss_res: 1.241e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.1987e+09
+It: 18400, Loss: 1.241e+04, Loss_bcs: 2.309e-14, Loss_res: 1.241e+04 ,Time: 0.01
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 2.3571e+09
+It: 18500, Loss: 1.240e+04, Loss_bcs: 3.073e-13, Loss_res: 1.240e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 8.1209e+08
+It: 18600, Loss: 1.240e+04, Loss_bcs: 1.599e-14, Loss_res: 1.240e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.6191e+09
+It: 18700, Loss: 1.240e+04, Loss_bcs: 3.020e-14, Loss_res: 1.240e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 7.3112e+08
+It: 18800, Loss: 1.240e+04, Loss_bcs: 2.309e-14, Loss_res: 1.240e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 2.9722e+09
+It: 18900, Loss: 1.240e+04, Loss_bcs: 8.905e-12, Loss_res: 1.240e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 8.8826e+07
+It: 19000, Loss: 1.240e+04, Loss_bcs: 1.776e-13, Loss_res: 1.240e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 5.9025e+08
+It: 19100, Loss: 1.239e+04, Loss_bcs: 4.441e-14, Loss_res: 1.239e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.3308e+09
+It: 19200, Loss: 1.239e+04, Loss_bcs: 3.446e-13, Loss_res: 1.239e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 5.4057e+08
+It: 19300, Loss: 1.239e+04, Loss_bcs: 6.040e-14, Loss_res: 1.239e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.3658e+09
+It: 19400, Loss: 1.239e+04, Loss_bcs: 2.718e-13, Loss_res: 1.239e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 8.5612e+08
+It: 19500, Loss: 1.239e+04, Loss_bcs: 7.994e-14, Loss_res: 1.239e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.2971e+09
+It: 19600, Loss: 1.238e+04, Loss_bcs: 3.553e-14, Loss_res: 1.238e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 4.8504e+08
+It: 19700, Loss: 1.238e+04, Loss_bcs: 1.155e-13, Loss_res: 1.238e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.1272e+09
+It: 19800, Loss: 1.238e+04, Loss_bcs: 2.274e-13, Loss_res: 1.238e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 5.8832e+08
+It: 19900, Loss: 1.238e+04, Loss_bcs: 2.309e-14, Loss_res: 1.238e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 5.1301e+09
+It: 20000, Loss: 1.238e+04, Loss_bcs: 1.111e-11, Loss_res: 1.238e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 8.6631e+08
+It: 20100, Loss: 1.238e+04, Loss_bcs: 1.421e-14, Loss_res: 1.238e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.8790e+09
+It: 20200, Loss: 1.238e+04, Loss_bcs: 7.105e-15, Loss_res: 1.238e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 3.6025e+09
+It: 20300, Loss: 1.238e+04, Loss_bcs: 2.842e-14, Loss_res: 1.238e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 9.1486e+08
+It: 20400, Loss: 1.238e+04, Loss_bcs: 3.553e-15, Loss_res: 1.238e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 3.4359e+09
+It: 20500, Loss: 1.238e+04, Loss_bcs: 3.553e-15, Loss_res: 1.238e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 5.0402e+09
+It: 20600, Loss: 1.237e+04, Loss_bcs: 7.105e-15, Loss_res: 1.237e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 5.1291e+09
+It: 20700, Loss: 1.237e+04, Loss_bcs: 3.020e-14, Loss_res: 1.237e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.8251e+09
+It: 20800, Loss: 1.237e+04, Loss_bcs: 7.105e-15, Loss_res: 1.237e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 2.4651e+09
+It: 20900, Loss: 1.237e+04, Loss_bcs: 4.619e-14, Loss_res: 1.237e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 8.4972e+08
+It: 21000, Loss: 1.237e+04, Loss_bcs: 8.882e-15, Loss_res: 1.237e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 3.4353e+09
+It: 21100, Loss: 1.237e+04, Loss_bcs: 4.441e-14, Loss_res: 1.237e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 7.9013e+08
+It: 21200, Loss: 1.237e+04, Loss_bcs: 1.776e-15, Loss_res: 1.237e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 3.4905e+09
+It: 21300, Loss: 1.237e+04, Loss_bcs: 3.553e-15, Loss_res: 1.237e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 7.1862e+08
+It: 21400, Loss: 1.237e+04, Loss_bcs: 7.105e-14, Loss_res: 1.237e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.4025e+09
+It: 21500, Loss: 1.237e+04, Loss_bcs: 1.421e-14, Loss_res: 1.237e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.3605e+09
+It: 21600, Loss: 1.237e+04, Loss_bcs: 6.573e-14, Loss_res: 1.237e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 2.1036e+09
+It: 21700, Loss: 1.237e+04, Loss_bcs: 3.553e-15, Loss_res: 1.237e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 5.8084e+09
+It: 21800, Loss: 1.237e+04, Loss_bcs: 6.573e-14, Loss_res: 1.237e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 3.4345e+09
+It: 21900, Loss: 1.237e+04, Loss_bcs: 2.309e-14, Loss_res: 1.237e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 2.1501e+09
+It: 22000, Loss: 1.236e+04, Loss_bcs: 3.020e-14, Loss_res: 1.236e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.2234e+09
+It: 22100, Loss: 1.236e+04, Loss_bcs: 1.421e-14, Loss_res: 1.236e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.1263e+09
+It: 22200, Loss: 1.236e+04, Loss_bcs: 1.776e-15, Loss_res: 1.236e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 3.5167e+09
+It: 22300, Loss: 1.236e+04, Loss_bcs: 4.619e-14, Loss_res: 1.236e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.0606e+09
+It: 22400, Loss: 1.236e+04, Loss_bcs: 8.882e-15, Loss_res: 1.236e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 5.1262e+09
+It: 22500, Loss: 1.236e+04, Loss_bcs: 1.776e-14, Loss_res: 1.236e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.6658e+10
+It: 22600, Loss: 1.236e+04, Loss_bcs: 8.237e-12, Loss_res: 1.236e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 4.6925e+08
+It: 22700, Loss: 1.236e+04, Loss_bcs: 8.882e-15, Loss_res: 1.236e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 3.5162e+09
+It: 22800, Loss: 1.236e+04, Loss_bcs: 1.421e-14, Loss_res: 1.236e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.6285e+09
+It: 22900, Loss: 1.236e+04, Loss_bcs: 1.776e-15, Loss_res: 1.236e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 3.0289e+09
+It: 23000, Loss: 1.236e+04, Loss_bcs: 7.105e-15, Loss_res: 1.236e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 2.4041e+09
+It: 23100, Loss: 1.236e+04, Loss_bcs: 3.553e-15, Loss_res: 1.236e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 5.0366e+09
+It: 23200, Loss: 1.236e+04, Loss_bcs: 7.994e-14, Loss_res: 1.236e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 2.4945e+09
+It: 23300, Loss: 1.236e+04, Loss_bcs: 3.020e-14, Loss_res: 1.236e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 2.4944e+09
+It: 23400, Loss: 1.236e+04, Loss_bcs: 1.599e-14, Loss_res: 1.236e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.8774e+09
+It: 23500, Loss: 1.236e+04, Loss_bcs: 1.200e-31, Loss_res: 1.236e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.6655e+10
+It: 23600, Loss: 1.236e+04, Loss_bcs: 2.842e-14, Loss_res: 1.236e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 2.9667e+09
+It: 23700, Loss: 1.236e+04, Loss_bcs: 7.105e-15, Loss_res: 1.236e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 2.4633e+09
+It: 23800, Loss: 1.236e+04, Loss_bcs: 1.776e-15, Loss_res: 1.236e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 3.4883e+09
+It: 23900, Loss: 1.236e+04, Loss_bcs: 7.105e-15, Loss_res: 1.236e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 5.0360e+09
+It: 24000, Loss: 1.236e+04, Loss_bcs: 6.395e-14, Loss_res: 1.236e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.8237e+09
+It: 24100, Loss: 1.236e+04, Loss_bcs: 1.421e-14, Loss_res: 1.236e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 5.0359e+09
+It: 24200, Loss: 1.235e+04, Loss_bcs: 3.553e-15, Loss_res: 1.235e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.2653e+09
+It: 24300, Loss: 1.235e+04, Loss_bcs: 7.105e-15, Loss_res: 1.235e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 5.0357e+09
+It: 24400, Loss: 1.235e+04, Loss_bcs: 2.842e-14, Loss_res: 1.235e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.1693e+09
+It: 24500, Loss: 1.235e+04, Loss_bcs: 7.105e-14, Loss_res: 1.235e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.9480e+09
+It: 24600, Loss: 1.235e+04, Loss_bcs: 3.553e-14, Loss_res: 1.235e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 3.4879e+09
+It: 24700, Loss: 1.235e+04, Loss_bcs: 1.776e-14, Loss_res: 1.235e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.6156e+09
+It: 24800, Loss: 1.235e+04, Loss_bcs: 7.105e-15, Loss_res: 1.235e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 2.3516e+09
+It: 24900, Loss: 1.235e+04, Loss_bcs: 7.283e-14, Loss_res: 1.235e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.5015e+09
+It: 25000, Loss: 1.235e+04, Loss_bcs: 1.599e-14, Loss_res: 1.235e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 3.5986e+09
+It: 25100, Loss: 1.235e+04, Loss_bcs: 8.882e-15, Loss_res: 1.235e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.5255e+09
+It: 25200, Loss: 1.235e+04, Loss_bcs: 3.553e-14, Loss_res: 1.235e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 3.0278e+09
+It: 25300, Loss: 1.235e+04, Loss_bcs: 1.776e-14, Loss_res: 1.235e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 2.1020e+09
+It: 25400, Loss: 1.235e+04, Loss_bcs: 7.105e-15, Loss_res: 1.235e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 3.4874e+09
+It: 25500, Loss: 1.235e+04, Loss_bcs: 7.105e-15, Loss_res: 1.235e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.9132e+09
+It: 25600, Loss: 1.235e+04, Loss_bcs: 4.441e-14, Loss_res: 1.235e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.9132e+09
+It: 25700, Loss: 1.235e+04, Loss_bcs: 1.776e-15, Loss_res: 1.235e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 3.0275e+09
+It: 25800, Loss: 1.235e+04, Loss_bcs: 3.553e-14, Loss_res: 1.235e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 3.4871e+09
+It: 25900, Loss: 1.235e+04, Loss_bcs: 3.553e-14, Loss_res: 1.235e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.6390e+09
+It: 26000, Loss: 1.235e+04, Loss_bcs: 7.105e-15, Loss_res: 1.235e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 3.4870e+09
+It: 26100, Loss: 1.235e+04, Loss_bcs: 1.776e-15, Loss_res: 1.235e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 2.0168e+09
+It: 26200, Loss: 1.235e+04, Loss_bcs: 7.994e-14, Loss_res: 1.235e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.8427e+09
+It: 26300, Loss: 1.235e+04, Loss_bcs: 3.020e-14, Loss_res: 1.235e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 5.0339e+09
+It: 26400, Loss: 1.235e+04, Loss_bcs: 2.842e-14, Loss_res: 1.235e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 5.8491e+08
+It: 26500, Loss: 1.235e+04, Loss_bcs: 1.776e-14, Loss_res: 1.235e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 2.9651e+09
+It: 26600, Loss: 1.234e+04, Loss_bcs: 1.421e-14, Loss_res: 1.234e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 2.4026e+09
+It: 26700, Loss: 1.234e+04, Loss_bcs: 8.882e-15, Loss_res: 1.234e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.6009e+09
+It: 26800, Loss: 1.234e+04, Loss_bcs: 3.553e-14, Loss_res: 1.234e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 2.9649e+09
+It: 26900, Loss: 1.234e+04, Loss_bcs: 5.151e-14, Loss_res: 1.234e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 3.4310e+09
+It: 27000, Loss: 1.234e+04, Loss_bcs: 3.020e-14, Loss_res: 1.234e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 6.4934e+08
+It: 27100, Loss: 1.234e+04, Loss_bcs: 7.105e-15, Loss_res: 1.234e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 2.1012e+09
+It: 27200, Loss: 1.234e+04, Loss_bcs: 1.279e-13, Loss_res: 1.234e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.9125e+09
+It: 27300, Loss: 1.234e+04, Loss_bcs: 6.040e-14, Loss_res: 1.234e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 3.4860e+09
+It: 27400, Loss: 1.234e+04, Loss_bcs: 1.421e-13, Loss_res: 1.234e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 9.3649e+08
+It: 27500, Loss: 1.234e+04, Loss_bcs: 1.776e-14, Loss_res: 1.234e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.9638e+09
+It: 27600, Loss: 1.234e+04, Loss_bcs: 1.208e-13, Loss_res: 1.234e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.3709e+09
+It: 27700, Loss: 1.234e+04, Loss_bcs: 1.200e-31, Loss_res: 1.234e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.6644e+09
+It: 27800, Loss: 1.234e+04, Loss_bcs: 2.220e-13, Loss_res: 1.234e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 9.7931e+08
+It: 27900, Loss: 1.234e+04, Loss_bcs: 1.421e-14, Loss_res: 1.234e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.3708e+09
+It: 28000, Loss: 1.234e+04, Loss_bcs: 4.441e-14, Loss_res: 1.234e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 9.1326e+08
+It: 28100, Loss: 1.234e+04, Loss_bcs: 4.441e-14, Loss_res: 1.234e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 2.1007e+09
+It: 28200, Loss: 1.234e+04, Loss_bcs: 2.309e-14, Loss_res: 1.234e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.1211e+09
+It: 28300, Loss: 1.233e+04, Loss_bcs: 1.084e-13, Loss_res: 1.233e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.6641e+09
+It: 28400, Loss: 1.233e+04, Loss_bcs: 1.776e-15, Loss_res: 1.233e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 3.0255e+09
+It: 28500, Loss: 1.233e+04, Loss_bcs: 2.842e-14, Loss_res: 1.233e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 4.0975e+08
+It: 28600, Loss: 1.233e+04, Loss_bcs: 8.882e-15, Loss_res: 1.233e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.1979e+09
+It: 28700, Loss: 1.233e+04, Loss_bcs: 1.200e-31, Loss_res: 1.233e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 9.2123e+08
+It: 28800, Loss: 1.233e+04, Loss_bcs: 1.510e-13, Loss_res: 1.233e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.1444e+09
+It: 28900, Loss: 1.233e+04, Loss_bcs: 1.599e-14, Loss_res: 1.233e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.1475e+09
+It: 29000, Loss: 1.233e+04, Loss_bcs: 4.441e-14, Loss_res: 1.233e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.4049e+09
+It: 29100, Loss: 1.233e+04, Loss_bcs: 1.776e-13, Loss_res: 1.233e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.0424e+09
+It: 29200, Loss: 1.233e+04, Loss_bcs: 1.421e-14, Loss_res: 1.233e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.3499e+09
+It: 29300, Loss: 1.233e+04, Loss_bcs: 2.576e-13, Loss_res: 1.233e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 2.9629e+09
+It: 29400, Loss: 1.233e+04, Loss_bcs: 6.146e-13, Loss_res: 1.233e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 2.4008e+09
+It: 29500, Loss: 1.233e+04, Loss_bcs: 2.061e-13, Loss_res: 1.233e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.2214e+09
+It: 29600, Loss: 1.233e+04, Loss_bcs: 1.599e-14, Loss_res: 1.233e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 3.4284e+09
+It: 29700, Loss: 1.232e+04, Loss_bcs: 1.847e-13, Loss_res: 1.232e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 7.1722e+08
+It: 29800, Loss: 1.232e+04, Loss_bcs: 1.776e-14, Loss_res: 1.232e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.6241e+09
+It: 29900, Loss: 1.232e+04, Loss_bcs: 1.776e-14, Loss_res: 1.232e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.5236e+09
+It: 30000, Loss: 1.232e+04, Loss_bcs: 1.315e-13, Loss_res: 1.232e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 9.5405e+08
+It: 30100, Loss: 1.232e+04, Loss_bcs: 8.882e-15, Loss_res: 1.232e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 2.5174e+09
+It: 30200, Loss: 1.232e+04, Loss_bcs: 5.684e-14, Loss_res: 1.232e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 3.9264e+08
+It: 30300, Loss: 1.232e+04, Loss_bcs: 8.882e-15, Loss_res: 1.232e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.0357e+09
+It: 30400, Loss: 1.232e+04, Loss_bcs: 7.994e-14, Loss_res: 1.232e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 2.3482e+09
+It: 30500, Loss: 1.232e+04, Loss_bcs: 1.510e-13, Loss_res: 1.232e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.0735e+09
+It: 30600, Loss: 1.232e+04, Loss_bcs: 3.020e-14, Loss_res: 1.232e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.2238e+09
+It: 30700, Loss: 1.232e+04, Loss_bcs: 7.994e-14, Loss_res: 1.232e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.4286e+09
+It: 30800, Loss: 1.232e+04, Loss_bcs: 3.553e-14, Loss_res: 1.232e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 4.7851e+08
+It: 30900, Loss: 1.231e+04, Loss_bcs: 7.105e-15, Loss_res: 1.231e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.9103e+09
+It: 31000, Loss: 1.231e+04, Loss_bcs: 1.723e-13, Loss_res: 1.231e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 4.4244e+08
+It: 31100, Loss: 1.231e+04, Loss_bcs: 1.279e-13, Loss_res: 1.231e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 3.5091e+09
+It: 31200, Loss: 1.231e+04, Loss_bcs: 7.994e-14, Loss_res: 1.231e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 3.1333e+08
+It: 31300, Loss: 1.231e+04, Loss_bcs: 3.020e-14, Loss_res: 1.231e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.8400e+09
+It: 31400, Loss: 1.231e+04, Loss_bcs: 8.882e-15, Loss_res: 1.231e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 5.7946e+09
+It: 31500, Loss: 1.231e+04, Loss_bcs: 1.599e-14, Loss_res: 1.231e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 2.0161e+09
+It: 31600, Loss: 1.231e+04, Loss_bcs: 1.581e-13, Loss_res: 1.231e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 3.0226e+09
+It: 31700, Loss: 1.231e+04, Loss_bcs: 4.441e-14, Loss_res: 1.231e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 9.0911e+08
+It: 31800, Loss: 1.231e+04, Loss_bcs: 4.441e-14, Loss_res: 1.231e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.1465e+09
+It: 31900, Loss: 1.231e+04, Loss_bcs: 4.441e-14, Loss_res: 1.231e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 3.4261e+09
+It: 32000, Loss: 1.231e+04, Loss_bcs: 2.576e-13, Loss_res: 1.231e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.0771e+09
+It: 32100, Loss: 1.231e+04, Loss_bcs: 8.882e-15, Loss_res: 1.231e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 9.5055e+08
+It: 32200, Loss: 1.231e+04, Loss_bcs: 3.197e-14, Loss_res: 1.231e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.8734e+09
+It: 32300, Loss: 1.231e+04, Loss_bcs: 1.794e-13, Loss_res: 1.231e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 7.8794e+08
+It: 32400, Loss: 1.230e+04, Loss_bcs: 1.421e-14, Loss_res: 1.230e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.4676e+09
+It: 32500, Loss: 1.230e+04, Loss_bcs: 1.439e-13, Loss_res: 1.230e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.3257e+09
+It: 32600, Loss: 1.230e+04, Loss_bcs: 1.208e-13, Loss_res: 1.230e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.5982e+09
+It: 32700, Loss: 1.230e+04, Loss_bcs: 4.441e-14, Loss_res: 1.230e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.1431e+09
+It: 32800, Loss: 1.230e+04, Loss_bcs: 3.553e-15, Loss_res: 1.230e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 2.1444e+09
+It: 32900, Loss: 1.230e+04, Loss_bcs: 2.913e-13, Loss_res: 1.230e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.0714e+09
+It: 33000, Loss: 1.230e+04, Loss_bcs: 1.030e-13, Loss_res: 1.230e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.5549e+09
+It: 33100, Loss: 1.230e+04, Loss_bcs: 3.197e-14, Loss_res: 1.230e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.4983e+09
+It: 33200, Loss: 1.230e+04, Loss_bcs: 2.309e-14, Loss_res: 1.230e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 2.5152e+09
+It: 33300, Loss: 1.230e+04, Loss_bcs: 2.220e-13, Loss_res: 1.230e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 3.6349e+08
+It: 33400, Loss: 1.230e+04, Loss_bcs: 1.200e-31, Loss_res: 1.230e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.0713e+09
+It: 33500, Loss: 1.230e+04, Loss_bcs: 8.704e-14, Loss_res: 1.230e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 2.0974e+09
+It: 33600, Loss: 1.230e+04, Loss_bcs: 1.776e-13, Loss_res: 1.230e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 9.5014e+08
+It: 33700, Loss: 1.230e+04, Loss_bcs: 1.084e-13, Loss_res: 1.230e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 3.5901e+09
+It: 33800, Loss: 1.230e+04, Loss_bcs: 3.553e-14, Loss_res: 1.230e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.9089e+09
+It: 33900, Loss: 1.229e+04, Loss_bcs: 1.208e-13, Loss_res: 1.229e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.1664e+09
+It: 34000, Loss: 1.229e+04, Loss_bcs: 7.105e-14, Loss_res: 1.229e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.4979e+09
+It: 34100, Loss: 1.229e+04, Loss_bcs: 9.237e-14, Loss_res: 1.229e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 9.6861e+08
+It: 34200, Loss: 1.229e+04, Loss_bcs: 3.553e-14, Loss_res: 1.229e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.4669e+09
+It: 34300, Loss: 1.229e+04, Loss_bcs: 5.684e-14, Loss_res: 1.229e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.4273e+09
+It: 34400, Loss: 1.229e+04, Loss_bcs: 3.162e-13, Loss_res: 1.229e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 5.1129e+08
+It: 34500, Loss: 1.229e+04, Loss_bcs: 7.105e-14, Loss_res: 1.229e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.2197e+09
+It: 34600, Loss: 1.229e+04, Loss_bcs: 1.084e-13, Loss_res: 1.229e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.2919e+09
+It: 34700, Loss: 1.229e+04, Loss_bcs: 4.441e-14, Loss_res: 1.229e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.0718e+09
+It: 34800, Loss: 1.229e+04, Loss_bcs: 6.573e-14, Loss_res: 1.229e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 2.9583e+09
+It: 34900, Loss: 1.229e+04, Loss_bcs: 9.415e-14, Loss_res: 1.229e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 4.7140e+08
+It: 35000, Loss: 1.229e+04, Loss_bcs: 2.309e-14, Loss_res: 1.229e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.7757e+09
+It: 35100, Loss: 1.229e+04, Loss_bcs: 6.573e-14, Loss_res: 1.229e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 3.5056e+09
+It: 35200, Loss: 1.229e+04, Loss_bcs: 5.915e-13, Loss_res: 1.229e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 2.9998e+08
+It: 35300, Loss: 1.229e+04, Loss_bcs: 6.573e-14, Loss_res: 1.229e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 8.7595e+08
+It: 35400, Loss: 1.229e+04, Loss_bcs: 1.776e-14, Loss_res: 1.229e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.0343e+09
+It: 35500, Loss: 1.229e+04, Loss_bcs: 2.309e-14, Loss_res: 1.229e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.4664e+09
+It: 35600, Loss: 1.228e+04, Loss_bcs: 2.220e-13, Loss_res: 1.228e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.2152e+09
+It: 35700, Loss: 1.228e+04, Loss_bcs: 1.776e-14, Loss_res: 1.228e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 8.1788e+08
+It: 35800, Loss: 1.228e+04, Loss_bcs: 9.415e-14, Loss_res: 1.228e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 2.1427e+09
+It: 35900, Loss: 1.228e+04, Loss_bcs: 1.208e-13, Loss_res: 1.228e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 2.3447e+09
+It: 36000, Loss: 1.228e+04, Loss_bcs: 3.695e-13, Loss_res: 1.228e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 2.4277e+08
+It: 36100, Loss: 1.228e+04, Loss_bcs: 1.208e-13, Loss_res: 1.228e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 8.2157e+08
+It: 36200, Loss: 1.228e+04, Loss_bcs: 3.553e-14, Loss_res: 1.228e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.7750e+09
+It: 36300, Loss: 1.228e+04, Loss_bcs: 3.197e-14, Loss_res: 1.228e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.2219e+09
+It: 36400, Loss: 1.228e+04, Loss_bcs: 1.723e-13, Loss_res: 1.228e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.9418e+09
+It: 36500, Loss: 1.228e+04, Loss_bcs: 6.999e-13, Loss_res: 1.228e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 4.2011e+08
+It: 36600, Loss: 1.228e+04, Loss_bcs: 3.553e-15, Loss_res: 1.228e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 3.4767e+09
+It: 36700, Loss: 1.228e+04, Loss_bcs: 8.882e-15, Loss_res: 1.228e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 7.7049e+08
+It: 36800, Loss: 1.228e+04, Loss_bcs: 4.619e-14, Loss_res: 1.228e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 5.1077e+09
+It: 36900, Loss: 1.228e+04, Loss_bcs: 1.776e-14, Loss_res: 1.228e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 9.5221e+08
+It: 37000, Loss: 1.228e+04, Loss_bcs: 2.309e-14, Loss_res: 1.228e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 2.3956e+09
+It: 37100, Loss: 1.227e+04, Loss_bcs: 1.030e-13, Loss_res: 1.227e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.5206e+09
+It: 37200, Loss: 1.227e+04, Loss_bcs: 8.882e-15, Loss_res: 1.227e+04 ,Time: 0.01
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 2.3439e+09
+It: 37300, Loss: 1.227e+04, Loss_bcs: 6.040e-14, Loss_res: 1.227e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.6227e+09
+It: 37400, Loss: 1.227e+04, Loss_bcs: 3.553e-15, Loss_res: 1.227e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 2.9563e+09
+It: 37500, Loss: 1.227e+04, Loss_bcs: 7.105e-15, Loss_res: 1.227e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.8707e+09
+It: 37600, Loss: 1.227e+04, Loss_bcs: 4.441e-14, Loss_res: 1.227e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 6.9024e+08
+It: 37700, Loss: 1.227e+04, Loss_bcs: 3.197e-14, Loss_res: 1.227e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 3.4761e+09
+It: 37800, Loss: 1.227e+04, Loss_bcs: 4.619e-14, Loss_res: 1.227e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 6.4350e+08
+It: 37900, Loss: 1.227e+04, Loss_bcs: 1.421e-14, Loss_res: 1.227e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 5.0182e+09
+It: 38000, Loss: 1.227e+04, Loss_bcs: 2.220e-13, Loss_res: 1.227e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 8.3024e+08
+It: 38100, Loss: 1.227e+04, Loss_bcs: 1.776e-15, Loss_res: 1.227e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 5.1066e+09
+It: 38200, Loss: 1.227e+04, Loss_bcs: 3.642e-13, Loss_res: 1.227e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 5.5282e+08
+It: 38300, Loss: 1.227e+04, Loss_bcs: 3.553e-14, Loss_res: 1.227e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 2.1415e+09
+It: 38400, Loss: 1.227e+04, Loss_bcs: 2.309e-14, Loss_res: 1.227e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 3.5861e+09
+It: 38500, Loss: 1.227e+04, Loss_bcs: 4.619e-14, Loss_res: 1.227e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.1414e+09
+It: 38600, Loss: 1.227e+04, Loss_bcs: 8.882e-14, Loss_res: 1.227e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.3965e+09
+It: 38700, Loss: 1.227e+04, Loss_bcs: 3.020e-14, Loss_res: 1.227e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 2.1413e+09
+It: 38800, Loss: 1.227e+04, Loss_bcs: 1.137e-13, Loss_res: 1.227e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 9.9073e+08
+It: 38900, Loss: 1.227e+04, Loss_bcs: 1.030e-13, Loss_res: 1.227e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.5527e+09
+It: 39000, Loss: 1.227e+04, Loss_bcs: 1.599e-14, Loss_res: 1.227e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.8365e+09
+It: 39100, Loss: 1.227e+04, Loss_bcs: 1.155e-13, Loss_res: 1.227e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 7.7130e+08
+It: 39200, Loss: 1.227e+04, Loss_bcs: 1.421e-14, Loss_res: 1.227e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.6097e+09
+It: 39300, Loss: 1.226e+04, Loss_bcs: 6.040e-14, Loss_res: 1.226e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.2458e+09
+It: 39400, Loss: 1.226e+04, Loss_bcs: 2.309e-14, Loss_res: 1.226e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 5.1051e+09
+It: 39500, Loss: 1.226e+04, Loss_bcs: 1.030e-13, Loss_res: 1.226e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.3545e+09
+It: 39600, Loss: 1.226e+04, Loss_bcs: 3.020e-14, Loss_res: 1.226e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.3248e+09
+It: 39700, Loss: 1.226e+04, Loss_bcs: 2.842e-14, Loss_res: 1.226e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 1.9575e+09
+It: 39800, Loss: 1.226e+04, Loss_bcs: 3.553e-15, Loss_res: 1.226e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 2.1408e+09
+It: 39900, Loss: 1.226e+04, Loss_bcs: 8.882e-15, Loss_res: 1.226e+04 ,Time: 0.00
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 2.3428e+09
+Gradients information stored ...
+It: 40000, Loss: 1.226e+04, Loss_bcs: 4.441e-14, Loss_res: 1.226e+04 ,Time: 0.41
+update_res: nan
+update_bcs1: 0.000e+00
+adaptive_constant_bc: 2.9549e+09
+elapsed: 7.42e+01
+Relative L2 error_u: 1.22e+00
+Relative L2 error_r: 9.97e-01
+mean value of lambda_bc: 2.04e+09
+first value of lambda_bc: 5.74e+02
+Relative L2 error_u: 1.22e+00
+Relative L2 error_v: 9.97e-01
+Save uv NN parameters successfully in %s ...checkpoints/Dec-29-2023_17-47-04-957637_M1
+Final loss total loss: 1.226233e+04
+Final loss loss_res: 1.226233e+04
+Final loss loss_bcs: 4.440892e-14

@@ -1,0 +1,42 @@
+Gradients information stored ...
+It: 100| Loss: 7.576e-01|  loss_bc1: 5.577e-02|  loss_bc2: 3.629e-02| loss_ics_u: 2.784e-01|   Loss_res: 1.663e-02 , Time: 0.03
+Gradients information stored ...
+It: 200| Loss: 6.143e-01|  loss_bc1: 4.802e-02|  loss_bc2: 1.510e-02| loss_ics_u: 2.343e-01|   Loss_res: 1.943e-02 , Time: 0.03
+It: 300| Loss: 5.553e-01|  loss_bc1: 3.736e-02|  loss_bc2: 1.255e-02| loss_ics_u: 2.255e-01|   Loss_res: 4.532e-03 , Time: 0.03
+It: 400| Loss: 6.013e-01|  loss_bc1: 3.282e-02|  loss_bc2: 1.431e-02| loss_ics_u: 2.482e-01|   Loss_res: 1.061e-02 , Time: 0.04
+It: 500| Loss: 4.794e-01|  loss_bc1: 2.795e-02|  loss_bc2: 1.236e-02| loss_ics_u: 1.971e-01|   Loss_res: 4.620e-03 , Time: 0.03
+It: 600| Loss: 3.936e-01|  loss_bc1: 3.464e-02|  loss_bc2: 1.350e-02| loss_ics_u: 1.232e-01|   Loss_res: 5.094e-02 , Time: 0.04
+It: 700| Loss: 4.044e-01|  loss_bc1: 2.982e-02|  loss_bc2: 1.780e-02| loss_ics_u: 1.493e-01|   Loss_res: 1.051e-02 , Time: 0.03
+It: 800| Loss: 3.796e-01|  loss_bc1: 3.215e-02|  loss_bc2: 1.264e-02| loss_ics_u: 1.367e-01|   Loss_res: 1.658e-02 , Time: 0.03
+It: 900| Loss: 3.889e-01|  loss_bc1: 2.368e-02|  loss_bc2: 1.603e-02| loss_ics_u: 1.308e-01|   Loss_res: 4.797e-02 , Time: 0.03
+It: 1000| Loss: 3.350e-01|  loss_bc1: 2.054e-02|  loss_bc2: 7.806e-03| loss_ics_u: 1.224e-01|   Loss_res: 3.357e-02 , Time: 0.03
+lambda_balance loss_bc1: 3.1937e-01
+lambda_balance loss_bc2: 3.1276e-01
+lambda_balance loss_ics_u: 3.6786e-01
+updating  lamda for loss loss_bc1:   [21.79765587]
+updating  lamda for loss loss_bc2:   [29.6237896]
+updating  lamda for loss loss_ics_u:   [9.74257069]
+Gradients information stored ...
+It: 1100| Loss: 4.560e+00|  loss_bc1: 1.485e-02|  loss_bc2: 9.465e-03| loss_ics_u: 3.992e-01|   Loss_res: 6.740e-02 , Time: 0.04
+It: 1200| Loss: 3.462e+00|  loss_bc1: 2.312e-02|  loss_bc2: 8.747e-03| loss_ics_u: 2.717e-01|   Loss_res: 5.243e-02 , Time: 0.03
+It: 1300| Loss: 2.985e+00|  loss_bc1: 2.602e-02|  loss_bc2: 8.293e-03| loss_ics_u: 2.170e-01|   Loss_res: 5.823e-02 , Time: 0.03
+It: 1400| Loss: 2.209e+00|  loss_bc1: 2.137e-02|  loss_bc2: 5.082e-03| loss_ics_u: 1.588e-01|   Loss_res: 4.594e-02 , Time: 0.03
+It: 1500| Loss: 2.711e+00|  loss_bc1: 2.592e-02|  loss_bc2: 7.457e-03| loss_ics_u: 1.915e-01|   Loss_res: 5.895e-02 , Time: 0.03
+It: 1600| Loss: 2.192e+00|  loss_bc1: 2.563e-02|  loss_bc2: 8.108e-03| loss_ics_u: 1.356e-01|   Loss_res: 7.142e-02 , Time: 0.03
+It: 1700| Loss: 1.797e+00|  loss_bc1: 2.127e-02|  loss_bc2: 6.099e-03| loss_ics_u: 1.130e-01|   Loss_res: 5.233e-02 , Time: 0.03
+It: 1800| Loss: 2.244e+00|  loss_bc1: 1.607e-02|  loss_bc2: 5.065e-03| loss_ics_u: 1.708e-01|   Loss_res: 7.944e-02 , Time: 0.03
+It: 1900| Loss: 1.781e+00|  loss_bc1: 1.210e-02|  loss_bc2: 7.727e-03| loss_ics_u: 1.238e-01|   Loss_res: 8.231e-02 , Time: 0.03
+average adaptive_constant_bcs1_log : 2.1798e+01
+average adaptive_constant_bcs2_log : 2.9624e+01
+average adaptive_constant_ics_u_log : 9.7426e+00
+Save uv NN parameters successfully in %s ...checkpoints/Dec-19-2023_18-03-52-351089_M5
+Final loss loss_bc1: 1.663177e-02
+Final loss loss_bc2: 7.549546e-03
+Final loss loss_ics_u: 1.168372e-01
+
+
+Method: mini_batch
+
+average of time_list:1.9950e+02
+average of error_u_list:6.4484e-01
+average of error_r_list:4.6341e-01

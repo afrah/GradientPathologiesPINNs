@@ -1,0 +1,45 @@
+Gradients information stored ...
+lambda_balance loss_bc1: 1.3239e+00
+lambda_balance loss_bc2: 1.7716e-11
+lambda_balance loss_ics_u: 3.0640e-04
+updating  lamda for loss loss_ics_u:   1.0867e-02
+Gradients information stored ...
+lambda_balance loss_bc1: 1.4221e+00
+lambda_balance loss_bc2: 2.1662e-19
+lambda_balance loss_ics_u: 7.1316e-05
+updating  lamda for loss loss_ics_u:   2.1300e-01
+lambda_balance loss_bc1: 1.4455e+00
+lambda_balance loss_bc2: 6.7017e-21
+lambda_balance loss_ics_u: 7.4985e-05
+updating  lamda for loss loss_ics_u:   4.2852e-01
+lambda_balance loss_bc1: 1.4764e+00
+lambda_balance loss_bc2: 5.8583e-17
+lambda_balance loss_ics_u: 3.3940e-05
+updating  lamda for loss loss_ics_u:   1.3446e+00
+lambda_balance loss_bc1: 1.3755e+00
+lambda_balance loss_bc2: 5.5352e-09
+lambda_balance loss_ics_u: 3.4336e-04
+updating  lamda for loss loss_ics_u:   4.3136e+00
+lambda_balance loss_bc1: 1.3321e+00
+lambda_balance loss_bc2: 8.1449e-07
+lambda_balance loss_ics_u: 1.7052e-03
+updating  lamda for loss loss_ics_u:   6.5805e+00
+lambda_balance loss_bc1: 1.3560e+00
+lambda_balance loss_bc2: 5.5949e-06
+lambda_balance loss_ics_u: 7.7232e-04
+updating  lamda for loss loss_ics_u:   9.7635e+00
+lambda_balance loss_bc1: 1.3670e+00
+lambda_balance loss_bc2: 9.6905e-06
+lambda_balance loss_ics_u: 1.0995e-03
+updating  lamda for loss loss_ics_u:   7.8213e+00
+lambda_balance loss_bc1: 1.3499e+00
+lambda_balance loss_bc2: 4.0946e-05
+lambda_balance loss_ics_u: 1.6475e-03
+updating  lamda for loss loss_ics_u:   2.5421e+00
+average adaptive_constant_bcs1_log : 2.0000e+00
+average adaptive_constant_bcs2_log : 2.0000e+00
+average adaptive_constant_ics_log : 3.6687e+00
+Save uv NN parameters successfully in %s ...checkpoints/Dec-18-2023_21-23-23-145052_M5
+Final loss loss_bc1: 5.417612e-01
+Final loss loss_bc2: 8.320329e-02
+Final loss loss_ics_u: 3.370325e-02

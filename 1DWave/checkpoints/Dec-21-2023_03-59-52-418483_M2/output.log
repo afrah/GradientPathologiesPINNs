@@ -1,0 +1,13 @@
+adaptive_constant_ics_val: 2.540e+01
+adaptive_constant_bcs_val: 2.554e+01
+Gradients information stored ...
+Gradients information stored ...
+Save uv NN parameters successfully in %s ...checkpoints/Dec-21-2023_03-59-52-418483_M2
+Final loss total loss: 8.421762e-01
+Final loss loss_res: 7.974383e-02
+Final loss loss_bc1: 3.805627e-02
+Final loss loss_bc2: 1.322465e-02
+Final loss loss_ics_u: 1.634475e-01
+average lambda_bc : 2.5537e+01
+average lambda_ic : 2.5403e+01
+average lambda_res : 1.0

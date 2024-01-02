@@ -1,0 +1,25 @@
+It: 0, Loss: 1.107e+04, loss_bcs: 7.821e-01e, loss_ics: 7.163e-01, Loss_r: 1.107e+04, Time: 2.71
+min_grad: 1.326e-01
+update_res: nan
+update_ics_u_t: 0.000e+00
+update_bcs1: 0.000e+00
+adaptive_constant_res_val: 1.181e+00
+adaptive_constant_ics_val: 9.136e-01
+adaptive_constant_bcs1_val: 9.133e-01
+mean_grad_res/mean_grad_bcs: 2.117e+01
+mean_grad_res/mean_grad_ics: 2.059e+01
+mean_grad_bcs/mean_grad_ics: 9.727e-01
+Gradients information stored ...
+Gradients information stored ...
+It: 1000, Loss: 1.491e+02, loss_bcs: 1.974e+01e, loss_ics: 6.647e+01, Loss_r: 5.958e+01, Time: 0.01
+min_grad: 1.564e+00
+update_res: 0.000e+00
+update_ics_u_t: 0.000e+00
+update_bcs1: 0.000e+00
+adaptive_constant_res_val: 5.417e+00
+adaptive_constant_ics_val: 2.195e+00
+adaptive_constant_bcs1_val: 9.783e-01
+mean_grad_res/mean_grad_bcs: 2.784e+01
+mean_grad_res/mean_grad_ics: 3.171e+00
+mean_grad_bcs/mean_grad_ics: 1.139e-01
+Gradients information stored ...

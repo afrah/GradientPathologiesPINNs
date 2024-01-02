@@ -282,15 +282,13 @@ class Navier_Stokes2D:
                     # Compute the adaptive constant
                     adaptive_constant_bcs_val = self.sess.run(self.adaptive_constant_bcs, tf_dict)
 
-                    self.adaptive_constant_bcs_val = adaptive_constant_bcs_val * \
-                                            (1.0 - self.beta) + self.beta * self.adaptive_constant_bcs_val
+                    self.adaptive_constant_bcs_val = adaptive_constant_bcs_val * (1.0 - self.beta) + self.beta * self.adaptive_constant_bcs_val
 
                 self.adpative_constant_bcs_log.append(self.adaptive_constant_bcs_val)
                 self.loss_bcs_log.append(loss_u_value)
                 self.loss_res_log.append(loss_r_value)
 
-                print('It: %d, Loss: %.3e, Loss_u: %.3e, Loss_r: %.3e, Time: %.2f' %
-                      (it, loss_value, loss_u_value, loss_r_value, elapsed))
+                print('It: %d, Loss: %.3e, Loss_u: %.3e, Loss_r: %.3e, Time: %.2f' %  (it, loss_value, loss_u_value, loss_r_value, elapsed))
 
                 print("constant_bcs_val: {:.3f}".format(self.adaptive_constant_bcs_val))
                 start_time = timeit.default_timer()

@@ -1,0 +1,3210 @@
+Gradients information stored ...
+It: 100, Loss: 3.565e+03, loss_bc1: 1.085e+01e, loss_bc2: 3.578e+01, Loss_r: 3.519e+03, Time: 0.01
+min_grad: 7.984e+00
+update_res: 5.346e-01
+update_ics_u_t: 6.244e-01
+update_bcs1: 1.306e+00
+adaptive_constant_res_val: 6.000e+01
+adaptive_constant_ics_val: 9.522e-01
+adaptive_constant_bcs1_val: 1.306e+00
+Gradients information stored ...
+It: 200, Loss: 7.878e+04, loss_bc1: 1.501e+01e, loss_bc2: 2.090e+01, Loss_r: 1.312e+03, Time: 0.01
+min_grad: 8.657e+00
+update_res: 7.169e-01
+update_ics_u_t: 7.464e-01
+update_bcs1: 9.637e-01
+adaptive_constant_res_val: 2.671e+04
+adaptive_constant_ics_val: 7.464e-01
+adaptive_constant_bcs1_val: 1.237e+00
+It: 300, Loss: 1.530e+07, loss_bc1: 1.900e+01e, loss_bc2: 4.311e+01, Loss_r: 5.728e+02, Time: 0.01
+min_grad: 1.238e+01
+update_res: 8.283e-01
+update_ics_u_t: 1.079e+00
+update_bcs1: 9.139e-01
+adaptive_constant_res_val: 3.633e+06
+adaptive_constant_ics_val: 2.851e+00
+adaptive_constant_bcs1_val: 9.139e-01
+It: 400, Loss: 2.689e+08, loss_bc1: 2.239e+01e, loss_bc2: 1.362e+02, Loss_r: 7.402e+01, Time: 0.01
+min_grad: 9.673e+00
+update_res: 7.043e-01
+update_ics_u_t: 6.846e-01
+update_bcs1: 8.279e-01
+adaptive_constant_res_val: 3.428e+08
+adaptive_constant_ics_val: 6.971e+01
+adaptive_constant_bcs1_val: 8.279e-01
+It: 500, Loss: 2.051e+10, loss_bc1: 2.116e+01e, loss_bc2: 1.580e+02, Loss_r: 5.982e+01, Time: 0.01
+min_grad: 8.163e+00
+update_res: 6.409e-01
+update_ics_u_t: 7.244e-01
+update_bcs1: 6.317e-01
+adaptive_constant_res_val: 2.337e+10
+adaptive_constant_ics_val: 2.585e+03
+adaptive_constant_bcs1_val: 6.317e-01
+It: 600, Loss: 1.392e+12, loss_bc1: 1.997e+01e, loss_bc2: 1.396e+02, Loss_r: 5.957e+01, Time: 0.01
+min_grad: 5.992e+00
+update_res: 9.001e-01
+update_ics_u_t: 9.825e-01
+update_bcs1: 7.318e-01
+adaptive_constant_res_val: 2.220e+12
+adaptive_constant_ics_val: 1.850e+05
+adaptive_constant_bcs1_val: 7.318e-01
+It: 700, Loss: 1.187e+14, loss_bc1: 2.039e+01e, loss_bc2: 1.154e+02, Loss_r: 5.346e+01, Time: 0.01
+min_grad: 7.139e+00
+update_res: 5.425e-01
+update_ics_u_t: 5.171e-01
+update_bcs1: 5.392e-01
+adaptive_constant_res_val: 1.945e+14
+adaptive_constant_ics_val: 5.302e+06
+adaptive_constant_bcs1_val: 5.392e-01
+It: 800, Loss: 5.985e+15, loss_bc1: 1.869e+01e, loss_bc2: 1.253e+02, Loss_r: 3.077e+01, Time: 0.01
+min_grad: 4.962e+00
+update_res: 9.815e-01
+update_ics_u_t: 8.620e-01
+update_bcs1: 7.419e-01
+adaptive_constant_res_val: 2.320e+16
+adaptive_constant_ics_val: 3.802e+08
+adaptive_constant_bcs1_val: 7.419e-01
+It: 900, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 1000, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+Gradients information stored ...
+It: 1100, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 1200, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 1300, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 1400, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 1500, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 1600, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 1700, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 1800, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 1900, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 2000, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 2100, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 2200, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 2300, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 2400, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 2500, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 2600, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 2700, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.02
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 2800, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 2900, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 3000, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 3100, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 3200, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 3300, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 3400, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 3500, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 3600, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 3700, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 3800, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 3900, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 4000, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 4100, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 4200, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 4300, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 4400, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 4500, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 4600, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 4700, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 4800, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 4900, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 5000, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 5100, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 5200, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 5300, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 5400, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 5500, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 5600, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 5700, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 5800, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 5900, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 6000, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 6100, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 6200, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 6300, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 6400, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 6500, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 6600, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 6700, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 6800, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 6900, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 7000, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 7100, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 7200, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 7300, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 7400, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 7500, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 7600, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 7700, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 7800, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 7900, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 8000, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 8100, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 8200, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 8300, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 8400, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 8500, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 8600, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 8700, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.03
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 8800, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 8900, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 9000, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 9100, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 9200, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 9300, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 9400, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 9500, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 9600, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 9700, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 9800, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 9900, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 10000, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 10100, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 10200, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 10300, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 10400, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 10500, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 10600, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 10700, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 10800, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 10900, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 11000, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 11100, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 11200, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 11300, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 11400, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 11500, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 11600, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 11700, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 11800, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 11900, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 12000, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 12100, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 12200, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 12300, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 12400, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 12500, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 12600, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 12700, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 12800, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 12900, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 13000, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 13100, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 13200, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 13300, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 13400, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 13500, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 13600, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 13700, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 13800, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 13900, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 14000, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 14100, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 14200, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 14300, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 14400, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 14500, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 14600, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 14700, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 14800, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 14900, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 15000, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 15100, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 15200, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 15300, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 15400, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 15500, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 15600, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 15700, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 15800, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 15900, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 16000, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 16100, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 16200, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 16300, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 16400, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 16500, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 16600, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 16700, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 16800, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 16900, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 17000, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 17100, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 17200, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 17300, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 17400, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 17500, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 17600, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 17700, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 17800, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 17900, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 18000, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 18100, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 18200, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 18300, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 18400, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 18500, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 18600, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 18700, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 18800, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 18900, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 19000, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 19100, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 19200, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 19300, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 19400, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 19500, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 19600, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 19700, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 19800, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 19900, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 20000, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 20100, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 20200, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 20300, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 20400, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 20500, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 20600, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 20700, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 20800, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 20900, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 21000, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.02
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 21100, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 21200, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 21300, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 21400, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 21500, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 21600, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 21700, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 21800, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 21900, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 22000, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 22100, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 22200, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 22300, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 22400, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 22500, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 22600, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 22700, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 22800, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 22900, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 23000, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 23100, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 23200, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 23300, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 23400, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 23500, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 23600, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 23700, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 23800, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 23900, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 24000, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 24100, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 24200, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 24300, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 24400, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 24500, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 24600, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 24700, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 24800, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 24900, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 25000, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 25100, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 25200, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 25300, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 25400, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 25500, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 25600, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 25700, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 25800, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 25900, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 26000, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 26100, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 26200, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 26300, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 26400, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 26500, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 26600, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 26700, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 26800, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 26900, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 27000, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 27100, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 27200, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 27300, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 27400, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 27500, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 27600, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 27700, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 27800, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 27900, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 28000, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 28100, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 28200, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 28300, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 28400, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 28500, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 28600, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 28700, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 28800, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 28900, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 29000, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 29100, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 29200, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 29300, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 29400, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 29500, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 29600, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 29700, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 29800, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 29900, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 30000, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 30100, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 30200, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 30300, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 30400, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 30500, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 30600, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 30700, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 30800, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 30900, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 31000, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 31100, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 31200, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 31300, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 31400, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 31500, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 31600, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 31700, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 31800, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 31900, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 32000, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 32100, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 32200, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 32300, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 32400, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 32500, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 32600, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 32700, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 32800, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 32900, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 33000, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 33100, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 33200, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 33300, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 33400, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 33500, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 33600, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 33700, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 33800, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 33900, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 34000, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 34100, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 34200, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 34300, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 34400, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 34500, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 34600, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 34700, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 34800, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 34900, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 35000, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 35100, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 35200, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 35300, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 35400, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 35500, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 35600, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 35700, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 35800, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 35900, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 36000, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 36100, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 36200, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 36300, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 36400, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 36500, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 36600, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 36700, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 36800, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 36900, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 37000, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 37100, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 37200, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 37300, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 37400, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 37500, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 37600, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 37700, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 37800, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 37900, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 38000, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 38100, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 38200, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 38300, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 38400, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 38500, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 38600, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 38700, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 38800, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 38900, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 39000, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 39100, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 39200, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 39300, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 39400, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 39500, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 39600, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 39700, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 39800, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+It: 39900, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.01
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+Gradients information stored ...
+It: 40000, Loss: nan, loss_bc1: nane, loss_bc2: nan, Loss_r: nan, Time: 0.61
+min_grad: -inf
+update_res: nan
+update_ics_u_t: nan
+update_bcs1: nan
+adaptive_constant_res_val: nan
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs1_val: nan
+average lambda_bcnanaverage lambda_bcnanaverage lambda_res1.0
+Save uv NN parameters successfully in %s ...checkpoints/Dec-22-2023_20-15-33-559078_M2
+Final loss total loss: nan
+Final loss loss_res: nan
+Final loss loss_bcs: nan
+Final loss loss_ics: nan

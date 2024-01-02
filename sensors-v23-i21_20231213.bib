@@ -1,0 +1,18 @@
+
+@Article{s23218665,
+AUTHOR = {Vemuri, Sai Karthikeya and Denzler, Joachim},
+TITLE = {Gradient Statistics-Based Multi-Objective Optimization in Physics-Informed Neural Networks},
+JOURNAL = {Sensors},
+VOLUME = {23},
+YEAR = {2023},
+NUMBER = {21},
+ARTICLE-NUMBER = {8665},
+URL = {https://www.mdpi.com/1424-8220/23/21/8665},
+PubMedID = {37960365},
+ISSN = {1424-8220},
+ABSTRACT = {Modeling and simulation of complex non-linear systems are essential in physics, engineering, and signal processing. Neural networks are widely regarded for such tasks due to their ability to learn complex representations from data. Training deep neural networks traditionally requires large amounts of data, which may not always be readily available for such systems. Contrarily, there is a large amount of domain knowledge in the form of mathematical models for the physics/behavior of such systems. A new class of neural networks called Physics-Informed Neural Networks (PINNs) has gained much attention recently as a paradigm for combining physics into neural networks. They have become a powerful tool for solving forward and inverse problems involving differential equations. A general framework of a PINN consists of a multi-layer perceptron that learns the solution of the partial differential equation (PDE) along with its boundary/initial conditions by minimizing a multi-objective loss function. This is formed by the sum of individual loss terms that penalize the output at different collocation points based on the differential equation and initial and boundary conditions. However, multiple loss terms arising from PDE residual and boundary conditions in PINNs pose a challenge in optimizing the overall loss function. This often leads to training failures and inaccurate results. We propose advanced gradient statistics-based weighting schemes for PINNs to address this challenge. These schemes utilize backpropagated gradient statistics of individual loss terms to appropriately scale and assign weights to each term, ensuring balanced training and meaningful solutions. In addition to the existing gradient statistics-based weighting schemes, we introduce kurtosis&ndash;standard deviation-based and combined mean and standard deviation-based schemes for approximating solutions of PDEs using PINNs. We provide a qualitative and quantitative comparison of these weighting schemes on 2D Poisson&rsquo;s and Klein&ndash;Gordon&rsquo;s equations, highlighting their effectiveness in improving PINN performance.},
+DOI = {10.3390/s23218665}
+}
+
+
+

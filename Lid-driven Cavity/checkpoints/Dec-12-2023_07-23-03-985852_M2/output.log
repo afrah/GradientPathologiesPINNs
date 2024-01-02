@@ -1,0 +1,105 @@
+It: 0, Loss: 1.364e+00, Loss_u: 5.523e-01, Loss_r: 8.115e-01, Time: 15.69
+constant_bcs_val: 7.110
+Gradients information stored ...
+It: 10, Loss: 2.005e+00, Loss_u: 1.839e+00, Loss_r: 1.660e-01, Time: 0.06
+constant_bcs_val: 6.872
+It: 20, Loss: 1.260e+00, Loss_u: 1.105e+00, Loss_r: 1.547e-01, Time: 0.06
+constant_bcs_val: 6.535
+It: 30, Loss: 8.819e-01, Loss_u: 7.845e-01, Loss_r: 9.746e-02, Time: 0.06
+constant_bcs_val: 6.512
+It: 40, Loss: 7.612e-01, Loss_u: 7.089e-01, Loss_r: 5.235e-02, Time: 0.07
+constant_bcs_val: 6.638
+It: 50, Loss: 6.856e-01, Loss_u: 6.452e-01, Loss_r: 4.039e-02, Time: 0.06
+constant_bcs_val: 6.561
+It: 60, Loss: 6.609e-01, Loss_u: 6.154e-01, Loss_r: 4.552e-02, Time: 0.05
+constant_bcs_val: 6.608
+It: 70, Loss: 6.362e-01, Loss_u: 6.007e-01, Loss_r: 3.551e-02, Time: 0.05
+constant_bcs_val: 6.244
+It: 80, Loss: 5.545e-01, Loss_u: 5.219e-01, Loss_r: 3.259e-02, Time: 0.05
+constant_bcs_val: 6.082
+It: 90, Loss: 4.943e-01, Loss_u: 4.660e-01, Loss_r: 2.837e-02, Time: 0.05
+constant_bcs_val: 5.857
+It: 100, Loss: 4.914e-01, Loss_u: 4.600e-01, Loss_r: 3.133e-02, Time: 0.05
+constant_bcs_val: 6.196
+Gradients information stored ...
+It: 110, Loss: 4.986e-01, Loss_u: 4.755e-01, Loss_r: 2.309e-02, Time: 0.05
+constant_bcs_val: 6.214
+It: 120, Loss: 4.956e-01, Loss_u: 4.637e-01, Loss_r: 3.193e-02, Time: 0.05
+constant_bcs_val: 7.177
+It: 130, Loss: 5.446e-01, Loss_u: 5.188e-01, Loss_r: 2.581e-02, Time: 0.05
+constant_bcs_val: 6.974
+It: 140, Loss: 5.031e-01, Loss_u: 4.789e-01, Loss_r: 2.425e-02, Time: 0.05
+constant_bcs_val: 6.985
+It: 150, Loss: 3.757e-01, Loss_u: 3.483e-01, Loss_r: 2.743e-02, Time: 0.06
+constant_bcs_val: 7.278
+It: 160, Loss: 4.255e-01, Loss_u: 3.976e-01, Loss_r: 2.792e-02, Time: 0.05
+constant_bcs_val: 6.910
+It: 170, Loss: 3.875e-01, Loss_u: 3.631e-01, Loss_r: 2.436e-02, Time: 0.04
+constant_bcs_val: 7.064
+It: 180, Loss: 4.058e-01, Loss_u: 3.798e-01, Loss_r: 2.595e-02, Time: 0.06
+constant_bcs_val: 6.562
+It: 190, Loss: 3.794e-01, Loss_u: 3.499e-01, Loss_r: 2.943e-02, Time: 0.05
+constant_bcs_val: 6.246
+It: 200, Loss: 3.459e-01, Loss_u: 3.294e-01, Loss_r: 1.647e-02, Time: 0.06
+constant_bcs_val: 5.930
+It: 210, Loss: 3.554e-01, Loss_u: 3.367e-01, Loss_r: 1.867e-02, Time: 0.06
+constant_bcs_val: 5.822
+It: 220, Loss: 3.576e-01, Loss_u: 3.359e-01, Loss_r: 2.172e-02, Time: 0.05
+constant_bcs_val: 5.923
+It: 230, Loss: 3.456e-01, Loss_u: 3.316e-01, Loss_r: 1.402e-02, Time: 0.06
+constant_bcs_val: 5.790
+It: 240, Loss: 2.619e-01, Loss_u: 2.489e-01, Loss_r: 1.303e-02, Time: 0.05
+constant_bcs_val: 5.890
+It: 250, Loss: 3.277e-01, Loss_u: 3.072e-01, Loss_r: 2.042e-02, Time: 0.05
+constant_bcs_val: 5.787
+It: 260, Loss: 2.971e-01, Loss_u: 2.774e-01, Loss_r: 1.969e-02, Time: 0.05
+constant_bcs_val: 5.458
+It: 270, Loss: 2.151e-01, Loss_u: 2.022e-01, Loss_r: 1.287e-02, Time: 0.07
+constant_bcs_val: 5.210
+It: 280, Loss: 2.124e-01, Loss_u: 2.015e-01, Loss_r: 1.090e-02, Time: 0.05
+constant_bcs_val: 4.977
+It: 290, Loss: 1.999e-01, Loss_u: 1.884e-01, Loss_r: 1.149e-02, Time: 0.05
+constant_bcs_val: 4.857
+It: 300, Loss: 1.581e-01, Loss_u: 1.461e-01, Loss_r: 1.196e-02, Time: 0.05
+constant_bcs_val: 4.679
+It: 310, Loss: 1.812e-01, Loss_u: 1.710e-01, Loss_r: 1.019e-02, Time: 0.06
+constant_bcs_val: 4.843
+It: 320, Loss: 1.516e-01, Loss_u: 1.401e-01, Loss_r: 1.154e-02, Time: 0.06
+constant_bcs_val: 4.731
+It: 330, Loss: 1.485e-01, Loss_u: 1.358e-01, Loss_r: 1.264e-02, Time: 0.05
+constant_bcs_val: 4.723
+It: 340, Loss: 1.970e-01, Loss_u: 1.855e-01, Loss_r: 1.157e-02, Time: 0.05
+constant_bcs_val: 4.436
+It: 350, Loss: 1.372e-01, Loss_u: 1.264e-01, Loss_r: 1.087e-02, Time: 0.05
+constant_bcs_val: 4.754
+It: 360, Loss: 1.902e-01, Loss_u: 1.823e-01, Loss_r: 7.865e-03, Time: 0.07
+constant_bcs_val: 4.362
+It: 370, Loss: 1.602e-01, Loss_u: 1.508e-01, Loss_r: 9.461e-03, Time: 0.06
+constant_bcs_val: 4.062
+It: 380, Loss: 1.373e-01, Loss_u: 1.277e-01, Loss_r: 9.588e-03, Time: 0.05
+constant_bcs_val: 3.757
+It: 390, Loss: 1.307e-01, Loss_u: 1.227e-01, Loss_r: 8.017e-03, Time: 0.05
+constant_bcs_val: 3.661
+It: 400, Loss: 1.631e-01, Loss_u: 1.571e-01, Loss_r: 5.955e-03, Time: 0.05
+constant_bcs_val: 3.365
+l2 error: 4.03e-01
+l2 error: 9.98e-01
+average lambda_bc5.7474e+00
+average lambda_res1.0
+Save uv NN parameters successfully in %s ...checkpoints/Dec-12-2023_07-23-03-985852_M2
+Final loss total loss: 1.613839e-01
+Final loss loss_res: 7.214541e-03
+Final loss loss_bcs1: 8.917229e-03
+Final loss loss_bcs2: 1.283027e-02
+Final loss loss_bcs3: 2.014289e-02
+Final loss loss_bcs4: 2.206966e-04
+elapsed: 1.73e+02
+Relative L2 error_u: 4.03e-01
+Relative L2 error_v: 9.98e-01
+
+
+Method: mini_batch
+
+average of time_list:1.7308e+02
+average of error_u_list:4.0333e-01
+average of error_v_list:9.9798e-01

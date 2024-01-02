@@ -1,0 +1,690 @@
+It: 0, Loss: 2.063e+01, Loss_res: 6.470e-01,  Loss_bcs: 5.309e+00, Loss_ut_ics: 1.467e+01,, Time: 1.64
+lambda_u: 1.859e+00
+lambda_ut: 1.326e+00
+Gradients information stored ...
+It: 100, Loss: 8.290e-01, Loss_res: 4.605e-04,  Loss_bcs: 4.126e-01, Loss_ut_ics: 4.623e-02,, Time: 11.20
+lambda_u: 1.906e+00
+lambda_ut: 1.361e+00
+Gradients information stored ...
+It: 200, Loss: 6.889e-01, Loss_res: 1.430e-02,  Loss_bcs: 3.363e-01, Loss_ut_ics: 2.460e-02,, Time: 6.80
+lambda_u: 6.720e+00
+lambda_ut: 2.240e+00
+It: 300, Loss: 2.119e+00, Loss_res: 1.612e-01,  Loss_bcs: 2.770e-01, Loss_ut_ics: 4.315e-02,, Time: 3.19
+lambda_u: 1.374e+01
+lambda_ut: 6.057e+00
+It: 400, Loss: 3.223e+00, Loss_res: 1.569e-01,  Loss_bcs: 2.131e-01, Loss_ut_ics: 2.285e-02,, Time: 3.16
+lambda_u: 3.225e+01
+lambda_ut: 2.076e+01
+It: 500, Loss: 7.177e+00, Loss_res: 2.139e-01,  Loss_bcs: 2.088e-01, Loss_ut_ics: 1.103e-02,, Time: 3.43
+lambda_u: 3.488e+01
+lambda_ut: 3.726e+01
+It: 600, Loss: 7.990e+00, Loss_res: 2.626e-01,  Loss_bcs: 2.141e-01, Loss_ut_ics: 6.934e-03,, Time: 3.54
+lambda_u: 4.955e+01
+lambda_ut: 4.354e+01
+It: 700, Loss: 9.671e+00, Loss_res: 6.989e-01,  Loss_bcs: 1.518e-01, Loss_ut_ics: 3.331e-02,, Time: 3.55
+lambda_u: 1.341e+02
+lambda_ut: 5.242e+01
+It: 800, Loss: 2.206e+01, Loss_res: 7.135e-01,  Loss_bcs: 1.532e-01, Loss_ut_ics: 1.541e-02,, Time: 3.48
+lambda_u: 1.808e+02
+lambda_ut: 6.421e+01
+It: 900, Loss: 2.955e+01, Loss_res: 1.254e+00,  Loss_bcs: 1.541e-01, Loss_ut_ics: 6.598e-03,, Time: 3.55
+lambda_u: 2.864e+02
+lambda_ut: 2.893e+02
+It: 1000, Loss: 6.238e+01, Loss_res: 6.996e+00,  Loss_bcs: 1.907e-01, Loss_ut_ics: 2.650e-03,, Time: 3.51
+lambda_u: 6.272e+02
+lambda_ut: 5.586e+02
+Gradients information stored ...
+It: 1100, Loss: 8.817e+01, Loss_res: 7.133e+00,  Loss_bcs: 1.247e-01, Loss_ut_ics: 5.058e-03,, Time: 6.68
+lambda_u: 1.163e+03
+lambda_ut: 6.610e+02
+It: 1200, Loss: 1.613e+02, Loss_res: 1.157e+01,  Loss_bcs: 1.245e-01, Loss_ut_ics: 7.428e-03,, Time: 3.60
+lambda_u: 1.689e+03
+lambda_ut: 7.685e+02
+It: 1300, Loss: 2.310e+02, Loss_res: 1.248e+01,  Loss_bcs: 1.268e-01, Loss_ut_ics: 5.679e-03,, Time: 3.55
+lambda_u: 2.368e+03
+lambda_ut: 1.330e+03
+It: 1400, Loss: 2.680e+02, Loss_res: 2.355e+01,  Loss_bcs: 1.019e-01, Loss_ut_ics: 2.337e-03,, Time: 3.51
+lambda_u: 5.428e+03
+lambda_ut: 3.942e+03
+It: 1500, Loss: 6.156e+02, Loss_res: 4.878e+01,  Loss_bcs: 9.891e-02, Loss_ut_ics: 7.593e-03,, Time: 3.78
+lambda_u: 8.353e+03
+lambda_ut: 5.843e+03
+It: 1600, Loss: 8.734e+02, Loss_res: 9.244e+01,  Loss_bcs: 8.526e-02, Loss_ut_ics: 1.177e-02,, Time: 3.69
+lambda_u: 1.868e+04
+lambda_ut: 6.930e+03
+It: 1700, Loss: 1.627e+03, Loss_res: 2.205e+02,  Loss_bcs: 7.268e-02, Loss_ut_ics: 7.007e-03,, Time: 3.59
+lambda_u: 2.808e+04
+lambda_ut: 2.617e+04
+It: 1800, Loss: 2.936e+03, Loss_res: 5.211e+02,  Loss_bcs: 8.454e-02, Loss_ut_ics: 1.572e-03,, Time: 3.62
+lambda_u: 6.157e+04
+lambda_ut: 1.017e+05
+It: 1900, Loss: 4.759e+03, Loss_res: 9.760e+02,  Loss_bcs: 5.672e-02, Loss_ut_ics: 2.854e-03,, Time: 3.52
+lambda_u: 9.771e+04
+lambda_ut: 1.647e+05
+It: 2000, Loss: 5.521e+03, Loss_res: 1.460e+03,  Loss_bcs: 3.163e-02, Loss_ut_ics: 5.890e-03,, Time: 3.53
+lambda_u: 1.196e+05
+lambda_ut: 1.945e+05
+It: 2100, Loss: 7.765e+03, Loss_res: 2.529e+03,  Loss_bcs: 3.059e-02, Loss_ut_ics: 8.112e-03,, Time: 3.57
+lambda_u: 1.554e+05
+lambda_ut: 2.684e+05
+It: 2200, Loss: 5.295e+03, Loss_res: 2.131e+03,  Loss_bcs: 1.515e-02, Loss_ut_ics: 3.019e-03,, Time: 3.92
+lambda_u: 2.498e+05
+lambda_ut: 3.139e+05
+It: 2300, Loss: 8.673e+03, Loss_res: 3.637e+03,  Loss_bcs: 9.161e-03, Loss_ut_ics: 8.750e-03,, Time: 3.67
+lambda_u: 4.446e+05
+lambda_ut: 3.279e+05
+It: 2400, Loss: 9.082e+03, Loss_res: 5.794e+03,  Loss_bcs: 6.295e-03, Loss_ut_ics: 1.492e-03,, Time: 3.60
+lambda_u: 5.296e+05
+lambda_ut: 5.725e+05
+It: 2500, Loss: 5.499e+03, Loss_res: 3.739e+03,  Loss_bcs: 2.878e-03, Loss_ut_ics: 4.126e-04,, Time: 3.54
+lambda_u: 7.705e+05
+lambda_ut: 9.646e+05
+It: 2600, Loss: 1.360e+04, Loss_res: 9.925e+03,  Loss_bcs: 4.069e-03, Loss_ut_ics: 5.583e-04,, Time: 3.74
+lambda_u: 1.527e+06
+lambda_ut: 1.941e+06
+It: 2700, Loss: 1.570e+04, Loss_res: 6.497e+03,  Loss_bcs: 2.857e-03, Loss_ut_ics: 2.493e-03,, Time: 3.64
+lambda_u: 1.523e+06
+lambda_ut: 1.935e+06
+It: 2800, Loss: 1.029e+04, Loss_res: 8.129e+03,  Loss_bcs: 9.189e-04, Loss_ut_ics: 3.954e-04,, Time: 3.79
+lambda_u: 2.113e+06
+lambda_ut: 2.481e+06
+It: 2900, Loss: 9.503e+03, Loss_res: 7.290e+03,  Loss_bcs: 6.478e-04, Loss_ut_ics: 3.402e-04,, Time: 3.73
+lambda_u: 3.048e+06
+lambda_ut: 3.183e+06
+It: 3000, Loss: 1.380e+04, Loss_res: 7.066e+03,  Loss_bcs: 5.259e-04, Loss_ut_ics: 1.612e-03,, Time: 3.34
+lambda_u: 3.229e+06
+lambda_ut: 3.095e+06
+It: 3100, Loss: 8.270e+03, Loss_res: 6.233e+03,  Loss_bcs: 2.546e-04, Loss_ut_ics: 3.927e-04,, Time: 3.32
+lambda_u: 4.017e+06
+lambda_ut: 3.347e+06
+It: 3200, Loss: 7.851e+03, Loss_res: 5.360e+03,  Loss_bcs: 2.075e-04, Loss_ut_ics: 4.954e-04,, Time: 3.34
+lambda_u: 4.267e+06
+lambda_ut: 3.384e+06
+It: 3300, Loss: 1.242e+04, Loss_res: 5.634e+03,  Loss_bcs: 9.039e-04, Loss_ut_ics: 8.651e-04,, Time: 3.39
+lambda_u: 4.079e+06
+lambda_ut: 3.359e+06
+It: 3400, Loss: 9.893e+03, Loss_res: 6.805e+03,  Loss_bcs: 2.484e-04, Loss_ut_ics: 6.177e-04,, Time: 3.37
+lambda_u: 4.347e+06
+lambda_ut: 3.509e+06
+It: 3500, Loss: 8.133e+03, Loss_res: 7.583e+03,  Loss_bcs: 9.196e-05, Loss_ut_ics: 4.289e-05,, Time: 3.29
+lambda_u: 6.442e+06
+lambda_ut: 5.745e+06
+It: 3600, Loss: 1.407e+04, Loss_res: 1.199e+04,  Loss_bcs: 2.999e-04, Loss_ut_ics: 2.499e-05,, Time: 3.40
+lambda_u: 6.250e+06
+lambda_ut: 1.414e+07
+It: 3700, Loss: 1.159e+04, Loss_res: 1.051e+04,  Loss_bcs: 1.317e-04, Loss_ut_ics: 1.797e-05,, Time: 3.85
+lambda_u: 8.825e+06
+lambda_ut: 2.036e+07
+It: 3800, Loss: 1.369e+04, Loss_res: 1.154e+04,  Loss_bcs: 9.444e-05, Loss_ut_ics: 6.502e-05,, Time: 4.14
+lambda_u: 9.808e+06
+lambda_ut: 2.040e+07
+It: 3900, Loss: 1.178e+04, Loss_res: 1.053e+04,  Loss_bcs: 6.945e-05, Loss_ut_ics: 2.765e-05,, Time: 4.10
+lambda_u: 1.178e+07
+lambda_ut: 2.393e+07
+It: 4000, Loss: 2.815e+04, Loss_res: 1.095e+04,  Loss_bcs: 5.100e-04, Loss_ut_ics: 4.677e-04,, Time: 3.56
+lambda_u: 1.096e+07
+lambda_ut: 2.271e+07
+It: 4100, Loss: 1.097e+04, Loss_res: 1.035e+04,  Loss_bcs: 4.604e-05, Loss_ut_ics: 5.117e-06,, Time: 3.80
+lambda_u: 1.406e+07
+lambda_ut: 3.212e+07
+It: 4200, Loss: 1.669e+05, Loss_res: 8.603e+03,  Loss_bcs: 2.496e-03, Loss_ut_ics: 3.835e-03,, Time: 4.39
+lambda_u: 1.297e+07
+lambda_ut: 2.944e+07
+It: 4300, Loss: 1.097e+04, Loss_res: 9.728e+03,  Loss_bcs: 6.227e-05, Loss_ut_ics: 1.475e-05,, Time: 4.40
+lambda_u: 1.307e+07
+lambda_ut: 3.415e+07
+It: 4400, Loss: 1.040e+04, Loss_res: 9.742e+03,  Loss_bcs: 3.760e-05, Loss_ut_ics: 4.893e-06,, Time: 4.32
+lambda_u: 1.819e+07
+lambda_ut: 4.531e+07
+It: 4500, Loss: 1.341e+04, Loss_res: 9.972e+03,  Loss_bcs: 7.999e-05, Loss_ut_ics: 4.366e-05,, Time: 6.98
+lambda_u: 1.788e+07
+lambda_ut: 4.447e+07
+It: 4600, Loss: 2.305e+04, Loss_res: 1.212e+04,  Loss_bcs: 3.390e-05, Loss_ut_ics: 2.322e-04,, Time: 7.70
+lambda_u: 2.195e+07
+lambda_ut: 4.213e+07
+It: 4700, Loss: 1.442e+04, Loss_res: 1.360e+04,  Loss_bcs: 2.862e-05, Loss_ut_ics: 4.671e-06,, Time: 7.69
+lambda_u: 2.987e+07
+lambda_ut: 6.251e+07
+It: 4800, Loss: 2.150e+04, Loss_res: 1.655e+04,  Loss_bcs: 9.448e-05, Loss_ut_ics: 3.407e-05,, Time: 7.77
+lambda_u: 2.940e+07
+lambda_ut: 6.676e+07
+It: 4900, Loss: 1.296e+04, Loss_res: 1.154e+04,  Loss_bcs: 4.279e-05, Loss_ut_ics: 2.473e-06,, Time: 7.34
+lambda_u: 2.882e+07
+lambda_ut: 9.382e+07
+It: 5000, Loss: 1.521e+04, Loss_res: 1.370e+04,  Loss_bcs: 3.645e-05, Loss_ut_ics: 4.911e-06,, Time: 7.44
+lambda_u: 2.899e+07
+lambda_ut: 9.916e+07
+It: 5100, Loss: 1.173e+04, Loss_res: 1.053e+04,  Loss_bcs: 1.634e-05, Loss_ut_ics: 7.363e-06,, Time: 7.75
+lambda_u: 3.165e+07
+lambda_ut: 1.010e+08
+It: 5200, Loss: 3.845e+04, Loss_res: 1.523e+04,  Loss_bcs: 3.719e-04, Loss_ut_ics: 1.133e-04,, Time: 7.52
+lambda_u: 2.961e+07
+lambda_ut: 9.543e+07
+It: 5300, Loss: 1.491e+04, Loss_res: 1.383e+04,  Loss_bcs: 3.153e-05, Loss_ut_ics: 1.589e-06,, Time: 7.34
+lambda_u: 2.987e+07
+lambda_ut: 1.473e+08
+It: 5400, Loss: 1.769e+04, Loss_res: 1.332e+04,  Loss_bcs: 4.023e-05, Loss_ut_ics: 2.150e-05,, Time: 7.55
+lambda_u: 2.968e+07
+lambda_ut: 1.433e+08
+It: 5500, Loss: 1.268e+04, Loss_res: 1.176e+04,  Loss_bcs: 1.678e-05, Loss_ut_ics: 2.944e-06,, Time: 7.71
+lambda_u: 3.386e+07
+lambda_ut: 1.542e+08
+It: 5600, Loss: 1.892e+04, Loss_res: 1.105e+04,  Loss_bcs: 1.001e-04, Loss_ut_ics: 2.901e-05,, Time: 7.66
+lambda_u: 3.167e+07
+lambda_ut: 1.488e+08
+It: 5700, Loss: 1.500e+04, Loss_res: 1.168e+04,  Loss_bcs: 1.778e-05, Loss_ut_ics: 1.851e-05,, Time: 7.50
+lambda_u: 3.255e+07
+lambda_ut: 1.427e+08
+It: 5800, Loss: 1.204e+04, Loss_res: 1.104e+04,  Loss_bcs: 8.031e-06, Loss_ut_ics: 5.203e-06,, Time: 7.77
+lambda_u: 5.452e+07
+lambda_ut: 1.428e+08
+It: 5900, Loss: 1.435e+04, Loss_res: 1.203e+04,  Loss_bcs: 2.411e-05, Loss_ut_ics: 7.042e-06,, Time: 7.53
+lambda_u: 5.316e+07
+lambda_ut: 1.432e+08
+It: 6000, Loss: 1.091e+04, Loss_res: 1.022e+04,  Loss_bcs: 8.525e-06, Loss_ut_ics: 1.661e-06,, Time: 7.51
+lambda_u: 5.445e+07
+lambda_ut: 1.521e+08
+It: 6100, Loss: 1.068e+04, Loss_res: 9.860e+03,  Loss_bcs: 7.280e-06, Loss_ut_ics: 2.794e-06,, Time: 7.36
+lambda_u: 5.932e+07
+lambda_ut: 1.578e+08
+It: 6200, Loss: 1.373e+04, Loss_res: 1.115e+04,  Loss_bcs: 8.862e-06, Loss_ut_ics: 1.298e-05,, Time: 8.04
+lambda_u: 5.972e+07
+lambda_ut: 1.520e+08
+It: 6300, Loss: 1.894e+04, Loss_res: 1.054e+04,  Loss_bcs: 2.466e-05, Loss_ut_ics: 4.560e-05,, Time: 7.83
+lambda_u: 6.077e+07
+lambda_ut: 1.428e+08
+It: 6400, Loss: 8.983e+04, Loss_res: 1.183e+04,  Loss_bcs: 4.883e-04, Loss_ut_ics: 3.385e-04,, Time: 7.65
+lambda_u: 5.532e+07
+lambda_ut: 1.303e+08
+It: 6500, Loss: 1.192e+04, Loss_res: 1.111e+04,  Loss_bcs: 8.294e-06, Loss_ut_ics: 2.703e-06,, Time: 7.74
+lambda_u: 5.653e+07
+lambda_ut: 1.477e+08
+It: 6600, Loss: 1.492e+04, Loss_res: 9.178e+03,  Loss_bcs: 2.445e-05, Loss_ut_ics: 2.952e-05,, Time: 7.58
+lambda_u: 5.393e+07
+lambda_ut: 1.381e+08
+It: 6700, Loss: 1.002e+04, Loss_res: 9.484e+03,  Loss_bcs: 3.449e-06, Loss_ut_ics: 2.557e-06,, Time: 7.36
+lambda_u: 6.802e+07
+lambda_ut: 1.425e+08
+It: 6800, Loss: 3.110e+04, Loss_res: 1.101e+04,  Loss_bcs: 1.995e-04, Loss_ut_ics: 4.570e-05,, Time: 7.47
+lambda_u: 6.189e+07
+lambda_ut: 1.315e+08
+It: 6900, Loss: 1.033e+04, Loss_res: 9.588e+03,  Loss_bcs: 5.890e-06, Loss_ut_ics: 2.870e-06,, Time: 7.96
+lambda_u: 6.575e+07
+lambda_ut: 1.444e+08
+It: 7000, Loss: 3.108e+04, Loss_res: 1.051e+04,  Loss_bcs: 2.544e-04, Loss_ut_ics: 2.665e-05,, Time: 7.66
+lambda_u: 5.989e+07
+lambda_ut: 1.373e+08
+It: 7100, Loss: 1.115e+04, Loss_res: 9.368e+03,  Loss_bcs: 6.634e-06, Loss_ut_ics: 1.007e-05,, Time: 7.47
+lambda_u: 6.393e+07
+lambda_ut: 1.369e+08
+It: 7200, Loss: 9.698e+03, Loss_res: 6.290e+03,  Loss_bcs: 8.598e-06, Loss_ut_ics: 2.088e-05,, Time: 7.84
+lambda_u: 6.286e+07
+lambda_ut: 1.281e+08
+It: 7300, Loss: 1.287e+04, Loss_res: 1.056e+04,  Loss_bcs: 5.140e-06, Loss_ut_ics: 1.548e-05,, Time: 7.84
+lambda_u: 6.952e+07
+lambda_ut: 1.215e+08
+It: 7400, Loss: 1.456e+04, Loss_res: 8.815e+03,  Loss_bcs: 3.699e-05, Loss_ut_ics: 2.612e-05,, Time: 7.77
+lambda_u: 6.436e+07
+lambda_ut: 1.155e+08
+It: 7500, Loss: 8.848e+03, Loss_res: 7.926e+03,  Loss_bcs: 1.100e-05, Loss_ut_ics: 1.856e-06,, Time: 7.24
+lambda_u: 6.107e+07
+lambda_ut: 1.306e+08
+It: 7600, Loss: 1.753e+04, Loss_res: 9.529e+03,  Loss_bcs: 5.955e-05, Loss_ut_ics: 3.338e-05,, Time: 6.99
+lambda_u: 5.617e+07
+lambda_ut: 1.219e+08
+It: 7700, Loss: 1.097e+04, Loss_res: 7.888e+03,  Loss_bcs: 1.040e-05, Loss_ut_ics: 2.047e-05,, Time: 6.89
+lambda_u: 5.492e+07
+lambda_ut: 1.209e+08
+It: 7800, Loss: 9.046e+03, Loss_res: 8.681e+03,  Loss_bcs: 3.881e-06, Loss_ut_ics: 1.250e-06,, Time: 7.43
+lambda_u: 6.179e+07
+lambda_ut: 1.616e+08
+It: 7900, Loss: 1.470e+04, Loss_res: 8.771e+03,  Loss_bcs: 1.110e-05, Loss_ut_ics: 3.246e-05,, Time: 7.47
+lambda_u: 6.287e+07
+lambda_ut: 1.523e+08
+It: 8000, Loss: 2.258e+04, Loss_res: 8.016e+03,  Loss_bcs: 1.097e-04, Loss_ut_ics: 5.034e-05,, Time: 7.10
+lambda_u: 5.793e+07
+lambda_ut: 1.428e+08
+It: 8100, Loss: 9.162e+03, Loss_res: 8.108e+03,  Loss_bcs: 9.973e-06, Loss_ut_ics: 3.330e-06,, Time: 7.09
+lambda_u: 6.034e+07
+lambda_ut: 1.581e+08
+It: 8200, Loss: 9.636e+03, Loss_res: 8.946e+03,  Loss_bcs: 8.849e-06, Loss_ut_ics: 9.911e-07,, Time: 7.17
+lambda_u: 5.820e+07
+lambda_ut: 1.806e+08
+It: 8300, Loss: 1.150e+04, Loss_res: 9.350e+03,  Loss_bcs: 7.370e-06, Loss_ut_ics: 9.530e-06,, Time: 7.05
+lambda_u: 5.728e+07
+lambda_ut: 1.713e+08
+It: 8400, Loss: 3.115e+04, Loss_res: 7.903e+03,  Loss_bcs: 4.701e-05, Loss_ut_ics: 1.200e-04,, Time: 7.08
+lambda_u: 5.401e+07
+lambda_ut: 1.581e+08
+It: 8500, Loss: 9.406e+03, Loss_res: 8.801e+03,  Loss_bcs: 7.366e-06, Loss_ut_ics: 1.309e-06,, Time: 7.05
+lambda_u: 5.309e+07
+lambda_ut: 1.702e+08
+It: 8600, Loss: 1.050e+04, Loss_res: 8.691e+03,  Loss_bcs: 9.280e-06, Loss_ut_ics: 7.739e-06,, Time: 7.06
+lambda_u: 5.094e+07
+lambda_ut: 1.609e+08
+It: 8700, Loss: 9.864e+03, Loss_res: 8.224e+03,  Loss_bcs: 6.871e-06, Loss_ut_ics: 8.021e-06,, Time: 7.16
+lambda_u: 5.232e+07
+lambda_ut: 1.527e+08
+It: 8800, Loss: 9.009e+03, Loss_res: 8.434e+03,  Loss_bcs: 9.000e-06, Loss_ut_ics: 6.839e-07,, Time: 7.12
+lambda_u: 5.014e+07
+lambda_ut: 1.683e+08
+It: 8900, Loss: 8.296e+03, Loss_res: 7.823e+03,  Loss_bcs: 4.681e-06, Loss_ut_ics: 1.415e-06,, Time: 7.04
+lambda_u: 4.946e+07
+lambda_ut: 1.828e+08
+It: 9000, Loss: 1.133e+04, Loss_res: 9.467e+03,  Loss_bcs: 1.513e-05, Loss_ut_ics: 6.090e-06,, Time: 7.10
+lambda_u: 4.794e+07
+lambda_ut: 1.853e+08
+It: 9100, Loss: 9.179e+03, Loss_res: 6.519e+03,  Loss_bcs: 2.701e-05, Loss_ut_ics: 7.367e-06,, Time: 7.10
+lambda_u: 4.491e+07
+lambda_ut: 1.787e+08
+It: 9200, Loss: 1.958e+04, Loss_res: 9.610e+03,  Loss_bcs: 6.780e-06, Loss_ut_ics: 5.409e-05,, Time: 7.04
+lambda_u: 4.664e+07
+lambda_ut: 1.642e+08
+It: 9300, Loss: 1.077e+04, Loss_res: 7.949e+03,  Loss_bcs: 1.553e-05, Loss_ut_ics: 1.276e-05,, Time: 7.02
+lambda_u: 4.433e+07
+lambda_ut: 1.574e+08
+It: 9400, Loss: 7.276e+03, Loss_res: 6.610e+03,  Loss_bcs: 3.621e-06, Loss_ut_ics: 3.210e-06,, Time: 7.06
+lambda_u: 4.564e+07
+lambda_ut: 1.539e+08
+It: 9500, Loss: 7.264e+03, Loss_res: 7.115e+03,  Loss_bcs: 1.539e-06, Loss_ut_ics: 5.122e-07,, Time: 7.08
+lambda_u: 8.395e+07
+lambda_ut: 1.860e+08
+It: 9600, Loss: 1.085e+04, Loss_res: 9.581e+03,  Loss_bcs: 9.193e-06, Loss_ut_ics: 2.673e-06,, Time: 7.11
+lambda_u: 8.252e+07
+lambda_ut: 1.856e+08
+It: 9700, Loss: 8.514e+03, Loss_res: 8.132e+03,  Loss_bcs: 2.736e-06, Loss_ut_ics: 8.452e-07,, Time: 7.07
+lambda_u: 1.051e+08
+lambda_ut: 2.063e+08
+It: 9800, Loss: 9.687e+03, Loss_res: 7.217e+03,  Loss_bcs: 6.202e-06, Loss_ut_ics: 8.811e-06,, Time: 7.12
+lambda_u: 9.850e+07
+lambda_ut: 1.920e+08
+It: 9900, Loss: 9.289e+03, Loss_res: 8.520e+03,  Loss_bcs: 5.694e-06, Loss_ut_ics: 1.087e-06,, Time: 7.07
+lambda_u: 9.170e+07
+lambda_ut: 2.230e+08
+It: 10000, Loss: 7.949e+03, Loss_res: 7.302e+03,  Loss_bcs: 2.052e-06, Loss_ut_ics: 2.058e-06,, Time: 7.07
+lambda_u: 9.684e+07
+lambda_ut: 2.149e+08
+It: 10100, Loss: 9.202e+03, Loss_res: 6.977e+03,  Loss_bcs: 4.707e-06, Loss_ut_ics: 8.230e-06,, Time: 7.04
+lambda_u: 9.052e+07
+lambda_ut: 1.986e+08
+It: 10200, Loss: 1.044e+04, Loss_res: 9.493e+03,  Loss_bcs: 6.728e-06, Loss_ut_ics: 1.706e-06,, Time: 7.09
+lambda_u: 8.620e+07
+lambda_ut: 2.025e+08
+It: 10300, Loss: 8.175e+03, Loss_res: 7.448e+03,  Loss_bcs: 1.970e-06, Loss_ut_ics: 2.751e-06,, Time: 7.13
+lambda_u: 9.297e+07
+lambda_ut: 1.932e+08
+It: 10400, Loss: 5.191e+03, Loss_res: 4.616e+03,  Loss_bcs: 4.585e-06, Loss_ut_ics: 7.680e-07,, Time: 7.16
+lambda_u: 8.629e+07
+lambda_ut: 2.152e+08
+It: 10500, Loss: 9.735e+03, Loss_res: 8.214e+03,  Loss_bcs: 1.072e-05, Loss_ut_ics: 2.773e-06,, Time: 7.18
+lambda_u: 8.016e+07
+lambda_ut: 2.091e+08
+It: 10600, Loss: 1.159e+04, Loss_res: 7.682e+03,  Loss_bcs: 3.050e-05, Loss_ut_ics: 7.012e-06,, Time: 7.08
+lambda_u: 7.325e+07
+lambda_ut: 2.023e+08
+It: 10700, Loss: 7.831e+03, Loss_res: 7.555e+03,  Loss_bcs: 1.593e-06, Loss_ut_ics: 7.884e-07,, Time: 7.13
+lambda_u: 8.608e+07
+lambda_ut: 2.148e+08
+It: 10800, Loss: 9.936e+03, Loss_res: 9.253e+03,  Loss_bcs: 2.018e-06, Loss_ut_ics: 2.369e-06,, Time: 7.09
+lambda_u: 8.766e+07
+lambda_ut: 2.062e+08
+It: 10900, Loss: 7.796e+03, Loss_res: 7.527e+03,  Loss_bcs: 1.244e-06, Loss_ut_ics: 7.765e-07,, Time: 7.10
+lambda_u: 9.660e+07
+lambda_ut: 2.237e+08
+It: 11000, Loss: 4.023e+04, Loss_res: 7.827e+03,  Loss_bcs: 1.162e-04, Loss_ut_ics: 9.466e-05,, Time: 7.10
+lambda_u: 8.757e+07
+lambda_ut: 2.034e+08
+It: 11100, Loss: 8.982e+03, Loss_res: 8.275e+03,  Loss_bcs: 6.878e-06, Loss_ut_ics: 5.135e-07,, Time: 7.07
+lambda_u: 8.172e+07
+lambda_ut: 2.325e+08
+It: 11200, Loss: 9.816e+03, Loss_res: 7.979e+03,  Loss_bcs: 1.227e-05, Loss_ut_ics: 3.583e-06,, Time: 7.09
+lambda_u: 7.594e+07
+lambda_ut: 2.283e+08
+It: 11300, Loss: 7.921e+03, Loss_res: 6.781e+03,  Loss_bcs: 7.156e-06, Loss_ut_ics: 2.611e-06,, Time: 7.01
+lambda_u: 7.148e+07
+lambda_ut: 2.254e+08
+It: 11400, Loss: 5.664e+03, Loss_res: 5.320e+03,  Loss_bcs: 2.394e-06, Loss_ut_ics: 7.680e-07,, Time: 7.18
+lambda_u: 7.253e+07
+lambda_ut: 2.372e+08
+It: 11500, Loss: 1.120e+04, Loss_res: 7.923e+03,  Loss_bcs: 1.306e-06, Loss_ut_ics: 1.343e-05,, Time: 7.04
+lambda_u: 7.790e+07
+lambda_ut: 2.186e+08
+It: 11600, Loss: 1.523e+04, Loss_res: 7.859e+03,  Loss_bcs: 1.914e-05, Loss_ut_ics: 2.691e-05,, Time: 7.09
+lambda_u: 7.209e+07
+lambda_ut: 2.030e+08
+It: 11700, Loss: 7.172e+03, Loss_res: 6.070e+03,  Loss_bcs: 2.870e-06, Loss_ut_ics: 4.406e-06,, Time: 7.10
+lambda_u: 6.926e+07
+lambda_ut: 1.903e+08
+It: 11800, Loss: 6.519e+03, Loss_res: 6.315e+03,  Loss_bcs: 2.332e-06, Loss_ut_ics: 2.228e-07,, Time: 7.10
+lambda_u: 7.051e+07
+lambda_ut: 3.852e+08
+It: 11900, Loss: 9.571e+03, Loss_res: 8.991e+03,  Loss_bcs: 2.222e-06, Loss_ut_ics: 1.099e-06,, Time: 7.08
+lambda_u: 7.254e+07
+lambda_ut: 3.791e+08
+It: 12000, Loss: 8.071e+03, Loss_res: 7.847e+03,  Loss_bcs: 1.924e-06, Loss_ut_ics: 2.217e-07,, Time: 7.08
+lambda_u: 7.468e+07
+lambda_ut: 4.262e+08
+It: 12100, Loss: 8.577e+03, Loss_res: 8.290e+03,  Loss_bcs: 1.509e-06, Loss_ut_ics: 4.097e-07,, Time: 7.10
+lambda_u: 1.065e+08
+lambda_ut: 4.385e+08
+It: 12200, Loss: 7.431e+03, Loss_res: 7.233e+03,  Loss_bcs: 1.348e-06, Loss_ut_ics: 1.233e-07,, Time: 7.18
+lambda_u: 1.143e+08
+lambda_ut: 5.598e+08
+It: 12300, Loss: 1.252e+04, Loss_res: 8.977e+03,  Loss_bcs: 2.255e-06, Loss_ut_ics: 5.863e-06,, Time: 7.06
+lambda_u: 1.119e+08
+lambda_ut: 5.141e+08
+It: 12400, Loss: 2.089e+04, Loss_res: 8.966e+03,  Loss_bcs: 8.236e-05, Loss_ut_ics: 5.258e-06,, Time: 7.06
+lambda_u: 1.015e+08
+lambda_ut: 4.768e+08
+It: 12500, Loss: 1.037e+04, Loss_res: 8.002e+03,  Loss_bcs: 7.310e-06, Loss_ut_ics: 3.420e-06,, Time: 7.06
+lambda_u: 9.445e+07
+lambda_ut: 4.429e+08
+It: 12600, Loss: 6.822e+03, Loss_res: 6.552e+03,  Loss_bcs: 1.987e-06, Loss_ut_ics: 1.859e-07,, Time: 7.02
+lambda_u: 9.383e+07
+lambda_ut: 5.107e+08
+It: 12700, Loss: 9.718e+03, Loss_res: 8.298e+03,  Loss_bcs: 3.180e-06, Loss_ut_ics: 2.197e-06,, Time: 7.11
+lambda_u: 9.286e+07
+lambda_ut: 4.817e+08
+It: 12800, Loss: 1.463e+04, Loss_res: 1.058e+04,  Loss_bcs: 4.217e-06, Loss_ut_ics: 7.593e-06,, Time: 7.08
+lambda_u: 9.295e+07
+lambda_ut: 4.459e+08
+It: 12900, Loss: 1.373e+04, Loss_res: 7.612e+03,  Loss_bcs: 3.886e-06, Loss_ut_ics: 1.291e-05,, Time: 7.04
+lambda_u: 8.815e+07
+lambda_ut: 4.106e+08
+It: 13000, Loss: 8.042e+03, Loss_res: 7.880e+03,  Loss_bcs: 1.096e-06, Loss_ut_ics: 1.578e-07,, Time: 7.09
+lambda_u: 9.926e+07
+lambda_ut: 5.926e+08
+It: 13100, Loss: 1.610e+04, Loss_res: 7.186e+03,  Loss_bcs: 3.490e-05, Loss_ut_ics: 9.203e-06,, Time: 7.18
+lambda_u: 9.097e+07
+lambda_ut: 5.473e+08
+It: 13200, Loss: 1.067e+04, Loss_res: 1.049e+04,  Loss_bcs: 1.356e-06, Loss_ut_ics: 1.019e-07,, Time: 7.07
+lambda_u: 1.035e+08
+lambda_ut: 8.702e+08
+It: 13300, Loss: 7.240e+03, Loss_res: 6.909e+03,  Loss_bcs: 1.847e-06, Loss_ut_ics: 1.613e-07,, Time: 7.09
+lambda_u: 1.013e+08
+lambda_ut: 8.694e+08
+It: 13400, Loss: 8.716e+03, Loss_res: 6.464e+03,  Loss_bcs: 2.116e-06, Loss_ut_ics: 2.345e-06,, Time: 7.04
+lambda_u: 1.058e+08
+lambda_ut: 7.994e+08
+It: 13500, Loss: 1.094e+04, Loss_res: 1.065e+04,  Loss_bcs: 9.509e-07, Loss_ut_ics: 2.404e-07,, Time: 7.09
+lambda_u: 1.273e+08
+lambda_ut: 8.318e+08
+It: 13600, Loss: 1.199e+04, Loss_res: 5.983e+03,  Loss_bcs: 1.761e-05, Loss_ut_ics: 4.530e-06,, Time: 7.12
+lambda_u: 1.163e+08
+lambda_ut: 7.580e+08
+It: 13700, Loss: 8.774e+03, Loss_res: 8.222e+03,  Loss_bcs: 1.837e-06, Loss_ut_ics: 4.463e-07,, Time: 7.03
+lambda_u: 1.125e+08
+lambda_ut: 7.314e+08
+It: 13800, Loss: 7.417e+03, Loss_res: 7.192e+03,  Loss_bcs: 1.206e-06, Loss_ut_ics: 1.217e-07,, Time: 7.06
+lambda_u: 1.134e+08
+lambda_ut: 7.571e+08
+It: 13900, Loss: 8.240e+03, Loss_res: 7.418e+03,  Loss_bcs: 1.797e-06, Loss_ut_ics: 8.172e-07,, Time: 7.05
+lambda_u: 1.148e+08
+lambda_ut: 7.362e+08
+It: 14000, Loss: 1.112e+04, Loss_res: 1.001e+04,  Loss_bcs: 4.742e-06, Loss_ut_ics: 7.684e-07,, Time: 7.16
+lambda_u: 1.089e+08
+lambda_ut: 6.979e+08
+It: 14100, Loss: 8.671e+03, Loss_res: 7.910e+03,  Loss_bcs: 1.426e-06, Loss_ut_ics: 8.681e-07,, Time: 7.12
+lambda_u: 1.115e+08
+lambda_ut: 6.641e+08
+It: 14200, Loss: 6.463e+03, Loss_res: 6.002e+03,  Loss_bcs: 1.750e-06, Loss_ut_ics: 4.006e-07,, Time: 7.07
+lambda_u: 1.083e+08
+lambda_ut: 6.284e+08
+It: 14300, Loss: 9.003e+03, Loss_res: 7.657e+03,  Loss_bcs: 6.617e-06, Loss_ut_ics: 1.002e-06,, Time: 7.07
+lambda_u: 1.012e+08
+lambda_ut: 5.914e+08
+It: 14400, Loss: 8.522e+03, Loss_res: 7.537e+03,  Loss_bcs: 1.830e-06, Loss_ut_ics: 1.353e-06,, Time: 7.05
+lambda_u: 1.013e+08
+lambda_ut: 5.628e+08
+It: 14500, Loss: 8.781e+03, Loss_res: 7.153e+03,  Loss_bcs: 1.549e-06, Loss_ut_ics: 2.615e-06,, Time: 7.07
+lambda_u: 1.037e+08
+lambda_ut: 5.250e+08
+It: 14600, Loss: 9.259e+03, Loss_res: 7.558e+03,  Loss_bcs: 1.589e-05, Loss_ut_ics: 1.036e-07,, Time: 7.08
+lambda_u: 9.527e+07
+lambda_ut: 6.939e+08
+It: 14700, Loss: 2.153e+04, Loss_res: 5.896e+03,  Loss_bcs: 1.926e-05, Loss_ut_ics: 1.989e-05,, Time: 7.07
+lambda_u: 8.865e+07
+lambda_ut: 6.326e+08
+It: 14800, Loss: 8.195e+03, Loss_res: 7.935e+03,  Loss_bcs: 2.010e-06, Loss_ut_ics: 1.298e-07,, Time: 7.19
+lambda_u: 8.832e+07
+lambda_ut: 6.933e+08
+It: 14900, Loss: 9.303e+03, Loss_res: 8.761e+03,  Loss_bcs: 1.031e-06, Loss_ut_ics: 6.513e-07,, Time: 7.07
+lambda_u: 1.058e+08
+lambda_ut: 6.628e+08
+It: 15000, Loss: 7.619e+03, Loss_res: 7.285e+03,  Loss_bcs: 9.807e-07, Loss_ut_ics: 3.471e-07,, Time: 7.13
+lambda_u: 1.312e+08
+lambda_ut: 6.406e+08
+It: 15100, Loss: 7.321e+03, Loss_res: 7.123e+03,  Loss_bcs: 1.022e-06, Loss_ut_ics: 9.981e-08,, Time: 7.02
+lambda_u: 1.345e+08
+lambda_ut: 7.134e+08
+It: 15200, Loss: 8.679e+03, Loss_res: 7.514e+03,  Loss_bcs: 1.516e-06, Loss_ut_ics: 1.346e-06,, Time: 7.03
+lambda_u: 1.334e+08
+lambda_ut: 6.638e+08
+It: 15300, Loss: 1.149e+04, Loss_res: 7.914e+03,  Loss_bcs: 7.760e-06, Loss_ut_ics: 3.823e-06,, Time: 7.15
+lambda_u: 1.240e+08
+lambda_ut: 6.090e+08
+It: 15400, Loss: 8.520e+03, Loss_res: 7.932e+03,  Loss_bcs: 1.981e-06, Loss_ut_ics: 5.614e-07,, Time: 7.06
+lambda_u: 1.231e+08
+lambda_ut: 6.187e+08
+It: 15500, Loss: 6.281e+03, Loss_res: 4.881e+03,  Loss_bcs: 3.838e-06, Loss_ut_ics: 1.498e-06,, Time: 7.09
+lambda_u: 1.153e+08
+lambda_ut: 5.931e+08
+It: 15600, Loss: 7.319e+03, Loss_res: 7.018e+03,  Loss_bcs: 1.652e-06, Loss_ut_ics: 1.859e-07,, Time: 7.12
+lambda_u: 1.145e+08
+lambda_ut: 6.501e+08
+It: 15700, Loss: 8.192e+03, Loss_res: 7.840e+03,  Loss_bcs: 2.174e-06, Loss_ut_ics: 1.584e-07,, Time: 7.17
+lambda_u: 1.122e+08
+lambda_ut: 8.008e+08
+It: 15800, Loss: 1.004e+04, Loss_res: 8.166e+03,  Loss_bcs: 5.981e-06, Loss_ut_ics: 1.498e-06,, Time: 7.09
+lambda_u: 1.057e+08
+lambda_ut: 7.449e+08
+It: 15900, Loss: 6.985e+03, Loss_res: 6.809e+03,  Loss_bcs: 1.013e-06, Loss_ut_ics: 9.216e-08,, Time: 7.08
+lambda_u: 1.051e+08
+lambda_ut: 7.700e+08
+It: 16000, Loss: 7.293e+03, Loss_res: 7.030e+03,  Loss_bcs: 1.276e-06, Loss_ut_ics: 1.676e-07,, Time: 7.03
+lambda_u: 1.072e+08
+lambda_ut: 8.074e+08
+It: 16100, Loss: 8.316e+03, Loss_res: 7.438e+03,  Loss_bcs: 1.064e-06, Loss_ut_ics: 9.462e-07,, Time: 7.02
+lambda_u: 1.245e+08
+lambda_ut: 7.530e+08
+It: 16200, Loss: 6.742e+03, Loss_res: 6.331e+03,  Loss_bcs: 1.807e-06, Loss_ut_ics: 2.461e-07,, Time: 7.05
+lambda_u: 1.171e+08
+lambda_ut: 7.475e+08
+It: 16300, Loss: 9.578e+03, Loss_res: 7.542e+03,  Loss_bcs: 9.924e-06, Loss_ut_ics: 1.169e-06,, Time: 7.11
+lambda_u: 1.086e+08
+lambda_ut: 7.035e+08
+It: 16400, Loss: 7.084e+03, Loss_res: 6.951e+03,  Loss_bcs: 6.402e-07, Loss_ut_ics: 8.963e-08,, Time: 7.08
+lambda_u: 1.196e+08
+lambda_ut: 8.202e+08
+It: 16500, Loss: 6.823e+03, Loss_res: 6.296e+03,  Loss_bcs: 7.971e-07, Loss_ut_ics: 5.271e-07,, Time: 7.12
+lambda_u: 1.456e+08
+lambda_ut: 7.661e+08
+It: 16600, Loss: 1.036e+04, Loss_res: 9.564e+03,  Loss_bcs: 1.242e-06, Loss_ut_ics: 8.084e-07,, Time: 7.17
+lambda_u: 1.560e+08
+lambda_ut: 7.489e+08
+It: 16700, Loss: 9.677e+03, Loss_res: 8.520e+03,  Loss_bcs: 9.321e-07, Loss_ut_ics: 1.351e-06,, Time: 7.06
+lambda_u: 1.569e+08
+lambda_ut: 6.976e+08
+It: 16800, Loss: 8.026e+03, Loss_res: 7.493e+03,  Loss_bcs: 2.156e-06, Loss_ut_ics: 2.790e-07,, Time: 7.07
+lambda_u: 1.496e+08
+lambda_ut: 6.924e+08
+It: 16900, Loss: 7.639e+03, Loss_res: 7.261e+03,  Loss_bcs: 1.956e-06, Loss_ut_ics: 1.226e-07,, Time: 7.07
+lambda_u: 1.428e+08
+lambda_ut: 7.431e+08
+It: 17000, Loss: 3.234e+04, Loss_res: 8.330e+03,  Loss_bcs: 3.512e-05, Loss_ut_ics: 2.556e-05,, Time: 8.76
+lambda_u: 1.303e+08
+lambda_ut: 6.749e+08
+It: 17100, Loss: 1.984e+04, Loss_res: 1.003e+04,  Loss_bcs: 4.966e-06, Loss_ut_ics: 1.358e-05,, Time: 8.07
+lambda_u: 1.241e+08
+lambda_ut: 6.167e+08
+It: 17200, Loss: 9.632e+03, Loss_res: 8.795e+03,  Loss_bcs: 2.451e-06, Loss_ut_ics: 8.645e-07,, Time: 11.36
+lambda_u: 1.197e+08
+lambda_ut: 5.911e+08
+It: 17300, Loss: 7.858e+03, Loss_res: 7.482e+03,  Loss_bcs: 6.689e-07, Loss_ut_ics: 5.009e-07,, Time: 9.80
+lambda_u: 1.533e+08
+lambda_ut: 5.693e+08
+It: 17400, Loss: 7.799e+03, Loss_res: 7.619e+03,  Loss_bcs: 8.342e-07, Loss_ut_ics: 9.111e-08,, Time: 10.24
+lambda_u: 1.541e+08
+lambda_ut: 6.719e+08
+It: 17500, Loss: 1.046e+04, Loss_res: 9.115e+03,  Loss_bcs: 3.733e-06, Loss_ut_ics: 1.145e-06,, Time: 9.98
+lambda_u: 1.445e+08
+lambda_ut: 6.278e+08
+It: 17600, Loss: 7.352e+03, Loss_res: 6.691e+03,  Loss_bcs: 2.275e-06, Loss_ut_ics: 5.293e-07,, Time: 12.93
+lambda_u: 1.395e+08
+lambda_ut: 6.401e+08
+It: 17700, Loss: 7.434e+03, Loss_res: 6.886e+03,  Loss_bcs: 1.394e-06, Loss_ut_ics: 5.515e-07,, Time: 7.40
+lambda_u: 1.340e+08
+lambda_ut: 6.083e+08
+It: 17800, Loss: 5.962e+03, Loss_res: 5.704e+03,  Loss_bcs: 1.482e-06, Loss_ut_ics: 9.762e-08,, Time: 7.21
+lambda_u: 1.328e+08
+lambda_ut: 7.732e+08
+It: 17900, Loss: 1.048e+04, Loss_res: 8.299e+03,  Loss_bcs: 5.216e-06, Loss_ut_ics: 1.927e-06,, Time: 11.24
+lambda_u: 1.250e+08
+lambda_ut: 7.159e+08
+It: 18000, Loss: 7.090e+03, Loss_res: 6.972e+03,  Loss_bcs: 5.362e-07, Loss_ut_ics: 7.120e-08,, Time: 11.76
+lambda_u: 1.398e+08
+lambda_ut: 8.550e+08
+It: 18100, Loss: 1.043e+04, Loss_res: 8.496e+03,  Loss_bcs: 2.347e-06, Loss_ut_ics: 1.883e-06,, Time: 7.85
+lambda_u: 1.326e+08
+lambda_ut: 7.965e+08
+It: 18200, Loss: 6.885e+03, Loss_res: 6.678e+03,  Loss_bcs: 4.657e-07, Loss_ut_ics: 1.816e-07,, Time: 7.56
+lambda_u: 1.782e+08
+lambda_ut: 7.985e+08
+It: 18300, Loss: 5.582e+03, Loss_res: 5.285e+03,  Loss_bcs: 7.955e-07, Loss_ut_ics: 1.943e-07,, Time: 7.48
+lambda_u: 1.753e+08
+lambda_ut: 7.804e+08
+It: 18400, Loss: 8.719e+03, Loss_res: 5.821e+03,  Loss_bcs: 3.529e-06, Loss_ut_ics: 2.921e-06,, Time: 7.43
+lambda_u: 1.619e+08
+lambda_ut: 7.145e+08
+It: 18500, Loss: 6.638e+03, Loss_res: 6.195e+03,  Loss_bcs: 2.316e-06, Loss_ut_ics: 9.472e-08,, Time: 7.86
+lambda_u: 1.507e+08
+lambda_ut: 7.908e+08
+It: 18600, Loss: 6.905e+03, Loss_res: 6.715e+03,  Loss_bcs: 7.278e-07, Loss_ut_ics: 1.007e-07,, Time: 9.27
+lambda_u: 1.488e+08
+lambda_ut: 8.754e+08
+It: 18700, Loss: 1.304e+04, Loss_res: 6.702e+03,  Loss_bcs: 1.144e-05, Loss_ut_ics: 5.298e-06,, Time: 7.74
+lambda_u: 1.361e+08
+lambda_ut: 7.989e+08
+It: 18800, Loss: 1.093e+04, Loss_res: 7.388e+03,  Loss_bcs: 2.737e-06, Loss_ut_ics: 3.967e-06,, Time: 8.01
+lambda_u: 1.312e+08
+lambda_ut: 7.354e+08
+It: 18900, Loss: 7.119e+03, Loss_res: 6.348e+03,  Loss_bcs: 1.660e-06, Loss_ut_ics: 7.535e-07,, Time: 7.50
+lambda_u: 1.283e+08
+lambda_ut: 6.948e+08
+It: 19000, Loss: 7.508e+03, Loss_res: 7.414e+03,  Loss_bcs: 4.539e-07, Loss_ut_ics: 5.131e-08,, Time: 7.27
+lambda_u: 1.743e+08
+lambda_ut: 9.170e+08
+It: 19100, Loss: 1.024e+04, Loss_res: 6.761e+03,  Loss_bcs: 7.679e-06, Loss_ut_ics: 2.332e-06,, Time: 7.45
+lambda_u: 1.598e+08
+lambda_ut: 8.606e+08
+It: 19200, Loss: 8.575e+03, Loss_res: 8.327e+03,  Loss_bcs: 8.317e-07, Loss_ut_ics: 1.347e-07,, Time: 7.35
+lambda_u: 1.709e+08
+lambda_ut: 9.317e+08
+It: 19300, Loss: 5.559e+03, Loss_res: 5.383e+03,  Loss_bcs: 5.153e-07, Loss_ut_ics: 9.471e-08,, Time: 7.85
+lambda_u: 2.002e+08
+lambda_ut: 9.800e+08
+It: 19400, Loss: 5.509e+03, Loss_res: 5.196e+03,  Loss_bcs: 7.745e-07, Loss_ut_ics: 1.611e-07,, Time: 7.66
+lambda_u: 1.936e+08
+lambda_ut: 9.710e+08
+It: 19500, Loss: 1.112e+04, Loss_res: 1.069e+04,  Loss_bcs: 3.644e-07, Loss_ut_ics: 3.769e-07,, Time: 7.40
+lambda_u: 2.517e+08
+lambda_ut: 9.473e+08
+It: 19600, Loss: 8.859e+03, Loss_res: 7.923e+03,  Loss_bcs: 4.423e-07, Loss_ut_ics: 8.708e-07,, Time: 8.55
+lambda_u: 2.877e+08
+lambda_ut: 8.828e+08
+It: 19700, Loss: 8.389e+03, Loss_res: 7.960e+03,  Loss_bcs: 9.466e-07, Loss_ut_ics: 1.783e-07,, Time: 8.96
+lambda_u: 2.715e+08
+lambda_ut: 8.885e+08
+It: 19800, Loss: 9.173e+03, Loss_res: 8.855e+03,  Loss_bcs: 6.551e-07, Loss_ut_ics: 1.580e-07,, Time: 7.84
+lambda_u: 2.691e+08
+lambda_ut: 9.279e+08
+It: 19900, Loss: 7.232e+03, Loss_res: 4.902e+03,  Loss_bcs: 2.837e-06, Loss_ut_ics: 1.689e-06,, Time: 7.44
+lambda_u: 2.480e+08
+lambda_ut: 8.548e+08
+It: 20000, Loss: 7.325e+03, Loss_res: 7.067e+03,  Loss_bcs: 5.784e-07, Loss_ut_ics: 1.346e-07,, Time: 8.30
+lambda_u: 2.498e+08
+lambda_ut: 9.283e+08
+It: 20100, Loss: 6.903e+03, Loss_res: 6.603e+03,  Loss_bcs: 5.581e-07, Loss_ut_ics: 1.726e-07,, Time: 7.65
+lambda_u: 2.454e+08
+lambda_ut: 1.013e+09
+It: 20200, Loss: 7.655e+03, Loss_res: 7.011e+03,  Loss_bcs: 1.205e-06, Loss_ut_ics: 3.436e-07,, Time: 7.62
+lambda_u: 2.303e+08
+lambda_ut: 9.524e+08
+It: 20300, Loss: 6.280e+03, Loss_res: 5.693e+03,  Loss_bcs: 8.815e-07, Loss_ut_ics: 4.026e-07,, Time: 7.91
+lambda_u: 2.163e+08
+lambda_ut: 9.015e+08
+It: 20400, Loss: 7.214e+03, Loss_res: 7.024e+03,  Loss_bcs: 3.726e-07, Loss_ut_ics: 1.209e-07,, Time: 7.58
+lambda_u: 2.526e+08
+lambda_ut: 9.783e+08
+It: 20500, Loss: 1.026e+04, Loss_res: 7.282e+03,  Loss_bcs: 3.564e-06, Loss_ut_ics: 2.124e-06,, Time: 6.97
+lambda_u: 2.316e+08
+lambda_ut: 9.017e+08
+It: 20600, Loss: 8.506e+03, Loss_res: 7.986e+03,  Loss_bcs: 1.043e-06, Loss_ut_ics: 3.094e-07,, Time: 7.42
+lambda_u: 2.217e+08
+lambda_ut: 8.739e+08
+It: 20700, Loss: 6.412e+03, Loss_res: 6.250e+03,  Loss_bcs: 3.836e-07, Loss_ut_ics: 8.802e-08,, Time: 7.16
+lambda_u: 2.396e+08
+lambda_ut: 8.811e+08
+It: 20800, Loss: 6.617e+03, Loss_res: 6.326e+03,  Loss_bcs: 6.224e-07, Loss_ut_ics: 1.607e-07,, Time: 7.04
+lambda_u: 2.367e+08
+lambda_ut: 8.713e+08
+It: 20900, Loss: 5.931e+03, Loss_res: 5.775e+03,  Loss_bcs: 4.112e-07, Loss_ut_ics: 6.766e-08,, Time: 7.05
+lambda_u: 2.374e+08
+lambda_ut: 9.291e+08
+It: 21000, Loss: 7.295e+03, Loss_res: 7.047e+03,  Loss_bcs: 6.091e-07, Loss_ut_ics: 1.111e-07,, Time: 7.02
+lambda_u: 2.281e+08
+lambda_ut: 9.735e+08
+It: 21100, Loss: 6.696e+03, Loss_res: 5.578e+03,  Loss_bcs: 1.344e-06, Loss_ut_ics: 8.332e-07,, Time: 7.25
+lambda_u: 2.160e+08
+lambda_ut: 9.143e+08
+It: 21200, Loss: 6.383e+03, Loss_res: 6.109e+03,  Loss_bcs: 7.056e-07, Loss_ut_ics: 1.336e-07,, Time: 7.61
+lambda_u: 2.087e+08
+lambda_ut: 8.944e+08
+It: 21300, Loss: 5.590e+03, Loss_res: 5.373e+03,  Loss_bcs: 6.059e-07, Loss_ut_ics: 1.017e-07,, Time: 7.70
+lambda_u: 2.053e+08
+lambda_ut: 8.774e+08
+It: 21400, Loss: 6.658e+03, Loss_res: 6.207e+03,  Loss_bcs: 9.184e-07, Loss_ut_ics: 2.997e-07,, Time: 8.03
+lambda_u: 1.984e+08
+lambda_ut: 8.258e+08
+It: 21500, Loss: 8.619e+03, Loss_res: 7.975e+03,  Loss_bcs: 2.231e-06, Loss_ut_ics: 2.440e-07,, Time: 7.79
+lambda_u: 1.864e+08
+lambda_ut: 8.752e+08
+It: 21600, Loss: 7.116e+03, Loss_res: 6.444e+03,  Loss_bcs: 6.422e-07, Loss_ut_ics: 6.312e-07,, Time: 7.81
+lambda_u: 1.839e+08
+lambda_ut: 8.180e+08
+It: 21700, Loss: 9.722e+03, Loss_res: 9.264e+03,  Loss_bcs: 6.889e-07, Loss_ut_ics: 4.049e-07,, Time: 7.84
+lambda_u: 1.840e+08
+lambda_ut: 7.742e+08
+It: 21800, Loss: 7.770e+03, Loss_res: 7.637e+03,  Loss_bcs: 4.207e-07, Loss_ut_ics: 7.293e-08,, Time: 7.80
+lambda_u: 1.913e+08
+lambda_ut: 8.305e+08
+It: 21900, Loss: 6.083e+03, Loss_res: 5.943e+03,  Loss_bcs: 3.557e-07, Loss_ut_ics: 8.644e-08,, Time: 7.84
+lambda_u: 2.707e+08
+lambda_ut: 8.930e+08
+It: 22000, Loss: 6.938e+03, Loss_res: 6.657e+03,  Loss_bcs: 7.733e-07, Loss_ut_ics: 8.031e-08,, Time: 7.85
+lambda_u: 2.604e+08
+lambda_ut: 9.789e+08
+It: 22100, Loss: 1.722e+04, Loss_res: 7.996e+03,  Loss_bcs: 2.335e-05, Loss_ut_ics: 3.210e-06,, Time: 8.10
+lambda_u: 2.363e+08
+lambda_ut: 9.001e+08
+It: 22200, Loss: 7.389e+03, Loss_res: 7.144e+03,  Loss_bcs: 3.429e-07, Loss_ut_ics: 1.822e-07,, Time: 7.83
+lambda_u: 2.545e+08
+lambda_ut: 8.742e+08
+It: 22300, Loss: 5.113e+03, Loss_res: 4.897e+03,  Loss_bcs: 4.143e-07, Loss_ut_ics: 1.262e-07,, Time: 7.67
+lambda_u: 2.509e+08
+lambda_ut: 8.560e+08
+It: 22400, Loss: 5.539e+03, Loss_res: 5.425e+03,  Loss_bcs: 3.627e-07, Loss_ut_ics: 2.781e-08,, Time: 7.66
+lambda_u: 2.578e+08
+lambda_ut: 1.358e+09
+It: 22500, Loss: 9.255e+03, Loss_res: 8.455e+03,  Loss_bcs: 5.473e-07, Loss_ut_ics: 4.851e-07,, Time: 7.54
+lambda_u: 2.501e+08
+lambda_ut: 1.262e+09
+It: 22600, Loss: 6.244e+03, Loss_res: 6.073e+03,  Loss_bcs: 3.776e-07, Loss_ut_ics: 6.103e-08,, Time: 7.57
+lambda_u: 2.435e+08
+lambda_ut: 1.358e+09
+It: 22700, Loss: 6.968e+03, Loss_res: 6.729e+03,  Loss_bcs: 4.534e-07, Loss_ut_ics: 9.521e-08,, Time: 7.24
+lambda_u: 2.506e+08
+lambda_ut: 1.316e+09
+It: 22800, Loss: 8.314e+03, Loss_res: 7.650e+03,  Loss_bcs: 3.684e-07, Loss_ut_ics: 4.344e-07,, Time: 7.96
+lambda_u: 2.557e+08
+lambda_ut: 1.221e+09

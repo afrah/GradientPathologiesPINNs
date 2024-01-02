@@ -1,0 +1,26 @@
+Gradients information stored ...
+It: 100, Loss: 4.548e+03, loss_ics: 2.879e+01, loss_bcs: 1.380e+01, Loss_r: 4.505e+03, Time: 0.01
+constant_ics_val: 1.380
+constant_bcs_val: 0.810
+constant_res_val: 0.810
+Gradients information stored ...
+It: 200, Loss: 1.491e+03, loss_ics: 2.260e+01, loss_bcs: 1.649e+01, Loss_r: 1.786e+03, Time: 0.01
+constant_ics_val: 1.475
+constant_bcs_val: 0.797
+constant_res_val: 0.728
+It: 300, Loss: 8.344e+02, loss_ics: 3.263e+01, loss_bcs: 1.756e+01, Loss_r: 1.061e+03, Time: 0.01
+constant_ics_val: 1.597
+constant_bcs_val: 0.729
+constant_res_val: 0.673
+It: 400, Loss: 3.061e+02, loss_ics: 4.562e+01, loss_bcs: 1.814e+01, Loss_r: 3.268e+02, Time: 0.01
+constant_ics_val: 1.716
+constant_bcs_val: 0.692
+constant_res_val: 0.592
+average lambda_bc7.5707e-01
+average lambda_bc1.5423e+00
+average lambda_res1.0
+Save uv NN parameters successfully in %s ...checkpoints/Dec-17-2023_07-13-24-255840_relobralo
+Final loss total loss: 3.300897e+02
+Final loss loss_res: 3.632600e+02
+Final loss loss_bcs: 1.811143e+01
+Final loss loss_ics: 4.531257e+01

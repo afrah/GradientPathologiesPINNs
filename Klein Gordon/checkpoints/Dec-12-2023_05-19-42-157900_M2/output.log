@@ -1,0 +1,51 @@
+It: 0, Loss: 1.210e+04, Loss_u: 9.827e-01, Loss_r: 1.210e+04, Time: 3.31
+constant_ics_val: 212.962
+constant_bcs_val: 224.672
+Gradients information stored ...
+It: 100, Loss: 6.125e+03, Loss_u: 2.615e+02, Loss_r: 5.863e+03, Time: 0.06
+constant_ics_val: 132.843
+constant_bcs_val: 124.735
+Gradients information stored ...
+It: 200, Loss: 9.627e+02, Loss_u: 1.028e+02, Loss_r: 8.599e+02, Time: 0.06
+constant_ics_val: 63.601
+constant_bcs_val: 84.373
+It: 300, Loss: 1.479e+02, Loss_u: 1.824e+01, Loss_r: 1.297e+02, Time: 0.06
+constant_ics_val: 45.680
+constant_bcs_val: 94.006
+It: 400, Loss: 6.835e+01, Loss_u: 1.149e+01, Loss_r: 5.686e+01, Time: 0.05
+constant_ics_val: 36.745
+constant_bcs_val: 94.941
+It: 500, Loss: 3.614e+01, Loss_u: 5.269e+00, Loss_r: 3.087e+01, Time: 0.06
+constant_ics_val: 42.717
+constant_bcs_val: 118.600
+It: 600, Loss: 2.513e+01, Loss_u: 2.687e+00, Loss_r: 2.244e+01, Time: 0.05
+constant_ics_val: 50.627
+constant_bcs_val: 133.313
+It: 700, Loss: 2.604e+01, Loss_u: 2.561e+00, Loss_r: 2.348e+01, Time: 0.06
+constant_ics_val: 35.196
+constant_bcs_val: 126.143
+It: 800, Loss: 1.272e+01, Loss_u: 1.576e+00, Loss_r: 1.114e+01, Time: 0.06
+constant_ics_val: 49.568
+constant_bcs_val: 154.912
+It: 900, Loss: 2.308e+01, Loss_u: 1.943e+00, Loss_r: 2.113e+01, Time: 0.05
+constant_ics_val: 42.061
+constant_bcs_val: 185.253
+It: 1000, Loss: 1.363e+01, Loss_u: 1.225e+00, Loss_r: 1.241e+01, Time: 0.06
+constant_ics_val: 44.039
+constant_bcs_val: 159.289
+Gradients information stored ...
+It: 1100, Loss: 1.319e+01, Loss_u: 1.284e+00, Loss_r: 1.191e+01, Time: 0.06
+constant_ics_val: 39.217
+constant_bcs_val: 181.308
+It: 1200, Loss: 1.323e+01, Loss_u: 9.411e-01, Loss_r: 1.229e+01, Time: 0.05
+constant_ics_val: 33.244
+constant_bcs_val: 210.675
+It: 1300, Loss: 8.862e+00, Loss_u: 6.751e-01, Loss_r: 8.186e+00, Time: 0.04
+constant_ics_val: 28.692
+constant_bcs_val: 199.425
+It: 1400, Loss: 8.250e+00, Loss_u: 3.094e-01, Loss_r: 7.941e+00, Time: 0.05
+constant_ics_val: 39.058
+constant_bcs_val: 186.416
+It: 1500, Loss: 6.655e+00, Loss_u: 9.598e-01, Loss_r: 5.695e+00, Time: 0.05
+constant_ics_val: 34.597
+constant_bcs_val: 167.565

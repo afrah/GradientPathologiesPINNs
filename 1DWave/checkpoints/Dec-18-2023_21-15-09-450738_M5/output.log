@@ -1,0 +1,36 @@
+Gradients information stored ...
+updating  loss_bc1:   1.8121e-01
+updating  loss_bc2:   1.7648e-01
+updating  loss_ics_u:   1.0606e-01
+Gradients information stored ...
+updating  loss_bc1:   3.3984e-01
+updating  loss_bc2:   2.1889e-01
+updating  loss_ics_u:   9.3326e-02
+updating  loss_bc1:   6.4464e-01
+updating  loss_bc2:   9.8651e-01
+updating  loss_ics_u:   2.9093e-01
+updating  loss_bc1:   3.8155e+00
+updating  loss_bc2:   3.4859e+00
+updating  loss_ics_u:   1.7086e+00
+updating  loss_bc1:   4.2087e+00
+updating  loss_bc2:   6.8266e+00
+updating  loss_ics_u:   2.9502e+00
+updating  loss_bc1:   3.5291e+00
+updating  loss_bc2:   7.6710e+00
+updating  loss_ics_u:   2.3702e+00
+updating  loss_bc1:   1.0285e+00
+updating  loss_bc2:   2.2425e+00
+updating  loss_ics_u:   1.5977e+00
+updating  loss_bc1:   1.1645e+00
+updating  loss_bc2:   1.6470e+00
+updating  loss_ics_u:   1.5306e+00
+updating  loss_bc1:   7.1759e+00
+updating  loss_bc2:   1.8622e+01
+updating  loss_ics_u:   5.5985e+00
+average adaptive_constant_bcs1_log : 2.4542e+00
+average adaptive_constant_bcs2_log : 4.6531e+00
+average adaptive_constant_ics_log : 1.8051e+00
+Save uv NN parameters successfully in %s ...checkpoints/Dec-18-2023_21-15-09-450738_M5
+Final loss loss_bc1: 3.288161e-01
+Final loss loss_bc2: 7.330308e-03
+Final loss loss_ics_u: 3.566815e-02

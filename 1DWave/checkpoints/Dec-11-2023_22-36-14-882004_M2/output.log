@@ -1,0 +1,37 @@
+It: 0 |  Loss: 1.418e+01 |  Loss_res: 2.256e+00 |   Loss_bcs1: 1.368e+00 | Loss_bc2s: 1.129e+00 |  loss_ics_u: 1.256e+00 |  Loss_ut_ics: 8.168e+00 |  Time: 3.23
+adaptive_constant_ics_val: 1.658e+01
+adaptive_constant_bcs_val: 3.049e+01
+Gradients information stored ...
+Gradients information stored ...
+Gradients information stored ...
+It: 5000 |  Loss: 5.450e-01 |  Loss_res: 1.002e-01 |   Loss_bcs1: 1.139e-02 | Loss_bc2s: 9.685e-03 |  loss_ics_u: 8.685e-02 |  Loss_ut_ics: 7.308e-03 |  Time: 837.91
+adaptive_constant_ics_val: 3.536e+02
+adaptive_constant_bcs_val: 6.503e+02
+It: 10000 |  Loss: 2.648e+00 |  Loss_res: 9.000e-02 |   Loss_bcs1: 6.166e-03 | Loss_bc2s: 4.309e-03 |  loss_ics_u: 2.434e-02 |  Loss_ut_ics: 4.513e-03 |  Time: 874.29
+adaptive_constant_ics_val: 1.304e+02
+adaptive_constant_bcs_val: 7.108e+02
+It: 15000 |  Loss: 2.220e+00 |  Loss_res: 1.234e-01 |   Loss_bcs1: 7.039e-03 | Loss_bc2s: 3.876e-03 |  loss_ics_u: 3.704e-03 |  Loss_ut_ics: 3.303e-03 |  Time: 822.75
+adaptive_constant_ics_val: 1.875e+02
+adaptive_constant_bcs_val: 6.315e+03
+It: 20000 |  Loss: 3.271e+00 |  Loss_res: 3.590e-01 |   Loss_bcs1: 1.479e-03 | Loss_bc2s: 1.442e-03 |  loss_ics_u: 8.662e-04 |  Loss_ut_ics: 1.109e-03 |  Time: 789.43
+adaptive_constant_ics_val: 3.404e+02
+adaptive_constant_bcs_val: 7.358e+03
+It: 25000 |  Loss: 2.717e+00 |  Loss_res: 4.933e-01 |   Loss_bcs1: 5.408e-04 | Loss_bc2s: 7.390e-04 |  loss_ics_u: 2.390e-04 |  Loss_ut_ics: 8.993e-04 |  Time: 790.93
+adaptive_constant_ics_val: 1.042e+03
+adaptive_constant_bcs_val: 1.888e+04
+It: 30000 |  Loss: 2.809e+00 |  Loss_res: 5.150e-01 |   Loss_bcs1: 2.070e-04 | Loss_bc2s: 3.577e-04 |  loss_ics_u: 8.233e-05 |  Loss_ut_ics: 1.358e-03 |  Time: 756.53
+adaptive_constant_ics_val: 5.712e+02
+adaptive_constant_bcs_val: 4.648e+04
+It: 35000 |  Loss: 3.176e+00 |  Loss_res: 7.738e-01 |   Loss_bcs1: 1.129e-04 | Loss_bc2s: 1.641e-04 |  loss_ics_u: 3.427e-05 |  Loss_ut_ics: 3.151e-04 |  Time: 773.97
+adaptive_constant_ics_val: 4.689e+02
+adaptive_constant_bcs_val: 1.010e+04
+Gradients information stored ...
+Save uv NN parameters successfully in %s ...checkpoints/Dec-11-2023_22-36-14-882004_M2
+Final loss total loss: 2.112168e+00
+Final loss loss_res: 5.347874e-01
+Final loss loss_bc1: 5.813326e-05
+Final loss loss_bc2: 1.124657e-04
+Final loss loss_ics_u: 2.110647e-05
+average lambda_bc1.1316e+04
+average lambda_ic3.8878e+02
+average lambda_res1.0

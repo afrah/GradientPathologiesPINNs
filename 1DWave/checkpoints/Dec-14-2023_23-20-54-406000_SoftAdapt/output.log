@@ -1,0 +1,22 @@
+Gradients information stored ...
+It: 100 |  Loss: 4.463e-01 |  Loss_res: 3.262e-04 |   Loss_bcs1: 5.413e-02 | Loss_bc2s: 2.316e-02 |  loss_ics_u: 3.543e-01 |  Loss_ut_ics: 1.431e-02 |  Time: 0.03
+adaptive_constant_res_val: 1.000e+00
+adaptive_constant_ics_val: 4.395e-04
+adaptive_constant_bcs_val: 9.781e-17
+Gradients information stored ...
+It: 200 |  Loss: 2.125e-04 |  Loss_res: 1.987e-04 |   Loss_bcs1: 5.104e-02 | Loss_bc2s: 3.628e-02 |  loss_ics_u: 2.963e-01 |  Loss_ut_ics: 3.140e-02 |  Time: 0.03
+adaptive_constant_res_val: 1.000e+00
+adaptive_constant_ics_val: 8.352e+02
+adaptive_constant_bcs_val: 6.112e+17
+It: 300 |  Loss: 8.674e+16 |  Loss_res: 1.101e+03 |   Loss_bcs1: 7.182e-03 | Loss_bc2s: 1.968e-03 |  loss_ics_u: 1.328e-01 |  Loss_ut_ics: 1.440e+00 |  Time: 0.04
+adaptive_constant_res_val: 1.000e+00
+adaptive_constant_ics_val: 6.761e+03
+adaptive_constant_bcs_val: 1.424e-56
+It: 400 |  Loss: 8.359e+03 |  Loss_res: 1.230e+03 |   Loss_bcs1: 1.112e-01 | Loss_bc2s: 1.257e-01 |  loss_ics_u: 2.210e-01 |  Loss_ut_ics: 1.054e+00 |  Time: 0.04
+adaptive_constant_res_val: 1.000e+00
+adaptive_constant_ics_val: 5.139e-14
+adaptive_constant_bcs_val: 9.663e+66
+It: 500 |  Loss: nan |  Loss_res: nan |   Loss_bcs1: nan | Loss_bc2s: nan |  loss_ics_u: nan |  Loss_ut_ics: nan |  Time: 0.04
+adaptive_constant_res_val: 1.000e+00
+adaptive_constant_ics_val: nan
+adaptive_constant_bcs_val: nan

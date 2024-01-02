@@ -1,0 +1,58 @@
+It: 0, Loss: 7.222e-01, Loss_u: 5.995e-01, Loss_r: 1.227e-01, Time: 15.16
+constant_bcs_val: 1000.000
+Gradients information stored ...
+It: 100, Loss: 6.442e+01, Loss_u: 6.422e+01, Loss_r: 1.987e-01, Time: 0.05
+Gradients information stored ...
+It: 200, Loss: 4.977e+01, Loss_u: 4.966e+01, Loss_r: 1.003e-01, Time: 0.05
+It: 300, Loss: 3.568e+01, Loss_u: 3.562e+01, Loss_r: 5.475e-02, Time: 0.05
+It: 400, Loss: 2.031e+01, Loss_u: 2.022e+01, Loss_r: 8.363e-02, Time: 0.05
+It: 500, Loss: 2.303e+01, Loss_u: 2.294e+01, Loss_r: 9.052e-02, Time: 0.05
+It: 600, Loss: 2.627e+01, Loss_u: 2.602e+01, Loss_r: 2.460e-01, Time: 0.05
+It: 700, Loss: 1.594e+01, Loss_u: 1.573e+01, Loss_r: 2.129e-01, Time: 0.06
+It: 800, Loss: 1.981e+01, Loss_u: 1.936e+01, Loss_r: 4.442e-01, Time: 0.05
+It: 900, Loss: 1.990e+01, Loss_u: 1.955e+01, Loss_r: 3.576e-01, Time: 0.05
+It: 1000, Loss: 9.263e+00, Loss_u: 8.736e+00, Loss_r: 5.266e-01, Time: 0.05
+constant_bcs_val: 1000.000
+Gradients information stored ...
+It: 1100, Loss: 3.193e+01, Loss_u: 3.145e+01, Loss_r: 4.736e-01, Time: 0.05
+It: 1200, Loss: 2.276e+01, Loss_u: 2.222e+01, Loss_r: 5.424e-01, Time: 0.04
+It: 1300, Loss: 2.234e+01, Loss_u: 2.170e+01, Loss_r: 6.450e-01, Time: 0.05
+It: 1400, Loss: 1.905e+01, Loss_u: 1.829e+01, Loss_r: 7.599e-01, Time: 0.05
+It: 1500, Loss: 1.165e+01, Loss_u: 1.093e+01, Loss_r: 7.178e-01, Time: 0.05
+It: 1600, Loss: 2.029e+01, Loss_u: 1.947e+01, Loss_r: 8.279e-01, Time: 0.05
+It: 1700, Loss: 1.167e+01, Loss_u: 1.077e+01, Loss_r: 9.002e-01, Time: 0.05
+It: 1800, Loss: 1.205e+01, Loss_u: 1.109e+01, Loss_r: 9.603e-01, Time: 0.05
+It: 1900, Loss: 1.117e+01, Loss_u: 1.036e+01, Loss_r: 8.073e-01, Time: 0.05
+It: 2000, Loss: 1.016e+01, Loss_u: 9.676e+00, Loss_r: 4.828e-01, Time: 0.05
+constant_bcs_val: 1000.000
+It: 2100, Loss: 1.668e+01, Loss_u: 1.566e+01, Loss_r: 1.026e+00, Time: 0.05
+It: 2200, Loss: 1.515e+01, Loss_u: 1.446e+01, Loss_r: 6.987e-01, Time: 0.05
+It: 2300, Loss: 1.463e+01, Loss_u: 1.395e+01, Loss_r: 6.760e-01, Time: 0.05
+It: 2400, Loss: 1.591e+01, Loss_u: 1.499e+01, Loss_r: 9.155e-01, Time: 0.05
+It: 2500, Loss: 9.017e+00, Loss_u: 7.988e+00, Loss_r: 1.028e+00, Time: 0.05
+It: 2600, Loss: 1.304e+01, Loss_u: 1.223e+01, Loss_r: 8.039e-01, Time: 0.05
+It: 2700, Loss: 1.176e+01, Loss_u: 1.110e+01, Loss_r: 6.610e-01, Time: 0.05
+It: 2800, Loss: 8.062e+00, Loss_u: 6.397e+00, Loss_r: 1.665e+00, Time: 0.05
+It: 2900, Loss: 9.021e+00, Loss_u: 7.907e+00, Loss_r: 1.113e+00, Time: 0.05
+It: 3000, Loss: 1.457e+01, Loss_u: 1.327e+01, Loss_r: 1.305e+00, Time: 0.05
+constant_bcs_val: 1000.000
+It: 3100, Loss: 5.570e+00, Loss_u: 4.334e+00, Loss_r: 1.236e+00, Time: 0.05
+It: 3200, Loss: 9.521e+00, Loss_u: 8.876e+00, Loss_r: 6.451e-01, Time: 0.05
+It: 3300, Loss: 7.746e+00, Loss_u: 6.509e+00, Loss_r: 1.238e+00, Time: 0.05
+It: 3400, Loss: 1.473e+01, Loss_u: 1.389e+01, Loss_r: 8.482e-01, Time: 0.05
+It: 3500, Loss: 7.393e+00, Loss_u: 6.805e+00, Loss_r: 5.880e-01, Time: 0.05
+It: 3600, Loss: 1.088e+01, Loss_u: 1.058e+01, Loss_r: 3.026e-01, Time: 0.05
+It: 3700, Loss: 1.582e+01, Loss_u: 1.485e+01, Loss_r: 9.656e-01, Time: 0.05
+It: 3800, Loss: 6.472e+00, Loss_u: 5.587e+00, Loss_r: 8.852e-01, Time: 0.05
+It: 3900, Loss: 1.755e+01, Loss_u: 1.703e+01, Loss_r: 5.231e-01, Time: 0.06
+It: 4000, Loss: 1.218e+01, Loss_u: 1.158e+01, Loss_r: 5.991e-01, Time: 0.05
+constant_bcs_val: 1000.000
+It: 4100, Loss: 9.971e+00, Loss_u: 9.104e+00, Loss_r: 8.667e-01, Time: 0.05
+It: 4200, Loss: 7.472e+00, Loss_u: 6.380e+00, Loss_r: 1.092e+00, Time: 0.06
+It: 4300, Loss: 4.806e+00, Loss_u: 4.285e+00, Loss_r: 5.215e-01, Time: 0.06
+It: 4400, Loss: 6.416e+00, Loss_u: 6.178e+00, Loss_r: 2.375e-01, Time: 0.05
+It: 4500, Loss: 6.659e+00, Loss_u: 6.179e+00, Loss_r: 4.805e-01, Time: 0.06
+It: 4600, Loss: 4.224e+00, Loss_u: 3.823e+00, Loss_r: 4.010e-01, Time: 0.07
+It: 4700, Loss: 8.726e+00, Loss_u: 7.337e+00, Loss_r: 1.389e+00, Time: 0.05
+It: 4800, Loss: 6.316e+00, Loss_u: 5.532e+00, Loss_r: 7.835e-01, Time: 0.13
+It: 4900, Loss: 6.084e+00, Loss_u: 4.932e+00, Loss_r: 1.152e+00, Time: 0.07

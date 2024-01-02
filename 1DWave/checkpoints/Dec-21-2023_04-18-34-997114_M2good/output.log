@@ -1,0 +1,95 @@
+adaptive_constant_ics_val: 2.462e+01
+adaptive_constant_bcs_val: 3.542e+01
+Gradients information stored ...
+Gradients information stored ...
+adaptive_constant_ics_val: 3.125e+01
+adaptive_constant_bcs_val: 1.611e+02
+Gradients information stored ...
+adaptive_constant_ics_val: 5.941e+01
+adaptive_constant_bcs_val: 2.156e+02
+adaptive_constant_ics_val: 1.480e+02
+adaptive_constant_bcs_val: 9.730e+02
+adaptive_constant_ics_val: 2.271e+02
+adaptive_constant_bcs_val: 1.724e+03
+adaptive_constant_ics_val: 3.066e+02
+adaptive_constant_bcs_val: 4.082e+03
+adaptive_constant_ics_val: 2.122e+02
+adaptive_constant_bcs_val: 1.756e+04
+adaptive_constant_ics_val: 1.404e+03
+adaptive_constant_bcs_val: 6.938e+04
+adaptive_constant_ics_val: 1.539e+03
+adaptive_constant_bcs_val: 5.425e+04
+adaptive_constant_ics_val: 1.090e+03
+adaptive_constant_bcs_val: 2.063e+05
+adaptive_constant_ics_val: 2.366e+03
+adaptive_constant_bcs_val: 6.142e+04
+adaptive_constant_ics_val: 8.905e+02
+adaptive_constant_bcs_val: 2.766e+04
+adaptive_constant_ics_val: 5.541e+02
+adaptive_constant_bcs_val: 4.549e+04
+adaptive_constant_ics_val: 1.609e+02
+adaptive_constant_bcs_val: 2.922e+04
+adaptive_constant_ics_val: 6.196e+02
+adaptive_constant_bcs_val: 1.332e+04
+adaptive_constant_ics_val: 1.548e+02
+adaptive_constant_bcs_val: 1.686e+04
+adaptive_constant_ics_val: 4.673e+02
+adaptive_constant_bcs_val: 8.511e+04
+adaptive_constant_ics_val: 9.456e+02
+adaptive_constant_bcs_val: 1.255e+05
+adaptive_constant_ics_val: 2.240e+03
+adaptive_constant_bcs_val: 7.327e+04
+adaptive_constant_ics_val: 6.189e+02
+adaptive_constant_bcs_val: 9.007e+04
+adaptive_constant_ics_val: 8.461e+02
+adaptive_constant_bcs_val: 6.442e+04
+adaptive_constant_ics_val: 1.149e+04
+adaptive_constant_bcs_val: 2.680e+05
+adaptive_constant_ics_val: 3.052e+03
+adaptive_constant_bcs_val: 2.219e+04
+adaptive_constant_ics_val: 1.365e+03
+adaptive_constant_bcs_val: 4.733e+04
+adaptive_constant_ics_val: 9.382e+02
+adaptive_constant_bcs_val: 3.014e+05
+adaptive_constant_ics_val: 7.436e+02
+adaptive_constant_bcs_val: 5.861e+04
+adaptive_constant_ics_val: 2.044e+02
+adaptive_constant_bcs_val: 4.975e+04
+adaptive_constant_ics_val: 9.554e+02
+adaptive_constant_bcs_val: 4.164e+04
+adaptive_constant_ics_val: 7.809e+02
+adaptive_constant_bcs_val: 6.905e+04
+adaptive_constant_ics_val: 1.685e+03
+adaptive_constant_bcs_val: 1.666e+05
+adaptive_constant_ics_val: 2.134e+03
+adaptive_constant_bcs_val: 1.914e+05
+adaptive_constant_ics_val: 5.059e+03
+adaptive_constant_bcs_val: 1.526e+05
+adaptive_constant_ics_val: 1.174e+03
+adaptive_constant_bcs_val: 3.127e+05
+adaptive_constant_ics_val: 1.749e+03
+adaptive_constant_bcs_val: 1.225e+05
+adaptive_constant_ics_val: 7.100e+02
+adaptive_constant_bcs_val: 1.243e+05
+adaptive_constant_ics_val: 6.341e+02
+adaptive_constant_bcs_val: 1.012e+05
+adaptive_constant_ics_val: 3.030e+03
+adaptive_constant_bcs_val: 1.059e+05
+adaptive_constant_ics_val: 1.622e+03
+adaptive_constant_bcs_val: 1.485e+05
+adaptive_constant_ics_val: 1.956e+03
+adaptive_constant_bcs_val: 5.955e+04
+adaptive_constant_ics_val: 2.225e+03
+adaptive_constant_bcs_val: 6.055e+04
+Gradients information stored ...
+adaptive_constant_ics_val: 1.780e+03
+adaptive_constant_bcs_val: 9.720e+04
+Save uv NN parameters successfully in %s ...checkpoints/Dec-21-2023_04-18-34-997114_M2
+Final loss total loss: 1.002921e+00
+Final loss loss_res: 3.857771e-01
+Final loss loss_bc1: 8.248410e-07
+Final loss loss_bc2: 2.872912e-06
+Final loss loss_ics_u: 1.556936e-06
+average lambda_bc : 8.5074e+04
+average lambda_ic : 1.4193e+03
+average lambda_res : 1.0

@@ -1,0 +1,452 @@
+Gradients information stored ...
+Gradients information stored ...
+It: 1000, Loss: 1.326e+02, loss_bcs: 1.735e+01e, loss_ics: 5.285e+01, Loss_r: 6.235e+01, Time: 0.01
+min_grad: 9.753e+00
+adaptive_constant_res_val: 1.579e+03
+adaptive_constant_ics_val: 1.739e+02
+adaptive_constant_bcs_val: 9.753e+00
+update_res: 9.377e-01
+update_ics_u_t: 6.581e-01
+update_bcs1: 6.546e-01
+adaptive_constant_res_val: 1.000e+00
+adaptive_constant_ics_val: 1.000e+03
+adaptive_constant_bcs1_val: 1.000e+03
+Gradients information stored ...
+It: 2000, Loss: 9.009e+01, loss_bcs: 1.947e-03e, loss_ics: 5.932e-02, Loss_r: 2.883e+01, Time: 0.01
+min_grad: 6.375e-02
+adaptive_constant_res_val: 6.200e+02
+adaptive_constant_ics_val: 5.994e+00
+adaptive_constant_bcs_val: 6.375e-02
+update_res: 5.549e-01
+update_ics_u_t: 1.357e+00
+update_bcs1: 4.373e-01
+adaptive_constant_res_val: 1.000e+00
+adaptive_constant_ics_val: 1.000e+03
+adaptive_constant_bcs1_val: 1.000e+03
+It: 3000, Loss: 1.367e+01, loss_bcs: 5.341e-04e, loss_ics: 6.732e-03, Loss_r: 6.406e+00, Time: 0.01
+min_grad: 1.950e-02
+adaptive_constant_res_val: 6.312e+02
+adaptive_constant_ics_val: 9.882e+00
+adaptive_constant_bcs_val: 1.950e-02
+update_res: 7.174e-01
+update_ics_u_t: 1.083e+00
+update_bcs1: 5.298e-01
+adaptive_constant_res_val: 1.000e+00
+adaptive_constant_ics_val: 1.000e+03
+adaptive_constant_bcs1_val: 1.000e+03
+It: 4000, Loss: 5.246e+00, loss_bcs: 3.576e-04e, loss_ics: 1.682e-03, Loss_r: 3.207e+00, Time: 0.01
+min_grad: 2.033e-02
+adaptive_constant_res_val: 2.678e+02
+adaptive_constant_ics_val: 3.779e+00
+adaptive_constant_bcs_val: 2.033e-02
+update_res: 4.875e-01
+update_ics_u_t: 1.408e+00
+update_bcs1: 3.981e-01
+adaptive_constant_res_val: 1.000e+00
+adaptive_constant_ics_val: 1.000e+03
+adaptive_constant_bcs1_val: 1.000e+03
+It: 5000, Loss: 4.041e+00, loss_bcs: 2.141e-04e, loss_ics: 4.900e-04, Loss_r: 3.337e+00, Time: 0.01
+min_grad: 1.470e-02
+adaptive_constant_res_val: 1.068e+02
+adaptive_constant_ics_val: 1.582e+00
+adaptive_constant_bcs_val: 1.470e-02
+update_res: 6.107e-01
+update_ics_u_t: 1.188e+00
+update_bcs1: 5.274e-01
+adaptive_constant_res_val: 1.000e+00
+adaptive_constant_ics_val: 1.000e+03
+adaptive_constant_bcs1_val: 1.000e+03
+It: 6000, Loss: 4.641e+00, loss_bcs: 2.915e-04e, loss_ics: 1.323e-03, Loss_r: 3.027e+00, Time: 0.01
+min_grad: 2.632e-02
+adaptive_constant_res_val: 1.108e+02
+adaptive_constant_ics_val: 3.866e-01
+adaptive_constant_bcs_val: 2.632e-02
+update_res: 6.174e-01
+update_ics_u_t: 1.111e+00
+update_bcs1: 5.879e-01
+adaptive_constant_res_val: 1.000e+00
+adaptive_constant_ics_val: 1.000e+03
+adaptive_constant_bcs1_val: 1.000e+03
+It: 7000, Loss: 3.164e+00, loss_bcs: 1.835e-04e, loss_ics: 1.046e-03, Loss_r: 1.934e+00, Time: 0.01
+min_grad: 1.745e-02
+adaptive_constant_res_val: 5.934e+01
+adaptive_constant_ics_val: 1.128e+00
+adaptive_constant_bcs_val: 1.745e-02
+update_res: 4.503e-01
+update_ics_u_t: 1.243e+00
+update_bcs1: 3.891e-01
+adaptive_constant_res_val: 1.000e+00
+adaptive_constant_ics_val: 1.000e+03
+adaptive_constant_bcs1_val: 1.000e+03
+It: 8000, Loss: 4.772e+00, loss_bcs: 1.384e-04e, loss_ics: 2.029e-04, Loss_r: 4.430e+00, Time: 0.01
+min_grad: 9.076e-03
+adaptive_constant_res_val: 1.700e+02
+adaptive_constant_ics_val: 2.285e-01
+adaptive_constant_bcs_val: 9.076e-03
+update_res: 4.729e-01
+update_ics_u_t: 1.252e+00
+update_bcs1: 4.203e-01
+adaptive_constant_res_val: 1.000e+00
+adaptive_constant_ics_val: 1.000e+03
+adaptive_constant_bcs1_val: 1.000e+03
+It: 9000, Loss: 1.576e+00, loss_bcs: 1.723e-04e, loss_ics: 1.786e-04, Loss_r: 1.225e+00, Time: 0.01
+min_grad: 1.225e-02
+adaptive_constant_res_val: 4.928e+01
+adaptive_constant_ics_val: 3.482e-01
+adaptive_constant_bcs_val: 1.225e-02
+update_res: 8.134e-01
+update_ics_u_t: 7.757e-01
+update_bcs1: 6.527e-01
+adaptive_constant_res_val: 1.000e+00
+adaptive_constant_ics_val: 1.000e+03
+adaptive_constant_bcs1_val: 1.000e+03
+It: 10000, Loss: 1.023e+00, loss_bcs: 1.259e-04e, loss_ics: 1.790e-04, Loss_r: 7.181e-01, Time: 0.01
+min_grad: 1.359e-02
+adaptive_constant_res_val: 6.433e+01
+adaptive_constant_ics_val: 3.716e-01
+adaptive_constant_bcs_val: 1.359e-02
+update_res: 3.446e-01
+update_ics_u_t: 1.557e+00
+update_bcs1: 3.360e-01
+adaptive_constant_res_val: 1.000e+00
+adaptive_constant_ics_val: 1.000e+03
+adaptive_constant_bcs1_val: 1.000e+03
+It: 11000, Loss: 9.411e-01, loss_bcs: 9.115e-05e, loss_ics: 9.697e-05, Loss_r: 7.530e-01, Time: 0.01
+min_grad: 1.621e-02
+adaptive_constant_res_val: 1.240e+02
+adaptive_constant_ics_val: 2.944e-01
+adaptive_constant_bcs_val: 1.621e-02
+update_res: 2.846e-01
+update_ics_u_t: 1.400e+00
+update_bcs1: 2.825e-01
+adaptive_constant_res_val: 1.000e+00
+adaptive_constant_ics_val: 1.000e+03
+adaptive_constant_bcs1_val: 1.000e+03
+It: 12000, Loss: 8.506e-01, loss_bcs: 1.202e-04e, loss_ics: 1.473e-04, Loss_r: 5.831e-01, Time: 0.01
+min_grad: 1.002e-02
+adaptive_constant_res_val: 2.191e+02
+adaptive_constant_ics_val: 8.239e-01
+adaptive_constant_bcs_val: 1.002e-02
+update_res: 3.512e-01
+update_ics_u_t: 1.630e+00
+update_bcs1: 3.282e-01
+adaptive_constant_res_val: 1.000e+00
+adaptive_constant_ics_val: 1.000e+03
+adaptive_constant_bcs1_val: 1.000e+03
+It: 13000, Loss: 1.143e+00, loss_bcs: 6.426e-05e, loss_ics: 4.238e-04, Loss_r: 6.550e-01, Time: 0.01
+min_grad: 5.540e-03
+adaptive_constant_res_val: 5.784e+01
+adaptive_constant_ics_val: 6.304e-02
+adaptive_constant_bcs_val: 5.540e-03
+update_res: 3.730e-01
+update_ics_u_t: 1.415e+00
+update_bcs1: 3.271e-01
+adaptive_constant_res_val: 1.000e+00
+adaptive_constant_ics_val: 1.000e+03
+adaptive_constant_bcs1_val: 1.000e+03
+It: 14000, Loss: 9.205e-01, loss_bcs: 5.697e-05e, loss_ics: 5.948e-05, Loss_r: 8.041e-01, Time: 0.01
+min_grad: 8.230e-03
+adaptive_constant_res_val: 5.818e+01
+adaptive_constant_ics_val: 2.761e-01
+adaptive_constant_bcs_val: 8.230e-03
+update_res: 8.053e-01
+update_ics_u_t: 7.829e-01
+update_bcs1: 6.673e-01
+adaptive_constant_res_val: 1.000e+00
+adaptive_constant_ics_val: 1.000e+03
+adaptive_constant_bcs1_val: 1.000e+03
+It: 15000, Loss: 6.366e-01, loss_bcs: 6.564e-05e, loss_ics: 1.012e-04, Loss_r: 4.698e-01, Time: 0.01
+min_grad: 1.421e-02
+adaptive_constant_res_val: 2.737e+02
+adaptive_constant_ics_val: 5.668e-02
+adaptive_constant_bcs_val: 1.421e-02
+update_res: 7.502e-01
+update_ics_u_t: 8.598e-01
+update_bcs1: 6.864e-01
+adaptive_constant_res_val: 1.000e+00
+adaptive_constant_ics_val: 1.000e+03
+adaptive_constant_bcs1_val: 1.000e+03
+It: 16000, Loss: 6.571e-01, loss_bcs: 6.736e-05e, loss_ics: 1.289e-04, Loss_r: 4.608e-01, Time: 0.01
+min_grad: 1.175e-02
+adaptive_constant_res_val: 1.526e+02
+adaptive_constant_ics_val: 9.449e-01
+adaptive_constant_bcs_val: 1.175e-02
+update_res: 4.823e-01
+update_ics_u_t: 1.488e+00
+update_bcs1: 3.506e-01
+adaptive_constant_res_val: 1.000e+00
+adaptive_constant_ics_val: 1.000e+03
+adaptive_constant_bcs1_val: 1.000e+03
+It: 17000, Loss: 4.719e-01, loss_bcs: 3.765e-05e, loss_ics: 6.007e-05, Loss_r: 3.742e-01, Time: 0.01
+min_grad: 4.945e-03
+adaptive_constant_res_val: 8.162e+01
+adaptive_constant_ics_val: 3.309e-01
+adaptive_constant_bcs_val: 4.945e-03
+update_res: 8.492e-01
+update_ics_u_t: 8.182e-01
+update_bcs1: 5.855e-01
+adaptive_constant_res_val: 1.000e+00
+adaptive_constant_ics_val: 1.000e+03
+adaptive_constant_bcs1_val: 1.000e+03
+It: 18000, Loss: 3.342e-01, loss_bcs: 2.985e-05e, loss_ics: 1.216e-04, Loss_r: 1.827e-01, Time: 0.01
+min_grad: 5.212e-03
+adaptive_constant_res_val: 1.094e+02
+adaptive_constant_ics_val: 7.979e-01
+adaptive_constant_bcs_val: 5.212e-03
+update_res: 4.480e-01
+update_ics_u_t: 1.231e+00
+update_bcs1: 3.654e-01
+adaptive_constant_res_val: 1.000e+00
+adaptive_constant_ics_val: 1.000e+03
+adaptive_constant_bcs1_val: 1.000e+03
+It: 19000, Loss: 1.150e+00, loss_bcs: 3.607e-05e, loss_ics: 4.070e-05, Loss_r: 1.073e+00, Time: 0.01
+min_grad: 9.355e-03
+adaptive_constant_res_val: 5.949e+01
+adaptive_constant_ics_val: 4.106e-01
+adaptive_constant_bcs_val: 9.355e-03
+update_res: 5.597e-01
+update_ics_u_t: 1.316e+00
+update_bcs1: 4.146e-01
+adaptive_constant_res_val: 1.000e+00
+adaptive_constant_ics_val: 1.000e+03
+adaptive_constant_bcs1_val: 1.000e+03
+It: 20000, Loss: 3.735e-01, loss_bcs: 3.686e-05e, loss_ics: 7.511e-05, Loss_r: 2.615e-01, Time: 0.01
+min_grad: 6.159e-03
+adaptive_constant_res_val: 6.387e+01
+adaptive_constant_ics_val: 2.529e-01
+adaptive_constant_bcs_val: 6.159e-03
+update_res: 3.828e-01
+update_ics_u_t: 1.834e+00
+update_bcs1: 3.073e-01
+adaptive_constant_res_val: 1.000e+00
+adaptive_constant_ics_val: 1.000e+03
+adaptive_constant_bcs1_val: 1.000e+03
+It: 21000, Loss: 8.354e-01, loss_bcs: 2.386e-05e, loss_ics: 2.671e-04, Loss_r: 5.444e-01, Time: 0.01
+min_grad: 5.518e-03
+adaptive_constant_res_val: 5.084e+01
+adaptive_constant_ics_val: 1.683e+00
+adaptive_constant_bcs_val: 5.518e-03
+update_res: 7.236e-01
+update_ics_u_t: 9.853e-01
+update_bcs1: 6.057e-01
+adaptive_constant_res_val: 1.000e+00
+adaptive_constant_ics_val: 1.000e+03
+adaptive_constant_bcs1_val: 1.000e+03
+It: 22000, Loss: 9.503e-01, loss_bcs: 2.510e-05e, loss_ics: 6.377e-04, Loss_r: 2.875e-01, Time: 0.01
+min_grad: 8.769e-03
+adaptive_constant_res_val: 1.684e+01
+adaptive_constant_ics_val: 1.095e-01
+adaptive_constant_bcs_val: 8.769e-03
+update_res: 5.689e-01
+update_ics_u_t: 1.416e+00
+update_bcs1: 4.110e-01
+adaptive_constant_res_val: 1.000e+00
+adaptive_constant_ics_val: 1.000e+03
+adaptive_constant_bcs1_val: 1.000e+03
+It: 23000, Loss: 2.359e-01, loss_bcs: 1.889e-05e, loss_ics: 5.639e-05, Loss_r: 1.606e-01, Time: 0.01
+min_grad: 7.325e-03
+adaptive_constant_res_val: 4.734e+01
+adaptive_constant_ics_val: 2.850e-01
+adaptive_constant_bcs_val: 7.325e-03
+update_res: 8.101e-01
+update_ics_u_t: 8.467e-01
+update_bcs1: 6.242e-01
+adaptive_constant_res_val: 1.000e+00
+adaptive_constant_ics_val: 1.000e+03
+adaptive_constant_bcs1_val: 1.000e+03
+It: 24000, Loss: 3.372e-01, loss_bcs: 2.174e-05e, loss_ics: 1.424e-04, Loss_r: 1.731e-01, Time: 0.01
+min_grad: 5.672e-03
+adaptive_constant_res_val: 1.447e+01
+adaptive_constant_ics_val: 4.370e-01
+adaptive_constant_bcs_val: 5.672e-03
+update_res: 7.094e-01
+update_ics_u_t: 1.124e+00
+update_bcs1: 5.246e-01
+adaptive_constant_res_val: 1.000e+00
+adaptive_constant_ics_val: 1.000e+03
+adaptive_constant_bcs1_val: 1.000e+03
+It: 25000, Loss: 3.107e-01, loss_bcs: 1.952e-05e, loss_ics: 6.977e-05, Loss_r: 2.214e-01, Time: 0.01
+min_grad: 3.799e-03
+adaptive_constant_res_val: 4.146e+01
+adaptive_constant_ics_val: 8.778e-02
+adaptive_constant_bcs_val: 3.799e-03
+update_res: 7.282e-01
+update_ics_u_t: 1.065e+00
+update_bcs1: 5.591e-01
+adaptive_constant_res_val: 1.000e+00
+adaptive_constant_ics_val: 1.000e+03
+adaptive_constant_bcs1_val: 1.000e+03
+It: 26000, Loss: 1.381e-01, loss_bcs: 1.100e-05e, loss_ics: 2.623e-05, Loss_r: 1.008e-01, Time: 0.01
+min_grad: 3.631e-03
+adaptive_constant_res_val: 1.506e+01
+adaptive_constant_ics_val: 1.891e-01
+adaptive_constant_bcs_val: 3.631e-03
+update_res: 7.034e-01
+update_ics_u_t: 1.073e+00
+update_bcs1: 5.674e-01
+adaptive_constant_res_val: 1.000e+00
+adaptive_constant_ics_val: 1.000e+03
+adaptive_constant_bcs1_val: 1.000e+03
+It: 27000, Loss: 2.138e-01, loss_bcs: 2.610e-05e, loss_ics: 5.284e-05, Loss_r: 1.349e-01, Time: 0.01
+min_grad: 8.753e-03
+adaptive_constant_res_val: 1.431e+01
+adaptive_constant_ics_val: 6.916e-02
+adaptive_constant_bcs_val: 8.753e-03
+update_res: 6.495e-01
+update_ics_u_t: 1.237e+00
+update_bcs1: 4.845e-01
+adaptive_constant_res_val: 1.000e+00
+adaptive_constant_ics_val: 1.000e+03
+adaptive_constant_bcs1_val: 1.000e+03
+It: 28000, Loss: 4.130e-01, loss_bcs: 1.827e-05e, loss_ics: 2.255e-04, Loss_r: 1.692e-01, Time: 0.01
+min_grad: 5.969e-03
+adaptive_constant_res_val: 1.021e+02
+adaptive_constant_ics_val: 7.272e-01
+adaptive_constant_bcs_val: 5.969e-03
+update_res: 8.183e-01
+update_ics_u_t: 9.017e-01
+update_bcs1: 5.675e-01
+adaptive_constant_res_val: 1.000e+00
+adaptive_constant_ics_val: 1.000e+03
+adaptive_constant_bcs1_val: 1.000e+03
+It: 29000, Loss: 1.354e-01, loss_bcs: 1.879e-05e, loss_ics: 3.242e-05, Loss_r: 8.419e-02, Time: 0.01
+min_grad: 6.256e-03
+adaptive_constant_res_val: 2.546e+01
+adaptive_constant_ics_val: 2.138e-01
+adaptive_constant_bcs_val: 6.256e-03
+update_res: 7.833e-01
+update_ics_u_t: 9.347e-01
+update_bcs1: 5.837e-01
+adaptive_constant_res_val: 1.000e+00
+adaptive_constant_ics_val: 1.000e+03
+adaptive_constant_bcs1_val: 1.000e+03
+It: 30000, Loss: 1.817e-01, loss_bcs: 1.493e-05e, loss_ics: 4.599e-05, Loss_r: 1.207e-01, Time: 0.01
+min_grad: 3.252e-03
+adaptive_constant_res_val: 7.384e+01
+adaptive_constant_ics_val: 1.567e-01
+adaptive_constant_bcs_val: 3.252e-03
+update_res: 8.673e-01
+update_ics_u_t: 8.765e-01
+update_bcs1: 5.426e-01
+adaptive_constant_res_val: 1.000e+00
+adaptive_constant_ics_val: 1.000e+03
+adaptive_constant_bcs1_val: 1.000e+03
+It: 31000, Loss: 2.295e-01, loss_bcs: 1.022e-05e, loss_ics: 1.320e-05, Loss_r: 2.061e-01, Time: 0.01
+min_grad: 4.298e-03
+adaptive_constant_res_val: 2.390e+01
+adaptive_constant_ics_val: 2.277e-02
+adaptive_constant_bcs_val: 4.298e-03
+update_res: 8.292e-01
+update_ics_u_t: 8.903e-01
+update_bcs1: 5.609e-01
+adaptive_constant_res_val: 1.000e+00
+adaptive_constant_ics_val: 1.000e+03
+adaptive_constant_bcs1_val: 1.000e+03
+It: 32000, Loss: 2.093e-01, loss_bcs: 1.219e-05e, loss_ics: 1.598e-05, Loss_r: 1.812e-01, Time: 0.02
+min_grad: 5.213e-03
+adaptive_constant_res_val: 1.887e+01
+adaptive_constant_ics_val: 2.671e-01
+adaptive_constant_bcs_val: 5.213e-03
+update_res: 7.862e-01
+update_ics_u_t: 9.709e-01
+update_bcs1: 5.667e-01
+adaptive_constant_res_val: 1.000e+00
+adaptive_constant_ics_val: 1.000e+03
+adaptive_constant_bcs1_val: 1.000e+03
+It: 33000, Loss: 1.776e-01, loss_bcs: 1.619e-05e, loss_ics: 2.516e-05, Loss_r: 1.363e-01, Time: 0.01
+min_grad: 6.760e-03
+adaptive_constant_res_val: 5.198e+01
+adaptive_constant_ics_val: 5.001e-02
+adaptive_constant_bcs_val: 6.760e-03
+update_res: 9.240e-01
+update_ics_u_t: 6.530e-01
+update_bcs1: 6.217e-01
+adaptive_constant_res_val: 1.000e+00
+adaptive_constant_ics_val: 1.000e+03
+adaptive_constant_bcs1_val: 1.000e+03
+It: 34000, Loss: 1.403e-01, loss_bcs: 1.110e-05e, loss_ics: 3.796e-05, Loss_r: 9.119e-02, Time: 0.01
+min_grad: 2.697e-03
+adaptive_constant_res_val: 2.655e+01
+adaptive_constant_ics_val: 1.644e-01
+adaptive_constant_bcs_val: 2.697e-03
+update_res: 7.259e-01
+update_ics_u_t: 1.191e+00
+update_bcs1: 4.533e-01
+adaptive_constant_res_val: 1.000e+00
+adaptive_constant_ics_val: 1.000e+03
+adaptive_constant_bcs1_val: 1.000e+03
+It: 35000, Loss: 1.781e-01, loss_bcs: 1.181e-05e, loss_ics: 8.791e-05, Loss_r: 7.833e-02, Time: 0.01
+min_grad: 6.425e-03
+adaptive_constant_res_val: 2.805e+01
+adaptive_constant_ics_val: 6.636e-01
+adaptive_constant_bcs_val: 6.425e-03
+update_res: 8.713e-01
+update_ics_u_t: 8.348e-01
+update_bcs1: 5.709e-01
+adaptive_constant_res_val: 1.000e+00
+adaptive_constant_ics_val: 1.000e+03
+adaptive_constant_bcs1_val: 1.000e+03
+It: 36000, Loss: 1.165e-01, loss_bcs: 1.270e-05e, loss_ics: 2.979e-05, Loss_r: 7.400e-02, Time: 0.01
+min_grad: 6.232e-03
+adaptive_constant_res_val: 1.411e+01
+adaptive_constant_ics_val: 9.262e-02
+adaptive_constant_bcs_val: 6.232e-03
+update_res: 8.630e-01
+update_ics_u_t: 6.900e-01
+update_bcs1: 6.701e-01
+adaptive_constant_res_val: 1.000e+00
+adaptive_constant_ics_val: 1.000e+03
+adaptive_constant_bcs1_val: 1.000e+03
+It: 37000, Loss: 1.225e-01, loss_bcs: 9.869e-06e, loss_ics: 2.553e-05, Loss_r: 8.705e-02, Time: 0.01
+min_grad: 6.691e-03
+adaptive_constant_res_val: 3.535e+01
+adaptive_constant_ics_val: 1.152e-01
+adaptive_constant_bcs_val: 6.691e-03
+update_res: 8.796e-01
+update_ics_u_t: 7.569e-01
+update_bcs1: 6.143e-01
+adaptive_constant_res_val: 1.000e+00
+adaptive_constant_ics_val: 1.000e+03
+adaptive_constant_bcs1_val: 1.000e+03
+It: 38000, Loss: 1.259e-01, loss_bcs: 1.875e-05e, loss_ics: 3.093e-05, Loss_r: 7.622e-02, Time: 0.01
+min_grad: 6.836e-03
+adaptive_constant_res_val: 1.011e+01
+adaptive_constant_ics_val: 5.387e-02
+adaptive_constant_bcs_val: 6.836e-03
+update_res: 8.789e-01
+update_ics_u_t: 7.908e-01
+update_bcs1: 5.874e-01
+adaptive_constant_res_val: 1.000e+00
+adaptive_constant_ics_val: 1.000e+03
+adaptive_constant_bcs1_val: 1.000e+03
+It: 39000, Loss: 9.367e-02, loss_bcs: 1.299e-05e, loss_ics: 2.136e-05, Loss_r: 5.932e-02, Time: 0.01
+min_grad: 4.322e-03
+adaptive_constant_res_val: 1.764e+01
+adaptive_constant_ics_val: 1.855e-01
+adaptive_constant_bcs_val: 4.322e-03
+update_res: 9.867e-01
+update_ics_u_t: 6.121e-01
+update_bcs1: 5.784e-01
+adaptive_constant_res_val: 1.000e+00
+adaptive_constant_ics_val: 1.000e+03
+adaptive_constant_bcs1_val: 1.000e+03
+Gradients information stored ...
+It: 40000, Loss: 1.400e-01, loss_bcs: 1.010e-05e, loss_ics: 2.125e-05, Loss_r: 1.087e-01, Time: 0.73
+min_grad: 5.081e-03
+adaptive_constant_res_val: 6.358e+00
+adaptive_constant_ics_val: 2.299e-01
+adaptive_constant_bcs_val: 5.081e-03
+update_res: 9.627e-01
+update_ics_u_t: 6.885e-01
+update_bcs1: 5.438e-01
+adaptive_constant_res_val: 1.000e+00
+adaptive_constant_ics_val: 1.000e+03
+adaptive_constant_bcs1_val: 1.000e+03
+average lambda_bc1.0000e+03
+average lambda_bc1.0000e+03
+average lambda_res1.0
+Save uv NN parameters successfully in %s ...checkpoints/Dec-23-2023_18-54-50-786421_M2
+Final loss total loss: 1.400240e-01
+Final loss loss_res: 1.086760e-01
+Final loss loss_bcs: 1.010250e-05
+Final loss loss_ics: 2.124554e-05

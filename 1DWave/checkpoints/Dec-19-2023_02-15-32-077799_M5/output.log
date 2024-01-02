@@ -1,0 +1,189 @@
+Gradients information stored ...
+It: 100| Loss: 7.389e-01|  loss_bc1: 4.569e-02|  loss_bc2: 2.365e-02| loss_ics_u: 2.754e-01| loss_ics_ut: 2.463e-02|  Loss_res: 1.686e-04 , Time: 0.03
+lambda_balance loss_bc1: 6.6560e-01
+lambda_balance loss_bc2: 1.0843e-01
+lambda_balance loss_ics_u: 1.1418e-01
+lambda_balance loss_ics_ut: 1.1179e-01
+updating  lamda for loss loss_bc1:   [2.]
+updating  lamda for loss loss_bc2:   [2.]
+updating  lamda for loss loss_ics_u:   [2.]
+updating  lamda for loss loss_ics_ut:   [2.]
+Gradients information stored ...
+It: 200| Loss: 6.280e-01|  loss_bc1: 4.712e-02|  loss_bc2: 2.678e-02| loss_ics_u: 2.359e-01| loss_ics_ut: 1.825e-03|  Loss_res: 4.822e-03 , Time: 0.03
+lambda_balance loss_bc1: 5.4408e-01
+lambda_balance loss_bc2: 1.4810e-01
+lambda_balance loss_ics_u: 1.5558e-01
+lambda_balance loss_ics_ut: 1.5224e-01
+updating  lamda for loss loss_bc1:   [2.]
+updating  lamda for loss loss_bc2:   [2.]
+updating  lamda for loss loss_ics_u:   [2.]
+updating  lamda for loss loss_ics_ut:   [2.]
+It: 300| Loss: 5.684e-01|  loss_bc1: 3.660e-02|  loss_bc2: 2.544e-02| loss_ics_u: 2.148e-01| loss_ics_ut: 1.413e-03|  Loss_res: 1.201e-02 , Time: 0.03
+lambda_balance loss_bc1: 4.9360e-01
+lambda_balance loss_bc2: 1.6474e-01
+lambda_balance loss_ics_u: 1.7282e-01
+lambda_balance loss_ics_ut: 1.6884e-01
+updating  lamda for loss loss_bc1:   [2.]
+updating  lamda for loss loss_bc2:   [2.]
+updating  lamda for loss loss_ics_u:   [2.]
+updating  lamda for loss loss_ics_ut:   [2.]
+It: 400| Loss: 5.411e-01|  loss_bc1: 3.679e-02|  loss_bc2: 1.463e-02| loss_ics_u: 2.059e-01| loss_ics_ut: 4.568e-03|  Loss_res: 1.729e-02 , Time: 0.03
+lambda_balance loss_bc1: 4.6269e-01
+lambda_balance loss_bc2: 1.7581e-01
+lambda_balance loss_ics_u: 1.8296e-01
+lambda_balance loss_ics_ut: 1.7855e-01
+updating  lamda for loss loss_bc1:   [2.]
+updating  lamda for loss loss_bc2:   [2.]
+updating  lamda for loss loss_ics_u:   [2.]
+updating  lamda for loss loss_ics_ut:   [2.]
+It: 500| Loss: 4.490e-01|  loss_bc1: 2.807e-02|  loss_bc2: 1.441e-02| loss_ics_u: 1.585e-01| loss_ics_ut: 1.779e-03|  Loss_res: 4.357e-02 , Time: 0.04
+lambda_balance loss_bc1: 4.4260e-01
+lambda_balance loss_bc2: 1.8410e-01
+lambda_balance loss_ics_u: 1.8889e-01
+lambda_balance loss_ics_ut: 1.8442e-01
+updating  lamda for loss loss_bc1:   [2.]
+updating  lamda for loss loss_bc2:   [2.]
+updating  lamda for loss loss_ics_u:   [2.]
+updating  lamda for loss loss_ics_ut:   [2.]
+It: 600| Loss: 4.526e-01|  loss_bc1: 3.762e-02|  loss_bc2: 6.824e-03| loss_ics_u: 1.671e-01| loss_ics_ut: 9.643e-03|  Loss_res: 1.018e-02 , Time: 0.04
+lambda_balance loss_bc1: 4.2561e-01
+lambda_balance loss_bc2: 1.9002e-01
+lambda_balance loss_ics_u: 1.9448e-01
+lambda_balance loss_ics_ut: 1.8989e-01
+updating  lamda for loss loss_bc1:   [2.]
+updating  lamda for loss loss_bc2:   [2.]
+updating  lamda for loss loss_ics_u:   [2.]
+updating  lamda for loss loss_ics_ut:   [2.]
+It: 700| Loss: 6.182e-01|  loss_bc1: 2.693e-02|  loss_bc2: 1.259e-02| loss_ics_u: 1.927e-01| loss_ics_ut: 2.523e-02|  Loss_res: 1.034e-01 , Time: 0.03
+lambda_balance loss_bc1: 4.1406e-01
+lambda_balance loss_bc2: 1.9477e-01
+lambda_balance loss_ics_u: 1.9787e-01
+lambda_balance loss_ics_ut: 1.9330e-01
+updating  lamda for loss loss_bc1:   [2.]
+updating  lamda for loss loss_bc2:   [2.]
+updating  lamda for loss loss_ics_u:   [2.]
+updating  lamda for loss loss_ics_ut:   [2.]
+It: 800| Loss: 4.060e-01|  loss_bc1: 3.252e-02|  loss_bc2: 1.019e-02| loss_ics_u: 1.435e-01| loss_ics_ut: 8.076e-03|  Loss_res: 1.751e-02 , Time: 0.04
+lambda_balance loss_bc1: 4.0414e-01
+lambda_balance loss_bc2: 1.9830e-01
+lambda_balance loss_ics_u: 2.0108e-01
+lambda_balance loss_ics_ut: 1.9647e-01
+updating  lamda for loss loss_bc1:   [2.]
+updating  lamda for loss loss_bc2:   [2.]
+updating  lamda for loss loss_ics_u:   [2.]
+updating  lamda for loss loss_ics_ut:   [2.]
+It: 900| Loss: 5.530e-01|  loss_bc1: 4.895e-02|  loss_bc2: 1.423e-02| loss_ics_u: 1.182e-01| loss_ics_ut: 4.075e-02|  Loss_res: 1.087e-01 , Time: 0.03
+lambda_balance loss_bc1: 3.9605e-01
+lambda_balance loss_bc2: 2.0111e-01
+lambda_balance loss_ics_u: 2.0372e-01
+lambda_balance loss_ics_ut: 1.9912e-01
+updating  lamda for loss loss_bc1:   [2.]
+updating  lamda for loss loss_bc2:   [2.]
+updating  lamda for loss loss_ics_u:   [2.]
+updating  lamda for loss loss_ics_ut:   [2.]
+It: 1000| Loss: 3.793e-01|  loss_bc1: 3.772e-02|  loss_bc2: 1.303e-02| loss_ics_u: 1.343e-01| loss_ics_ut: 2.339e-03|  Loss_res: 4.560e-03 , Time: 0.04
+lambda_balance loss_bc1: 3.8945e-01
+lambda_balance loss_bc2: 2.0359e-01
+lambda_balance loss_ics_u: 2.0578e-01
+lambda_balance loss_ics_ut: 2.0117e-01
+updating  lamda for loss loss_bc1:   [2.]
+updating  lamda for loss loss_bc2:   [2.]
+updating  lamda for loss loss_ics_u:   [2.]
+updating  lamda for loss loss_ics_ut:   [2.]
+Gradients information stored ...
+It: 1100| Loss: 4.365e-01|  loss_bc1: 4.092e-02|  loss_bc2: 2.159e-02| loss_ics_u: 1.266e-01| loss_ics_ut: 1.891e-02|  Loss_res: 2.035e-02 , Time: 0.04
+lambda_balance loss_bc1: 3.8377e-01
+lambda_balance loss_bc2: 2.0565e-01
+lambda_balance loss_ics_u: 2.0760e-01
+lambda_balance loss_ics_ut: 2.0298e-01
+updating  lamda for loss loss_bc1:   [2.]
+updating  lamda for loss loss_bc2:   [2.]
+updating  lamda for loss loss_ics_u:   [2.]
+updating  lamda for loss loss_ics_ut:   [2.]
+It: 1200| Loss: 4.426e-01|  loss_bc1: 2.821e-02|  loss_bc2: 7.894e-03| loss_ics_u: 1.315e-01| loss_ics_ut: 4.452e-03|  Loss_res: 9.862e-02 , Time: 0.03
+lambda_balance loss_bc1: 3.7902e-01
+lambda_balance loss_bc2: 2.0744e-01
+lambda_balance loss_ics_u: 2.0906e-01
+lambda_balance loss_ics_ut: 2.0447e-01
+updating  lamda for loss loss_bc1:   [2.]
+updating  lamda for loss loss_bc2:   [2.]
+updating  lamda for loss loss_ics_u:   [2.]
+updating  lamda for loss loss_ics_ut:   [2.]
+It: 1300| Loss: 4.378e-01|  loss_bc1: 2.872e-02|  loss_bc2: 9.699e-03| loss_ics_u: 1.419e-01| loss_ics_ut: 1.338e-02|  Loss_res: 5.042e-02 , Time: 0.09
+lambda_balance loss_bc1: 3.7431e-01
+lambda_balance loss_bc2: 2.0904e-01
+lambda_balance loss_ics_u: 2.1061e-01
+lambda_balance loss_ics_ut: 2.0604e-01
+updating  lamda for loss loss_bc1:   [2.]
+updating  lamda for loss loss_bc2:   [2.]
+updating  lamda for loss loss_ics_u:   [2.]
+updating  lamda for loss loss_ics_ut:   [2.]
+It: 1400| Loss: 3.492e-01|  loss_bc1: 3.326e-02|  loss_bc2: 1.210e-02| loss_ics_u: 1.043e-01| loss_ics_ut: 1.803e-02|  Loss_res: 1.371e-02 , Time: 0.05
+lambda_balance loss_bc1: 3.7028e-01
+lambda_balance loss_bc2: 2.1051e-01
+lambda_balance loss_ics_u: 2.1188e-01
+lambda_balance loss_ics_ut: 2.0733e-01
+updating  lamda for loss loss_bc1:   [2.]
+updating  lamda for loss loss_bc2:   [2.]
+updating  lamda for loss loss_ics_u:   [2.]
+updating  lamda for loss loss_ics_ut:   [2.]
+It: 1500| Loss: 3.617e-01|  loss_bc1: 3.213e-02|  loss_bc2: 1.110e-02| loss_ics_u: 1.233e-01| loss_ics_ut: 3.574e-03|  Loss_res: 2.159e-02 , Time: 0.05
+lambda_balance loss_bc1: 3.6673e-01
+lambda_balance loss_bc2: 2.1179e-01
+lambda_balance loss_ics_u: 2.1299e-01
+lambda_balance loss_ics_ut: 2.0849e-01
+updating  lamda for loss loss_bc1:   [2.]
+updating  lamda for loss loss_bc2:   [2.]
+updating  lamda for loss loss_ics_u:   [2.]
+updating  lamda for loss loss_ics_ut:   [2.]
+It: 1600| Loss: 4.118e-01|  loss_bc1: 2.743e-02|  loss_bc2: 1.669e-02| loss_ics_u: 1.111e-01| loss_ics_ut: 4.254e-02|  Loss_res: 1.622e-02 , Time: 0.05
+lambda_balance loss_bc1: 3.6367e-01
+lambda_balance loss_bc2: 2.1269e-01
+lambda_balance loss_ics_u: 2.1405e-01
+lambda_balance loss_ics_ut: 2.0959e-01
+updating  lamda for loss loss_bc1:   [2.]
+updating  lamda for loss loss_bc2:   [2.]
+updating  lamda for loss loss_ics_u:   [2.]
+updating  lamda for loss loss_ics_ut:   [2.]
+It: 1700| Loss: 3.083e-01|  loss_bc1: 3.213e-02|  loss_bc2: 1.158e-02| loss_ics_u: 1.039e-01| loss_ics_ut: 5.094e-03|  Loss_res: 2.828e-03 , Time: 0.13
+lambda_balance loss_bc1: 3.6077e-01
+lambda_balance loss_bc2: 2.1368e-01
+lambda_balance loss_ics_u: 2.1497e-01
+lambda_balance loss_ics_ut: 2.1058e-01
+updating  lamda for loss loss_bc1:   [2.]
+updating  lamda for loss loss_bc2:   [2.]
+updating  lamda for loss loss_ics_u:   [2.]
+updating  lamda for loss loss_ics_ut:   [2.]
+It: 1800| Loss: 4.297e-01|  loss_bc1: 3.109e-02|  loss_bc2: 6.941e-03| loss_ics_u: 1.234e-01| loss_ics_ut: 6.762e-03|  Loss_res: 9.330e-02 , Time: 0.03
+lambda_balance loss_bc1: 3.5868e-01
+lambda_balance loss_bc2: 2.1473e-01
+lambda_balance loss_ics_u: 2.1546e-01
+lambda_balance loss_ics_ut: 2.1114e-01
+updating  lamda for loss loss_bc1:   [2.]
+updating  lamda for loss loss_bc2:   [2.]
+updating  lamda for loss loss_ics_u:   [2.]
+updating  lamda for loss loss_ics_ut:   [2.]
+It: 1900| Loss: 3.281e-01|  loss_bc1: 2.395e-02|  loss_bc2: 1.283e-02| loss_ics_u: 1.208e-01| loss_ics_ut: 2.507e-03|  Loss_res: 7.850e-03 , Time: 0.04
+lambda_balance loss_bc1: 3.5633e-01
+lambda_balance loss_bc2: 2.1547e-01
+lambda_balance loss_ics_u: 2.1625e-01
+lambda_balance loss_ics_ut: 2.1195e-01
+updating  lamda for loss loss_bc1:   [2.]
+updating  lamda for loss loss_bc2:   [2.]
+updating  lamda for loss loss_ics_u:   [2.]
+updating  lamda for loss loss_ics_ut:   [2.]
+average adaptive_constant_bcs1_log : 2.0000e+00
+average adaptive_constant_bcs2_log : 2.0000e+00
+average adaptive_constant_ics_log : 2.0000e+00
+Save uv NN parameters successfully in %s ...checkpoints/Dec-19-2023_02-15-32-077799_M5
+Final loss loss_bc1: 3.655245e-01
+Final loss loss_bc2: 7.523303e-03
+Final loss loss_ics_u: 3.405982e-02
+Final loss loss_ics_ut: 1.192031e-02
+
+
+Method: mini_batch
+
+average of time_list:1.3012e+02
+average of error_u_list:6.3314e-01
+average of error_r_list:1.8723e-01

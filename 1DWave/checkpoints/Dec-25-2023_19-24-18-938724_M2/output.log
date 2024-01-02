@@ -1,0 +1,9 @@
+Gradients information stored ...
+It: 100, Loss: -1.068e+00, Loss_res: 4.997e-05,  Loss_bcs1: 3.659e-01,  Loss_bcs2: 2.633e-02,  loss_ics_u: 3.186e-01, Loss_ut_ics: 2.114e-02,, Time: 25.31
+minmax ratio : inf
+max_grad_bcs1: 1.046e-03 ,max_grad_bcs2: 3.806e-04 ,max_grad_ics: 9.574e-04 ,max_grad_res: 4.375e-04  
+min_grad_bcs1: 0.000e+00 ,min_grad_bcs2: 3.109e-10 ,min_grad_ics: 4.035e-11 ,min_grad_res: 4.093e-12  
+update_res: 1.141e+00
+update_ics_u_t: 2.558e+00
+update_bcs1: 4.948e-02
+update_bcs2: 2.518e-01

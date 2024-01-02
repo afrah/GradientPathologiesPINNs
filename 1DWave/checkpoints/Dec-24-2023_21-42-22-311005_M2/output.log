@@ -1,0 +1,63 @@
+Gradients information stored ...
+Gradients information stored ...
+It: 1000, Loss: 1.984e-01, Loss_res: 1.030e-02,  Loss_bcs1: 3.613e-02,  Loss_bcs2: 9.426e-03,  loss_ics_u: 1.403e-01, Loss_ut_ics: 2.251e-03,, Time: 97.61
+min_grad: 1.037e-04
+update_res: 1.375e+00
+update_ics_u_t: 8.433e-01
+update_bcs1: 8.793e-01
+update_bcs2: 9.027e-01
+adaptive_constant_res_val: 1.326e+04
+adaptive_constant_ics_val: 2.462e+04
+adaptive_constant_bcs1_val: 2.503e+04
+adaptive_constant_bcs2_val: 1.292e+05
+Gradients information stored ...
+It: 2000, Loss: 5.135e+03, Loss_res: 3.786e-02,  Loss_bcs1: 4.055e-02,  Loss_bcs2: 1.299e-03,  loss_ics_u: 1.384e-01, Loss_ut_ics: 1.765e-03,, Time: 80.67
+min_grad: 5.842e-05
+update_res: 1.615e+00
+update_ics_u_t: 7.670e-01
+update_bcs1: 7.551e-01
+update_bcs2: 8.632e-01
+adaptive_constant_res_val: 2.764e+04
+adaptive_constant_ics_val: 5.053e+04
+adaptive_constant_bcs1_val: 9.464e+04
+adaptive_constant_bcs2_val: 9.017e+05
+It: 3000, Loss: 1.222e+04, Loss_res: 3.294e-03,  Loss_bcs1: 2.645e-02,  Loss_bcs2: 1.512e-03,  loss_ics_u: 1.590e-01, Loss_ut_ics: 4.521e-03,, Time: 72.14
+min_grad: 4.486e-05
+update_res: 1.087e+00
+update_ics_u_t: 8.220e-01
+update_bcs1: 8.352e-01
+update_bcs2: 1.256e+00
+adaptive_constant_res_val: 4.360e+04
+adaptive_constant_ics_val: 1.832e+04
+adaptive_constant_bcs1_val: 5.430e+04
+adaptive_constant_bcs2_val: 7.210e+05
+It: 4000, Loss: 3.983e+03, Loss_res: 7.446e-03,  Loss_bcs1: 1.776e-02,  Loss_bcs2: 9.965e-05,  loss_ics_u: 1.417e-01, Loss_ut_ics: 1.410e-03,, Time: 74.38
+min_grad: 2.589e-05
+update_res: 1.280e+00
+update_ics_u_t: 7.223e-01
+update_bcs1: 7.227e-01
+update_bcs2: 1.275e+00
+adaptive_constant_res_val: 4.944e+04
+adaptive_constant_ics_val: 9.256e+04
+adaptive_constant_bcs1_val: 1.899e+05
+adaptive_constant_bcs2_val: 4.190e+06
+It: 5000, Loss: 2.103e+04, Loss_res: 4.865e-03,  Loss_bcs1: 3.238e-02,  Loss_bcs2: 1.148e-04,  loss_ics_u: 1.512e-01, Loss_ut_ics: 1.807e-03,, Time: 73.63
+min_grad: 8.709e-06
+update_res: 1.004e+00
+update_ics_u_t: 9.737e-01
+update_bcs1: 9.405e-01
+update_bcs2: 1.082e+00
+adaptive_constant_res_val: 1.480e+05
+adaptive_constant_ics_val: 1.118e+05
+adaptive_constant_bcs1_val: 2.909e+05
+adaptive_constant_bcs2_val: 7.185e+06
+It: 6000, Loss: 2.235e+04, Loss_res: 3.677e-03,  Loss_bcs1: 2.059e-02,  Loss_bcs2: 5.142e-05,  loss_ics_u: 1.367e-01, Loss_ut_ics: 1.491e-03,, Time: 74.35
+min_grad: 1.841e-05
+update_res: 1.559e+00
+update_ics_u_t: 7.220e-01
+update_bcs1: 7.043e-01
+update_bcs2: 1.015e+00
+adaptive_constant_res_val: 8.981e+04
+adaptive_constant_ics_val: 3.922e+04
+adaptive_constant_bcs1_val: 8.043e+04
+adaptive_constant_bcs2_val: 1.212e+06
