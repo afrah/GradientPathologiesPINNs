@@ -1,0 +1,26 @@
+mini_batch method is used
+It: 0| Loss: 2.742e+00| Loss_res: 1.434e+00|  Loss_bcs: 4.976e-01| Loss_ut_ics: 8.105e-01| Time: 22.18
+mean_grad_res: 1.689e+00
+mean_grad_ics: 5.123e-01
+mean_grad_bcs: 3.982e-01
+adaptive_constant_bcs_val: 1.2602e+02
+adaptive_constant_ics_val: 1.7262e+02
+adaptive_constant_res_val: 1.0139e+00
+Gradients information stored ...
+It: 100| Loss: 8.214e+01| Loss_res: 2.257e+00|  Loss_bcs: 3.583e-01| Loss_ut_ics: 2.010e-01| Time: 58.13
+Gradients information stored ...
+It: 200| Loss: 5.694e+01| Loss_res: 2.133e+00|  Loss_bcs: 3.399e-01| Loss_ut_ics: 6.920e-02| Time: 84.43
+It: 300| Loss: 4.418e+01| Loss_res: 2.252e+00|  Loss_bcs: 2.990e-01| Loss_ut_ics: 2.447e-02| Time: 103.92
+It: 400| Loss: 4.685e+01| Loss_res: 2.548e+00|  Loss_bcs: 3.370e-01| Loss_ut_ics: 1.043e-02| Time: 123.18
+It: 500| Loss: 4.054e+01| Loss_res: 2.832e+00|  Loss_bcs: 2.915e-01| Loss_ut_ics: 5.452e-03| Time: 142.53
+elapsed: 2.25e+02
+Relative L2 error_u: 1.13e+00
+Relative L2 error_r: 7.40e+00
+Save uv NN parameters successfully in %s .../home/vlq26735/code/PhD/GradientPathologiesPINNs/checkpoints/1DWave/Feb-28-2024_10-21-02-257062_ntk
+Final loss total loss: 4.219968e+01
+Final loss loss_res: 2.847577e+00
+Final loss loss_bcs: 3.011521e-01
+Final loss loss_bc1: 4.315325e-02
+Final loss loss_bc2: 3.028013e-02
+Final loss loss_ics_u: 2.277187e-01
+Final loss loss_ics_u_t: 7.881271e-03

@@ -1,0 +1,45 @@
+Using mode: M1
+neural network: [2, 2, 1]
+Batch size : 128
+Activation function: tanh
+number of iterations: 2000
+starter_learning_rate: 1.0000e-03
+Method desciption : gradual learing rate , M1, with  mini_batch batch. 
+File directory: /home/vlq26735/code/PhD/GradientPathologiesPINNs/checkpoints/Klein_Gordon/final/Feb-29-2024_13-35-22-749918_M1
+It: 0| Loss: 1.023e+04| Loss_bcs: 5.820e+00| loss_ic_ut: 2.204e+00| Loss_res: 1.022e+04|Time: 26.16
+mean_grad_res: 3.015e+02
+mean_grad_bcs: 3.757e+00
+mean_grad_ic_ut: 2.674e+00
+Gradients information stored ...
+It: 100| Loss: 1.074e+04| Loss_bcs: 3.369e+00| loss_ic_ut: 1.994e+00| Loss_res: 1.073e+04|Time: 45.81
+Gradients information stored ...
+It: 200| Loss: 1.039e+04| Loss_bcs: 2.559e+00| loss_ic_ut: 1.311e+00| Loss_res: 1.038e+04|Time: 23.31
+It: 300| Loss: 8.552e+03| Loss_bcs: 1.952e+00| loss_ic_ut: 1.418e+00| Loss_res: 8.549e+03|Time: 19.51
+It: 400| Loss: 7.828e+03| Loss_bcs: 1.828e+00| loss_ic_ut: 1.187e+00| Loss_res: 7.825e+03|Time: 19.50
+It: 500| Loss: 9.831e+03| Loss_bcs: 1.566e+00| loss_ic_ut: 1.025e+00| Loss_res: 9.828e+03|Time: 18.89
+It: 600| Loss: 8.663e+03| Loss_bcs: 1.660e+00| loss_ic_ut: 8.088e-01| Loss_res: 8.661e+03|Time: 19.12
+It: 700| Loss: 9.642e+03| Loss_bcs: 1.646e+00| loss_ic_ut: 1.071e+00| Loss_res: 9.640e+03|Time: 18.73
+It: 800| Loss: 1.026e+04| Loss_bcs: 1.352e+00| loss_ic_ut: 7.263e-01| Loss_res: 1.026e+04|Time: 19.83
+It: 900| Loss: 9.581e+03| Loss_bcs: 1.378e+00| loss_ic_ut: 6.947e-01| Loss_res: 9.578e+03|Time: 19.30
+It: 1000| Loss: 1.021e+04| Loss_bcs: 1.280e+00| loss_ic_ut: 5.094e-01| Loss_res: 1.021e+04|Time: 19.86
+mean_grad_res: 7.751e+01
+mean_grad_bcs: 1.132e+00
+mean_grad_ic_ut: 1.384e+00
+Gradients information stored ...
+It: 1100| Loss: 8.835e+03| Loss_bcs: 1.302e+00| loss_ic_ut: 3.363e-01| Loss_res: 8.833e+03|Time: 23.65
+It: 1200| Loss: 1.075e+04| Loss_bcs: 1.285e+00| loss_ic_ut: 3.448e-01| Loss_res: 1.075e+04|Time: 18.97
+It: 1300| Loss: 1.006e+04| Loss_bcs: 1.134e+00| loss_ic_ut: 2.772e-01| Loss_res: 1.006e+04|Time: 19.00
+It: 1400| Loss: 9.269e+03| Loss_bcs: 1.309e+00| loss_ic_ut: 2.915e-01| Loss_res: 9.267e+03|Time: 19.50
+It: 1500| Loss: 7.934e+03| Loss_bcs: 1.058e+00| loss_ic_ut: 1.852e-01| Loss_res: 7.933e+03|Time: 19.41
+It: 1600| Loss: 8.862e+03| Loss_bcs: 1.124e+00| loss_ic_ut: 1.346e-01| Loss_res: 8.860e+03|Time: 19.45
+It: 1700| Loss: 1.049e+04| Loss_bcs: 1.126e+00| loss_ic_ut: 1.211e-01| Loss_res: 1.049e+04|Time: 19.30
+It: 1800| Loss: 1.081e+04| Loss_bcs: 8.865e-01| loss_ic_ut: 8.075e-02| Loss_res: 1.081e+04|Time: 19.59
+It: 1900| Loss: 1.020e+04| Loss_bcs: 9.242e-01| loss_ic_ut: 6.454e-02| Loss_res: 1.020e+04|Time: 19.53
+Relative L2 error_u: 1.12e+00
+Relative L2 error_f: 1.00e+00
+file directory:/home/vlq26735/code/PhD/GradientPathologiesPINNs/checkpoints/Klein_Gordon/final/Feb-29-2024_13-35-22-749918_M1
+Save uv NN parameters successfully in %s .../home/vlq26735/code/PhD/GradientPathologiesPINNs/checkpoints/Klein_Gordon/final/Feb-29-2024_13-35-22-749918_M1
+Final loss total loss: 9.845806e+03
+Final loss loss_res: 9.844921e+03
+Final loss loss_bcs: 8.356024e-01
+Final loss loss_ic_u_t: 4.931187e-02

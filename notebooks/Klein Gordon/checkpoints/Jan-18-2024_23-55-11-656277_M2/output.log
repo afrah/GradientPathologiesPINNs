@@ -1,0 +1,10 @@
+It: 0, Loss: 1.009e+04, loss_bcs: 1.156e+00, loss_ics: 5.016e-04, Loss_r: 1.008e+04, Time: 2.85
+std_grad_res: 2.043e+02
+std_grad_bcs: 6.752e-02
+std_grad_ics: 2.642e-04
+kurtosis_grad_res: 6.634e+02
+kurtosis_grad_bcs: 2.501e+02
+kurtosis_grad_ics: 2.589e+02
+adaptive_constant_res_val: 3.247e+00
+adaptive_constant_ics_val: 9.800e+05
+adaptive_constant_bcs1_val: 3.704e+03

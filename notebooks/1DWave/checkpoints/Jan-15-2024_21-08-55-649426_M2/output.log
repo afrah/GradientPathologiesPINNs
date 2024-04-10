@@ -1,0 +1,8 @@
+It: 0, Loss: 1.717e+00, Loss_res: 9.563e-02,  Loss_bcs: 1.258e+00, Loss_ut_ics: 3.634e-01,, Time: 1.91
+adaptive_constant_res_val: 2.086e-03
+adaptive_constant_ics_val: 4.297e-03
+adaptive_constant_bcs_val: 1.951e-03
+mean_grad_res: 2.086e+00
+mean_grad_bcs: 1.951e+00
+mean_grad_ics: 4.297e+00
+Gradients information stored ...

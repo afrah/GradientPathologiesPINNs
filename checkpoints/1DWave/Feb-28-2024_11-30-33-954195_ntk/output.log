@@ -1,0 +1,49 @@
+Using mode: ntk
+neural network: [2, 5, 1]
+Batch size : 300
+Activation function: tanh
+number of iterations: 1000
+starter_learning_rate: 1.0000e-03
+Method desciption : gradual learing rate , ntk, with  mini_batch batch. 
+File directory: /home/vlq26735/code/PhD/GradientPathologiesPINNs/checkpoints/1DWave/Feb-28-2024_11-30-33-954195_ntk
+It: 0| Loss: 7.803e+00| Loss_res: 6.096e+00|  Loss_bcs: 1.539e+00| Loss_ut_ics: 1.683e-01| Time: 20.14
+mean_grad_res: 7.221e-01
+mean_grad_ics: 2.582e-01
+mean_grad_bcs: 8.034e-01
+adaptive_constant_bcs_val: 1.5156e+03
+adaptive_constant_ics_val: 2.1590e+03
+adaptive_constant_res_val: 1.0011e+00
+Gradients information stored ...
+It: 100| Loss: 1.175e+03| Loss_res: 5.710e+00|  Loss_bcs: 7.155e-01| Loss_ut_ics: 3.946e-02| Time: 63.12
+Gradients information stored ...
+It: 200| Loss: 8.148e+02| Loss_res: 5.324e+00|  Loss_bcs: 4.722e-01| Loss_ut_ics: 4.345e-02| Time: 95.93
+It: 300| Loss: 7.057e+02| Loss_res: 5.357e+00|  Loss_bcs: 4.068e-01| Loss_ut_ics: 3.885e-02| Time: 122.82
+It: 400| Loss: 4.636e+02| Loss_res: 5.572e+00|  Loss_bcs: 2.508e-01| Loss_ut_ics: 3.610e-02| Time: 149.65
+It: 500| Loss: 4.456e+02| Loss_res: 5.843e+00|  Loss_bcs: 2.519e-01| Loss_ut_ics: 2.684e-02| Time: 176.54
+It: 600| Loss: 4.447e+02| Loss_res: 6.381e+00|  Loss_bcs: 2.588e-01| Loss_ut_ics: 2.133e-02| Time: 203.59
+It: 700| Loss: 3.957e+02| Loss_res: 6.426e+00|  Loss_bcs: 2.316e-01| Loss_ut_ics: 1.770e-02| Time: 230.95
+It: 800| Loss: 2.641e+02| Loss_res: 6.722e+00|  Loss_bcs: 1.531e-01| Loss_ut_ics: 1.178e-02| Time: 258.06
+It: 900| Loss: 2.885e+02| Loss_res: 6.963e+00|  Loss_bcs: 1.731e-01| Loss_ut_ics: 8.862e-03| Time: 285.02
+elapsed: 3.74e+02
+Relative L2 error_u: 1.41e+00
+Relative L2 error_r: inf
+file directory:/home/vlq26735/code/PhD/GradientPathologiesPINNs/checkpoints/1DWave/Feb-28-2024_11-30-33-954195_ntk
+Save uv NN parameters successfully in %s .../home/vlq26735/code/PhD/GradientPathologiesPINNs/checkpoints/1DWave/Feb-28-2024_11-30-33-954195_ntk
+Final loss total loss: 2.831556e+02
+Final loss loss_res: 7.012258e+00
+Final loss loss_bcs: 1.755785e-01
+Final loss loss_bc1: 9.185124e-03
+Final loss loss_bc2: 2.138191e-03
+Final loss loss_ics_u: 1.642552e-01
+Final loss loss_ics_u_t: 4.645416e-03
+elapsed: 4.82e+02
+Relative L2 error_u: 1.41e+00
+Relative L2 error_r: 5.97e+01
+Save uv NN parameters successfully in %s .../home/vlq26735/code/PhD/GradientPathologiesPINNs/checkpoints/1DWave/Feb-28-2024_11-30-33-954195_ntk
+Final loss total loss: 2.831556e+02
+Final loss loss_res: 7.012258e+00
+Final loss loss_bcs: 1.755785e-01
+Final loss loss_bc1: 9.185124e-03
+Final loss loss_bc2: 2.138191e-03
+Final loss loss_ics_u: 1.642552e-01
+Final loss loss_ics_u_t: 4.645416e-03

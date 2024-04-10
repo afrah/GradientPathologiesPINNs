@@ -1,0 +1,76 @@
+It: 0, Loss: 9.516e+00, Loss_bcs: 1.386e-01, Loss_res: 9.377e+00 ,Time: 14.75
+mean_grad_bcs: 9.8384e-02
+mean_grad_res: 1.1551e-02
+self.lam_bc: 1.1174e+00
+self.lam_res : 9.5174e+00
+Gradients information stored ...
+It: 100, Loss: 9.140e+00, Loss_bcs: 1.286e-04, Loss_res: 9.140e+00 ,Time: 0.13
+Gradients information stored ...
+It: 200, Loss: 8.800e+00, Loss_bcs: 2.463e-04, Loss_res: 8.799e+00 ,Time: 0.13
+It: 300, Loss: 8.371e+00, Loss_bcs: 7.828e-04, Loss_res: 8.371e+00 ,Time: 0.03
+It: 400, Loss: 7.916e+00, Loss_bcs: 2.154e-03, Loss_res: 7.913e+00 ,Time: 0.07
+It: 500, Loss: 7.426e+00, Loss_bcs: 4.606e-03, Loss_res: 7.421e+00 ,Time: 0.04
+It: 600, Loss: 6.686e+00, Loss_bcs: 1.012e-02, Loss_res: 6.676e+00 ,Time: 0.03
+It: 700, Loss: 5.119e+00, Loss_bcs: 2.442e-02, Loss_res: 5.095e+00 ,Time: 0.02
+It: 800, Loss: 3.380e+00, Loss_bcs: 8.888e-03, Loss_res: 3.371e+00 ,Time: 0.02
+It: 900, Loss: 2.426e+00, Loss_bcs: 1.820e-02, Loss_res: 2.408e+00 ,Time: 0.03
+It: 1000, Loss: 1.526e+00, Loss_bcs: 2.114e-02, Loss_res: 1.505e+00 ,Time: 0.10
+mean_grad_bcs: 6.0387e-02
+mean_grad_res: 8.3112e-02
+self.lam_bc: 1.1174e+00
+self.lam_res : 9.5174e+00
+Gradients information stored ...
+It: 1100, Loss: 8.806e-01, Loss_bcs: 1.750e-02, Loss_res: 8.631e-01 ,Time: 0.13
+It: 1200, Loss: 5.102e-01, Loss_bcs: 1.063e-02, Loss_res: 4.995e-01 ,Time: 0.13
+It: 1300, Loss: 3.209e-01, Loss_bcs: 6.327e-03, Loss_res: 3.146e-01 ,Time: 0.04
+It: 1400, Loss: 2.235e-01, Loss_bcs: 3.565e-03, Loss_res: 2.199e-01 ,Time: 0.03
+It: 1500, Loss: 1.688e-01, Loss_bcs: 2.221e-03, Loss_res: 1.666e-01 ,Time: 0.06
+It: 1600, Loss: 1.331e-01, Loss_bcs: 1.501e-03, Loss_res: 1.316e-01 ,Time: 0.04
+It: 1700, Loss: 1.071e-01, Loss_bcs: 1.075e-03, Loss_res: 1.060e-01 ,Time: 0.09
+It: 1800, Loss: 8.911e-02, Loss_bcs: 7.880e-04, Loss_res: 8.832e-02 ,Time: 0.08
+It: 1900, Loss: 7.664e-02, Loss_bcs: 5.811e-04, Loss_res: 7.606e-02 ,Time: 0.06
+It: 2000, Loss: 6.537e-02, Loss_bcs: 4.621e-04, Loss_res: 6.491e-02 ,Time: 0.03
+mean_grad_bcs: 9.5593e-03
+mean_grad_res: 8.9911e-02
+self.lam_bc: 1.1174e+00
+self.lam_res : 9.5174e+00
+It: 2100, Loss: 5.628e-02, Loss_bcs: 3.540e-04, Loss_res: 5.592e-02 ,Time: 0.07
+It: 2200, Loss: 5.053e-02, Loss_bcs: 2.733e-04, Loss_res: 5.026e-02 ,Time: 0.10
+It: 2300, Loss: 4.371e-02, Loss_bcs: 2.178e-04, Loss_res: 4.350e-02 ,Time: 0.06
+It: 2400, Loss: 3.895e-02, Loss_bcs: 1.722e-04, Loss_res: 3.878e-02 ,Time: 0.04
+It: 2500, Loss: 3.536e-02, Loss_bcs: 1.389e-04, Loss_res: 3.522e-02 ,Time: 0.03
+It: 2600, Loss: 3.190e-02, Loss_bcs: 1.131e-04, Loss_res: 3.178e-02 ,Time: 0.08
+It: 2700, Loss: 2.877e-02, Loss_bcs: 9.417e-05, Loss_res: 2.867e-02 ,Time: 0.05
+It: 2800, Loss: 2.624e-02, Loss_bcs: 8.154e-05, Loss_res: 2.616e-02 ,Time: 0.03
+It: 2900, Loss: 2.406e-02, Loss_bcs: 7.033e-05, Loss_res: 2.399e-02 ,Time: 0.05
+It: 3000, Loss: 2.213e-02, Loss_bcs: 6.187e-05, Loss_res: 2.207e-02 ,Time: 0.03
+mean_grad_bcs: 3.5668e-03
+mean_grad_res: 1.3677e-02
+self.lam_bc: 1.1174e+00
+self.lam_res : 9.5174e+00
+It: 3100, Loss: 2.042e-02, Loss_bcs: 5.412e-05, Loss_res: 2.036e-02 ,Time: 0.03
+It: 3200, Loss: 1.893e-02, Loss_bcs: 4.697e-05, Loss_res: 1.889e-02 ,Time: 0.07
+It: 3300, Loss: 1.753e-02, Loss_bcs: 4.244e-05, Loss_res: 1.749e-02 ,Time: 0.10
+It: 3400, Loss: 1.631e-02, Loss_bcs: 3.767e-05, Loss_res: 1.627e-02 ,Time: 0.10
+It: 3500, Loss: 1.523e-02, Loss_bcs: 3.338e-05, Loss_res: 1.520e-02 ,Time: 0.04
+It: 3600, Loss: 1.451e-02, Loss_bcs: 2.789e-05, Loss_res: 1.448e-02 ,Time: 0.07
+It: 3700, Loss: 1.332e-02, Loss_bcs: 2.658e-05, Loss_res: 1.330e-02 ,Time: 0.05
+It: 3800, Loss: 1.250e-02, Loss_bcs: 2.384e-05, Loss_res: 1.247e-02 ,Time: 0.04
+It: 3900, Loss: 1.209e-02, Loss_bcs: 2.217e-05, Loss_res: 1.207e-02 ,Time: 0.04
+It: 4000, Loss: 1.108e-02, Loss_bcs: 1.943e-05, Loss_res: 1.106e-02 ,Time: 0.05
+mean_grad_bcs: 1.9703e-03
+mean_grad_res: 1.1699e-02
+self.lam_bc: 1.1174e+00
+self.lam_res : 9.5174e+00
+It: 4100, Loss: 1.045e-02, Loss_bcs: 1.740e-05, Loss_res: 1.043e-02 ,Time: 0.15
+elapsed: 4.55e+02
+Relative L2 error_u: 3.28e-03
+Relative L2 error_r: 7.77e-04
+mean value of lambda_bc: 1.12e+00
+first value of lambda_bc: 1.12e+00
+Relative L2 error_u: 3.28e-03
+Relative L2 error_v: 7.77e-04
+Save uv NN parameters successfully in %s .../home/vlq26735/code/PhD/GradientPathologiesPINNs/checkpoints/1DPoisson/Feb-27-2024_16-37-53-676244_M3
+Final loss total loss: 1.008243e-02
+Final loss loss_res: 1.006646e-02
+Final loss loss_bcs: 1.597392e-05

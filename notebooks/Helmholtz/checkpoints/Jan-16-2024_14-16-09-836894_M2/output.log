@@ -1,0 +1,2428 @@
+It: 0, Loss: 7.977e+03, Loss_bcs: 6.327e-02, Loss_res: 7.976e+03,Time: 1.71
+ np.max([max_grad_bcs , max_grad_res]): 9.855e+00
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 1.165537
+mean_grad_bcs: 0.079931
+Gradients information stored ...
+It: 100, Loss: 4.719e+05, Loss_bcs: 1.049e-01, Loss_res: 5.579e+03,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 5.601e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 2.042452
+mean_grad_bcs: 0.040716
+Gradients information stored ...
+It: 200, Loss: 5.653e+05, Loss_bcs: 7.631e-01, Loss_res: 6.675e+03,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 9.099e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 10.764613
+mean_grad_bcs: 0.129887
+It: 300, Loss: 5.586e+05, Loss_bcs: 2.276e+00, Loss_res: 6.574e+03,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 9.985e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 13.579191
+mean_grad_bcs: 0.223578
+It: 400, Loss: 5.622e+05, Loss_bcs: 8.707e-01, Loss_res: 6.636e+03,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 4.215e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 45.731400
+mean_grad_bcs: 0.142254
+It: 500, Loss: 3.051e+05, Loss_bcs: 1.962e+00, Loss_res: 3.580e+03,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 3.735e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 50.455574
+mean_grad_bcs: 0.264206
+It: 600, Loss: 1.683e+05, Loss_bcs: 2.739e+00, Loss_res: 1.950e+03,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 6.640e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 93.294121
+mean_grad_bcs: 0.346757
+It: 700, Loss: 1.211e+05, Loss_bcs: 3.591e+00, Loss_res: 1.380e+03,Time: 0.02
+ np.max([max_grad_bcs , max_grad_res]): 1.513e+03
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 108.271088
+mean_grad_bcs: 0.741226
+It: 800, Loss: 7.382e+04, Loss_bcs: 4.460e+00, Loss_res: 8.080e+02,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 8.588e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 80.975861
+mean_grad_bcs: 0.527686
+It: 900, Loss: 5.530e+04, Loss_bcs: 4.897e+00, Loss_res: 5.826e+02,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 1.238e+03
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 102.301338
+mean_grad_bcs: 0.611548
+It: 1000, Loss: 5.100e+04, Loss_bcs: 4.403e+00, Loss_res: 5.389e+02,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 1.188e+03
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 81.193336
+mean_grad_bcs: 0.398502
+Gradients information stored ...
+It: 1100, Loss: 3.881e+04, Loss_bcs: 4.212e+00, Loss_res: 3.976e+02,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 9.033e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 70.047096
+mean_grad_bcs: 0.331312
+It: 1200, Loss: 2.220e+04, Loss_bcs: 3.816e+00, Loss_res: 2.069e+02,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 5.598e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 58.545990
+mean_grad_bcs: 0.399981
+It: 1300, Loss: 2.778e+04, Loss_bcs: 3.068e+00, Loss_res: 2.838e+02,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 7.456e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 59.838840
+mean_grad_bcs: 0.408686
+It: 1400, Loss: 1.338e+04, Loss_bcs: 3.259e+00, Loss_res: 1.108e+02,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 6.232e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 50.624844
+mean_grad_bcs: 0.402598
+It: 1500, Loss: 1.278e+04, Loss_bcs: 2.694e+00, Loss_res: 1.119e+02,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 5.548e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 49.397919
+mean_grad_bcs: 0.434421
+It: 1600, Loss: 1.033e+04, Loss_bcs: 2.788e+00, Loss_res: 8.150e+01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 5.626e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 55.112598
+mean_grad_bcs: 0.434809
+It: 1700, Loss: 9.984e+03, Loss_bcs: 2.130e+00, Loss_res: 8.702e+01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 5.616e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 55.229259
+mean_grad_bcs: 0.392834
+It: 1800, Loss: 6.610e+03, Loss_bcs: 1.669e+00, Loss_res: 5.383e+01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 5.614e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 46.681717
+mean_grad_bcs: 0.364755
+It: 1900, Loss: 5.153e+03, Loss_bcs: 1.403e+00, Loss_res: 4.049e+01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 3.894e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 30.354647
+mean_grad_bcs: 0.345963
+It: 2000, Loss: 5.901e+03, Loss_bcs: 1.167e+00, Loss_res: 5.277e+01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 6.745e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 47.162010
+mean_grad_bcs: 0.282611
+It: 2100, Loss: 4.796e+03, Loss_bcs: 1.191e+00, Loss_res: 3.936e+01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 6.330e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 48.948856
+mean_grad_bcs: 0.322349
+It: 2200, Loss: 2.909e+03, Loss_bcs: 8.628e-01, Loss_res: 2.182e+01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 1.984e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 18.852585
+mean_grad_bcs: 0.262222
+It: 2300, Loss: 3.393e+03, Loss_bcs: 8.463e-01, Loss_res: 2.779e+01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 3.460e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 29.390692
+mean_grad_bcs: 0.251644
+It: 2400, Loss: 2.927e+03, Loss_bcs: 7.285e-01, Loss_res: 2.399e+01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 3.746e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 38.143875
+mean_grad_bcs: 0.243100
+It: 2500, Loss: 2.436e+03, Loss_bcs: 6.947e-01, Loss_res: 1.868e+01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 2.787e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 23.052383
+mean_grad_bcs: 0.227675
+It: 2600, Loss: 1.857e+03, Loss_bcs: 5.612e-01, Loss_res: 1.378e+01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 2.373e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 25.962635
+mean_grad_bcs: 0.249430
+It: 2700, Loss: 2.025e+03, Loss_bcs: 5.112e-01, Loss_res: 1.650e+01,Time: 0.02
+ np.max([max_grad_bcs , max_grad_res]): 4.032e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 29.876793
+mean_grad_bcs: 0.188417
+It: 2800, Loss: 1.876e+03, Loss_bcs: 5.065e-01, Loss_res: 1.480e+01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 1.999e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 20.712179
+mean_grad_bcs: 0.233839
+It: 2900, Loss: 1.414e+03, Loss_bcs: 4.122e-01, Loss_res: 1.071e+01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 1.397e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 15.019079
+mean_grad_bcs: 0.168993
+It: 3000, Loss: 1.724e+03, Loss_bcs: 4.047e-01, Loss_res: 1.449e+01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 1.524e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 18.779251
+mean_grad_bcs: 0.212964
+It: 3100, Loss: 1.493e+03, Loss_bcs: 3.405e-01, Loss_res: 1.270e+01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 2.523e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 32.045174
+mean_grad_bcs: 0.148614
+It: 3200, Loss: 1.718e+03, Loss_bcs: 3.549e-01, Loss_res: 1.514e+01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 5.630e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 40.801891
+mean_grad_bcs: 0.151122
+It: 3300, Loss: 1.124e+03, Loss_bcs: 3.312e-01, Loss_res: 8.459e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 2.333e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 23.016171
+mean_grad_bcs: 0.150493
+It: 3400, Loss: 1.031e+03, Loss_bcs: 3.154e-01, Loss_res: 7.590e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 2.605e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 25.432003
+mean_grad_bcs: 0.133891
+It: 3500, Loss: 1.334e+03, Loss_bcs: 3.502e-01, Loss_res: 1.067e+01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 2.448e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 27.521088
+mean_grad_bcs: 0.178438
+It: 3600, Loss: 1.128e+03, Loss_bcs: 3.022e-01, Loss_res: 8.931e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 2.342e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 23.726427
+mean_grad_bcs: 0.128545
+It: 3700, Loss: 1.018e+03, Loss_bcs: 2.885e-01, Loss_res: 7.837e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 2.777e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 17.135519
+mean_grad_bcs: 0.154235
+It: 3800, Loss: 9.282e+02, Loss_bcs: 2.547e-01, Loss_res: 7.264e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 2.636e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 24.979437
+mean_grad_bcs: 0.134539
+It: 3900, Loss: 8.226e+02, Loss_bcs: 2.613e-01, Loss_res: 5.918e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 4.317e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 5.765306
+mean_grad_bcs: 0.129830
+It: 4000, Loss: 8.794e+02, Loss_bcs: 2.616e-01, Loss_res: 6.586e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 2.251e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 22.726223
+mean_grad_bcs: 0.115509
+It: 4100, Loss: 7.706e+02, Loss_bcs: 2.589e-01, Loss_res: 5.338e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 1.795e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 18.470316
+mean_grad_bcs: 0.123423
+It: 4200, Loss: 8.994e+02, Loss_bcs: 2.488e-01, Loss_res: 7.008e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 1.190e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 12.523232
+mean_grad_bcs: 0.132591
+It: 4300, Loss: 8.526e+02, Loss_bcs: 2.232e-01, Loss_res: 6.828e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 2.194e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 18.831516
+mean_grad_bcs: 0.142533
+It: 4400, Loss: 6.308e+02, Loss_bcs: 2.247e-01, Loss_res: 4.184e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 1.020e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 11.629515
+mean_grad_bcs: 0.122804
+It: 4500, Loss: 5.716e+02, Loss_bcs: 2.153e-01, Loss_res: 3.621e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 1.228e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 11.066434
+mean_grad_bcs: 0.135498
+It: 4600, Loss: 7.604e+02, Loss_bcs: 2.218e-01, Loss_res: 5.758e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 2.870e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 19.324244
+mean_grad_bcs: 0.108165
+It: 4700, Loss: 7.422e+02, Loss_bcs: 2.211e-01, Loss_res: 5.554e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 1.635e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 17.095600
+mean_grad_bcs: 0.113437
+It: 4800, Loss: 6.336e+02, Loss_bcs: 1.992e-01, Loss_res: 4.589e+00,Time: 0.02
+ np.max([max_grad_bcs , max_grad_res]): 6.745e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 8.489552
+mean_grad_bcs: 0.120550
+It: 4900, Loss: 7.511e+02, Loss_bcs: 1.976e-01, Loss_res: 6.001e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 1.613e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 16.068308
+mean_grad_bcs: 0.111817
+It: 5000, Loss: 6.298e+02, Loss_bcs: 2.037e-01, Loss_res: 4.478e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 1.338e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 10.247400
+mean_grad_bcs: 0.101893
+It: 5100, Loss: 5.938e+02, Loss_bcs: 1.960e-01, Loss_res: 4.164e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 6.943e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 8.822208
+mean_grad_bcs: 0.102038
+It: 5200, Loss: 6.535e+02, Loss_bcs: 1.780e-01, Loss_res: 5.134e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 2.176e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 27.084997
+mean_grad_bcs: 0.094517
+It: 5300, Loss: 6.328e+02, Loss_bcs: 1.783e-01, Loss_res: 4.884e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 2.620e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 20.248180
+mean_grad_bcs: 0.112633
+It: 5400, Loss: 6.084e+02, Loss_bcs: 1.702e-01, Loss_res: 4.714e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 8.592e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 7.462995
+mean_grad_bcs: 0.080711
+It: 5500, Loss: 4.659e+02, Loss_bcs: 1.875e-01, Loss_res: 2.776e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 1.103e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 12.474825
+mean_grad_bcs: 0.112192
+It: 5600, Loss: 6.811e+02, Loss_bcs: 1.650e-01, Loss_res: 5.650e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 3.412e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 21.036737
+mean_grad_bcs: 0.090704
+It: 5700, Loss: 4.632e+02, Loss_bcs: 1.467e-01, Loss_res: 3.339e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 5.033e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 6.798918
+mean_grad_bcs: 0.095817
+It: 5800, Loss: 5.842e+02, Loss_bcs: 1.720e-01, Loss_res: 4.401e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 3.202e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 21.491940
+mean_grad_bcs: 0.150315
+It: 5900, Loss: 3.867e+02, Loss_bcs: 1.612e-01, Loss_res: 2.222e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 1.253e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 13.506909
+mean_grad_bcs: 0.086885
+It: 6000, Loss: 5.352e+02, Loss_bcs: 1.628e-01, Loss_res: 3.955e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 1.947e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 15.128333
+mean_grad_bcs: 0.083539
+It: 6100, Loss: 4.515e+02, Loss_bcs: 1.688e-01, Loss_res: 2.878e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 5.039e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 6.647107
+mean_grad_bcs: 0.095318
+It: 6200, Loss: 4.619e+02, Loss_bcs: 1.690e-01, Loss_res: 2.998e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 1.019e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 10.473477
+mean_grad_bcs: 0.091516
+It: 6300, Loss: 5.569e+02, Loss_bcs: 1.442e-01, Loss_res: 4.484e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 1.907e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 15.422449
+mean_grad_bcs: 0.083503
+It: 6400, Loss: 4.987e+02, Loss_bcs: 1.493e-01, Loss_res: 3.721e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 2.259e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 21.927067
+mean_grad_bcs: 0.092163
+It: 6500, Loss: 5.931e+02, Loss_bcs: 1.551e-01, Loss_res: 4.752e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 2.955e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 22.905592
+mean_grad_bcs: 0.086766
+It: 6600, Loss: 4.314e+02, Loss_bcs: 1.617e-01, Loss_res: 2.744e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 2.265e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 15.623459
+mean_grad_bcs: 0.088882
+It: 6700, Loss: 4.437e+02, Loss_bcs: 1.398e-01, Loss_res: 3.209e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 1.115e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 12.560567
+mean_grad_bcs: 0.080044
+It: 6800, Loss: 4.776e+02, Loss_bcs: 1.537e-01, Loss_res: 3.407e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 7.417e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 10.663534
+mean_grad_bcs: 0.087333
+It: 6900, Loss: 4.824e+02, Loss_bcs: 1.216e-01, Loss_res: 3.932e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 2.638e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 16.694962
+mean_grad_bcs: 0.086232
+It: 7000, Loss: 3.822e+02, Loss_bcs: 1.446e-01, Loss_res: 2.411e+00,Time: 0.02
+ np.max([max_grad_bcs , max_grad_res]): 1.626e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 16.251934
+mean_grad_bcs: 0.146745
+It: 7100, Loss: 3.076e+02, Loss_bcs: 1.220e-01, Loss_res: 1.859e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 1.109e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 9.588759
+mean_grad_bcs: 0.092058
+It: 7200, Loss: 3.879e+02, Loss_bcs: 1.187e-01, Loss_res: 2.857e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 9.221e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 9.422977
+mean_grad_bcs: 0.070579
+It: 7300, Loss: 4.045e+02, Loss_bcs: 1.253e-01, Loss_res: 2.957e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 9.674e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 12.308666
+mean_grad_bcs: 0.077494
+It: 7400, Loss: 3.171e+02, Loss_bcs: 1.224e-01, Loss_res: 1.965e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 1.792e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 13.292272
+mean_grad_bcs: 0.101006
+It: 7500, Loss: 3.224e+02, Loss_bcs: 1.185e-01, Loss_res: 2.084e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 1.447e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 10.613616
+mean_grad_bcs: 0.077393
+It: 7600, Loss: 4.510e+02, Loss_bcs: 1.287e-01, Loss_res: 3.457e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 3.358e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 20.974764
+mean_grad_bcs: 0.064269
+It: 7700, Loss: 3.441e+02, Loss_bcs: 1.259e-01, Loss_res: 2.234e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 6.802e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 7.763572
+mean_grad_bcs: 0.072323
+It: 7800, Loss: 3.295e+02, Loss_bcs: 1.163e-01, Loss_res: 2.201e+00,Time: 0.02
+ np.max([max_grad_bcs , max_grad_res]): 1.007e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 10.143859
+mean_grad_bcs: 0.077554
+It: 7900, Loss: 3.640e+02, Loss_bcs: 1.099e-01, Loss_res: 2.703e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 1.293e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 12.333908
+mean_grad_bcs: 0.089905
+It: 8000, Loss: 3.179e+02, Loss_bcs: 9.973e-02, Loss_res: 2.306e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 8.287e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 8.929081
+mean_grad_bcs: 0.057519
+It: 8100, Loss: 3.498e+02, Loss_bcs: 1.206e-01, Loss_res: 2.379e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 9.397e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 9.933616
+mean_grad_bcs: 0.081373
+It: 8200, Loss: 3.502e+02, Loss_bcs: 1.159e-01, Loss_res: 2.452e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 9.930e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 10.798563
+mean_grad_bcs: 0.071211
+It: 8300, Loss: 4.458e+02, Loss_bcs: 1.159e-01, Loss_res: 3.582e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 1.572e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 16.048418
+mean_grad_bcs: 0.078512
+It: 8400, Loss: 2.616e+02, Loss_bcs: 1.156e-01, Loss_res: 1.408e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 1.029e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 9.361865
+mean_grad_bcs: 0.067122
+It: 8500, Loss: 3.304e+02, Loss_bcs: 1.055e-01, Loss_res: 2.369e+00,Time: 0.02
+ np.max([max_grad_bcs , max_grad_res]): 1.236e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 12.079609
+mean_grad_bcs: 0.074626
+It: 8600, Loss: 3.245e+02, Loss_bcs: 1.228e-01, Loss_res: 2.048e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 1.282e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 10.673542
+mean_grad_bcs: 0.107960
+It: 8700, Loss: 3.847e+02, Loss_bcs: 1.209e-01, Loss_res: 2.787e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 2.029e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 13.458172
+mean_grad_bcs: 0.084139
+It: 8800, Loss: 2.696e+02, Loss_bcs: 1.071e-01, Loss_res: 1.627e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 5.951e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 5.546958
+mean_grad_bcs: 0.077678
+It: 8900, Loss: 2.332e+02, Loss_bcs: 8.886e-02, Loss_res: 1.463e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 1.082e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 11.105812
+mean_grad_bcs: 0.073540
+It: 9000, Loss: 4.024e+02, Loss_bcs: 1.033e-01, Loss_res: 3.252e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 2.401e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 20.773420
+mean_grad_bcs: 0.063944
+It: 9100, Loss: 3.620e+02, Loss_bcs: 9.668e-02, Loss_res: 2.872e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 1.560e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 14.935907
+mean_grad_bcs: 0.053211
+It: 9200, Loss: 2.474e+02, Loss_bcs: 1.014e-01, Loss_res: 1.447e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 1.418e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 11.945915
+mean_grad_bcs: 0.077511
+It: 9300, Loss: 2.490e+02, Loss_bcs: 9.319e-02, Loss_res: 1.585e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 9.060e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 10.819370
+mean_grad_bcs: 0.050345
+It: 9400, Loss: 2.642e+02, Loss_bcs: 9.345e-02, Loss_res: 1.762e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 1.246e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 9.054136
+mean_grad_bcs: 0.062488
+It: 9500, Loss: 2.255e+02, Loss_bcs: 9.759e-02, Loss_res: 1.244e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 8.407e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 8.564194
+mean_grad_bcs: 0.077265
+It: 9600, Loss: 3.346e+02, Loss_bcs: 9.343e-02, Loss_res: 2.594e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 8.833e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 9.995381
+mean_grad_bcs: 0.049025
+It: 9700, Loss: 2.193e+02, Loss_bcs: 9.524e-02, Loss_res: 1.205e+00,Time: 0.02
+ np.max([max_grad_bcs , max_grad_res]): 6.687e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 6.954635
+mean_grad_bcs: 0.048293
+It: 9800, Loss: 2.946e+02, Loss_bcs: 8.827e-02, Loss_res: 2.197e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 1.865e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 14.169545
+mean_grad_bcs: 0.058229
+It: 9900, Loss: 2.648e+02, Loss_bcs: 9.620e-02, Loss_res: 1.729e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 1.146e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 11.250061
+mean_grad_bcs: 0.064360
+It: 10000, Loss: 2.681e+02, Loss_bcs: 8.924e-02, Loss_res: 1.869e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 1.189e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 14.633265
+mean_grad_bcs: 0.071391
+It: 10100, Loss: 3.162e+02, Loss_bcs: 8.663e-02, Loss_res: 2.476e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 7.607e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 8.088739
+mean_grad_bcs: 0.056808
+It: 10200, Loss: 2.010e+02, Loss_bcs: 8.278e-02, Loss_res: 1.170e+00,Time: 0.02
+ np.max([max_grad_bcs , max_grad_res]): 4.412e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 6.140502
+mean_grad_bcs: 0.072705
+It: 10300, Loss: 3.158e+02, Loss_bcs: 8.687e-02, Loss_res: 2.468e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 9.830e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 11.644344
+mean_grad_bcs: 0.067992
+It: 10400, Loss: 2.161e+02, Loss_bcs: 7.864e-02, Loss_res: 1.409e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 4.271e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 3.524096
+mean_grad_bcs: 0.097966
+It: 10500, Loss: 3.610e+02, Loss_bcs: 8.700e-02, Loss_res: 3.001e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 3.923e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 24.254963
+mean_grad_bcs: 0.062750
+It: 10600, Loss: 3.100e+02, Loss_bcs: 8.269e-02, Loss_res: 2.461e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 1.909e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 21.379112
+mean_grad_bcs: 0.054802
+It: 10700, Loss: 2.379e+02, Loss_bcs: 7.797e-02, Loss_res: 1.676e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 6.084e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 5.202843
+mean_grad_bcs: 0.054268
+It: 10800, Loss: 3.288e+02, Loss_bcs: 7.595e-02, Loss_res: 2.781e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 1.352e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 12.544700
+mean_grad_bcs: 0.070816
+It: 10900, Loss: 2.057e+02, Loss_bcs: 7.691e-02, Loss_res: 1.311e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 8.252e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 9.053130
+mean_grad_bcs: 0.052277
+It: 11000, Loss: 2.681e+02, Loss_bcs: 8.011e-02, Loss_res: 2.003e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 2.080e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 15.886425
+mean_grad_bcs: 0.057468
+It: 11100, Loss: 2.455e+02, Loss_bcs: 7.555e-02, Loss_res: 1.802e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 6.425e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 8.754703
+mean_grad_bcs: 0.056450
+It: 11200, Loss: 2.553e+02, Loss_bcs: 8.197e-02, Loss_res: 1.824e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 8.259e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 9.874837
+mean_grad_bcs: 0.070276
+It: 11300, Loss: 2.264e+02, Loss_bcs: 7.948e-02, Loss_res: 1.519e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 7.670e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 6.235087
+mean_grad_bcs: 0.055695
+It: 11400, Loss: 2.991e+02, Loss_bcs: 7.409e-02, Loss_res: 2.457e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 1.275e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 13.486593
+mean_grad_bcs: 0.052077
+It: 11500, Loss: 2.533e+02, Loss_bcs: 7.655e-02, Loss_res: 1.880e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 7.451e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 8.980369
+mean_grad_bcs: 0.056245
+It: 11600, Loss: 2.332e+02, Loss_bcs: 8.595e-02, Loss_res: 1.505e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 6.659e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 7.670249
+mean_grad_bcs: 0.067903
+It: 11700, Loss: 1.966e+02, Loss_bcs: 7.725e-02, Loss_res: 1.198e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 5.604e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 6.972972
+mean_grad_bcs: 0.070719
+It: 11800, Loss: 1.602e+02, Loss_bcs: 6.517e-02, Loss_res: 9.442e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 8.104e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 6.678893
+mean_grad_bcs: 0.049977
+It: 11900, Loss: 2.715e+02, Loss_bcs: 6.994e-02, Loss_res: 2.191e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 2.568e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 18.005899
+mean_grad_bcs: 0.044405
+It: 12000, Loss: 2.344e+02, Loss_bcs: 8.027e-02, Loss_res: 1.601e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 1.742e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 10.155844
+mean_grad_bcs: 0.044607
+It: 12100, Loss: 2.133e+02, Loss_bcs: 6.629e-02, Loss_res: 1.556e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 1.251e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 12.271271
+mean_grad_bcs: 0.048076
+It: 12200, Loss: 2.384e+02, Loss_bcs: 8.028e-02, Loss_res: 1.649e+00,Time: 0.04
+ np.max([max_grad_bcs , max_grad_res]): 1.030e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 9.707364
+mean_grad_bcs: 0.048341
+It: 12300, Loss: 2.251e+02, Loss_bcs: 6.463e-02, Loss_res: 1.720e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 7.012e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 7.576043
+mean_grad_bcs: 0.038696
+It: 12400, Loss: 2.437e+02, Loss_bcs: 6.824e-02, Loss_res: 1.887e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 1.163e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 14.380877
+mean_grad_bcs: 0.041850
+It: 12500, Loss: 2.886e+02, Loss_bcs: 7.507e-02, Loss_res: 2.319e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 1.289e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 15.088075
+mean_grad_bcs: 0.068438
+It: 12600, Loss: 2.006e+02, Loss_bcs: 6.627e-02, Loss_res: 1.406e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 5.957e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 6.861749
+mean_grad_bcs: 0.038877
+It: 12700, Loss: 3.178e+02, Loss_bcs: 6.788e-02, Loss_res: 2.768e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 1.815e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 12.876877
+mean_grad_bcs: 0.079001
+It: 12800, Loss: 1.969e+02, Loss_bcs: 7.112e-02, Loss_res: 1.291e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 1.352e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 14.214899
+mean_grad_bcs: 0.043699
+It: 12900, Loss: 2.111e+02, Loss_bcs: 6.718e-02, Loss_res: 1.518e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 2.027e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 15.798596
+mean_grad_bcs: 0.044233
+It: 13000, Loss: 1.846e+02, Loss_bcs: 6.851e-02, Loss_res: 1.185e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 7.569e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 5.488495
+mean_grad_bcs: 0.075731
+It: 13100, Loss: 1.480e+02, Loss_bcs: 6.621e-02, Loss_res: 7.844e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 6.098e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 6.780554
+mean_grad_bcs: 0.045401
+It: 13200, Loss: 1.672e+02, Loss_bcs: 6.816e-02, Loss_res: 9.838e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 9.041e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 8.088598
+mean_grad_bcs: 0.038140
+It: 13300, Loss: 1.812e+02, Loss_bcs: 6.487e-02, Loss_res: 1.197e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 5.908e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 6.726573
+mean_grad_bcs: 0.048917
+It: 13400, Loss: 2.572e+02, Loss_bcs: 6.200e-02, Loss_res: 2.138e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 9.633e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 10.958522
+mean_grad_bcs: 0.048330
+It: 13500, Loss: 1.782e+02, Loss_bcs: 6.759e-02, Loss_res: 1.122e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 1.144e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 7.119189
+mean_grad_bcs: 0.042441
+It: 13600, Loss: 1.874e+02, Loss_bcs: 5.762e-02, Loss_res: 1.376e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 3.798e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 4.507615
+mean_grad_bcs: 0.035293
+It: 13700, Loss: 1.926e+02, Loss_bcs: 4.726e-02, Loss_res: 1.589e+00,Time: 0.02
+ np.max([max_grad_bcs , max_grad_res]): 1.525e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 10.262643
+mean_grad_bcs: 0.048829
+It: 13800, Loss: 2.241e+02, Loss_bcs: 5.443e-02, Loss_res: 1.856e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 8.723e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 8.253459
+mean_grad_bcs: 0.047702
+It: 13900, Loss: 1.859e+02, Loss_bcs: 5.803e-02, Loss_res: 1.352e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 1.026e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 9.404014
+mean_grad_bcs: 0.053487
+It: 14000, Loss: 2.821e+02, Loss_bcs: 6.212e-02, Loss_res: 2.431e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 9.323e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 8.329562
+mean_grad_bcs: 0.043002
+It: 14100, Loss: 1.548e+02, Loss_bcs: 5.164e-02, Loss_res: 1.077e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 8.939e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 10.859045
+mean_grad_bcs: 0.036880
+It: 14200, Loss: 2.045e+02, Loss_bcs: 5.140e-02, Loss_res: 1.669e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 8.649e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 7.291635
+mean_grad_bcs: 0.034108
+It: 14300, Loss: 1.734e+02, Loss_bcs: 5.589e-02, Loss_res: 1.236e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 5.068e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 5.088651
+mean_grad_bcs: 0.059041
+It: 14400, Loss: 2.916e+02, Loss_bcs: 5.745e-02, Loss_res: 2.611e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 1.880e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 15.607817
+mean_grad_bcs: 0.042898
+It: 14500, Loss: 1.569e+02, Loss_bcs: 5.433e-02, Loss_res: 1.063e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 5.157e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 6.247452
+mean_grad_bcs: 0.033529
+It: 14600, Loss: 1.792e+02, Loss_bcs: 6.247e-02, Loss_res: 1.208e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 8.134e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 10.494961
+mean_grad_bcs: 0.056089
+It: 14700, Loss: 1.460e+02, Loss_bcs: 5.406e-02, Loss_res: 9.384e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 7.884e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 6.225338
+mean_grad_bcs: 0.069236
+It: 14800, Loss: 2.295e+02, Loss_bcs: 5.750e-02, Loss_res: 1.875e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 1.480e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 9.467421
+mean_grad_bcs: 0.037549
+It: 14900, Loss: 1.681e+02, Loss_bcs: 6.213e-02, Loss_res: 1.082e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 8.159e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 6.238235
+mean_grad_bcs: 0.035461
+It: 15000, Loss: 1.837e+02, Loss_bcs: 4.571e-02, Loss_res: 1.506e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 1.064e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 9.076673
+mean_grad_bcs: 0.042476
+It: 15100, Loss: 1.525e+02, Loss_bcs: 5.710e-02, Loss_res: 9.708e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 4.586e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 3.480108
+mean_grad_bcs: 0.041142
+It: 15200, Loss: 2.001e+02, Loss_bcs: 5.029e-02, Loss_res: 1.633e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 1.767e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 12.244537
+mean_grad_bcs: 0.047098
+It: 15300, Loss: 1.688e+02, Loss_bcs: 4.735e-02, Loss_res: 1.306e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 6.433e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 7.714524
+mean_grad_bcs: 0.042474
+It: 15400, Loss: 2.208e+02, Loss_bcs: 5.263e-02, Loss_res: 1.844e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 1.310e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 11.023558
+mean_grad_bcs: 0.036588
+It: 15500, Loss: 1.901e+02, Loss_bcs: 4.861e-02, Loss_res: 1.539e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 8.697e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 7.285981
+mean_grad_bcs: 0.041486
+It: 15600, Loss: 1.728e+02, Loss_bcs: 5.520e-02, Loss_res: 1.238e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 1.556e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 10.609059
+mean_grad_bcs: 0.037439
+It: 15700, Loss: 1.391e+02, Loss_bcs: 4.628e-02, Loss_res: 9.706e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 1.188e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 8.777632
+mean_grad_bcs: 0.036789
+It: 15800, Loss: 2.362e+02, Loss_bcs: 5.541e-02, Loss_res: 1.986e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 1.964e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 12.094901
+mean_grad_bcs: 0.036328
+It: 15900, Loss: 1.512e+02, Loss_bcs: 4.911e-02, Loss_res: 1.072e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 5.608e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 6.210682
+mean_grad_bcs: 0.047881
+It: 16000, Loss: 1.153e+02, Loss_bcs: 4.022e-02, Loss_res: 7.767e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 1.012e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 8.563716
+mean_grad_bcs: 0.044405
+It: 16100, Loss: 1.777e+02, Loss_bcs: 4.756e-02, Loss_res: 1.408e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 1.061e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 6.903080
+mean_grad_bcs: 0.035222
+It: 16200, Loss: 1.256e+02, Loss_bcs: 4.941e-02, Loss_res: 7.647e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 4.487e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 5.012201
+mean_grad_bcs: 0.041086
+It: 16300, Loss: 1.628e+02, Loss_bcs: 4.815e-02, Loss_res: 1.224e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 5.087e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 4.434085
+mean_grad_bcs: 0.050846
+It: 16400, Loss: 1.800e+02, Loss_bcs: 5.043e-02, Loss_res: 1.394e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 2.524e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 3.004798
+mean_grad_bcs: 0.032189
+It: 16500, Loss: 1.655e+02, Loss_bcs: 4.977e-02, Loss_res: 1.231e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 1.377e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 11.672876
+mean_grad_bcs: 0.051151
+It: 16600, Loss: 2.085e+02, Loss_bcs: 4.836e-02, Loss_res: 1.760e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 7.750e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 7.074682
+mean_grad_bcs: 0.031630
+It: 16700, Loss: 1.321e+02, Loss_bcs: 5.102e-02, Loss_res: 8.179e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 4.118e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 5.082490
+mean_grad_bcs: 0.049994
+It: 16800, Loss: 1.856e+02, Loss_bcs: 5.160e-02, Loss_res: 1.443e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 8.259e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 6.486272
+mean_grad_bcs: 0.040666
+It: 16900, Loss: 2.557e+02, Loss_bcs: 4.526e-02, Loss_res: 2.364e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 6.275e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 7.355982
+mean_grad_bcs: 0.040149
+It: 17000, Loss: 1.275e+02, Loss_bcs: 5.118e-02, Loss_res: 7.617e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 4.600e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 3.952024
+mean_grad_bcs: 0.037534
+It: 17100, Loss: 1.808e+02, Loss_bcs: 4.885e-02, Loss_res: 1.426e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 1.445e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 13.988736
+mean_grad_bcs: 0.032170
+It: 17200, Loss: 1.847e+02, Loss_bcs: 4.534e-02, Loss_res: 1.523e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 7.684e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 9.005368
+mean_grad_bcs: 0.039751
+It: 17300, Loss: 1.611e+02, Loss_bcs: 5.543e-02, Loss_res: 1.097e+00,Time: 0.02
+ np.max([max_grad_bcs , max_grad_res]): 7.641e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 6.542524
+mean_grad_bcs: 0.032840
+It: 17400, Loss: 1.514e+02, Loss_bcs: 4.815e-02, Loss_res: 1.089e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 1.113e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 10.259343
+mean_grad_bcs: 0.030920
+It: 17500, Loss: 1.561e+02, Loss_bcs: 5.646e-02, Loss_res: 1.023e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 7.147e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 6.039726
+mean_grad_bcs: 0.038114
+It: 17600, Loss: 1.425e+02, Loss_bcs: 5.473e-02, Loss_res: 8.872e-01,Time: 0.02
+ np.max([max_grad_bcs , max_grad_res]): 3.004e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 4.214559
+mean_grad_bcs: 0.044115
+It: 17700, Loss: 1.524e+02, Loss_bcs: 4.243e-02, Loss_res: 1.183e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 5.746e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 5.133233
+mean_grad_bcs: 0.033728
+It: 17800, Loss: 1.926e+02, Loss_bcs: 4.257e-02, Loss_res: 1.657e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 4.675e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 4.459214
+mean_grad_bcs: 0.051117
+It: 17900, Loss: 1.508e+02, Loss_bcs: 4.405e-02, Loss_res: 1.141e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 1.652e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 11.970211
+mean_grad_bcs: 0.030178
+It: 18000, Loss: 1.279e+02, Loss_bcs: 4.318e-02, Loss_res: 8.834e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 8.853e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 6.565970
+mean_grad_bcs: 0.041832
+It: 18100, Loss: 1.433e+02, Loss_bcs: 5.125e-02, Loss_res: 9.473e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 3.596e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 4.359219
+mean_grad_bcs: 0.035834
+It: 18200, Loss: 1.534e+02, Loss_bcs: 4.091e-02, Loss_res: 1.217e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 1.106e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 9.656857
+mean_grad_bcs: 0.034992
+It: 18300, Loss: 1.376e+02, Loss_bcs: 4.536e-02, Loss_res: 9.660e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 8.522e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 7.976724
+mean_grad_bcs: 0.034269
+It: 18400, Loss: 1.512e+02, Loss_bcs: 4.332e-02, Loss_res: 1.157e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 7.495e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 6.598616
+mean_grad_bcs: 0.044008
+It: 18500, Loss: 1.263e+02, Loss_bcs: 4.353e-02, Loss_res: 8.595e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 1.182e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 7.176252
+mean_grad_bcs: 0.043167
+It: 18600, Loss: 1.389e+02, Loss_bcs: 4.385e-02, Loss_res: 1.003e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 1.227e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 9.011339
+mean_grad_bcs: 0.032994
+It: 18700, Loss: 1.143e+02, Loss_bcs: 4.626e-02, Loss_res: 6.778e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 9.175e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 8.161152
+mean_grad_bcs: 0.046007
+It: 18800, Loss: 1.334e+02, Loss_bcs: 4.231e-02, Loss_res: 9.608e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 1.686e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 11.923056
+mean_grad_bcs: 0.035779
+It: 18900, Loss: 1.419e+02, Loss_bcs: 4.902e-02, Loss_res: 9.628e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 5.916e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 5.960618
+mean_grad_bcs: 0.036359
+It: 19000, Loss: 1.006e+02, Loss_bcs: 3.778e-02, Loss_res: 6.394e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 3.209e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 3.850677
+mean_grad_bcs: 0.035231
+It: 19100, Loss: 2.013e+02, Loss_bcs: 4.110e-02, Loss_res: 1.781e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 6.267e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 6.986527
+mean_grad_bcs: 0.028951
+It: 19200, Loss: 1.139e+02, Loss_bcs: 4.431e-02, Loss_res: 7.015e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 6.591e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 6.192663
+mean_grad_bcs: 0.030709
+It: 19300, Loss: 2.371e+02, Loss_bcs: 4.217e-02, Loss_res: 2.189e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 7.188e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 6.541556
+mean_grad_bcs: 0.038458
+It: 19400, Loss: 1.312e+02, Loss_bcs: 3.965e-02, Loss_res: 9.735e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 1.076e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 9.441374
+mean_grad_bcs: 0.024507
+It: 19500, Loss: 1.302e+02, Loss_bcs: 4.292e-02, Loss_res: 9.145e-01,Time: 0.03
+ np.max([max_grad_bcs , max_grad_res]): 2.456e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 3.605543
+mean_grad_bcs: 0.033779
+It: 19600, Loss: 1.070e+02, Loss_bcs: 3.758e-02, Loss_res: 7.172e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 4.942e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 4.959058
+mean_grad_bcs: 0.028795
+It: 19700, Loss: 1.331e+02, Loss_bcs: 4.127e-02, Loss_res: 9.722e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 3.595e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 4.144456
+mean_grad_bcs: 0.026582
+It: 19800, Loss: 1.491e+02, Loss_bcs: 4.177e-02, Loss_res: 1.154e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 6.236e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 4.778841
+mean_grad_bcs: 0.042684
+It: 19900, Loss: 1.117e+02, Loss_bcs: 3.570e-02, Loss_res: 8.007e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 1.047e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 6.682734
+mean_grad_bcs: 0.030185
+It: 20000, Loss: 2.175e+02, Loss_bcs: 3.973e-02, Loss_res: 1.993e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 2.962e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 3.982997
+mean_grad_bcs: 0.040191
+It: 20100, Loss: 1.477e+02, Loss_bcs: 3.971e-02, Loss_res: 1.167e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 1.164e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 8.226029
+mean_grad_bcs: 0.028220
+It: 20200, Loss: 1.432e+02, Loss_bcs: 3.304e-02, Loss_res: 1.212e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 7.886e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 7.878059
+mean_grad_bcs: 0.025205
+It: 20300, Loss: 1.121e+02, Loss_bcs: 3.739e-02, Loss_res: 7.804e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 9.629e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 9.351768
+mean_grad_bcs: 0.027534
+It: 20400, Loss: 1.104e+02, Loss_bcs: 3.833e-02, Loss_res: 7.462e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 5.105e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 3.987842
+mean_grad_bcs: 0.024451
+It: 20500, Loss: 1.233e+02, Loss_bcs: 3.962e-02, Loss_res: 8.807e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 9.662e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 6.258849
+mean_grad_bcs: 0.032815
+It: 20600, Loss: 1.202e+02, Loss_bcs: 3.625e-02, Loss_res: 8.928e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 5.216e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 5.541068
+mean_grad_bcs: 0.031804
+It: 20700, Loss: 1.273e+02, Loss_bcs: 4.512e-02, Loss_res: 8.476e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 6.294e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 5.858797
+mean_grad_bcs: 0.031241
+It: 20800, Loss: 1.099e+02, Loss_bcs: 3.820e-02, Loss_res: 7.425e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 7.182e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 6.549686
+mean_grad_bcs: 0.028215
+It: 20900, Loss: 1.588e+02, Loss_bcs: 4.625e-02, Loss_res: 1.204e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 7.018e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 8.668705
+mean_grad_bcs: 0.033102
+It: 21000, Loss: 1.218e+02, Loss_bcs: 4.163e-02, Loss_res: 8.339e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 1.182e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 7.470617
+mean_grad_bcs: 0.049078
+It: 21100, Loss: 9.805e+01, Loss_bcs: 3.565e-02, Loss_res: 6.398e-01,Time: 0.02
+ np.max([max_grad_bcs , max_grad_res]): 4.097e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 4.098218
+mean_grad_bcs: 0.040940
+It: 21200, Loss: 1.041e+02, Loss_bcs: 4.639e-02, Loss_res: 5.542e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 4.205e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 4.684215
+mean_grad_bcs: 0.044180
+It: 21300, Loss: 1.040e+02, Loss_bcs: 4.765e-02, Loss_res: 5.347e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 6.041e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 5.765269
+mean_grad_bcs: 0.055932
+It: 21400, Loss: 9.749e+01, Loss_bcs: 3.505e-02, Loss_res: 6.418e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 6.462e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 5.417212
+mean_grad_bcs: 0.047961
+It: 21500, Loss: 1.238e+02, Loss_bcs: 4.779e-02, Loss_res: 7.667e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 3.386e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 3.191648
+mean_grad_bcs: 0.030117
+It: 21600, Loss: 1.081e+02, Loss_bcs: 3.530e-02, Loss_res: 7.636e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 5.625e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 4.791444
+mean_grad_bcs: 0.040288
+It: 21700, Loss: 9.382e+01, Loss_bcs: 3.582e-02, Loss_res: 5.872e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 4.008e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 4.185953
+mean_grad_bcs: 0.034848
+It: 21800, Loss: 1.318e+02, Loss_bcs: 3.747e-02, Loss_res: 1.013e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 3.782e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 4.059849
+mean_grad_bcs: 0.034955
+It: 21900, Loss: 1.241e+02, Loss_bcs: 3.847e-02, Loss_res: 9.068e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 5.622e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 5.259458
+mean_grad_bcs: 0.029110
+It: 22000, Loss: 1.202e+02, Loss_bcs: 4.027e-02, Loss_res: 8.343e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 5.070e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 5.387689
+mean_grad_bcs: 0.045947
+It: 22100, Loss: 1.759e+02, Loss_bcs: 4.217e-02, Loss_res: 1.465e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 8.287e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 6.833259
+mean_grad_bcs: 0.026623
+It: 22200, Loss: 9.458e+01, Loss_bcs: 2.951e-02, Loss_res: 6.883e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 5.346e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 4.560305
+mean_grad_bcs: 0.032520
+It: 22300, Loss: 1.407e+02, Loss_bcs: 3.449e-02, Loss_res: 1.162e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 4.518e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 6.000393
+mean_grad_bcs: 0.037451
+It: 22400, Loss: 1.116e+02, Loss_bcs: 3.834e-02, Loss_res: 7.604e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 1.012e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 8.381707
+mean_grad_bcs: 0.032848
+It: 22500, Loss: 1.561e+02, Loss_bcs: 3.799e-02, Loss_res: 1.292e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 8.283e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 5.883160
+mean_grad_bcs: 0.029901
+It: 22600, Loss: 1.434e+02, Loss_bcs: 3.738e-02, Loss_res: 1.151e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 6.623e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 5.584343
+mean_grad_bcs: 0.032711
+It: 22700, Loss: 1.090e+02, Loss_bcs: 3.896e-02, Loss_res: 7.214e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 3.033e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 3.562734
+mean_grad_bcs: 0.033015
+It: 22800, Loss: 1.039e+02, Loss_bcs: 3.514e-02, Loss_res: 7.167e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 8.665e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 6.572893
+mean_grad_bcs: 0.035018
+It: 22900, Loss: 8.983e+01, Loss_bcs: 3.407e-02, Loss_res: 5.656e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 2.902e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 3.467551
+mean_grad_bcs: 0.024294
+It: 23000, Loss: 1.051e+02, Loss_bcs: 3.209e-02, Loss_res: 7.755e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 1.001e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 7.026107
+mean_grad_bcs: 0.030748
+It: 23100, Loss: 1.016e+02, Loss_bcs: 3.407e-02, Loss_res: 7.051e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 1.197e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 8.177350
+mean_grad_bcs: 0.031502
+It: 23200, Loss: 8.792e+01, Loss_bcs: 3.292e-02, Loss_res: 5.597e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 4.183e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 4.296251
+mean_grad_bcs: 0.041403
+It: 23300, Loss: 1.109e+02, Loss_bcs: 3.523e-02, Loss_res: 7.981e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 2.598e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 3.751559
+mean_grad_bcs: 0.024875
+It: 23400, Loss: 1.008e+02, Loss_bcs: 3.618e-02, Loss_res: 6.647e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 8.184e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 5.773209
+mean_grad_bcs: 0.044596
+It: 23500, Loss: 9.212e+01, Loss_bcs: 3.573e-02, Loss_res: 5.684e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 5.609e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 5.327265
+mean_grad_bcs: 0.028004
+It: 23600, Loss: 1.722e+02, Loss_bcs: 3.797e-02, Loss_res: 1.483e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 6.545e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 5.528131
+mean_grad_bcs: 0.026025
+It: 23700, Loss: 1.090e+02, Loss_bcs: 3.477e-02, Loss_res: 7.827e-01,Time: 0.03
+ np.max([max_grad_bcs , max_grad_res]): 8.655e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 7.075604
+mean_grad_bcs: 0.025492
+It: 23800, Loss: 1.313e+02, Loss_bcs: 3.224e-02, Loss_res: 1.083e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 5.518e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 7.171345
+mean_grad_bcs: 0.023099
+It: 23900, Loss: 1.353e+02, Loss_bcs: 3.544e-02, Loss_res: 1.083e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 5.383e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 4.766755
+mean_grad_bcs: 0.030271
+It: 24000, Loss: 1.286e+02, Loss_bcs: 3.414e-02, Loss_res: 1.023e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 9.813e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 7.696107
+mean_grad_bcs: 0.026319
+It: 24100, Loss: 1.190e+02, Loss_bcs: 3.498e-02, Loss_res: 8.976e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 4.520e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 3.754181
+mean_grad_bcs: 0.030025
+It: 24200, Loss: 1.137e+02, Loss_bcs: 3.474e-02, Loss_res: 8.381e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 8.859e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 7.568549
+mean_grad_bcs: 0.026332
+It: 24300, Loss: 7.395e+01, Loss_bcs: 3.195e-02, Loss_res: 4.086e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 2.381e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 3.045969
+mean_grad_bcs: 0.029590
+It: 24400, Loss: 1.700e+02, Loss_bcs: 3.770e-02, Loss_res: 1.460e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 7.975e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 9.591876
+mean_grad_bcs: 0.027494
+It: 24500, Loss: 8.829e+01, Loss_bcs: 3.254e-02, Loss_res: 5.696e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 3.507e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 4.228242
+mean_grad_bcs: 0.027972
+It: 24600, Loss: 7.728e+01, Loss_bcs: 2.999e-02, Loss_res: 4.767e-01,Time: 0.03
+ np.max([max_grad_bcs , max_grad_res]): 4.259e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 3.575272
+mean_grad_bcs: 0.030718
+It: 24700, Loss: 1.092e+02, Loss_bcs: 3.607e-02, Loss_res: 7.655e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 6.580e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 6.896020
+mean_grad_bcs: 0.030440
+It: 24800, Loss: 1.065e+02, Loss_bcs: 3.866e-02, Loss_res: 6.962e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 9.812e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 5.908535
+mean_grad_bcs: 0.027875
+It: 24900, Loss: 1.604e+02, Loss_bcs: 3.668e-02, Loss_res: 1.362e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 8.699e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 6.471642
+mean_grad_bcs: 0.031459
+It: 25000, Loss: 1.829e+02, Loss_bcs: 3.822e-02, Loss_res: 1.606e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 7.592e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 6.624120
+mean_grad_bcs: 0.040138
+It: 25100, Loss: 1.698e+02, Loss_bcs: 3.611e-02, Loss_res: 1.481e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 3.878e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 4.335787
+mean_grad_bcs: 0.029449
+It: 25200, Loss: 9.025e+01, Loss_bcs: 3.534e-02, Loss_res: 5.519e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 5.806e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 4.635296
+mean_grad_bcs: 0.027187
+It: 25300, Loss: 1.544e+02, Loss_bcs: 3.529e-02, Loss_res: 1.312e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 7.956e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 7.058195
+mean_grad_bcs: 0.024029
+It: 25400, Loss: 8.094e+01, Loss_bcs: 3.270e-02, Loss_res: 4.805e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 3.484e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 3.561069
+mean_grad_bcs: 0.028257
+It: 25500, Loss: 1.073e+02, Loss_bcs: 3.436e-02, Loss_res: 7.679e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 3.857e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 4.168036
+mean_grad_bcs: 0.033546
+It: 25600, Loss: 7.559e+01, Loss_bcs: 2.666e-02, Loss_res: 5.052e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 3.330e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 4.033470
+mean_grad_bcs: 0.026553
+It: 25700, Loss: 8.642e+01, Loss_bcs: 3.638e-02, Loss_res: 4.916e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 3.008e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 3.273093
+mean_grad_bcs: 0.026126
+It: 25800, Loss: 8.085e+01, Loss_bcs: 3.401e-02, Loss_res: 4.602e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 6.361e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 5.323324
+mean_grad_bcs: 0.035252
+It: 25900, Loss: 1.067e+02, Loss_bcs: 2.928e-02, Loss_res: 8.349e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 1.269e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 9.789625
+mean_grad_bcs: 0.030151
+It: 26000, Loss: 8.305e+01, Loss_bcs: 3.333e-02, Loss_res: 4.962e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 4.732e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 4.112460
+mean_grad_bcs: 0.030284
+It: 26100, Loss: 1.643e+02, Loss_bcs: 3.482e-02, Loss_res: 1.435e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 5.845e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 4.179790
+mean_grad_bcs: 0.024045
+It: 26200, Loss: 9.495e+01, Loss_bcs: 3.265e-02, Loss_res: 6.468e-01,Time: 0.02
+ np.max([max_grad_bcs , max_grad_res]): 2.898e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 3.061199
+mean_grad_bcs: 0.024329
+It: 26300, Loss: 8.950e+01, Loss_bcs: 3.654e-02, Loss_res: 5.256e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 7.464e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 6.309176
+mean_grad_bcs: 0.030962
+It: 26400, Loss: 1.004e+02, Loss_bcs: 3.315e-02, Loss_res: 7.036e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 1.098e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 6.985837
+mean_grad_bcs: 0.027917
+It: 26500, Loss: 1.115e+02, Loss_bcs: 3.398e-02, Loss_res: 8.230e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 4.030e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 2.909583
+mean_grad_bcs: 0.027877
+It: 26600, Loss: 1.542e+02, Loss_bcs: 3.097e-02, Loss_res: 1.372e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 6.585e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 5.131702
+mean_grad_bcs: 0.036611
+It: 26700, Loss: 8.370e+01, Loss_bcs: 3.812e-02, Loss_res: 4.340e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 3.370e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 3.375331
+mean_grad_bcs: 0.022711
+It: 26800, Loss: 1.531e+02, Loss_bcs: 3.059e-02, Loss_res: 1.365e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 1.272e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 8.456765
+mean_grad_bcs: 0.025165
+It: 26900, Loss: 1.285e+02, Loss_bcs: 3.417e-02, Loss_res: 1.022e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 2.751e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 4.120418
+mean_grad_bcs: 0.033787
+It: 27000, Loss: 9.142e+01, Loss_bcs: 3.584e-02, Loss_res: 5.585e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 4.046e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 4.278269
+mean_grad_bcs: 0.025869
+It: 27100, Loss: 1.440e+02, Loss_bcs: 2.907e-02, Loss_res: 1.279e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 8.456e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 5.455900
+mean_grad_bcs: 0.039695
+It: 27200, Loss: 1.007e+02, Loss_bcs: 3.368e-02, Loss_res: 7.004e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 7.065e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 5.318641
+mean_grad_bcs: 0.029523
+It: 27300, Loss: 7.642e+01, Loss_bcs: 2.921e-02, Loss_res: 4.777e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 2.055e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 2.283104
+mean_grad_bcs: 0.020066
+It: 27400, Loss: 7.705e+01, Loss_bcs: 3.263e-02, Loss_res: 4.354e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 3.249e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 4.259551
+mean_grad_bcs: 0.033321
+It: 27500, Loss: 9.432e+01, Loss_bcs: 3.745e-02, Loss_res: 5.694e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 3.649e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 3.205444
+mean_grad_bcs: 0.024250
+It: 27600, Loss: 8.703e+01, Loss_bcs: 3.319e-02, Loss_res: 5.452e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 6.806e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 4.983951
+mean_grad_bcs: 0.029170
+It: 27700, Loss: 1.297e+02, Loss_bcs: 2.955e-02, Loss_res: 1.103e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 5.587e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 5.653147
+mean_grad_bcs: 0.023971
+It: 27800, Loss: 9.967e+01, Loss_bcs: 3.436e-02, Loss_res: 6.778e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 3.186e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 4.410942
+mean_grad_bcs: 0.028224
+It: 27900, Loss: 9.668e+01, Loss_bcs: 3.297e-02, Loss_res: 6.626e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 3.589e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 4.489013
+mean_grad_bcs: 0.025743
+It: 28000, Loss: 1.141e+02, Loss_bcs: 3.219e-02, Loss_res: 8.803e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 1.029e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 9.806180
+mean_grad_bcs: 0.031873
+It: 28100, Loss: 8.680e+01, Loss_bcs: 3.257e-02, Loss_res: 5.516e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 4.394e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 4.743950
+mean_grad_bcs: 0.027389
+It: 28200, Loss: 1.209e+02, Loss_bcs: 2.803e-02, Loss_res: 1.021e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 6.949e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 5.142752
+mean_grad_bcs: 0.039662
+It: 28300, Loss: 8.047e+01, Loss_bcs: 3.082e-02, Loss_res: 5.023e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 3.150e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 4.186121
+mean_grad_bcs: 0.026640
+It: 28400, Loss: 9.803e+01, Loss_bcs: 3.091e-02, Loss_res: 7.087e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 2.126e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 2.290986
+mean_grad_bcs: 0.022196
+It: 28500, Loss: 7.722e+01, Loss_bcs: 3.166e-02, Loss_res: 4.516e-01,Time: 0.05
+ np.max([max_grad_bcs , max_grad_res]): 6.598e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 4.395740
+mean_grad_bcs: 0.028206
+It: 28600, Loss: 8.137e+01, Loss_bcs: 3.207e-02, Loss_res: 4.946e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 4.681e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 4.443238
+mean_grad_bcs: 0.025163
+It: 28700, Loss: 8.428e+01, Loss_bcs: 3.227e-02, Loss_res: 5.262e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 1.678e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 2.065812
+mean_grad_bcs: 0.036209
+It: 28800, Loss: 7.882e+01, Loss_bcs: 2.593e-02, Loss_res: 5.541e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 7.644e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 6.351076
+mean_grad_bcs: 0.028367
+It: 28900, Loss: 1.134e+02, Loss_bcs: 3.044e-02, Loss_res: 8.973e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 3.545e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 3.466858
+mean_grad_bcs: 0.033457
+It: 29000, Loss: 1.003e+02, Loss_bcs: 3.144e-02, Loss_res: 7.283e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 1.909e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 2.311142
+mean_grad_bcs: 0.029551
+It: 29100, Loss: 1.232e+02, Loss_bcs: 3.020e-02, Loss_res: 1.017e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 4.265e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 3.743405
+mean_grad_bcs: 0.025630
+It: 29200, Loss: 7.984e+01, Loss_bcs: 3.578e-02, Loss_res: 4.225e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 3.385e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 3.194304
+mean_grad_bcs: 0.029618
+It: 29300, Loss: 8.535e+01, Loss_bcs: 3.124e-02, Loss_res: 5.539e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 1.109e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 6.547627
+mean_grad_bcs: 0.024968
+It: 29400, Loss: 8.461e+01, Loss_bcs: 3.196e-02, Loss_res: 5.346e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 4.277e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 3.768718
+mean_grad_bcs: 0.026493
+It: 29500, Loss: 1.015e+02, Loss_bcs: 2.476e-02, Loss_res: 8.395e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 7.252e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 7.001656
+mean_grad_bcs: 0.025201
+It: 29600, Loss: 1.210e+02, Loss_bcs: 2.740e-02, Loss_res: 1.031e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 2.289e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 2.734981
+mean_grad_bcs: 0.025001
+It: 29700, Loss: 1.560e+02, Loss_bcs: 3.234e-02, Loss_res: 1.374e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 7.810e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 5.987203
+mean_grad_bcs: 0.026901
+It: 29800, Loss: 8.216e+01, Loss_bcs: 3.074e-02, Loss_res: 5.234e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 2.474e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 2.722268
+mean_grad_bcs: 0.025889
+It: 29900, Loss: 1.003e+02, Loss_bcs: 2.724e-02, Loss_res: 7.893e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 2.544e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 3.472014
+mean_grad_bcs: 0.027370
+It: 30000, Loss: 7.471e+01, Loss_bcs: 2.996e-02, Loss_res: 4.467e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 3.986e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 3.646402
+mean_grad_bcs: 0.025511
+It: 30100, Loss: 9.515e+01, Loss_bcs: 2.908e-02, Loss_res: 7.014e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 8.252e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 6.230734
+mean_grad_bcs: 0.023588
+It: 30200, Loss: 1.204e+02, Loss_bcs: 2.982e-02, Loss_res: 9.889e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 3.448e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 4.558243
+mean_grad_bcs: 0.024420
+It: 30300, Loss: 1.040e+02, Loss_bcs: 3.084e-02, Loss_res: 7.805e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 1.668e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 2.490214
+mean_grad_bcs: 0.033033
+It: 30400, Loss: 8.827e+01, Loss_bcs: 3.293e-02, Loss_res: 5.637e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 4.269e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 4.896910
+mean_grad_bcs: 0.026694
+It: 30500, Loss: 8.315e+01, Loss_bcs: 2.754e-02, Loss_res: 5.818e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 5.179e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 4.369377
+mean_grad_bcs: 0.022995
+It: 30600, Loss: 1.229e+02, Loss_bcs: 2.639e-02, Loss_res: 1.068e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 2.426e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 2.864229
+mean_grad_bcs: 0.031083
+It: 30700, Loss: 8.525e+01, Loss_bcs: 3.380e-02, Loss_res: 5.153e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 5.687e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 3.842761
+mean_grad_bcs: 0.036184
+It: 30800, Loss: 8.508e+01, Loss_bcs: 2.999e-02, Loss_res: 5.689e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 3.465e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 3.980077
+mean_grad_bcs: 0.022799
+It: 30900, Loss: 8.652e+01, Loss_bcs: 3.213e-02, Loss_res: 5.547e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 2.608e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 3.547757
+mean_grad_bcs: 0.028672
+It: 31000, Loss: 6.229e+01, Loss_bcs: 3.214e-02, Loss_res: 2.681e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 3.562e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 3.708551
+mean_grad_bcs: 0.023626
+It: 31100, Loss: 9.120e+01, Loss_bcs: 2.758e-02, Loss_res: 6.763e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 4.206e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 4.227534
+mean_grad_bcs: 0.024737
+It: 31200, Loss: 8.458e+01, Loss_bcs: 3.038e-02, Loss_res: 5.574e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 6.822e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 6.040707
+mean_grad_bcs: 0.024111
+It: 31300, Loss: 1.050e+02, Loss_bcs: 3.106e-02, Loss_res: 7.885e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 5.240e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 5.729383
+mean_grad_bcs: 0.030739
+It: 31400, Loss: 9.946e+01, Loss_bcs: 3.080e-02, Loss_res: 7.272e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 4.653e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 4.200061
+mean_grad_bcs: 0.031223
+It: 31500, Loss: 8.395e+01, Loss_bcs: 2.975e-02, Loss_res: 5.591e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 2.072e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 2.926952
+mean_grad_bcs: 0.023434
+It: 31600, Loss: 5.389e+01, Loss_bcs: 2.806e-02, Loss_res: 2.281e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 1.276e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 1.653177
+mean_grad_bcs: 0.024297
+It: 31700, Loss: 8.546e+01, Loss_bcs: 3.143e-02, Loss_res: 5.523e-01,Time: 0.02
+ np.max([max_grad_bcs , max_grad_res]): 5.260e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 3.850935
+mean_grad_bcs: 0.024521
+It: 31800, Loss: 1.519e+02, Loss_bcs: 2.828e-02, Loss_res: 1.384e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 3.045e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 3.480871
+mean_grad_bcs: 0.031021
+It: 31900, Loss: 1.080e+02, Loss_bcs: 2.268e-02, Loss_res: 9.461e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 6.654e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 5.154703
+mean_grad_bcs: 0.027640
+It: 32000, Loss: 1.054e+02, Loss_bcs: 2.812e-02, Loss_res: 8.369e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 4.077e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 4.075813
+mean_grad_bcs: 0.042060
+It: 32100, Loss: 8.424e+01, Loss_bcs: 3.117e-02, Loss_res: 5.417e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 3.499e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 3.293569
+mean_grad_bcs: 0.020256
+It: 32200, Loss: 1.054e+02, Loss_bcs: 2.756e-02, Loss_res: 8.442e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 5.300e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 3.686356
+mean_grad_bcs: 0.027489
+It: 32300, Loss: 8.215e+01, Loss_bcs: 3.089e-02, Loss_res: 5.211e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 5.805e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 3.530023
+mean_grad_bcs: 0.024457
+It: 32400, Loss: 8.083e+01, Loss_bcs: 3.245e-02, Loss_res: 4.827e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 3.356e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 3.274623
+mean_grad_bcs: 0.034289
+It: 32500, Loss: 1.182e+02, Loss_bcs: 3.093e-02, Loss_res: 9.474e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 6.861e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 5.394745
+mean_grad_bcs: 0.029806
+It: 32600, Loss: 9.773e+01, Loss_bcs: 3.074e-02, Loss_res: 7.076e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 4.742e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 4.531219
+mean_grad_bcs: 0.027464
+It: 32700, Loss: 6.142e+01, Loss_bcs: 3.051e-02, Loss_res: 2.816e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 2.415e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 2.720977
+mean_grad_bcs: 0.021091
+It: 32800, Loss: 1.585e+02, Loss_bcs: 2.926e-02, Loss_res: 1.448e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 4.501e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 3.545377
+mean_grad_bcs: 0.028546
+It: 32900, Loss: 9.514e+01, Loss_bcs: 3.299e-02, Loss_res: 6.441e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 5.949e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 5.817817
+mean_grad_bcs: 0.025472
+It: 33000, Loss: 9.372e+01, Loss_bcs: 2.559e-02, Loss_res: 7.353e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 1.003e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 6.573665
+mean_grad_bcs: 0.024138
+It: 33100, Loss: 8.958e+01, Loss_bcs: 2.632e-02, Loss_res: 6.756e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 3.649e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 3.714375
+mean_grad_bcs: 0.032610
+It: 33200, Loss: 9.473e+01, Loss_bcs: 3.123e-02, Loss_res: 6.649e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 4.273e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 4.525000
+mean_grad_bcs: 0.022582
+It: 33300, Loss: 9.054e+01, Loss_bcs: 2.639e-02, Loss_res: 6.860e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 5.671e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 5.290545
+mean_grad_bcs: 0.019271
+It: 33400, Loss: 9.686e+01, Loss_bcs: 2.804e-02, Loss_res: 7.366e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 5.358e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 4.307137
+mean_grad_bcs: 0.027193
+It: 33500, Loss: 1.215e+02, Loss_bcs: 3.205e-02, Loss_res: 9.694e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 6.863e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 5.210540
+mean_grad_bcs: 0.030152
+It: 33600, Loss: 9.281e+01, Loss_bcs: 3.248e-02, Loss_res: 6.240e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 7.415e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 5.116598
+mean_grad_bcs: 0.026648
+It: 33700, Loss: 9.215e+01, Loss_bcs: 2.853e-02, Loss_res: 6.738e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 6.669e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 4.316442
+mean_grad_bcs: 0.021249
+It: 33800, Loss: 7.583e+01, Loss_bcs: 2.421e-02, Loss_res: 5.437e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 5.616e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 6.057026
+mean_grad_bcs: 0.023072
+It: 33900, Loss: 6.750e+01, Loss_bcs: 2.953e-02, Loss_res: 3.677e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 4.050e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 3.301947
+mean_grad_bcs: 0.026459
+It: 34000, Loss: 7.947e+01, Loss_bcs: 3.217e-02, Loss_res: 4.707e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 2.853e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 2.800079
+mean_grad_bcs: 0.023431
+It: 34100, Loss: 6.643e+01, Loss_bcs: 3.118e-02, Loss_res: 3.309e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 2.565e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 3.029179
+mean_grad_bcs: 0.025726
+It: 34200, Loss: 1.043e+02, Loss_bcs: 2.557e-02, Loss_res: 8.609e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 5.238e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 4.738811
+mean_grad_bcs: 0.020908
+It: 34300, Loss: 9.684e+01, Loss_bcs: 2.820e-02, Loss_res: 7.340e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 6.600e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 6.734455
+mean_grad_bcs: 0.025790
+It: 34400, Loss: 8.196e+01, Loss_bcs: 3.235e-02, Loss_res: 4.975e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 2.753e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 4.070403
+mean_grad_bcs: 0.025286
+It: 34500, Loss: 5.929e+01, Loss_bcs: 2.715e-02, Loss_res: 3.053e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 5.074e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 4.070482
+mean_grad_bcs: 0.017865
+It: 34600, Loss: 7.504e+01, Loss_bcs: 2.754e-02, Loss_res: 4.860e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 3.125e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 3.721878
+mean_grad_bcs: 0.022759
+It: 34700, Loss: 7.647e+01, Loss_bcs: 2.652e-02, Loss_res: 5.177e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 4.399e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 3.470316
+mean_grad_bcs: 0.025430
+It: 34800, Loss: 1.204e+02, Loss_bcs: 3.268e-02, Loss_res: 9.468e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 7.894e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 6.691339
+mean_grad_bcs: 0.030751
+It: 34900, Loss: 1.006e+02, Loss_bcs: 2.755e-02, Loss_res: 7.877e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 5.241e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 4.180781
+mean_grad_bcs: 0.019053
+It: 35000, Loss: 6.260e+01, Loss_bcs: 2.363e-02, Loss_res: 3.958e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 2.400e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 2.431707
+mean_grad_bcs: 0.023609
+It: 35100, Loss: 1.008e+02, Loss_bcs: 2.943e-02, Loss_res: 7.624e-01,Time: 0.02
+ np.max([max_grad_bcs , max_grad_res]): 5.201e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 5.559607
+mean_grad_bcs: 0.027284
+It: 35200, Loss: 8.436e+01, Loss_bcs: 2.699e-02, Loss_res: 6.041e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 3.956e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 3.527655
+mean_grad_bcs: 0.034694
+It: 35300, Loss: 7.737e+01, Loss_bcs: 3.069e-02, Loss_res: 4.675e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 4.227e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 3.953413
+mean_grad_bcs: 0.022217
+It: 35400, Loss: 2.009e+02, Loss_bcs: 2.548e-02, Loss_res: 2.005e+00,Time: 0.02
+ np.max([max_grad_bcs , max_grad_res]): 6.171e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 4.762433
+mean_grad_bcs: 0.032902
+It: 35500, Loss: 9.292e+01, Loss_bcs: 2.690e-02, Loss_res: 7.067e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 3.032e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 2.628493
+mean_grad_bcs: 0.027302
+It: 35600, Loss: 7.378e+01, Loss_bcs: 3.206e-02, Loss_res: 4.051e-01,Time: 0.02
+ np.max([max_grad_bcs , max_grad_res]): 7.254e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 5.220595
+mean_grad_bcs: 0.029832
+It: 35700, Loss: 7.441e+01, Loss_bcs: 2.665e-02, Loss_res: 4.914e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 5.969e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 3.554070
+mean_grad_bcs: 0.028218
+It: 35800, Loss: 9.297e+01, Loss_bcs: 2.725e-02, Loss_res: 7.021e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 2.218e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 2.744528
+mean_grad_bcs: 0.025277
+It: 35900, Loss: 5.581e+01, Loss_bcs: 2.659e-02, Loss_res: 2.723e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 3.153e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 2.410904
+mean_grad_bcs: 0.026632
+It: 36000, Loss: 6.077e+01, Loss_bcs: 2.597e-02, Loss_res: 3.399e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 5.775e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 4.196833
+mean_grad_bcs: 0.036148
+It: 36100, Loss: 9.864e+01, Loss_bcs: 3.357e-02, Loss_res: 6.771e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 3.106e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 2.906083
+mean_grad_bcs: 0.031239
+It: 36200, Loss: 6.415e+01, Loss_bcs: 2.660e-02, Loss_res: 3.709e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 3.179e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 2.925976
+mean_grad_bcs: 0.023656
+It: 36300, Loss: 6.899e+01, Loss_bcs: 2.978e-02, Loss_res: 3.817e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 4.660e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 3.348344
+mean_grad_bcs: 0.022506
+It: 36400, Loss: 7.719e+01, Loss_bcs: 3.186e-02, Loss_res: 4.483e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 3.222e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 3.385617
+mean_grad_bcs: 0.034746
+It: 36500, Loss: 6.868e+01, Loss_bcs: 2.957e-02, Loss_res: 3.810e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 5.119e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 5.302154
+mean_grad_bcs: 0.026269
+It: 36600, Loss: 7.029e+01, Loss_bcs: 2.655e-02, Loss_res: 4.441e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 4.700e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 3.771213
+mean_grad_bcs: 0.019987
+It: 36700, Loss: 9.873e+01, Loss_bcs: 2.986e-02, Loss_res: 7.322e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 6.343e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 6.436729
+mean_grad_bcs: 0.022592
+It: 36800, Loss: 8.493e+01, Loss_bcs: 2.424e-02, Loss_res: 6.510e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 3.987e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 3.179190
+mean_grad_bcs: 0.036536
+It: 36900, Loss: 6.765e+01, Loss_bcs: 3.094e-02, Loss_res: 3.489e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 2.692e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 2.234848
+mean_grad_bcs: 0.019850
+It: 37000, Loss: 7.982e+01, Loss_bcs: 2.742e-02, Loss_res: 5.441e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 8.801e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 6.017412
+mean_grad_bcs: 0.028226
+It: 37100, Loss: 1.079e+02, Loss_bcs: 2.569e-02, Loss_res: 9.018e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 3.135e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 3.865580
+mean_grad_bcs: 0.044284
+It: 37200, Loss: 1.056e+02, Loss_bcs: 3.127e-02, Loss_res: 7.934e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 1.145e+02
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 9.027932
+mean_grad_bcs: 0.024616
+It: 37300, Loss: 6.871e+01, Loss_bcs: 2.814e-02, Loss_res: 4.023e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 3.023e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 3.351795
+mean_grad_bcs: 0.021778
+It: 37400, Loss: 1.115e+02, Loss_bcs: 2.573e-02, Loss_res: 9.436e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 5.344e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 5.083351
+mean_grad_bcs: 0.024315
+It: 37500, Loss: 7.110e+01, Loss_bcs: 2.864e-02, Loss_res: 4.233e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 2.377e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 2.985643
+mean_grad_bcs: 0.029738
+It: 37600, Loss: 5.992e+01, Loss_bcs: 2.540e-02, Loss_res: 3.383e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 8.446e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 5.910725
+mean_grad_bcs: 0.027489
+It: 37700, Loss: 7.242e+01, Loss_bcs: 2.773e-02, Loss_res: 4.522e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 5.268e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 5.229301
+mean_grad_bcs: 0.025361
+It: 37800, Loss: 1.234e+02, Loss_bcs: 2.303e-02, Loss_res: 1.124e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 4.445e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 4.360448
+mean_grad_bcs: 0.028285
+It: 37900, Loss: 1.195e+02, Loss_bcs: 2.981e-02, Loss_res: 9.789e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 3.642e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 3.035816
+mean_grad_bcs: 0.023918
+It: 38000, Loss: 9.083e+01, Loss_bcs: 2.560e-02, Loss_res: 7.008e-01,Time: 0.02
+ np.max([max_grad_bcs , max_grad_res]): 3.191e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 2.720331
+mean_grad_bcs: 0.023923
+It: 38100, Loss: 7.521e+01, Loss_bcs: 2.756e-02, Loss_res: 4.875e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 4.040e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 4.077098
+mean_grad_bcs: 0.022508
+It: 38200, Loss: 5.787e+01, Loss_bcs: 2.851e-02, Loss_res: 2.687e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 4.261e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 4.494332
+mean_grad_bcs: 0.025605
+It: 38300, Loss: 7.732e+01, Loss_bcs: 2.817e-02, Loss_res: 5.037e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 3.483e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 2.943650
+mean_grad_bcs: 0.020226
+It: 38400, Loss: 7.415e+01, Loss_bcs: 2.227e-02, Loss_res: 5.521e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 4.396e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 4.150718
+mean_grad_bcs: 0.030149
+It: 38500, Loss: 1.200e+02, Loss_bcs: 2.929e-02, Loss_res: 9.920e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 5.327e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 4.556108
+mean_grad_bcs: 0.021351
+It: 38600, Loss: 9.476e+01, Loss_bcs: 2.516e-02, Loss_res: 7.539e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 3.094e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 4.004616
+mean_grad_bcs: 0.025361
+It: 38700, Loss: 5.803e+01, Loss_bcs: 2.432e-02, Loss_res: 3.317e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 5.130e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 4.808117
+mean_grad_bcs: 0.021795
+It: 38800, Loss: 6.478e+01, Loss_bcs: 2.109e-02, Loss_res: 4.586e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 3.412e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 3.245173
+mean_grad_bcs: 0.029792
+It: 38900, Loss: 7.414e+01, Loss_bcs: 2.322e-02, Loss_res: 5.382e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 4.534e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 3.629699
+mean_grad_bcs: 0.033732
+It: 39000, Loss: 7.975e+01, Loss_bcs: 3.018e-02, Loss_res: 5.030e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 3.202e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 2.803245
+mean_grad_bcs: 0.022962
+It: 39100, Loss: 9.521e+01, Loss_bcs: 2.486e-02, Loss_res: 7.635e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 4.070e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 4.526887
+mean_grad_bcs: 0.025653
+It: 39200, Loss: 7.746e+01, Loss_bcs: 2.914e-02, Loss_res: 4.913e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 4.264e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 3.678532
+mean_grad_bcs: 0.026330
+It: 39300, Loss: 7.230e+01, Loss_bcs: 2.765e-02, Loss_res: 4.519e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 2.436e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 3.451082
+mean_grad_bcs: 0.024732
+It: 39400, Loss: 7.457e+01, Loss_bcs: 2.508e-02, Loss_res: 5.162e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 5.408e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 4.053839
+mean_grad_bcs: 0.019906
+It: 39500, Loss: 1.492e+02, Loss_bcs: 2.134e-02, Loss_res: 1.453e+00,Time: 0.02
+ np.max([max_grad_bcs , max_grad_res]): 4.363e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 3.903239
+mean_grad_bcs: 0.030983
+It: 39600, Loss: 6.501e+01, Loss_bcs: 2.310e-02, Loss_res: 4.321e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 4.737e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 3.389534
+mean_grad_bcs: 0.027094
+It: 39700, Loss: 1.349e+02, Loss_bcs: 2.414e-02, Loss_res: 1.243e+00,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 4.127e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 3.815616
+mean_grad_bcs: 0.023030
+It: 39800, Loss: 6.472e+01, Loss_bcs: 2.651e-02, Loss_res: 3.790e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 1.477e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 1.677841
+mean_grad_bcs: 0.021568
+It: 39900, Loss: 9.560e+01, Loss_bcs: 3.407e-02, Loss_res: 6.338e-01,Time: 0.01
+ np.max([max_grad_bcs , max_grad_res]): 5.107e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 4.591504
+mean_grad_bcs: 0.022492
+Gradients information stored ...
+It: 40000, Loss: 9.362e+01, Loss_bcs: 2.645e-02, Loss_res: 7.215e-01,Time: 0.55
+ np.max([max_grad_bcs , max_grad_res]): 4.127e+01
+adaptive_bcs_val: 1.233e+03
+adaptive_res_val: 8.456e+01
+mean_grad_res: 4.302125
+mean_grad_bcs: 0.032269
+Relative L2 error_u: 6.46e-02
+Relative L2 error_f: 1.25e-02
+Save uv NN parameters successfully in %s ...checkpoints/Jan-16-2024_14-16-09-836894_M2
+Final loss total loss: 9.513531e+01
+Final loss loss_res: 7.389746e-01
+Final loss loss_bc1: 5.242781e-03
+Final loss loss_bc2: 4.433241e-03
+Final loss loss_bc3: 1.456349e-02
+Final loss loss_bc4: 2.241668e-03
+average lambda_bc1.2330e+03
+average lambda_res1.0
+
+
+Method: mini_batch
+
+average of time_list:3.3986e+02
+average of error_u_list:6.4597e-02
+average of error_v_list:1.2477e-02

@@ -1,0 +1,2850 @@
+It: 0, Loss: 5.022e+04, Loss_res: 1.514e-01,  Loss_bcs: 6.875e-01, Loss_ut_ics: 2.758e-04,, Time: 1.61
+adaptive_constant_res_val: 2.402e+03
+adaptive_constant_ics_val: 4.308e+02
+adaptive_constant_bcs_val: 8.427e+02
+mean_grad_res: 1.080e-01
+mean_grad_bcs: 3.078e-01
+mean_grad_ics: 6.021e-01
+kurtosis_grad_ics: 2.594e+02
+kurtosis_grad_bcs: 1.126e+02
+kurtosis_grad_res: 2.289e+02
+Gradients information stored ...
+It: 100, Loss: 1.398e+04, Loss_res: 6.059e+02,  Loss_bcs: 1.531e-01, Loss_ut_ics: 7.822e-01,, Time: 11.74
+mean_grad_res: 2.910e+01
+mean_grad_bcs: 1.653e-02
+mean_grad_ics: 6.793e-02
+kurtosis_grad_ics: 3.210e+02
+kurtosis_grad_bcs: 1.880e+02
+kurtosis_grad_res: 3.847e+02
+Gradients information stored ...
+It: 200, Loss: 1.075e+04, Loss_res: 8.933e+02,  Loss_bcs: 1.267e-01, Loss_ut_ics: 2.152e-01,, Time: 7.18
+mean_grad_res: 4.058e+01
+mean_grad_bcs: 1.397e-02
+mean_grad_ics: 3.030e-02
+kurtosis_grad_ics: 3.258e+02
+kurtosis_grad_bcs: 1.446e+02
+kurtosis_grad_res: 1.776e+02
+It: 300, Loss: 9.046e+03, Loss_res: 4.891e+02,  Loss_bcs: 1.163e-01, Loss_ut_ics: 2.299e-02,, Time: 3.78
+mean_grad_res: 2.204e+01
+mean_grad_bcs: 8.609e-03
+mean_grad_ics: 8.412e-03
+kurtosis_grad_ics: 5.859e+02
+kurtosis_grad_bcs: 1.132e+02
+kurtosis_grad_res: 1.834e+02
+It: 400, Loss: 9.636e+03, Loss_res: 4.022e+02,  Loss_bcs: 1.236e-01, Loss_ut_ics: 7.332e-02,, Time: 3.86
+mean_grad_res: 1.426e+01
+mean_grad_bcs: 3.146e-02
+mean_grad_ics: 1.396e-02
+kurtosis_grad_ics: 4.556e+02
+kurtosis_grad_bcs: 9.988e+01
+kurtosis_grad_res: 7.555e+02
+It: 500, Loss: 9.158e+03, Loss_res: 6.249e+02,  Loss_bcs: 1.136e-01, Loss_ut_ics: 8.512e-02,, Time: 3.73
+mean_grad_res: 1.778e+01
+mean_grad_bcs: 2.550e-02
+mean_grad_ics: 2.481e-02
+kurtosis_grad_ics: 4.159e+02
+kurtosis_grad_bcs: 1.053e+02
+kurtosis_grad_res: 3.166e+03
+It: 600, Loss: 9.255e+03, Loss_res: 9.141e+02,  Loss_bcs: 1.105e-01, Loss_ut_ics: 9.713e-02,, Time: 3.86
+mean_grad_res: 2.648e+01
+mean_grad_bcs: 2.929e-02
+mean_grad_ics: 9.244e-03
+kurtosis_grad_ics: 1.306e+03
+kurtosis_grad_bcs: 1.037e+02
+kurtosis_grad_res: 2.109e+03
+It: 700, Loss: 7.262e+03, Loss_res: 9.305e+02,  Loss_bcs: 8.338e-02, Loss_ut_ics: 8.592e-02,, Time: 3.92
+mean_grad_res: 2.852e+01
+mean_grad_bcs: 8.268e-03
+mean_grad_ics: 8.068e-03
+kurtosis_grad_ics: 9.965e+02
+kurtosis_grad_bcs: 1.259e+02
+kurtosis_grad_res: 1.320e+03
+It: 800, Loss: 6.541e+03, Loss_res: 1.193e+03,  Loss_bcs: 7.018e-02, Loss_ut_ics: 7.889e-02,, Time: 4.51
+mean_grad_res: 3.857e+01
+mean_grad_bcs: 1.702e-03
+mean_grad_ics: 1.028e-02
+kurtosis_grad_ics: 8.370e+02
+kurtosis_grad_bcs: 3.347e+02
+kurtosis_grad_res: 1.189e+03
+It: 900, Loss: 7.113e+03, Loss_res: 1.337e+03,  Loss_bcs: 7.663e-02, Loss_ut_ics: 6.375e-02,, Time: 4.67
+mean_grad_res: 4.064e+01
+mean_grad_bcs: 6.488e-03
+mean_grad_ics: 5.896e-03
+kurtosis_grad_ics: 1.727e+03
+kurtosis_grad_bcs: 1.025e+02
+kurtosis_grad_res: 1.030e+03
+It: 1000, Loss: 7.192e+03, Loss_res: 1.132e+03,  Loss_bcs: 8.024e-02, Loss_ut_ics: 7.082e-02,, Time: 4.06
+mean_grad_res: 4.152e+01
+mean_grad_bcs: 7.173e-03
+mean_grad_ics: 9.190e-03
+kurtosis_grad_ics: 1.280e+03
+kurtosis_grad_bcs: 1.065e+02
+kurtosis_grad_res: 1.236e+03
+Gradients information stored ...
+It: 1100, Loss: 6.033e+03, Loss_res: 1.028e+03,  Loss_bcs: 6.433e-02, Loss_ut_ics: 1.092e-01,, Time: 8.09
+mean_grad_res: 5.093e+01
+mean_grad_bcs: 1.856e-02
+mean_grad_ics: 7.599e-03
+kurtosis_grad_ics: 1.544e+03
+kurtosis_grad_bcs: 1.034e+02
+kurtosis_grad_res: 1.066e+03
+It: 1200, Loss: 5.196e+03, Loss_res: 8.676e+02,  Loss_bcs: 5.358e-02, Loss_ut_ics: 1.480e-01,, Time: 3.99
+mean_grad_res: 3.107e+01
+mean_grad_bcs: 8.351e-03
+mean_grad_ics: 1.527e-02
+kurtosis_grad_ics: 1.835e+03
+kurtosis_grad_bcs: 1.355e+02
+kurtosis_grad_res: 7.769e+02
+It: 1300, Loss: 5.354e+03, Loss_res: 9.324e+02,  Loss_bcs: 5.470e-02, Loss_ut_ics: 1.520e-01,, Time: 4.02
+mean_grad_res: 3.629e+01
+mean_grad_bcs: 1.296e-02
+mean_grad_ics: 9.993e-03
+kurtosis_grad_ics: 1.398e+03
+kurtosis_grad_bcs: 1.052e+02
+kurtosis_grad_res: 8.020e+02
+It: 1400, Loss: 4.259e+03, Loss_res: 9.079e+02,  Loss_bcs: 4.087e-02, Loss_ut_ics: 1.303e-01,, Time: 3.96
+mean_grad_res: 3.987e+01
+mean_grad_bcs: 7.383e-03
+mean_grad_ics: 2.852e-02
+kurtosis_grad_ics: 5.994e+02
+kurtosis_grad_bcs: 1.205e+02
+kurtosis_grad_res: 7.513e+02
+It: 1500, Loss: 4.823e+03, Loss_res: 1.219e+03,  Loss_bcs: 4.554e-02, Loss_ut_ics: 9.907e-02,, Time: 4.03
+mean_grad_res: 6.019e+01
+mean_grad_bcs: 9.636e-03
+mean_grad_ics: 3.650e-02
+kurtosis_grad_ics: 3.992e+02
+kurtosis_grad_bcs: 9.173e+01
+kurtosis_grad_res: 5.869e+02
+It: 1600, Loss: 3.778e+03, Loss_res: 7.430e+02,  Loss_bcs: 3.846e-02, Loss_ut_ics: 8.048e-02,, Time: 3.98
+mean_grad_res: 3.404e+01
+mean_grad_bcs: 5.535e-03
+mean_grad_ics: 1.843e-02
+kurtosis_grad_ics: 8.508e+02
+kurtosis_grad_bcs: 2.158e+02
+kurtosis_grad_res: 1.002e+03
+It: 1700, Loss: 3.183e+03, Loss_res: 1.022e+03,  Loss_bcs: 2.771e-02, Loss_ut_ics: 4.887e-02,, Time: 3.85
+mean_grad_res: 5.637e+01
+mean_grad_bcs: 4.304e-03
+mean_grad_ics: 2.905e-02
+kurtosis_grad_ics: 4.066e+02
+kurtosis_grad_bcs: 1.343e+02
+kurtosis_grad_res: 4.889e+02
+It: 1800, Loss: 2.693e+03, Loss_res: 8.809e+02,  Loss_bcs: 2.370e-02, Loss_ut_ics: 2.899e-02,, Time: 3.97
+mean_grad_res: 5.290e+01
+mean_grad_bcs: 9.488e-03
+mean_grad_ics: 3.491e-02
+kurtosis_grad_ics: 3.919e+02
+kurtosis_grad_bcs: 8.511e+01
+kurtosis_grad_res: 5.059e+02
+It: 1900, Loss: 1.529e+03, Loss_res: 4.690e+02,  Loss_bcs: 1.361e-02, Loss_ut_ics: 2.372e-02,, Time: 4.02
+mean_grad_res: 3.167e+01
+mean_grad_bcs: 1.452e-02
+mean_grad_ics: 5.299e-02
+kurtosis_grad_ics: 3.632e+02
+kurtosis_grad_bcs: 1.098e+02
+kurtosis_grad_res: 4.124e+02
+It: 2000, Loss: 1.906e+03, Loss_res: 6.637e+02,  Loss_bcs: 1.503e-02, Loss_ut_ics: 5.149e-02,, Time: 4.00
+mean_grad_res: 4.387e+01
+mean_grad_bcs: 1.370e-02
+mean_grad_ics: 1.177e-01
+kurtosis_grad_ics: 3.107e+02
+kurtosis_grad_bcs: 7.963e+01
+kurtosis_grad_res: 5.019e+02
+It: 2100, Loss: 1.245e+03, Loss_res: 4.841e+02,  Loss_bcs: 9.875e-03, Loss_ut_ics: 1.430e-02,, Time: 3.81
+mean_grad_res: 3.185e+01
+mean_grad_bcs: 9.618e-03
+mean_grad_ics: 6.468e-02
+kurtosis_grad_ics: 2.652e+02
+kurtosis_grad_bcs: 7.533e+01
+kurtosis_grad_res: 3.994e+02
+It: 2200, Loss: 1.116e+03, Loss_res: 6.115e+02,  Loss_bcs: 6.579e-03, Loss_ut_ics: 8.708e-03,, Time: 4.00
+mean_grad_res: 3.454e+01
+mean_grad_bcs: 5.226e-03
+mean_grad_ics: 5.506e-02
+kurtosis_grad_ics: 2.953e+02
+kurtosis_grad_bcs: 7.141e+01
+kurtosis_grad_res: 3.317e+02
+It: 2300, Loss: 1.242e+03, Loss_res: 6.436e+02,  Loss_bcs: 7.454e-03, Loss_ut_ics: 1.927e-02,, Time: 4.01
+mean_grad_res: 3.389e+01
+mean_grad_bcs: 6.517e-03
+mean_grad_ics: 3.543e-02
+kurtosis_grad_ics: 3.516e+02
+kurtosis_grad_bcs: 7.927e+01
+kurtosis_grad_res: 3.658e+02
+It: 2400, Loss: 1.155e+03, Loss_res: 5.965e+02,  Loss_bcs: 7.356e-03, Loss_ut_ics: 7.623e-03,, Time: 4.07
+mean_grad_res: 3.491e+01
+mean_grad_bcs: 6.687e-03
+mean_grad_ics: 6.766e-02
+kurtosis_grad_ics: 2.781e+02
+kurtosis_grad_bcs: 9.449e+01
+kurtosis_grad_res: 3.345e+02
+It: 2500, Loss: 1.136e+03, Loss_res: 6.179e+02,  Loss_bcs: 6.398e-03, Loss_ut_ics: 1.822e-02,, Time: 3.84
+mean_grad_res: 4.654e+01
+mean_grad_bcs: 9.695e-03
+mean_grad_ics: 7.811e-02
+kurtosis_grad_ics: 3.083e+02
+kurtosis_grad_bcs: 8.275e+01
+kurtosis_grad_res: 1.980e+02
+It: 2600, Loss: 8.918e+02, Loss_res: 3.554e+02,  Loss_bcs: 5.611e-03, Loss_ut_ics: 4.512e-02,, Time: 4.10
+mean_grad_res: 2.540e+01
+mean_grad_bcs: 4.011e-03
+mean_grad_ics: 1.502e-01
+kurtosis_grad_ics: 3.346e+02
+kurtosis_grad_bcs: 7.859e+01
+kurtosis_grad_res: 3.442e+02
+It: 2700, Loss: 8.517e+02, Loss_res: 4.376e+02,  Loss_bcs: 5.511e-03, Loss_ut_ics: 4.128e-03,, Time: 4.01
+mean_grad_res: 1.824e+01
+mean_grad_bcs: 8.035e-03
+mean_grad_ics: 5.687e-02
+kurtosis_grad_ics: 2.457e+02
+kurtosis_grad_bcs: 9.389e+01
+kurtosis_grad_res: 3.650e+02
+It: 2800, Loss: 8.803e+02, Loss_res: 4.747e+02,  Loss_bcs: 4.712e-03, Loss_ut_ics: 2.188e-02,, Time: 4.06
+mean_grad_res: 2.398e+01
+mean_grad_bcs: 7.451e-03
+mean_grad_ics: 8.581e-02
+kurtosis_grad_ics: 3.180e+02
+kurtosis_grad_bcs: 8.112e+01
+kurtosis_grad_res: 5.888e+02
+It: 2900, Loss: 1.131e+03, Loss_res: 5.137e+02,  Loss_bcs: 8.181e-03, Loss_ut_ics: 6.906e-03,, Time: 4.02
+mean_grad_res: 3.671e+01
+mean_grad_bcs: 1.248e-02
+mean_grad_ics: 2.084e-02
+kurtosis_grad_ics: 2.935e+02
+kurtosis_grad_bcs: 6.565e+01
+kurtosis_grad_res: 2.854e+02
+It: 3000, Loss: 8.309e+02, Loss_res: 4.457e+02,  Loss_bcs: 4.710e-03, Loss_ut_ics: 1.468e-02,, Time: 4.08
+mean_grad_res: 2.540e+01
+mean_grad_bcs: 8.041e-03
+mean_grad_ics: 8.906e-02
+kurtosis_grad_ics: 3.202e+02
+kurtosis_grad_bcs: 7.909e+01
+kurtosis_grad_res: 4.383e+02
+It: 3100, Loss: 8.390e+02, Loss_res: 3.562e+02,  Loss_bcs: 6.001e-03, Loss_ut_ics: 1.589e-02,, Time: 4.06
+mean_grad_res: 1.621e+01
+mean_grad_bcs: 1.157e-02
+mean_grad_ics: 2.205e-02
+kurtosis_grad_ics: 3.602e+02
+kurtosis_grad_bcs: 6.425e+01
+kurtosis_grad_res: 4.066e+02
+It: 3200, Loss: 6.795e+02, Loss_res: 3.851e+02,  Loss_bcs: 3.748e-03, Loss_ut_ics: 7.351e-03,, Time: 4.07
+mean_grad_res: 1.809e+01
+mean_grad_bcs: 1.005e-03
+mean_grad_ics: 8.131e-02
+kurtosis_grad_ics: 2.912e+02
+kurtosis_grad_bcs: 1.324e+02
+kurtosis_grad_res: 5.759e+02
+It: 3300, Loss: 7.532e+02, Loss_res: 4.022e+02,  Loss_bcs: 3.507e-03, Loss_ut_ics: 3.382e-02,, Time: 4.03
+mean_grad_res: 2.499e+01
+mean_grad_bcs: 3.212e-03
+mean_grad_ics: 1.439e-01
+kurtosis_grad_ics: 2.778e+02
+kurtosis_grad_bcs: 6.958e+01
+kurtosis_grad_res: 4.108e+02
+It: 3400, Loss: 1.088e+03, Loss_res: 5.781e+02,  Loss_bcs: 4.837e-03, Loss_ut_ics: 5.581e-02,, Time: 3.91
+mean_grad_res: 3.826e+01
+mean_grad_bcs: 7.183e-03
+mean_grad_ics: 2.835e-01
+kurtosis_grad_ics: 2.398e+02
+kurtosis_grad_bcs: 7.398e+01
+kurtosis_grad_res: 4.019e+02
+It: 3500, Loss: 7.330e+02, Loss_res: 4.819e+02,  Loss_bcs: 3.061e-03, Loss_ut_ics: 9.805e-03,, Time: 4.06
+mean_grad_res: 2.600e+01
+mean_grad_bcs: 4.077e-03
+mean_grad_ics: 8.104e-02
+kurtosis_grad_ics: 3.229e+02
+kurtosis_grad_bcs: 7.615e+01
+kurtosis_grad_res: 5.411e+02
+It: 3600, Loss: 1.056e+03, Loss_res: 4.383e+02,  Loss_bcs: 5.545e-03, Loss_ut_ics: 7.581e-02,, Time: 4.07
+mean_grad_res: 2.259e+01
+mean_grad_bcs: 1.122e-02
+mean_grad_ics: 1.781e-01
+kurtosis_grad_ics: 2.950e+02
+kurtosis_grad_bcs: 7.570e+01
+kurtosis_grad_res: 3.608e+02
+It: 3700, Loss: 1.030e+03, Loss_res: 4.422e+02,  Loss_bcs: 5.788e-03, Loss_ut_ics: 5.872e-02,, Time: 4.01
+mean_grad_res: 2.907e+01
+mean_grad_bcs: 1.199e-02
+mean_grad_ics: 4.232e-01
+kurtosis_grad_ics: 3.134e+02
+kurtosis_grad_bcs: 7.587e+01
+kurtosis_grad_res: 4.317e+02
+It: 3800, Loss: 7.247e+02, Loss_res: 4.248e+02,  Loss_bcs: 3.665e-03, Loss_ut_ics: 1.152e-02,, Time: 3.89
+mean_grad_res: 2.109e+01
+mean_grad_bcs: 6.579e-03
+mean_grad_ics: 1.244e-01
+kurtosis_grad_ics: 3.362e+02
+kurtosis_grad_bcs: 6.804e+01
+kurtosis_grad_res: 5.585e+02
+It: 3900, Loss: 7.211e+02, Loss_res: 4.304e+02,  Loss_bcs: 3.333e-03, Loss_ut_ics: 1.685e-02,, Time: 4.22
+mean_grad_res: 1.839e+01
+mean_grad_bcs: 5.320e-03
+mean_grad_ics: 5.261e-02
+kurtosis_grad_ics: 2.930e+02
+kurtosis_grad_bcs: 6.691e+01
+kurtosis_grad_res: 7.597e+02
+It: 4000, Loss: 7.593e+02, Loss_res: 3.774e+02,  Loss_bcs: 3.626e-03, Loss_ut_ics: 4.174e-02,, Time: 4.05
+mean_grad_res: 1.493e+01
+mean_grad_bcs: 8.483e-03
+mean_grad_ics: 2.963e-01
+kurtosis_grad_ics: 3.462e+02
+kurtosis_grad_bcs: 6.512e+01
+kurtosis_grad_res: 6.168e+02
+It: 4100, Loss: 7.429e+02, Loss_res: 4.824e+02,  Loss_bcs: 3.324e-03, Loss_ut_ics: 6.326e-03,, Time: 4.01
+mean_grad_res: 2.435e+01
+mean_grad_bcs: 3.016e-03
+mean_grad_ics: 3.464e-02
+kurtosis_grad_ics: 3.282e+02
+kurtosis_grad_bcs: 6.731e+01
+kurtosis_grad_res: 6.147e+02
+It: 4200, Loss: 5.623e+02, Loss_res: 3.678e+02,  Loss_bcs: 2.480e-03, Loss_ut_ics: 4.752e-03,, Time: 3.89
+mean_grad_res: 2.003e+01
+mean_grad_bcs: 1.605e-03
+mean_grad_ics: 8.618e-02
+kurtosis_grad_ics: 3.004e+02
+kurtosis_grad_bcs: 8.885e+01
+kurtosis_grad_res: 4.632e+02
+It: 4300, Loss: 6.654e+02, Loss_res: 4.338e+02,  Loss_bcs: 2.894e-03, Loss_ut_ics: 7.210e-03,, Time: 4.00
+mean_grad_res: 1.694e+01
+mean_grad_bcs: 1.104e-03
+mean_grad_ics: 3.060e-02
+kurtosis_grad_ics: 3.304e+02
+kurtosis_grad_bcs: 1.147e+02
+kurtosis_grad_res: 8.008e+02
+It: 4400, Loss: 8.002e+02, Loss_res: 4.056e+02,  Loss_bcs: 3.106e-03, Loss_ut_ics: 5.981e-02,, Time: 4.16
+mean_grad_res: 1.916e+01
+mean_grad_bcs: 1.741e-03
+mean_grad_ics: 9.661e-02
+kurtosis_grad_ics: 3.035e+02
+kurtosis_grad_bcs: 1.163e+02
+kurtosis_grad_res: 5.256e+02
+It: 4500, Loss: 8.181e+02, Loss_res: 3.879e+02,  Loss_bcs: 5.454e-03, Loss_ut_ics: 1.135e-02,, Time: 4.12
+mean_grad_res: 2.036e+01
+mean_grad_bcs: 4.630e-03
+mean_grad_ics: 8.571e-02
+kurtosis_grad_ics: 2.623e+02
+kurtosis_grad_bcs: 6.948e+01
+kurtosis_grad_res: 4.475e+02
+It: 4600, Loss: 6.587e+02, Loss_res: 4.790e+02,  Loss_bcs: 2.351e-03, Loss_ut_ics: 2.841e-03,, Time: 3.96
+mean_grad_res: 1.922e+01
+mean_grad_bcs: 3.647e-03
+mean_grad_ics: 9.909e-02
+kurtosis_grad_ics: 3.321e+02
+kurtosis_grad_bcs: 6.699e+01
+kurtosis_grad_res: 5.057e+02
+It: 4700, Loss: 5.937e+02, Loss_res: 3.852e+02,  Loss_bcs: 2.762e-03, Loss_ut_ics: 2.405e-03,, Time: 3.94
+mean_grad_res: 1.885e+01
+mean_grad_bcs: 5.361e-03
+mean_grad_ics: 2.514e-02
+kurtosis_grad_ics: 3.258e+02
+kurtosis_grad_bcs: 6.587e+01
+kurtosis_grad_res: 4.736e+02
+It: 4800, Loss: 6.667e+02, Loss_res: 4.489e+02,  Loss_bcs: 2.347e-03, Loss_ut_ics: 1.653e-02,, Time: 4.09
+mean_grad_res: 2.049e+01
+mean_grad_bcs: 2.170e-03
+mean_grad_ics: 8.702e-02
+kurtosis_grad_ics: 3.036e+02
+kurtosis_grad_bcs: 7.906e+01
+kurtosis_grad_res: 5.713e+02
+It: 4900, Loss: 6.260e+02, Loss_res: 4.326e+02,  Loss_bcs: 2.477e-03, Loss_ut_ics: 4.428e-03,, Time: 4.06
+mean_grad_res: 1.706e+01
+mean_grad_bcs: 4.699e-03
+mean_grad_ics: 4.803e-02
+kurtosis_grad_ics: 2.732e+02
+kurtosis_grad_bcs: 7.425e+01
+kurtosis_grad_res: 6.902e+02
+It: 5000, Loss: 5.538e+02, Loss_res: 3.430e+02,  Loss_bcs: 2.286e-03, Loss_ut_ics: 1.560e-02,, Time: 3.98
+mean_grad_res: 2.256e+01
+mean_grad_bcs: 2.546e-03
+mean_grad_ics: 1.102e-01
+kurtosis_grad_ics: 2.954e+02
+kurtosis_grad_bcs: 8.263e+01
+kurtosis_grad_res: 2.879e+02
+It: 5100, Loss: 6.314e+02, Loss_res: 3.850e+02,  Loss_bcs: 2.098e-03, Loss_ut_ics: 3.322e-02,, Time: 3.87
+mean_grad_res: 1.903e+01
+mean_grad_bcs: 2.922e-03
+mean_grad_ics: 1.337e-01
+kurtosis_grad_ics: 3.280e+02
+kurtosis_grad_bcs: 8.685e+01
+kurtosis_grad_res: 8.475e+02
+It: 5200, Loss: 5.116e+02, Loss_res: 3.080e+02,  Loss_bcs: 1.958e-03, Loss_ut_ics: 2.160e-02,, Time: 4.10
+mean_grad_res: 2.320e+01
+mean_grad_bcs: 5.790e-03
+mean_grad_ics: 1.226e-01
+kurtosis_grad_ics: 2.538e+02
+kurtosis_grad_bcs: 6.565e+01
+kurtosis_grad_res: 2.689e+02
+It: 5300, Loss: 6.025e+02, Loss_res: 3.699e+02,  Loss_bcs: 2.082e-03, Loss_ut_ics: 2.874e-02,, Time: 4.13
+mean_grad_res: 1.864e+01
+mean_grad_bcs: 3.800e-03
+mean_grad_ics: 2.221e-01
+kurtosis_grad_ics: 2.428e+02
+kurtosis_grad_bcs: 6.390e+01
+kurtosis_grad_res: 4.061e+02
+It: 5400, Loss: 5.477e+02, Loss_res: 3.952e+02,  Loss_bcs: 1.936e-03, Loss_ut_ics: 3.961e-03,, Time: 4.10
+mean_grad_res: 1.922e+01
+mean_grad_bcs: 4.436e-03
+mean_grad_ics: 2.771e-02
+kurtosis_grad_ics: 3.526e+02
+kurtosis_grad_bcs: 7.443e+01
+kurtosis_grad_res: 4.234e+02
+It: 5500, Loss: 4.584e+02, Loss_res: 2.981e+02,  Loss_bcs: 1.776e-03, Loss_ut_ics: 1.091e-02,, Time: 3.88
+mean_grad_res: 1.864e+01
+mean_grad_bcs: 2.380e-03
+mean_grad_ics: 1.082e-01
+kurtosis_grad_ics: 2.850e+02
+kurtosis_grad_bcs: 6.930e+01
+kurtosis_grad_res: 3.161e+02
+It: 5600, Loss: 9.736e+02, Loss_res: 3.878e+02,  Loss_bcs: 2.809e-03, Loss_ut_ics: 1.357e-01,, Time: 4.06
+mean_grad_res: 1.860e+01
+mean_grad_bcs: 3.714e-03
+mean_grad_ics: 3.779e-01
+kurtosis_grad_ics: 2.119e+02
+kurtosis_grad_bcs: 7.006e+01
+kurtosis_grad_res: 4.161e+02
+It: 5700, Loss: 4.481e+02, Loss_res: 3.000e+02,  Loss_bcs: 1.629e-03, Loss_ut_ics: 1.037e-02,, Time: 4.02
+mean_grad_res: 1.726e+01
+mean_grad_bcs: 2.136e-03
+mean_grad_ics: 8.468e-02
+kurtosis_grad_ics: 2.254e+02
+kurtosis_grad_bcs: 7.292e+01
+kurtosis_grad_res: 4.068e+02
+It: 5800, Loss: 7.452e+02, Loss_res: 4.396e+02,  Loss_bcs: 1.888e-03, Loss_ut_ics: 5.981e-02,, Time: 4.07
+mean_grad_res: 2.517e+01
+mean_grad_bcs: 1.684e-03
+mean_grad_ics: 5.003e-02
+kurtosis_grad_ics: 4.179e+02
+kurtosis_grad_bcs: 7.699e+01
+kurtosis_grad_res: 3.916e+02
+It: 5900, Loss: 4.557e+02, Loss_res: 3.014e+02,  Loss_bcs: 1.772e-03, Loss_ut_ics: 8.875e-03,, Time: 3.89
+mean_grad_res: 1.707e+01
+mean_grad_bcs: 2.938e-03
+mean_grad_ics: 5.507e-02
+kurtosis_grad_ics: 3.047e+02
+kurtosis_grad_bcs: 7.001e+01
+kurtosis_grad_res: 2.942e+02
+It: 6000, Loss: 4.961e+02, Loss_res: 2.856e+02,  Loss_bcs: 2.565e-03, Loss_ut_ics: 8.248e-03,, Time: 4.11
+mean_grad_res: 1.271e+01
+mean_grad_bcs: 4.063e-03
+mean_grad_ics: 1.056e-01
+kurtosis_grad_ics: 3.102e+02
+kurtosis_grad_bcs: 6.840e+01
+kurtosis_grad_res: 3.332e+02
+It: 6100, Loss: 4.919e+02, Loss_res: 3.252e+02,  Loss_bcs: 1.647e-03, Loss_ut_ics: 1.653e-02,, Time: 4.09
+mean_grad_res: 1.620e+01
+mean_grad_bcs: 1.914e-03
+mean_grad_ics: 6.308e-02
+kurtosis_grad_ics: 2.474e+02
+kurtosis_grad_bcs: 1.013e+02
+kurtosis_grad_res: 2.895e+02
+It: 6200, Loss: 5.854e+02, Loss_res: 3.683e+02,  Loss_bcs: 2.335e-03, Loss_ut_ics: 1.660e-02,, Time: 4.04
+mean_grad_res: 1.867e+01
+mean_grad_bcs: 4.101e-03
+mean_grad_ics: 5.665e-02
+kurtosis_grad_ics: 2.689e+02
+kurtosis_grad_bcs: 6.885e+01
+kurtosis_grad_res: 4.540e+02
+It: 6300, Loss: 4.063e+02, Loss_res: 2.844e+02,  Loss_bcs: 1.623e-03, Loss_ut_ics: 1.187e-03,, Time: 3.98
+mean_grad_res: 1.607e+01
+mean_grad_bcs: 1.647e-03
+mean_grad_ics: 3.584e-02
+kurtosis_grad_ics: 2.883e+02
+kurtosis_grad_bcs: 8.072e+01
+kurtosis_grad_res: 5.391e+02
+It: 6400, Loss: 4.388e+02, Loss_res: 3.189e+02,  Loss_bcs: 1.447e-03, Loss_ut_ics: 5.072e-03,, Time: 3.92
+mean_grad_res: 1.921e+01
+mean_grad_bcs: 2.851e-03
+mean_grad_ics: 1.645e-01
+kurtosis_grad_ics: 2.454e+02
+kurtosis_grad_bcs: 6.526e+01
+kurtosis_grad_res: 3.650e+02
+It: 6500, Loss: 6.258e+02, Loss_res: 2.620e+02,  Loss_bcs: 1.563e-03, Loss_ut_ics: 8.902e-02,, Time: 4.00
+mean_grad_res: 1.473e+01
+mean_grad_bcs: 1.975e-03
+mean_grad_ics: 3.647e-01
+kurtosis_grad_ics: 2.576e+02
+kurtosis_grad_bcs: 8.845e+01
+kurtosis_grad_res: 4.846e+02
+It: 6600, Loss: 4.090e+02, Loss_res: 3.211e+02,  Loss_bcs: 1.137e-03, Loss_ut_ics: 1.746e-03,, Time: 4.05
+mean_grad_res: 2.072e+01
+mean_grad_bcs: 8.428e-04
+mean_grad_ics: 1.500e-02
+kurtosis_grad_ics: 2.179e+02
+kurtosis_grad_bcs: 8.313e+01
+kurtosis_grad_res: 4.420e+02
+It: 6700, Loss: 4.045e+02, Loss_res: 2.861e+02,  Loss_bcs: 1.361e-03, Loss_ut_ics: 6.780e-03,, Time: 3.98
+mean_grad_res: 1.514e+01
+mean_grad_bcs: 2.367e-03
+mean_grad_ics: 6.064e-02
+kurtosis_grad_ics: 2.057e+02
+kurtosis_grad_bcs: 7.188e+01
+kurtosis_grad_res: 3.919e+02
+It: 6800, Loss: 3.758e+02, Loss_res: 2.792e+02,  Loss_bcs: 1.105e-03, Loss_ut_ics: 5.691e-03,, Time: 3.99
+mean_grad_res: 1.274e+01
+mean_grad_bcs: 1.831e-03
+mean_grad_ics: 2.003e-01
+kurtosis_grad_ics: 2.991e+02
+kurtosis_grad_bcs: 6.901e+01
+kurtosis_grad_res: 3.867e+02
+It: 6900, Loss: 3.988e+02, Loss_res: 2.908e+02,  Loss_bcs: 1.381e-03, Loss_ut_ics: 2.507e-03,, Time: 4.01
+mean_grad_res: 1.606e+01
+mean_grad_bcs: 3.816e-03
+mean_grad_ics: 6.205e-02
+kurtosis_grad_ics: 3.092e+02
+kurtosis_grad_bcs: 6.344e+01
+kurtosis_grad_res: 6.100e+02
+It: 7000, Loss: 4.255e+02, Loss_res: 2.879e+02,  Loss_bcs: 1.496e-03, Loss_ut_ics: 1.009e-02,, Time: 4.12
+mean_grad_res: 1.507e+01
+mean_grad_bcs: 1.473e-03
+mean_grad_ics: 1.018e-01
+kurtosis_grad_ics: 2.864e+02
+kurtosis_grad_bcs: 9.686e+01
+kurtosis_grad_res: 2.909e+02
+It: 7100, Loss: 4.996e+02, Loss_res: 3.127e+02,  Loss_bcs: 1.123e-03, Loss_ut_ics: 3.739e-02,, Time: 4.08
+mean_grad_res: 1.315e+01
+mean_grad_bcs: 3.668e-03
+mean_grad_ics: 1.616e-01
+kurtosis_grad_ics: 2.175e+02
+kurtosis_grad_bcs: 6.389e+01
+kurtosis_grad_res: 3.359e+02
+It: 7200, Loss: 4.036e+02, Loss_res: 3.182e+02,  Loss_bcs: 1.118e-03, Loss_ut_ics: 1.328e-03,, Time: 3.87
+mean_grad_res: 1.482e+01
+mean_grad_bcs: 4.519e-03
+mean_grad_ics: 1.007e-02
+kurtosis_grad_ics: 2.918e+02
+kurtosis_grad_bcs: 6.264e+01
+kurtosis_grad_res: 2.782e+02
+It: 7300, Loss: 3.698e+02, Loss_res: 2.701e+02,  Loss_bcs: 1.305e-03, Loss_ut_ics: 1.546e-03,, Time: 4.04
+mean_grad_res: 1.558e+01
+mean_grad_bcs: 8.295e-04
+mean_grad_ics: 6.470e-02
+kurtosis_grad_ics: 2.505e+02
+kurtosis_grad_bcs: 9.642e+01
+kurtosis_grad_res: 3.751e+02
+It: 7400, Loss: 4.296e+02, Loss_res: 3.208e+02,  Loss_bcs: 1.362e-03, Loss_ut_ics: 3.329e-03,, Time: 4.15
+mean_grad_res: 1.743e+01
+mean_grad_bcs: 2.557e-03
+mean_grad_ics: 4.634e-02
+kurtosis_grad_ics: 2.515e+02
+kurtosis_grad_bcs: 6.652e+01
+kurtosis_grad_res: 3.761e+02
+It: 7500, Loss: 4.863e+02, Loss_res: 3.043e+02,  Loss_bcs: 1.489e-03, Loss_ut_ics: 2.613e-02,, Time: 4.16
+mean_grad_res: 1.741e+01
+mean_grad_bcs: 2.138e-03
+mean_grad_ics: 1.279e-01
+kurtosis_grad_ics: 2.899e+02
+kurtosis_grad_bcs: 7.664e+01
+kurtosis_grad_res: 3.840e+02
+It: 7600, Loss: 4.231e+02, Loss_res: 2.987e+02,  Loss_bcs: 1.442e-03, Loss_ut_ics: 6.810e-03,, Time: 3.95
+mean_grad_res: 1.946e+01
+mean_grad_bcs: 5.074e-03
+mean_grad_ics: 1.561e-01
+kurtosis_grad_ics: 2.975e+02
+kurtosis_grad_bcs: 5.797e+01
+kurtosis_grad_res: 3.826e+02
+It: 7700, Loss: 3.979e+02, Loss_res: 2.974e+02,  Loss_bcs: 1.075e-03, Loss_ut_ics: 7.820e-03,, Time: 3.94
+mean_grad_res: 1.639e+01
+mean_grad_bcs: 1.628e-03
+mean_grad_ics: 7.462e-02
+kurtosis_grad_ics: 2.390e+02
+kurtosis_grad_bcs: 6.510e+01
+kurtosis_grad_res: 4.395e+02
+It: 7800, Loss: 3.657e+02, Loss_res: 2.870e+02,  Loss_bcs: 1.002e-03, Loss_ut_ics: 1.961e-03,, Time: 4.08
+mean_grad_res: 1.451e+01
+mean_grad_bcs: 2.516e-03
+mean_grad_ics: 1.409e-02
+kurtosis_grad_ics: 3.136e+02
+kurtosis_grad_bcs: 6.314e+01
+kurtosis_grad_res: 3.910e+02
+It: 7900, Loss: 4.148e+02, Loss_res: 3.291e+02,  Loss_bcs: 1.055e-03, Loss_ut_ics: 3.069e-03,, Time: 4.06
+mean_grad_res: 1.808e+01
+mean_grad_bcs: 3.942e-03
+mean_grad_ics: 6.723e-02
+kurtosis_grad_ics: 3.008e+02
+kurtosis_grad_bcs: 6.781e+01
+kurtosis_grad_res: 4.200e+02
+It: 8000, Loss: 4.026e+02, Loss_res: 3.177e+02,  Loss_bcs: 8.878e-04, Loss_ut_ics: 7.144e-03,, Time: 4.01
+mean_grad_res: 1.608e+01
+mean_grad_bcs: 1.782e-03
+mean_grad_ics: 7.677e-02
+kurtosis_grad_ics: 2.634e+02
+kurtosis_grad_bcs: 1.028e+02
+kurtosis_grad_res: 3.539e+02
+It: 8100, Loss: 3.534e+02, Loss_res: 2.612e+02,  Loss_bcs: 1.110e-03, Loss_ut_ics: 4.001e-03,, Time: 3.93
+mean_grad_res: 1.285e+01
+mean_grad_bcs: 1.780e-03
+mean_grad_ics: 5.058e-02
+kurtosis_grad_ics: 2.341e+02
+kurtosis_grad_bcs: 6.534e+01
+kurtosis_grad_res: 3.836e+02
+It: 8200, Loss: 3.347e+02, Loss_res: 2.166e+02,  Loss_bcs: 1.330e-03, Loss_ut_ics: 7.453e-03,, Time: 4.01
+mean_grad_res: 2.068e+01
+mean_grad_bcs: 3.862e-03
+mean_grad_ics: 1.419e-01
+kurtosis_grad_ics: 2.959e+02
+kurtosis_grad_bcs: 6.501e+01
+kurtosis_grad_res: 2.220e+02
+It: 8300, Loss: 3.816e+02, Loss_res: 3.022e+02,  Loss_bcs: 1.011e-03, Loss_ut_ics: 1.975e-03,, Time: 4.23
+mean_grad_res: 2.098e+01
+mean_grad_bcs: 2.121e-03
+mean_grad_ics: 4.606e-02
+kurtosis_grad_ics: 2.891e+02
+kurtosis_grad_bcs: 6.541e+01
+kurtosis_grad_res: 2.167e+02
+It: 8400, Loss: 2.884e+02, Loss_res: 2.123e+02,  Loss_bcs: 9.846e-04, Loss_ut_ics: 1.493e-03,, Time: 4.05
+mean_grad_res: 1.357e+01
+mean_grad_bcs: 3.616e-03
+mean_grad_ics: 1.926e-02
+kurtosis_grad_ics: 3.323e+02
+kurtosis_grad_bcs: 5.862e+01
+kurtosis_grad_res: 2.145e+02
+It: 8500, Loss: 3.752e+02, Loss_res: 3.044e+02,  Loss_bcs: 9.121e-04, Loss_ut_ics: 1.474e-03,, Time: 3.92
+mean_grad_res: 1.569e+01
+mean_grad_bcs: 8.903e-04
+mean_grad_ics: 1.184e-02
+kurtosis_grad_ics: 2.917e+02
+kurtosis_grad_bcs: 7.675e+01
+kurtosis_grad_res: 4.174e+02
+It: 8600, Loss: 4.083e+02, Loss_res: 3.009e+02,  Loss_bcs: 9.941e-04, Loss_ut_ics: 1.242e-02,, Time: 4.03
+mean_grad_res: 1.359e+01
+mean_grad_bcs: 4.807e-03
+mean_grad_ics: 1.586e-01
+kurtosis_grad_ics: 2.906e+02
+kurtosis_grad_bcs: 5.348e+01
+kurtosis_grad_res: 4.818e+02
+It: 8700, Loss: 3.242e+02, Loss_res: 2.477e+02,  Loss_bcs: 9.904e-04, Loss_ut_ics: 1.489e-03,, Time: 4.11
+mean_grad_res: 9.877e+00
+mean_grad_bcs: 1.878e-03
+mean_grad_ics: 3.436e-02
+kurtosis_grad_ics: 2.550e+02
+kurtosis_grad_bcs: 7.495e+01
+kurtosis_grad_res: 3.492e+02
+It: 8800, Loss: 4.540e+02, Loss_res: 3.065e+02,  Loss_bcs: 1.642e-03, Loss_ut_ics: 9.821e-03,, Time: 4.07
+mean_grad_res: 2.171e+01
+mean_grad_bcs: 8.054e-03
+mean_grad_ics: 1.057e-01
+kurtosis_grad_ics: 2.676e+02
+kurtosis_grad_bcs: 5.217e+01
+kurtosis_grad_res: 1.364e+02
+It: 8900, Loss: 4.267e+02, Loss_res: 3.128e+02,  Loss_bcs: 1.182e-03, Loss_ut_ics: 9.850e-03,, Time: 3.91
+mean_grad_res: 1.816e+01
+mean_grad_bcs: 2.131e-03
+mean_grad_ics: 1.002e-01
+kurtosis_grad_ics: 2.183e+02
+kurtosis_grad_bcs: 7.546e+01
+kurtosis_grad_res: 3.024e+02
+It: 9000, Loss: 3.759e+02, Loss_res: 2.827e+02,  Loss_bcs: 1.053e-03, Loss_ut_ics: 5.818e-03,, Time: 4.07
+mean_grad_res: 1.167e+01
+mean_grad_bcs: 1.874e-03
+mean_grad_ics: 2.522e-02
+kurtosis_grad_ics: 2.998e+02
+kurtosis_grad_bcs: 7.051e+01
+kurtosis_grad_res: 2.912e+02
+It: 9100, Loss: 3.968e+02, Loss_res: 2.481e+02,  Loss_bcs: 1.218e-03, Loss_ut_ics: 2.131e-02,, Time: 4.03
+mean_grad_res: 1.460e+01
+mean_grad_bcs: 3.314e-03
+mean_grad_ics: 1.648e-01
+kurtosis_grad_ics: 2.928e+02
+kurtosis_grad_bcs: 6.059e+01
+kurtosis_grad_res: 3.573e+02
+It: 9200, Loss: 3.965e+02, Loss_res: 2.266e+02,  Loss_bcs: 1.088e-03, Loss_ut_ics: 3.226e-02,, Time: 4.05
+mean_grad_res: 1.165e+01
+mean_grad_bcs: 4.118e-03
+mean_grad_ics: 1.271e-01
+kurtosis_grad_ics: 2.522e+02
+kurtosis_grad_bcs: 5.570e+01
+kurtosis_grad_res: 3.909e+02
+It: 9300, Loss: 3.489e+02, Loss_res: 2.492e+02,  Loss_bcs: 1.022e-03, Loss_ut_ics: 8.931e-03,, Time: 3.97
+mean_grad_res: 1.254e+01
+mean_grad_bcs: 1.993e-03
+mean_grad_ics: 1.042e-01
+kurtosis_grad_ics: 2.960e+02
+kurtosis_grad_bcs: 6.384e+01
+kurtosis_grad_res: 2.920e+02
+It: 9400, Loss: 3.154e+02, Loss_res: 2.278e+02,  Loss_bcs: 9.307e-04, Loss_ut_ics: 6.998e-03,, Time: 4.00
+mean_grad_res: 1.080e+01
+mean_grad_bcs: 1.558e-03
+mean_grad_ics: 1.110e-01
+kurtosis_grad_ics: 2.434e+02
+kurtosis_grad_bcs: 6.456e+01
+kurtosis_grad_res: 4.127e+02
+It: 9500, Loss: 3.521e+02, Loss_res: 2.657e+02,  Loss_bcs: 1.107e-03, Loss_ut_ics: 1.950e-03,, Time: 4.06
+mean_grad_res: 1.280e+01
+mean_grad_bcs: 1.848e-03
+mean_grad_ics: 8.957e-02
+kurtosis_grad_ics: 2.619e+02
+kurtosis_grad_bcs: 5.585e+01
+kurtosis_grad_res: 7.873e+02
+It: 9600, Loss: 3.110e+02, Loss_res: 2.304e+02,  Loss_bcs: 9.124e-04, Loss_ut_ics: 4.989e-03,, Time: 4.08
+mean_grad_res: 1.432e+01
+mean_grad_bcs: 2.506e-03
+mean_grad_ics: 7.267e-02
+kurtosis_grad_ics: 2.945e+02
+kurtosis_grad_bcs: 5.959e+01
+kurtosis_grad_res: 2.959e+02
+It: 9700, Loss: 3.303e+02, Loss_res: 2.576e+02,  Loss_bcs: 7.840e-04, Loss_ut_ics: 5.499e-03,, Time: 4.06
+mean_grad_res: 1.466e+01
+mean_grad_bcs: 1.860e-03
+mean_grad_ics: 8.571e-02
+kurtosis_grad_ics: 2.406e+02
+kurtosis_grad_bcs: 6.221e+01
+kurtosis_grad_res: 3.123e+02
+It: 9800, Loss: 2.900e+02, Loss_res: 2.165e+02,  Loss_bcs: 9.180e-04, Loss_ut_ics: 2.304e-03,, Time: 3.86
+mean_grad_res: 1.294e+01
+mean_grad_bcs: 3.935e-03
+mean_grad_ics: 3.543e-02
+kurtosis_grad_ics: 3.195e+02
+kurtosis_grad_bcs: 5.423e+01
+kurtosis_grad_res: 2.617e+02
+It: 9900, Loss: 3.539e+02, Loss_res: 2.799e+02,  Loss_bcs: 9.365e-04, Loss_ut_ics: 1.995e-03,, Time: 4.05
+mean_grad_res: 1.432e+01
+mean_grad_bcs: 1.982e-03
+mean_grad_ics: 1.721e-02
+kurtosis_grad_ics: 3.847e+02
+kurtosis_grad_bcs: 6.185e+01
+kurtosis_grad_res: 3.219e+02
+It: 10000, Loss: 3.369e+02, Loss_res: 2.365e+02,  Loss_bcs: 1.159e-03, Loss_ut_ics: 5.631e-03,, Time: 4.06
+mean_grad_res: 1.220e+01
+mean_grad_bcs: 5.457e-03
+mean_grad_ics: 6.426e-02
+kurtosis_grad_ics: 2.277e+02
+kurtosis_grad_bcs: 5.758e+01
+kurtosis_grad_res: 2.782e+02
+It: 10100, Loss: 3.740e+02, Loss_res: 2.715e+02,  Loss_bcs: 1.029e-03, Loss_ut_ics: 9.740e-03,, Time: 4.05
+mean_grad_res: 1.952e+01
+mean_grad_bcs: 5.280e-03
+mean_grad_ics: 9.096e-02
+kurtosis_grad_ics: 2.579e+02
+kurtosis_grad_bcs: 5.362e+01
+kurtosis_grad_res: 2.117e+02
+It: 10200, Loss: 2.784e+02, Loss_res: 2.117e+02,  Loss_bcs: 8.549e-04, Loss_ut_ics: 1.508e-03,, Time: 3.89
+mean_grad_res: 1.070e+01
+mean_grad_bcs: 9.505e-04
+mean_grad_ics: 3.784e-02
+kurtosis_grad_ics: 2.327e+02
+kurtosis_grad_bcs: 7.732e+01
+kurtosis_grad_res: 3.502e+02
+It: 10300, Loss: 4.858e+02, Loss_res: 2.212e+02,  Loss_bcs: 1.157e-03, Loss_ut_ics: 6.425e-02,, Time: 4.05
+mean_grad_res: 1.325e+01
+mean_grad_bcs: 4.487e-03
+mean_grad_ics: 4.078e-01
+kurtosis_grad_ics: 2.798e+02
+kurtosis_grad_bcs: 7.122e+01
+kurtosis_grad_res: 2.374e+02
+It: 10400, Loss: 3.080e+02, Loss_res: 2.380e+02,  Loss_bcs: 8.495e-04, Loss_ut_ics: 2.851e-03,, Time: 3.99
+mean_grad_res: 1.174e+01
+mean_grad_bcs: 1.437e-03
+mean_grad_ics: 3.483e-02
+kurtosis_grad_ics: 2.883e+02
+kurtosis_grad_bcs: 6.214e+01
+kurtosis_grad_res: 2.459e+02
+It: 10500, Loss: 3.026e+02, Loss_res: 2.365e+02,  Loss_bcs: 8.694e-04, Loss_ut_ics: 8.999e-04,, Time: 4.05
+mean_grad_res: 1.347e+01
+mean_grad_bcs: 1.413e-03
+mean_grad_ics: 4.610e-02
+kurtosis_grad_ics: 2.042e+02
+kurtosis_grad_bcs: 5.773e+01
+kurtosis_grad_res: 3.623e+02
+It: 10600, Loss: 3.468e+02, Loss_res: 2.619e+02,  Loss_bcs: 8.768e-04, Loss_ut_ics: 7.414e-03,, Time: 3.95
+mean_grad_res: 1.409e+01
+mean_grad_bcs: 3.796e-03
+mean_grad_ics: 3.479e-02
+kurtosis_grad_ics: 3.219e+02
+kurtosis_grad_bcs: 5.651e+01
+kurtosis_grad_res: 4.751e+02
+It: 10700, Loss: 3.732e+02, Loss_res: 2.837e+02,  Loss_bcs: 9.153e-04, Loss_ut_ics: 8.079e-03,, Time: 4.03
+mean_grad_res: 1.341e+01
+mean_grad_bcs: 1.442e-03
+mean_grad_ics: 4.031e-02
+kurtosis_grad_ics: 3.209e+02
+kurtosis_grad_bcs: 6.517e+01
+kurtosis_grad_res: 3.267e+02
+It: 10800, Loss: 3.164e+02, Loss_res: 2.380e+02,  Loss_bcs: 7.770e-04, Loss_ut_ics: 7.716e-03,, Time: 4.10
+mean_grad_res: 1.152e+01
+mean_grad_bcs: 1.751e-03
+mean_grad_ics: 1.419e-01
+kurtosis_grad_ics: 2.971e+02
+kurtosis_grad_bcs: 7.417e+01
+kurtosis_grad_res: 3.120e+02
+It: 10900, Loss: 2.923e+02, Loss_res: 2.207e+02,  Loss_bcs: 7.987e-04, Loss_ut_ics: 4.701e-03,, Time: 4.07
+mean_grad_res: 1.328e+01
+mean_grad_bcs: 1.233e-03
+mean_grad_ics: 5.452e-02
+kurtosis_grad_ics: 3.196e+02
+kurtosis_grad_bcs: 6.555e+01
+kurtosis_grad_res: 3.175e+02
+It: 11000, Loss: 4.578e+02, Loss_res: 2.917e+02,  Loss_bcs: 9.828e-04, Loss_ut_ics: 3.363e-02,, Time: 3.97
+mean_grad_res: 1.497e+01
+mean_grad_bcs: 3.748e-03
+mean_grad_ics: 2.889e-01
+kurtosis_grad_ics: 3.252e+02
+kurtosis_grad_bcs: 5.377e+01
+kurtosis_grad_res: 3.923e+02
+It: 11100, Loss: 2.702e+02, Loss_res: 2.016e+02,  Loss_bcs: 8.619e-04, Loss_ut_ics: 2.003e-03,, Time: 3.95
+mean_grad_res: 9.504e+00
+mean_grad_bcs: 6.389e-04
+mean_grad_ics: 4.866e-02
+kurtosis_grad_ics: 2.498e+02
+kurtosis_grad_bcs: 1.047e+02
+kurtosis_grad_res: 3.534e+02
+It: 11200, Loss: 4.336e+02, Loss_res: 2.337e+02,  Loss_bcs: 1.217e-03, Loss_ut_ics: 3.958e-02,, Time: 4.10
+mean_grad_res: 1.419e+01
+mean_grad_bcs: 2.971e-03
+mean_grad_ics: 1.312e-01
+kurtosis_grad_ics: 2.605e+02
+kurtosis_grad_bcs: 5.935e+01
+kurtosis_grad_res: 3.683e+02
+It: 11300, Loss: 2.948e+02, Loss_res: 2.138e+02,  Loss_bcs: 8.685e-04, Loss_ut_ics: 6.267e-03,, Time: 4.08
+mean_grad_res: 1.548e+01
+mean_grad_bcs: 2.113e-03
+mean_grad_ics: 3.562e-02
+kurtosis_grad_ics: 2.809e+02
+kurtosis_grad_bcs: 6.759e+01
+kurtosis_grad_res: 2.596e+02
+It: 11400, Loss: 2.837e+02, Loss_res: 2.207e+02,  Loss_bcs: 8.122e-04, Loss_ut_ics: 1.329e-03,, Time: 4.02
+mean_grad_res: 1.649e+01
+mean_grad_bcs: 1.241e-03
+mean_grad_ics: 1.940e-02
+kurtosis_grad_ics: 3.136e+02
+kurtosis_grad_bcs: 6.636e+01
+kurtosis_grad_res: 2.123e+02
+It: 11500, Loss: 3.112e+02, Loss_res: 2.473e+02,  Loss_bcs: 7.933e-04, Loss_ut_ics: 2.126e-03,, Time: 3.92
+mean_grad_res: 1.356e+01
+mean_grad_bcs: 4.779e-04
+mean_grad_ics: 1.587e-02
+kurtosis_grad_ics: 3.172e+02
+kurtosis_grad_bcs: 6.510e+01
+kurtosis_grad_res: 4.318e+02
+It: 11600, Loss: 2.487e+02, Loss_res: 1.880e+02,  Loss_bcs: 7.595e-04, Loss_ut_ics: 1.867e-03,, Time: 4.04
+mean_grad_res: 1.207e+01
+mean_grad_bcs: 1.779e-03
+mean_grad_ics: 1.931e-02
+kurtosis_grad_ics: 2.920e+02
+kurtosis_grad_bcs: 6.357e+01
+kurtosis_grad_res: 2.110e+02
+It: 11700, Loss: 2.603e+02, Loss_res: 1.888e+02,  Loss_bcs: 8.540e-04, Loss_ut_ics: 3.237e-03,, Time: 4.05
+mean_grad_res: 1.423e+01
+mean_grad_bcs: 2.591e-03
+mean_grad_ics: 7.618e-02
+kurtosis_grad_ics: 2.905e+02
+kurtosis_grad_bcs: 6.028e+01
+kurtosis_grad_res: 2.251e+02
+It: 11800, Loss: 3.040e+02, Loss_res: 2.208e+02,  Loss_bcs: 8.006e-04, Loss_ut_ics: 8.818e-03,, Time: 4.07
+mean_grad_res: 1.569e+01
+mean_grad_bcs: 1.579e-03
+mean_grad_ics: 8.007e-02
+kurtosis_grad_ics: 2.079e+02
+kurtosis_grad_bcs: 6.120e+01
+kurtosis_grad_res: 2.185e+02
+It: 11900, Loss: 3.001e+02, Loss_res: 2.156e+02,  Loss_bcs: 9.606e-04, Loss_ut_ics: 5.125e-03,, Time: 3.90
+mean_grad_res: 9.692e+00
+mean_grad_bcs: 2.232e-03
+mean_grad_ics: 2.866e-02
+kurtosis_grad_ics: 2.689e+02
+kurtosis_grad_bcs: 5.008e+01
+kurtosis_grad_res: 3.765e+02
+It: 12000, Loss: 2.972e+02, Loss_res: 2.413e+02,  Loss_bcs: 6.914e-04, Loss_ut_ics: 1.918e-03,, Time: 4.01
+mean_grad_res: 1.318e+01
+mean_grad_bcs: 2.101e-03
+mean_grad_ics: 5.315e-02
+kurtosis_grad_ics: 2.357e+02
+kurtosis_grad_bcs: 5.589e+01
+kurtosis_grad_res: 3.741e+02
+It: 12100, Loss: 3.083e+02, Loss_res: 2.463e+02,  Loss_bcs: 7.702e-04, Loss_ut_ics: 2.034e-03,, Time: 4.09
+mean_grad_res: 1.464e+01
+mean_grad_bcs: 1.520e-03
+mean_grad_ics: 5.020e-02
+kurtosis_grad_ics: 2.893e+02
+kurtosis_grad_bcs: 6.858e+01
+kurtosis_grad_res: 2.661e+02
+It: 12200, Loss: 3.282e+02, Loss_res: 2.417e+02,  Loss_bcs: 1.113e-03, Loss_ut_ics: 1.886e-03,, Time: 4.09
+mean_grad_res: 1.240e+01
+mean_grad_bcs: 1.641e-03
+mean_grad_ics: 1.994e-02
+kurtosis_grad_ics: 2.786e+02
+kurtosis_grad_bcs: 6.112e+01
+kurtosis_grad_res: 3.792e+02
+It: 12300, Loss: 3.208e+02, Loss_res: 2.387e+02,  Loss_bcs: 1.034e-03, Loss_ut_ics: 2.319e-03,, Time: 3.88
+mean_grad_res: 1.214e+01
+mean_grad_bcs: 2.595e-03
+mean_grad_ics: 1.045e-01
+kurtosis_grad_ics: 2.472e+02
+kurtosis_grad_bcs: 6.241e+01
+kurtosis_grad_res: 2.417e+02
+It: 12400, Loss: 2.929e+02, Loss_res: 1.992e+02,  Loss_bcs: 9.427e-04, Loss_ut_ics: 8.882e-03,, Time: 4.05
+mean_grad_res: 9.575e+00
+mean_grad_bcs: 1.330e-03
+mean_grad_ics: 5.695e-02
+kurtosis_grad_ics: 2.503e+02
+kurtosis_grad_bcs: 6.591e+01
+kurtosis_grad_res: 4.538e+02
+It: 12500, Loss: 2.967e+02, Loss_res: 2.378e+02,  Loss_bcs: 7.569e-04, Loss_ut_ics: 1.282e-03,, Time: 4.33
+mean_grad_res: 1.095e+01
+mean_grad_bcs: 2.079e-03
+mean_grad_ics: 6.228e-02
+kurtosis_grad_ics: 3.016e+02
+kurtosis_grad_bcs: 5.376e+01
+kurtosis_grad_res: 3.385e+02
+It: 12600, Loss: 2.996e+02, Loss_res: 2.298e+02,  Loss_bcs: 6.743e-04, Loss_ut_ics: 7.329e-03,, Time: 5.32
+mean_grad_res: 1.593e+01
+mean_grad_bcs: 1.529e-03
+mean_grad_ics: 1.047e-01
+kurtosis_grad_ics: 2.316e+02
+kurtosis_grad_bcs: 4.980e+01
+kurtosis_grad_res: 2.206e+02
+It: 12700, Loss: 2.590e+02, Loss_res: 2.071e+02,  Loss_bcs: 6.635e-04, Loss_ut_ics: 1.232e-03,, Time: 4.37
+mean_grad_res: 1.576e+01
+mean_grad_bcs: 2.186e-03
+mean_grad_ics: 1.681e-02
+kurtosis_grad_ics: 2.084e+02
+kurtosis_grad_bcs: 5.254e+01
+kurtosis_grad_res: 4.917e+02
+It: 12800, Loss: 2.639e+02, Loss_res: 2.040e+02,  Loss_bcs: 7.537e-04, Loss_ut_ics: 1.739e-03,, Time: 4.17
+mean_grad_res: 1.482e+01
+mean_grad_bcs: 1.185e-03
+mean_grad_ics: 2.877e-02
+kurtosis_grad_ics: 2.906e+02
+kurtosis_grad_bcs: 6.612e+01
+kurtosis_grad_res: 3.196e+02
+It: 12900, Loss: 2.522e+02, Loss_res: 1.877e+02,  Loss_bcs: 8.024e-04, Loss_ut_ics: 2.093e-03,, Time: 4.19
+mean_grad_res: 9.896e+00
+mean_grad_bcs: 1.038e-03
+mean_grad_ics: 4.582e-02
+kurtosis_grad_ics: 3.159e+02
+kurtosis_grad_bcs: 6.966e+01
+kurtosis_grad_res: 4.502e+02
+It: 13000, Loss: 2.856e+02, Loss_res: 2.271e+02,  Loss_bcs: 7.504e-04, Loss_ut_ics: 1.318e-03,, Time: 4.27
+mean_grad_res: 1.085e+01
+mean_grad_bcs: 1.885e-03
+mean_grad_ics: 4.558e-02
+kurtosis_grad_ics: 2.644e+02
+kurtosis_grad_bcs: 5.036e+01
+kurtosis_grad_res: 5.756e+02
+It: 13100, Loss: 2.647e+02, Loss_res: 1.738e+02,  Loss_bcs: 7.040e-04, Loss_ut_ics: 1.407e-02,, Time: 4.21
+mean_grad_res: 9.284e+00
+mean_grad_bcs: 1.173e-03
+mean_grad_ics: 4.465e-02
+kurtosis_grad_ics: 2.748e+02
+kurtosis_grad_bcs: 7.338e+01
+kurtosis_grad_res: 2.434e+02
+It: 13200, Loss: 2.620e+02, Loss_res: 2.008e+02,  Loss_bcs: 6.139e-04, Loss_ut_ics: 5.832e-03,, Time: 4.26
+mean_grad_res: 1.018e+01
+mean_grad_bcs: 2.126e-03
+mean_grad_ics: 2.892e-02
+kurtosis_grad_ics: 2.088e+02
+kurtosis_grad_bcs: 6.842e+01
+kurtosis_grad_res: 3.865e+02
+It: 13300, Loss: 2.914e+02, Loss_res: 1.977e+02,  Loss_bcs: 6.990e-04, Loss_ut_ics: 1.520e-02,, Time: 4.28
+mean_grad_res: 1.017e+01
+mean_grad_bcs: 1.230e-03
+mean_grad_ics: 1.856e-01
+kurtosis_grad_ics: 2.445e+02
+kurtosis_grad_bcs: 5.600e+01
+kurtosis_grad_res: 2.866e+02
+It: 13400, Loss: 2.504e+02, Loss_res: 1.976e+02,  Loss_bcs: 6.917e-04, Loss_ut_ics: 8.170e-04,, Time: 4.17
+mean_grad_res: 1.022e+01
+mean_grad_bcs: 1.688e-03
+mean_grad_ics: 4.081e-02
+kurtosis_grad_ics: 2.903e+02
+kurtosis_grad_bcs: 6.036e+01
+kurtosis_grad_res: 2.245e+02
+It: 13500, Loss: 3.328e+02, Loss_res: 2.275e+02,  Loss_bcs: 7.485e-04, Loss_ut_ics: 1.808e-02,, Time: 4.24
+mean_grad_res: 1.539e+01
+mean_grad_bcs: 2.797e-03
+mean_grad_ics: 9.969e-02
+kurtosis_grad_ics: 2.800e+02
+kurtosis_grad_bcs: 5.141e+01
+kurtosis_grad_res: 1.820e+02
+It: 13600, Loss: 2.822e+02, Loss_res: 2.138e+02,  Loss_bcs: 8.077e-04, Loss_ut_ics: 3.368e-03,, Time: 4.38
+mean_grad_res: 1.135e+01
+mean_grad_bcs: 2.053e-03
+mean_grad_ics: 5.950e-02
+kurtosis_grad_ics: 2.824e+02
+kurtosis_grad_bcs: 6.314e+01
+kurtosis_grad_res: 2.876e+02
+It: 13700, Loss: 2.440e+02, Loss_res: 1.723e+02,  Loss_bcs: 7.618e-04, Loss_ut_ics: 5.703e-03,, Time: 4.26
+mean_grad_res: 7.591e+00
+mean_grad_bcs: 2.607e-03
+mean_grad_ics: 6.858e-02
+kurtosis_grad_ics: 2.265e+02
+kurtosis_grad_bcs: 5.877e+01
+kurtosis_grad_res: 3.526e+02
+It: 13800, Loss: 2.538e+02, Loss_res: 2.034e+02,  Loss_bcs: 6.569e-04, Loss_ut_ics: 8.386e-04,, Time: 4.26
+mean_grad_res: 1.073e+01
+mean_grad_bcs: 1.848e-03
+mean_grad_ics: 3.449e-02
+kurtosis_grad_ics: 2.747e+02
+kurtosis_grad_bcs: 6.351e+01
+kurtosis_grad_res: 3.500e+02
+It: 13900, Loss: 2.364e+02, Loss_res: 1.722e+02,  Loss_bcs: 7.387e-04, Loss_ut_ics: 3.662e-03,, Time: 4.14
+mean_grad_res: 8.480e+00
+mean_grad_bcs: 1.511e-03
+mean_grad_ics: 6.318e-02
+kurtosis_grad_ics: 2.465e+02
+kurtosis_grad_bcs: 5.999e+01
+kurtosis_grad_res: 4.805e+02
+It: 14000, Loss: 2.706e+02, Loss_res: 2.171e+02,  Loss_bcs: 6.709e-04, Loss_ut_ics: 1.602e-03,, Time: 4.29
+mean_grad_res: 1.251e+01
+mean_grad_bcs: 6.505e-04
+mean_grad_ics: 6.762e-02
+kurtosis_grad_ics: 2.771e+02
+kurtosis_grad_bcs: 7.706e+01
+kurtosis_grad_res: 3.288e+02
+It: 14100, Loss: 2.555e+02, Loss_res: 2.022e+02,  Loss_bcs: 6.406e-04, Loss_ut_ics: 2.316e-03,, Time: 4.21
+mean_grad_res: 1.465e+01
+mean_grad_bcs: 1.525e-03
+mean_grad_ics: 4.743e-02
+kurtosis_grad_ics: 3.003e+02
+kurtosis_grad_bcs: 6.047e+01
+kurtosis_grad_res: 2.302e+02
+It: 14200, Loss: 2.234e+02, Loss_res: 1.700e+02,  Loss_bcs: 5.961e-04, Loss_ut_ics: 3.516e-03,, Time: 4.33
+mean_grad_res: 8.473e+00
+mean_grad_bcs: 1.854e-03
+mean_grad_ics: 9.442e-02
+kurtosis_grad_ics: 2.743e+02
+kurtosis_grad_bcs: 5.927e+01
+kurtosis_grad_res: 4.027e+02
+It: 14300, Loss: 2.219e+02, Loss_res: 1.827e+02,  Loss_bcs: 5.094e-04, Loss_ut_ics: 7.310e-04,, Time: 4.26
+mean_grad_res: 1.299e+01
+mean_grad_bcs: 1.400e-03
+mean_grad_ics: 1.950e-02
+kurtosis_grad_ics: 2.688e+02
+kurtosis_grad_bcs: 5.520e+01
+kurtosis_grad_res: 1.875e+02
+It: 14400, Loss: 2.389e+02, Loss_res: 1.748e+02,  Loss_bcs: 7.898e-04, Loss_ut_ics: 2.282e-03,, Time: 4.06
+mean_grad_res: 9.831e+00
+mean_grad_bcs: 1.936e-03
+mean_grad_ics: 2.067e-02
+kurtosis_grad_ics: 2.749e+02
+kurtosis_grad_bcs: 5.186e+01
+kurtosis_grad_res: 2.379e+02
+It: 14500, Loss: 2.494e+02, Loss_res: 1.705e+02,  Loss_bcs: 8.374e-04, Loss_ut_ics: 6.321e-03,, Time: 4.30
+mean_grad_res: 1.011e+01
+mean_grad_bcs: 1.331e-03
+mean_grad_ics: 1.951e-02
+kurtosis_grad_ics: 2.933e+02
+kurtosis_grad_bcs: 6.101e+01
+kurtosis_grad_res: 3.565e+02
+It: 14600, Loss: 2.277e+02, Loss_res: 1.710e+02,  Loss_bcs: 6.281e-04, Loss_ut_ics: 3.859e-03,, Time: 4.24
+mean_grad_res: 1.013e+01
+mean_grad_bcs: 2.116e-03
+mean_grad_ics: 1.004e-01
+kurtosis_grad_ics: 3.009e+02
+kurtosis_grad_bcs: 5.148e+01
+kurtosis_grad_res: 3.470e+02
+It: 14700, Loss: 2.417e+02, Loss_res: 1.794e+02,  Loss_bcs: 7.307e-04, Loss_ut_ics: 3.193e-03,, Time: 4.28
+mean_grad_res: 9.368e+00
+mean_grad_bcs: 2.392e-03
+mean_grad_ics: 6.180e-02
+kurtosis_grad_ics: 2.851e+02
+kurtosis_grad_bcs: 5.877e+01
+kurtosis_grad_res: 2.908e+02
+It: 14800, Loss: 2.389e+02, Loss_res: 1.909e+02,  Loss_bcs: 5.800e-04, Loss_ut_ics: 2.031e-03,, Time: 4.24
+mean_grad_res: 1.235e+01
+mean_grad_bcs: 1.578e-03
+mean_grad_ics: 3.422e-02
+kurtosis_grad_ics: 2.932e+02
+kurtosis_grad_bcs: 6.128e+01
+kurtosis_grad_res: 2.393e+02
+It: 14900, Loss: 2.595e+02, Loss_res: 1.679e+02,  Loss_bcs: 6.581e-04, Loss_ut_ics: 1.552e-02,, Time: 4.13
+mean_grad_res: 8.970e+00
+mean_grad_bcs: 1.453e-03
+mean_grad_ics: 6.298e-02
+kurtosis_grad_ics: 2.609e+02
+kurtosis_grad_bcs: 6.656e+01
+kurtosis_grad_res: 2.214e+02
+It: 15000, Loss: 2.056e+02, Loss_res: 1.641e+02,  Loss_bcs: 5.102e-04, Loss_ut_ics: 1.532e-03,, Time: 4.25
+mean_grad_res: 9.634e+00
+mean_grad_bcs: 5.490e-04
+mean_grad_ics: 5.226e-02
+kurtosis_grad_ics: 2.854e+02
+kurtosis_grad_bcs: 6.705e+01
+kurtosis_grad_res: 4.544e+02
+It: 15100, Loss: 2.423e+02, Loss_res: 1.730e+02,  Loss_bcs: 5.396e-04, Loss_ut_ics: 1.065e-02,, Time: 4.24
+mean_grad_res: 8.523e+00
+mean_grad_bcs: 2.615e-03
+mean_grad_ics: 5.358e-02
+kurtosis_grad_ics: 2.351e+02
+kurtosis_grad_bcs: 5.336e+01
+kurtosis_grad_res: 3.002e+02
+It: 15200, Loss: 2.719e+02, Loss_res: 1.832e+02,  Loss_bcs: 5.173e-04, Loss_ut_ics: 1.815e-02,, Time: 4.26
+mean_grad_res: 1.018e+01
+mean_grad_bcs: 1.122e-03
+mean_grad_ics: 1.531e-01
+kurtosis_grad_ics: 2.550e+02
+kurtosis_grad_bcs: 8.080e+01
+kurtosis_grad_res: 3.309e+02
+It: 15300, Loss: 2.525e+02, Loss_res: 2.120e+02,  Loss_bcs: 4.877e-04, Loss_ut_ics: 1.721e-03,, Time: 4.30
+mean_grad_res: 9.709e+00
+mean_grad_bcs: 3.823e-04
+mean_grad_ics: 4.860e-02
+kurtosis_grad_ics: 2.009e+02
+kurtosis_grad_bcs: 7.829e+01
+kurtosis_grad_res: 3.622e+02
+It: 15400, Loss: 2.731e+02, Loss_res: 1.743e+02,  Loss_bcs: 6.872e-04, Loss_ut_ics: 1.734e-02,, Time: 4.10
+mean_grad_res: 1.270e+01
+mean_grad_bcs: 5.997e-03
+mean_grad_ics: 2.107e-01
+kurtosis_grad_ics: 2.891e+02
+kurtosis_grad_bcs: 5.860e+01
+kurtosis_grad_res: 2.503e+02
+It: 15500, Loss: 2.239e+02, Loss_res: 1.842e+02,  Loss_bcs: 5.108e-04, Loss_ut_ics: 8.595e-04,, Time: 4.14
+mean_grad_res: 1.343e+01
+mean_grad_bcs: 2.279e-03
+mean_grad_ics: 1.595e-02
+kurtosis_grad_ics: 2.695e+02
+kurtosis_grad_bcs: 4.858e+01
+kurtosis_grad_res: 1.859e+02
+It: 15600, Loss: 2.105e+02, Loss_res: 1.666e+02,  Loss_bcs: 5.744e-04, Loss_ut_ics: 7.026e-04,, Time: 4.30
+mean_grad_res: 7.657e+00
+mean_grad_bcs: 1.130e-03
+mean_grad_ics: 1.712e-02
+kurtosis_grad_ics: 3.084e+02
+kurtosis_grad_bcs: 5.543e+01
+kurtosis_grad_res: 2.500e+02
+It: 15700, Loss: 1.914e+02, Loss_res: 1.475e+02,  Loss_bcs: 5.768e-04, Loss_ut_ics: 6.410e-04,, Time: 4.27
+mean_grad_res: 8.276e+00
+mean_grad_bcs: 1.818e-03
+mean_grad_ics: 5.043e-03
+kurtosis_grad_ics: 3.005e+02
+kurtosis_grad_bcs: 5.541e+01
+kurtosis_grad_res: 4.443e+02
+It: 15800, Loss: 1.734e+02, Loss_res: 1.298e+02,  Loss_bcs: 5.710e-04, Loss_ut_ics: 6.749e-04,, Time: 4.31
+mean_grad_res: 1.096e+01
+mean_grad_bcs: 1.333e-03
+mean_grad_ics: 4.493e-02
+kurtosis_grad_ics: 2.684e+02
+kurtosis_grad_bcs: 5.980e+01
+kurtosis_grad_res: 2.253e+02
+It: 15900, Loss: 2.200e+02, Loss_res: 1.568e+02,  Loss_bcs: 6.038e-04, Loss_ut_ics: 6.794e-03,, Time: 4.24
+mean_grad_res: 1.297e+01
+mean_grad_bcs: 1.675e-03
+mean_grad_ics: 7.847e-02
+kurtosis_grad_ics: 2.978e+02
+kurtosis_grad_bcs: 6.191e+01
+kurtosis_grad_res: 2.067e+02
+It: 16000, Loss: 2.167e+02, Loss_res: 1.763e+02,  Loss_bcs: 4.966e-04, Loss_ut_ics: 1.496e-03,, Time: 4.11
+mean_grad_res: 1.398e+01
+mean_grad_bcs: 1.206e-03
+mean_grad_ics: 1.122e-01
+kurtosis_grad_ics: 2.987e+02
+kurtosis_grad_bcs: 7.239e+01
+kurtosis_grad_res: 2.248e+02
+It: 16100, Loss: 2.407e+02, Loss_res: 1.930e+02,  Loss_bcs: 5.600e-04, Loss_ut_ics: 2.436e-03,, Time: 4.24
+mean_grad_res: 9.126e+00
+mean_grad_bcs: 1.748e-03
+mean_grad_ics: 2.733e-02
+kurtosis_grad_ics: 2.381e+02
+kurtosis_grad_bcs: 5.546e+01
+kurtosis_grad_res: 2.989e+02
+It: 16200, Loss: 2.058e+02, Loss_res: 1.659e+02,  Loss_bcs: 4.870e-04, Loss_ut_ics: 1.546e-03,, Time: 4.29
+mean_grad_res: 7.806e+00
+mean_grad_bcs: 1.062e-03
+mean_grad_ics: 4.676e-02
+kurtosis_grad_ics: 2.462e+02
+kurtosis_grad_bcs: 6.651e+01
+kurtosis_grad_res: 2.759e+02
+It: 16300, Loss: 1.967e+02, Loss_res: 1.513e+02,  Loss_bcs: 5.799e-04, Loss_ut_ics: 1.082e-03,, Time: 4.27
+mean_grad_res: 6.695e+00
+mean_grad_bcs: 1.091e-03
+mean_grad_ics: 3.424e-02
+kurtosis_grad_ics: 2.987e+02
+kurtosis_grad_bcs: 5.213e+01
+kurtosis_grad_res: 3.559e+02
+It: 16400, Loss: 2.404e+02, Loss_res: 1.909e+02,  Loss_bcs: 5.630e-04, Loss_ut_ics: 2.967e-03,, Time: 4.21
+mean_grad_res: 1.043e+01
+mean_grad_bcs: 1.525e-03
+mean_grad_ics: 6.556e-02
+kurtosis_grad_ics: 2.297e+02
+kurtosis_grad_bcs: 5.920e+01
+kurtosis_grad_res: 2.258e+02
+It: 16500, Loss: 1.987e+02, Loss_res: 1.590e+02,  Loss_bcs: 4.903e-04, Loss_ut_ics: 1.385e-03,, Time: 4.18
+mean_grad_res: 1.163e+01
+mean_grad_bcs: 9.443e-04
+mean_grad_ics: 2.418e-02
+kurtosis_grad_ics: 3.023e+02
+kurtosis_grad_bcs: 6.775e+01
+kurtosis_grad_res: 3.443e+02
+It: 16600, Loss: 1.873e+02, Loss_res: 1.507e+02,  Loss_bcs: 4.621e-04, Loss_ut_ics: 1.033e-03,, Time: 4.22
+mean_grad_res: 7.251e+00
+mean_grad_bcs: 1.018e-03
+mean_grad_ics: 1.850e-02
+kurtosis_grad_ics: 2.587e+02
+kurtosis_grad_bcs: 5.309e+01
+kurtosis_grad_res: 3.091e+02
+It: 16700, Loss: 1.841e+02, Loss_res: 1.461e+02,  Loss_bcs: 4.849e-04, Loss_ut_ics: 9.315e-04,, Time: 4.30
+mean_grad_res: 7.623e+00
+mean_grad_bcs: 1.089e-03
+mean_grad_ics: 4.992e-02
+kurtosis_grad_ics: 2.400e+02
+kurtosis_grad_bcs: 6.107e+01
+kurtosis_grad_res: 3.717e+02
+It: 16800, Loss: 2.478e+02, Loss_res: 1.789e+02,  Loss_bcs: 4.693e-04, Loss_ut_ics: 1.233e-02,, Time: 4.24
+mean_grad_res: 8.848e+00
+mean_grad_bcs: 2.475e-03
+mean_grad_ics: 5.223e-02
+kurtosis_grad_ics: 2.660e+02
+kurtosis_grad_bcs: 5.396e+01
+kurtosis_grad_res: 3.428e+02
+It: 16900, Loss: 1.947e+02, Loss_res: 1.590e+02,  Loss_bcs: 4.196e-04, Loss_ut_ics: 1.776e-03,, Time: 4.41
+mean_grad_res: 9.086e+00
+mean_grad_bcs: 4.818e-04
+mean_grad_ics: 2.792e-02
+kurtosis_grad_ics: 2.922e+02
+kurtosis_grad_bcs: 7.945e+01
+kurtosis_grad_res: 3.921e+02
+It: 17000, Loss: 2.081e+02, Loss_res: 1.762e+02,  Loss_bcs: 3.931e-04, Loss_ut_ics: 1.148e-03,, Time: 4.18
+mean_grad_res: 1.028e+01
+mean_grad_bcs: 5.765e-04
+mean_grad_ics: 1.014e-01
+kurtosis_grad_ics: 2.326e+02
+kurtosis_grad_bcs: 6.820e+01
+kurtosis_grad_res: 1.975e+02
+It: 17100, Loss: 1.748e+02, Loss_res: 1.403e+02,  Loss_bcs: 4.365e-04, Loss_ut_ics: 9.561e-04,, Time: 4.25
+mean_grad_res: 9.685e+00
+mean_grad_bcs: 7.274e-04
+mean_grad_ics: 4.432e-02
+kurtosis_grad_ics: 2.424e+02
+kurtosis_grad_bcs: 6.194e+01
+kurtosis_grad_res: 3.427e+02
+It: 17200, Loss: 2.068e+02, Loss_res: 1.463e+02,  Loss_bcs: 7.458e-04, Loss_ut_ics: 2.136e-03,, Time: 4.26
+mean_grad_res: 8.026e+00
+mean_grad_bcs: 1.052e-03
+mean_grad_ics: 6.283e-02
+kurtosis_grad_ics: 2.946e+02
+kurtosis_grad_bcs: 5.450e+01
+kurtosis_grad_res: 2.885e+02
+It: 17300, Loss: 1.773e+02, Loss_res: 1.482e+02,  Loss_bcs: 3.835e-04, Loss_ut_ics: 4.053e-04,, Time: 4.27
+mean_grad_res: 8.269e+00
+mean_grad_bcs: 4.728e-04
+mean_grad_ics: 3.082e-02
+kurtosis_grad_ics: 1.992e+02
+kurtosis_grad_bcs: 1.074e+02
+kurtosis_grad_res: 3.783e+02
+It: 17400, Loss: 1.878e+02, Loss_res: 1.515e+02,  Loss_bcs: 4.711e-04, Loss_ut_ics: 6.763e-04,, Time: 4.33
+mean_grad_res: 9.108e+00
+mean_grad_bcs: 1.688e-03
+mean_grad_ics: 5.204e-02
+kurtosis_grad_ics: 1.968e+02
+kurtosis_grad_bcs: 5.755e+01
+kurtosis_grad_res: 2.305e+02
+It: 17500, Loss: 2.081e+02, Loss_res: 1.656e+02,  Loss_bcs: 5.275e-04, Loss_ut_ics: 1.441e-03,, Time: 4.13
+mean_grad_res: 9.740e+00
+mean_grad_bcs: 1.416e-03
+mean_grad_ics: 6.518e-02
+kurtosis_grad_ics: 2.307e+02
+kurtosis_grad_bcs: 5.488e+01
+kurtosis_grad_res: 3.096e+02
+It: 17600, Loss: 1.717e+02, Loss_res: 1.338e+02,  Loss_bcs: 4.303e-04, Loss_ut_ics: 2.304e-03,, Time: 4.22
+mean_grad_res: 8.815e+00
+mean_grad_bcs: 2.017e-03
+mean_grad_ics: 5.301e-02
+kurtosis_grad_ics: 2.959e+02
+kurtosis_grad_bcs: 5.235e+01
+kurtosis_grad_res: 3.014e+02
+It: 17700, Loss: 1.797e+02, Loss_res: 1.411e+02,  Loss_bcs: 4.640e-04, Loss_ut_ics: 1.672e-03,, Time: 4.23
+mean_grad_res: 8.496e+00
+mean_grad_bcs: 1.492e-03
+mean_grad_ics: 6.513e-02
+kurtosis_grad_ics: 2.851e+02
+kurtosis_grad_bcs: 5.868e+01
+kurtosis_grad_res: 2.540e+02
+It: 17800, Loss: 2.038e+02, Loss_res: 1.544e+02,  Loss_bcs: 4.629e-04, Loss_ut_ics: 5.558e-03,, Time: 4.29
+mean_grad_res: 1.107e+01
+mean_grad_bcs: 1.587e-03
+mean_grad_ics: 8.079e-02
+kurtosis_grad_ics: 2.691e+02
+kurtosis_grad_bcs: 5.506e+01
+kurtosis_grad_res: 2.800e+02
+It: 17900, Loss: 1.721e+02, Loss_res: 1.407e+02,  Loss_bcs: 4.049e-04, Loss_ut_ics: 6.667e-04,, Time: 4.33
+mean_grad_res: 7.186e+00
+mean_grad_bcs: 1.238e-03
+mean_grad_ics: 1.424e-02
+kurtosis_grad_ics: 3.120e+02
+kurtosis_grad_bcs: 5.470e+01
+kurtosis_grad_res: 3.112e+02
+It: 18000, Loss: 1.963e+02, Loss_res: 1.653e+02,  Loss_bcs: 4.017e-04, Loss_ut_ics: 5.963e-04,, Time: 4.12
+mean_grad_res: 9.816e+00
+mean_grad_bcs: 1.421e-03
+mean_grad_ics: 4.925e-02
+kurtosis_grad_ics: 2.970e+02
+kurtosis_grad_bcs: 5.736e+01
+kurtosis_grad_res: 1.806e+02
+It: 18100, Loss: 1.766e+02, Loss_res: 1.450e+02,  Loss_bcs: 3.926e-04, Loss_ut_ics: 1.036e-03,, Time: 4.26
+mean_grad_res: 1.084e+01
+mean_grad_bcs: 9.799e-04
+mean_grad_ics: 4.764e-03
+kurtosis_grad_ics: 2.619e+02
+kurtosis_grad_bcs: 6.088e+01
+kurtosis_grad_res: 3.190e+02
+It: 18200, Loss: 1.852e+02, Loss_res: 1.528e+02,  Loss_bcs: 4.274e-04, Loss_ut_ics: 4.103e-04,, Time: 4.27
+mean_grad_res: 1.084e+01
+mean_grad_bcs: 1.962e-03
+mean_grad_ics: 2.706e-02
+kurtosis_grad_ics: 3.193e+02
+kurtosis_grad_bcs: 5.088e+01
+kurtosis_grad_res: 2.794e+02
+It: 18300, Loss: 1.929e+02, Loss_res: 1.553e+02,  Loss_bcs: 4.481e-04, Loss_ut_ics: 1.738e-03,, Time: 4.22
+mean_grad_res: 1.073e+01
+mean_grad_bcs: 5.213e-04
+mean_grad_ics: 2.448e-02
+kurtosis_grad_ics: 2.752e+02
+kurtosis_grad_bcs: 6.568e+01
+kurtosis_grad_res: 2.740e+02
+It: 18400, Loss: 1.903e+02, Loss_res: 1.516e+02,  Loss_bcs: 4.624e-04, Loss_ut_ics: 1.752e-03,, Time: 4.25
+mean_grad_res: 9.518e+00
+mean_grad_bcs: 1.172e-03
+mean_grad_ics: 7.215e-03
+kurtosis_grad_ics: 3.328e+02
+kurtosis_grad_bcs: 6.137e+01
+kurtosis_grad_res: 2.378e+02
+It: 18500, Loss: 1.701e+02, Loss_res: 1.360e+02,  Loss_bcs: 4.261e-04, Loss_ut_ics: 1.080e-03,, Time: 4.15
+mean_grad_res: 8.886e+00
+mean_grad_bcs: 1.731e-03
+mean_grad_ics: 1.011e-01
+kurtosis_grad_ics: 2.765e+02
+kurtosis_grad_bcs: 6.079e+01
+kurtosis_grad_res: 2.586e+02
+It: 18600, Loss: 1.831e+02, Loss_res: 1.435e+02,  Loss_bcs: 4.431e-04, Loss_ut_ics: 2.582e-03,, Time: 4.22
+mean_grad_res: 1.194e+01
+mean_grad_bcs: 1.371e-03
+mean_grad_ics: 8.169e-02
+kurtosis_grad_ics: 3.080e+02
+kurtosis_grad_bcs: 5.292e+01
+kurtosis_grad_res: 2.059e+02
+It: 18700, Loss: 2.002e+02, Loss_res: 1.658e+02,  Loss_bcs: 4.080e-04, Loss_ut_ics: 1.642e-03,, Time: 4.81
+mean_grad_res: 9.437e+00
+mean_grad_bcs: 1.571e-03
+mean_grad_ics: 4.835e-02
+kurtosis_grad_ics: 2.207e+02
+kurtosis_grad_bcs: 4.792e+01
+kurtosis_grad_res: 2.063e+02
+It: 18800, Loss: 1.980e+02, Loss_res: 1.543e+02,  Loss_bcs: 5.528e-04, Loss_ut_ics: 1.196e-03,, Time: 4.27
+mean_grad_res: 8.578e+00
+mean_grad_bcs: 6.061e-04
+mean_grad_ics: 2.726e-02
+kurtosis_grad_ics: 2.033e+02
+kurtosis_grad_bcs: 7.003e+01
+kurtosis_grad_res: 4.883e+02
+It: 18900, Loss: 1.818e+02, Loss_res: 1.477e+02,  Loss_bcs: 4.035e-04, Loss_ut_ics: 1.654e-03,, Time: 4.30
+mean_grad_res: 8.225e+00
+mean_grad_bcs: 2.067e-03
+mean_grad_ics: 4.717e-02
+kurtosis_grad_ics: 2.706e+02
+kurtosis_grad_bcs: 5.160e+01
+kurtosis_grad_res: 2.818e+02
+It: 19000, Loss: 1.776e+02, Loss_res: 1.358e+02,  Loss_bcs: 4.498e-04, Loss_ut_ics: 3.163e-03,, Time: 4.15
+mean_grad_res: 8.307e+00
+mean_grad_bcs: 2.193e-03
+mean_grad_ics: 6.841e-02
+kurtosis_grad_ics: 2.582e+02
+kurtosis_grad_bcs: 4.738e+01
+kurtosis_grad_res: 2.647e+02
+It: 19100, Loss: 1.767e+02, Loss_res: 1.403e+02,  Loss_bcs: 4.454e-04, Loss_ut_ics: 1.370e-03,, Time: 4.15
+mean_grad_res: 8.374e+00
+mean_grad_bcs: 6.749e-04
+mean_grad_ics: 7.767e-03
+kurtosis_grad_ics: 4.660e+02
+kurtosis_grad_bcs: 7.378e+01
+kurtosis_grad_res: 2.460e+02
+It: 19200, Loss: 1.821e+02, Loss_res: 1.495e+02,  Loss_bcs: 3.775e-04, Loss_ut_ics: 1.800e-03,, Time: 4.59
+mean_grad_res: 7.850e+00
+mean_grad_bcs: 6.245e-04
+mean_grad_ics: 2.641e-02
+kurtosis_grad_ics: 2.814e+02
+kurtosis_grad_bcs: 5.902e+01
+kurtosis_grad_res: 2.896e+02
+It: 19300, Loss: 1.757e+02, Loss_res: 1.362e+02,  Loss_bcs: 4.305e-04, Loss_ut_ics: 2.868e-03,, Time: 4.28
+mean_grad_res: 8.378e+00
+mean_grad_bcs: 9.257e-04
+mean_grad_ics: 6.624e-02
+kurtosis_grad_ics: 2.638e+02
+kurtosis_grad_bcs: 6.180e+01
+kurtosis_grad_res: 2.054e+02
+It: 19400, Loss: 1.550e+02, Loss_res: 1.314e+02,  Loss_bcs: 3.125e-04, Loss_ut_ics: 2.604e-04,, Time: 4.34
+mean_grad_res: 8.528e+00
+mean_grad_bcs: 1.146e-03
+mean_grad_ics: 2.307e-02
+kurtosis_grad_ics: 2.676e+02
+kurtosis_grad_bcs: 5.909e+01
+kurtosis_grad_res: 3.755e+02
+It: 19500, Loss: 1.496e+02, Loss_res: 1.180e+02,  Loss_bcs: 3.860e-04, Loss_ut_ics: 1.203e-03,, Time: 4.31
+mean_grad_res: 6.981e+00
+mean_grad_bcs: 8.037e-04
+mean_grad_ics: 3.536e-02
+kurtosis_grad_ics: 2.221e+02
+kurtosis_grad_bcs: 5.783e+01
+kurtosis_grad_res: 2.352e+02
+It: 19600, Loss: 1.588e+02, Loss_res: 1.317e+02,  Loss_bcs: 3.592e-04, Loss_ut_ics: 2.972e-04,, Time: 4.05
+mean_grad_res: 8.875e+00
+mean_grad_bcs: 3.951e-04
+mean_grad_ics: 1.818e-02
+kurtosis_grad_ics: 2.961e+02
+kurtosis_grad_bcs: 7.386e+01
+kurtosis_grad_res: 2.090e+02
+It: 19700, Loss: 1.646e+02, Loss_res: 1.334e+02,  Loss_bcs: 3.348e-04, Loss_ut_ics: 2.380e-03,, Time: 4.23
+mean_grad_res: 8.670e+00
+mean_grad_bcs: 1.519e-03
+mean_grad_ics: 6.526e-02
+kurtosis_grad_ics: 2.723e+02
+kurtosis_grad_bcs: 5.749e+01
+kurtosis_grad_res: 2.095e+02
+It: 19800, Loss: 1.641e+02, Loss_res: 1.378e+02,  Loss_bcs: 3.378e-04, Loss_ut_ics: 5.765e-04,, Time: 4.24
+mean_grad_res: 7.906e+00
+mean_grad_bcs: 6.593e-04
+mean_grad_ics: 2.318e-02
+kurtosis_grad_ics: 2.992e+02
+kurtosis_grad_bcs: 8.825e+01
+kurtosis_grad_res: 2.486e+02
+It: 19900, Loss: 1.781e+02, Loss_res: 1.513e+02,  Loss_bcs: 3.496e-04, Loss_ut_ics: 4.585e-04,, Time: 4.29
+mean_grad_res: 1.319e+01
+mean_grad_bcs: 1.373e-03
+mean_grad_ics: 1.708e-02
+kurtosis_grad_ics: 2.258e+02
+kurtosis_grad_bcs: 5.144e+01
+kurtosis_grad_res: 2.285e+02
+It: 20000, Loss: 1.621e+02, Loss_res: 1.310e+02,  Loss_bcs: 3.993e-04, Loss_ut_ics: 6.828e-04,, Time: 4.17
+mean_grad_res: 7.044e+00
+mean_grad_bcs: 1.181e-03
+mean_grad_ics: 3.296e-02
+kurtosis_grad_ics: 2.603e+02
+kurtosis_grad_bcs: 5.644e+01
+kurtosis_grad_res: 3.185e+02
+It: 20100, Loss: 1.547e+02, Loss_res: 1.175e+02,  Loss_bcs: 4.354e-04, Loss_ut_ics: 1.912e-03,, Time: 4.09
+mean_grad_res: 8.628e+00
+mean_grad_bcs: 1.185e-03
+mean_grad_ics: 5.311e-02
+kurtosis_grad_ics: 2.724e+02
+kurtosis_grad_bcs: 6.348e+01
+kurtosis_grad_res: 1.835e+02
+It: 20200, Loss: 1.707e+02, Loss_res: 1.363e+02,  Loss_bcs: 3.649e-04, Loss_ut_ics: 2.751e-03,, Time: 4.62
+mean_grad_res: 1.068e+01
+mean_grad_bcs: 1.716e-03
+mean_grad_ics: 3.162e-02
+kurtosis_grad_ics: 2.164e+02
+kurtosis_grad_bcs: 5.416e+01
+kurtosis_grad_res: 2.662e+02
+It: 20300, Loss: 1.700e+02, Loss_res: 1.413e+02,  Loss_bcs: 3.633e-04, Loss_ut_ics: 7.787e-04,, Time: 4.23
+mean_grad_res: 8.857e+00
+mean_grad_bcs: 5.794e-04
+mean_grad_ics: 1.678e-02
+kurtosis_grad_ics: 2.813e+02
+kurtosis_grad_bcs: 7.300e+01
+kurtosis_grad_res: 4.567e+02
+It: 20400, Loss: 1.711e+02, Loss_res: 1.336e+02,  Loss_bcs: 3.877e-04, Loss_ut_ics: 3.274e-03,, Time: 4.31
+mean_grad_res: 6.762e+00
+mean_grad_bcs: 9.345e-04
+mean_grad_ics: 5.962e-02
+kurtosis_grad_ics: 2.380e+02
+kurtosis_grad_bcs: 7.179e+01
+kurtosis_grad_res: 3.766e+02
+It: 20500, Loss: 1.485e+02, Loss_res: 1.185e+02,  Loss_bcs: 3.403e-04, Loss_ut_ics: 1.829e-03,, Time: 4.16
+mean_grad_res: 7.168e+00
+mean_grad_bcs: 1.817e-03
+mean_grad_ics: 7.493e-02
+kurtosis_grad_ics: 2.773e+02
+kurtosis_grad_bcs: 5.304e+01
+kurtosis_grad_res: 2.221e+02
+It: 20600, Loss: 1.475e+02, Loss_res: 1.184e+02,  Loss_bcs: 3.487e-04, Loss_ut_ics: 1.293e-03,, Time: 4.19
+mean_grad_res: 1.105e+01
+mean_grad_bcs: 5.582e-04
+mean_grad_ics: 3.423e-02
+kurtosis_grad_ics: 2.128e+02
+kurtosis_grad_bcs: 7.825e+01
+kurtosis_grad_res: 3.032e+02
+It: 20700, Loss: 1.471e+02, Loss_res: 1.170e+02,  Loss_bcs: 3.623e-04, Loss_ut_ics: 1.281e-03,, Time: 4.32
+mean_grad_res: 5.812e+00
+mean_grad_bcs: 2.531e-03
+mean_grad_ics: 4.343e-02
+kurtosis_grad_ics: 2.659e+02
+kurtosis_grad_bcs: 5.096e+01
+kurtosis_grad_res: 5.152e+02
+It: 20800, Loss: 1.596e+02, Loss_res: 1.309e+02,  Loss_bcs: 3.734e-04, Loss_ut_ics: 5.169e-04,, Time: 4.37
+mean_grad_res: 7.283e+00
+mean_grad_bcs: 1.101e-03
+mean_grad_ics: 4.574e-02
+kurtosis_grad_ics: 2.859e+02
+kurtosis_grad_bcs: 6.467e+01
+kurtosis_grad_res: 2.232e+02
+It: 20900, Loss: 1.462e+02, Loss_res: 1.196e+02,  Loss_bcs: 3.309e-04, Loss_ut_ics: 8.447e-04,, Time: 4.32
+mean_grad_res: 8.620e+00
+mean_grad_bcs: 4.026e-04
+mean_grad_ics: 3.825e-02
+kurtosis_grad_ics: 2.638e+02
+kurtosis_grad_bcs: 7.780e+01
+kurtosis_grad_res: 3.416e+02
+It: 21000, Loss: 1.609e+02, Loss_res: 1.350e+02,  Loss_bcs: 3.132e-04, Loss_ut_ics: 1.081e-03,, Time: 4.12
+mean_grad_res: 7.308e+00
+mean_grad_bcs: 3.795e-04
+mean_grad_ics: 4.667e-02
+kurtosis_grad_ics: 2.962e+02
+kurtosis_grad_bcs: 8.453e+01
+kurtosis_grad_res: 5.251e+02
+It: 21100, Loss: 1.579e+02, Loss_res: 1.243e+02,  Loss_bcs: 3.541e-04, Loss_ut_ics: 2.739e-03,, Time: 4.30
+mean_grad_res: 5.989e+00
+mean_grad_bcs: 1.397e-03
+mean_grad_ics: 6.169e-02
+kurtosis_grad_ics: 2.349e+02
+kurtosis_grad_bcs: 6.312e+01
+kurtosis_grad_res: 3.610e+02
+It: 21200, Loss: 1.664e+02, Loss_res: 1.426e+02,  Loss_bcs: 3.180e-04, Loss_ut_ics: 2.068e-04,, Time: 4.23
+mean_grad_res: 7.479e+00
+mean_grad_bcs: 1.229e-03
+mean_grad_ics: 3.602e-02
+kurtosis_grad_ics: 2.423e+02
+kurtosis_grad_bcs: 5.429e+01
+kurtosis_grad_res: 2.526e+02
+It: 21300, Loss: 1.540e+02, Loss_res: 1.288e+02,  Loss_bcs: 3.368e-04, Loss_ut_ics: 2.008e-04,, Time: 4.32
+mean_grad_res: 9.564e+00
+mean_grad_bcs: 8.323e-04
+mean_grad_ics: 1.796e-02
+kurtosis_grad_ics: 2.352e+02
+kurtosis_grad_bcs: 6.892e+01
+kurtosis_grad_res: 2.009e+02
+It: 21400, Loss: 1.593e+02, Loss_res: 1.375e+02,  Loss_bcs: 2.908e-04, Loss_ut_ics: 2.056e-04,, Time: 4.23
+mean_grad_res: 8.388e+00
+mean_grad_bcs: 6.949e-04
+mean_grad_ics: 5.945e-03
+kurtosis_grad_ics: 2.863e+02
+kurtosis_grad_bcs: 5.539e+01
+kurtosis_grad_res: 2.843e+02
+It: 21500, Loss: 1.715e+02, Loss_res: 1.399e+02,  Loss_bcs: 3.660e-04, Loss_ut_ics: 1.764e-03,, Time: 4.17
+mean_grad_res: 1.030e+01
+mean_grad_bcs: 9.317e-04
+mean_grad_ics: 5.800e-02
+kurtosis_grad_ics: 2.335e+02
+kurtosis_grad_bcs: 5.844e+01
+kurtosis_grad_res: 2.242e+02
+It: 21600, Loss: 1.597e+02, Loss_res: 1.306e+02,  Loss_bcs: 3.387e-04, Loss_ut_ics: 1.532e-03,, Time: 4.22
+mean_grad_res: 7.914e+00
+mean_grad_bcs: 1.298e-03
+mean_grad_ics: 2.695e-02
+kurtosis_grad_ics: 2.567e+02
+kurtosis_grad_bcs: 5.458e+01
+kurtosis_grad_res: 3.145e+02
+It: 21700, Loss: 1.504e+02, Loss_res: 1.230e+02,  Loss_bcs: 3.180e-04, Loss_ut_ics: 1.482e-03,, Time: 4.30
+mean_grad_res: 7.061e+00
+mean_grad_bcs: 1.119e-03
+mean_grad_ics: 2.213e-02
+kurtosis_grad_ics: 3.078e+02
+kurtosis_grad_bcs: 5.216e+01
+kurtosis_grad_res: 3.046e+02
+It: 21800, Loss: 1.427e+02, Loss_res: 1.141e+02,  Loss_bcs: 3.548e-04, Loss_ut_ics: 9.626e-04,, Time: 4.32
+mean_grad_res: 6.527e+00
+mean_grad_bcs: 1.797e-03
+mean_grad_ics: 2.161e-02
+kurtosis_grad_ics: 2.316e+02
+kurtosis_grad_bcs: 4.840e+01
+kurtosis_grad_res: 3.292e+02
+It: 21900, Loss: 1.361e+02, Loss_res: 1.130e+02,  Loss_bcs: 2.838e-04, Loss_ut_ics: 8.292e-04,, Time: 4.27
+mean_grad_res: 8.186e+00
+mean_grad_bcs: 9.136e-04
+mean_grad_ics: 3.874e-02
+kurtosis_grad_ics: 2.468e+02
+kurtosis_grad_bcs: 5.774e+01
+kurtosis_grad_res: 2.662e+02
+It: 22000, Loss: 1.331e+02, Loss_res: 1.088e+02,  Loss_bcs: 3.087e-04, Loss_ut_ics: 6.494e-04,, Time: 4.18
+mean_grad_res: 8.044e+00
+mean_grad_bcs: 6.295e-04
+mean_grad_ics: 3.332e-02
+kurtosis_grad_ics: 2.913e+02
+kurtosis_grad_bcs: 5.789e+01
+kurtosis_grad_res: 2.207e+02
+It: 22100, Loss: 1.410e+02, Loss_res: 1.172e+02,  Loss_bcs: 3.119e-04, Loss_ut_ics: 3.473e-04,, Time: 4.14
+mean_grad_res: 7.281e+00
+mean_grad_bcs: 9.907e-04
+mean_grad_ics: 3.038e-02
+kurtosis_grad_ics: 2.874e+02
+kurtosis_grad_bcs: 6.761e+01
+kurtosis_grad_res: 3.939e+02
+It: 22200, Loss: 1.387e+02, Loss_res: 1.157e+02,  Loss_bcs: 3.021e-04, Loss_ut_ics: 3.114e-04,, Time: 4.22
+mean_grad_res: 6.458e+00
+mean_grad_bcs: 6.535e-04
+mean_grad_ics: 1.319e-02
+kurtosis_grad_ics: 2.780e+02
+kurtosis_grad_bcs: 6.567e+01
+kurtosis_grad_res: 3.377e+02
+It: 22300, Loss: 1.266e+02, Loss_res: 1.009e+02,  Loss_bcs: 3.402e-04, Loss_ut_ics: 3.021e-04,, Time: 4.38
+mean_grad_res: 6.125e+00
+mean_grad_bcs: 1.564e-03
+mean_grad_ics: 3.107e-02
+kurtosis_grad_ics: 2.668e+02
+kurtosis_grad_bcs: 5.405e+01
+kurtosis_grad_res: 3.713e+02
+It: 22400, Loss: 1.401e+02, Loss_res: 1.170e+02,  Loss_bcs: 2.647e-04, Loss_ut_ics: 1.338e-03,, Time: 4.26
+mean_grad_res: 7.744e+00
+mean_grad_bcs: 2.138e-03
+mean_grad_ics: 3.753e-02
+kurtosis_grad_ics: 2.109e+02
+kurtosis_grad_bcs: 4.992e+01
+kurtosis_grad_res: 2.436e+02
+It: 22500, Loss: 1.522e+02, Loss_res: 1.242e+02,  Loss_bcs: 2.728e-04, Loss_ut_ics: 2.906e-03,, Time: 4.19
+mean_grad_res: 9.404e+00
+mean_grad_bcs: 7.737e-04
+mean_grad_ics: 5.253e-02
+kurtosis_grad_ics: 2.193e+02
+kurtosis_grad_bcs: 5.830e+01
+kurtosis_grad_res: 2.496e+02
+It: 22600, Loss: 1.445e+02, Loss_res: 1.254e+02,  Loss_bcs: 2.541e-04, Loss_ut_ics: 2.072e-04,, Time: 4.07
+mean_grad_res: 9.262e+00
+mean_grad_bcs: 6.176e-04
+mean_grad_ics: 5.370e-03
+kurtosis_grad_ics: 3.211e+02
+kurtosis_grad_bcs: 5.993e+01
+kurtosis_grad_res: 2.424e+02
+It: 22700, Loss: 1.411e+02, Loss_res: 1.197e+02,  Loss_bcs: 2.667e-04, Loss_ut_ics: 7.129e-04,, Time: 4.26
+mean_grad_res: 9.725e+00
+mean_grad_bcs: 7.397e-04
+mean_grad_ics: 1.767e-02
+kurtosis_grad_ics: 2.172e+02
+kurtosis_grad_bcs: 6.973e+01
+kurtosis_grad_res: 2.306e+02
+It: 22800, Loss: 1.454e+02, Loss_res: 1.218e+02,  Loss_bcs: 2.736e-04, Loss_ut_ics: 1.280e-03,, Time: 4.25
+mean_grad_res: 1.069e+01
+mean_grad_bcs: 6.668e-04
+mean_grad_ics: 2.577e-02
+kurtosis_grad_ics: 2.485e+02
+kurtosis_grad_bcs: 7.498e+01
+kurtosis_grad_res: 2.815e+02
+It: 22900, Loss: 1.352e+02, Loss_res: 1.130e+02,  Loss_bcs: 2.874e-04, Loss_ut_ics: 4.295e-04,, Time: 4.28
+mean_grad_res: 8.923e+00
+mean_grad_bcs: 1.386e-03
+mean_grad_ics: 5.734e-03
+kurtosis_grad_ics: 2.247e+02
+kurtosis_grad_bcs: 5.406e+01
+kurtosis_grad_res: 2.734e+02
+It: 23000, Loss: 1.345e+02, Loss_res: 1.089e+02,  Loss_bcs: 3.144e-04, Loss_ut_ics: 9.197e-04,, Time: 4.17
+mean_grad_res: 1.002e+01
+mean_grad_bcs: 2.740e-03
+mean_grad_ics: 5.543e-02
+kurtosis_grad_ics: 2.466e+02
+kurtosis_grad_bcs: 5.060e+01
+kurtosis_grad_res: 1.770e+02
+It: 23100, Loss: 1.526e+02, Loss_res: 1.335e+02,  Loss_bcs: 2.502e-04, Loss_ut_ics: 2.773e-04,, Time: 4.16
+mean_grad_res: 8.182e+00
+mean_grad_bcs: 3.736e-04
+mean_grad_ics: 1.284e-02
+kurtosis_grad_ics: 2.802e+02
+kurtosis_grad_bcs: 7.044e+01
+kurtosis_grad_res: 3.901e+02
+It: 23200, Loss: 1.130e+02, Loss_res: 9.332e+01,  Loss_bcs: 2.603e-04, Loss_ut_ics: 2.456e-04,, Time: 4.23
+mean_grad_res: 9.628e+00
+mean_grad_bcs: 5.925e-04
+mean_grad_ics: 1.041e-02
+kurtosis_grad_ics: 2.729e+02
+kurtosis_grad_bcs: 6.245e+01
+kurtosis_grad_res: 1.712e+02
+It: 23300, Loss: 1.149e+02, Loss_res: 9.589e+01,  Loss_bcs: 2.477e-04, Loss_ut_ics: 3.181e-04,, Time: 4.24
+mean_grad_res: 7.416e+00
+mean_grad_bcs: 8.591e-04
+mean_grad_ics: 8.864e-03
+kurtosis_grad_ics: 3.572e+02
+kurtosis_grad_bcs: 6.004e+01
+kurtosis_grad_res: 3.067e+02
+It: 23400, Loss: 1.281e+02, Loss_res: 1.071e+02,  Loss_bcs: 2.580e-04, Loss_ut_ics: 7.657e-04,, Time: 4.29
+mean_grad_res: 7.082e+00
+mean_grad_bcs: 8.502e-04
+mean_grad_ics: 2.973e-02
+kurtosis_grad_ics: 2.857e+02
+kurtosis_grad_bcs: 5.590e+01
+kurtosis_grad_res: 2.609e+02
+It: 23500, Loss: 1.231e+02, Loss_res: 1.053e+02,  Loss_bcs: 2.246e-04, Loss_ut_ics: 4.997e-04,, Time: 4.14
+mean_grad_res: 8.488e+00
+mean_grad_bcs: 1.155e-03
+mean_grad_ics: 1.683e-02
+kurtosis_grad_ics: 2.055e+02
+kurtosis_grad_bcs: 5.503e+01
+kurtosis_grad_res: 1.873e+02
+It: 23600, Loss: 1.472e+02, Loss_res: 1.260e+02,  Loss_bcs: 2.613e-04, Loss_ut_ics: 7.586e-04,, Time: 5.06
+mean_grad_res: 9.450e+00
+mean_grad_bcs: 9.608e-04
+mean_grad_ics: 4.168e-02
+kurtosis_grad_ics: 2.196e+02
+kurtosis_grad_bcs: 6.668e+01
+kurtosis_grad_res: 1.763e+02
+It: 23700, Loss: 1.277e+02, Loss_res: 1.073e+02,  Loss_bcs: 2.456e-04, Loss_ut_ics: 9.062e-04,, Time: 4.88
+mean_grad_res: 6.919e+00
+mean_grad_bcs: 4.528e-04
+mean_grad_ics: 2.772e-02
+kurtosis_grad_ics: 2.558e+02
+kurtosis_grad_bcs: 6.112e+01
+kurtosis_grad_res: 3.218e+02
+It: 23800, Loss: 1.445e+02, Loss_res: 1.251e+02,  Loss_bcs: 2.427e-04, Loss_ut_ics: 5.921e-04,, Time: 4.89
+mean_grad_res: 7.893e+00
+mean_grad_bcs: 1.097e-03
+mean_grad_ics: 1.064e-02
+kurtosis_grad_ics: 2.174e+02
+kurtosis_grad_bcs: 5.597e+01
+kurtosis_grad_res: 2.978e+02
+It: 23900, Loss: 1.214e+02, Loss_res: 1.031e+02,  Loss_bcs: 2.376e-04, Loss_ut_ics: 3.194e-04,, Time: 5.09
+mean_grad_res: 8.860e+00
+mean_grad_bcs: 1.471e-03
+mean_grad_ics: 1.239e-02
+kurtosis_grad_ics: 2.197e+02
+kurtosis_grad_bcs: 6.219e+01
+kurtosis_grad_res: 2.757e+02
+It: 24000, Loss: 1.308e+02, Loss_res: 1.118e+02,  Loss_bcs: 2.332e-04, Loss_ut_ics: 7.099e-04,, Time: 4.81
+mean_grad_res: 8.359e+00
+mean_grad_bcs: 9.655e-04
+mean_grad_ics: 2.791e-02
+kurtosis_grad_ics: 2.155e+02
+kurtosis_grad_bcs: 6.758e+01
+kurtosis_grad_res: 4.036e+02
+It: 24100, Loss: 1.237e+02, Loss_res: 1.062e+02,  Loss_bcs: 2.305e-04, Loss_ut_ics: 2.578e-04,, Time: 4.92
+mean_grad_res: 9.244e+00
+mean_grad_bcs: 1.246e-03
+mean_grad_ics: 3.115e-02
+kurtosis_grad_ics: 2.395e+02
+kurtosis_grad_bcs: 5.209e+01
+kurtosis_grad_res: 2.459e+02
+It: 24200, Loss: 1.417e+02, Loss_res: 1.186e+02,  Loss_bcs: 2.710e-04, Loss_ut_ics: 1.183e-03,, Time: 5.39
+mean_grad_res: 7.339e+00
+mean_grad_bcs: 1.439e-03
+mean_grad_ics: 4.331e-02
+kurtosis_grad_ics: 2.221e+02
+kurtosis_grad_bcs: 5.331e+01
+kurtosis_grad_res: 2.347e+02
+It: 24300, Loss: 1.275e+02, Loss_res: 1.050e+02,  Loss_bcs: 2.772e-04, Loss_ut_ics: 8.018e-04,, Time: 4.63
+mean_grad_res: 8.041e+00
+mean_grad_bcs: 3.741e-04
+mean_grad_ics: 3.077e-02
+kurtosis_grad_ics: 2.912e+02
+kurtosis_grad_bcs: 7.298e+01
+kurtosis_grad_res: 2.471e+02
+It: 24400, Loss: 1.213e+02, Loss_res: 1.003e+02,  Loss_bcs: 2.605e-04, Loss_ut_ics: 7.136e-04,, Time: 4.55
+mean_grad_res: 8.899e+00
+mean_grad_bcs: 8.100e-04
+mean_grad_ics: 2.996e-02
+kurtosis_grad_ics: 2.823e+02
+kurtosis_grad_bcs: 5.828e+01
+kurtosis_grad_res: 4.715e+02
+It: 24500, Loss: 1.267e+02, Loss_res: 1.063e+02,  Loss_bcs: 2.540e-04, Loss_ut_ics: 6.821e-04,, Time: 4.58
+mean_grad_res: 6.831e+00
+mean_grad_bcs: 8.451e-04
+mean_grad_ics: 1.728e-02
+kurtosis_grad_ics: 2.571e+02
+kurtosis_grad_bcs: 6.604e+01
+kurtosis_grad_res: 3.774e+02
+It: 24600, Loss: 1.229e+02, Loss_res: 1.010e+02,  Loss_bcs: 2.870e-04, Loss_ut_ics: 3.443e-04,, Time: 4.49
+mean_grad_res: 1.329e+01
+mean_grad_bcs: 1.013e-03
+mean_grad_ics: 2.602e-02
+kurtosis_grad_ics: 2.861e+02
+kurtosis_grad_bcs: 6.941e+01
+kurtosis_grad_res: 2.149e+02
+It: 24700, Loss: 1.180e+02, Loss_res: 9.788e+01,  Loss_bcs: 2.650e-04, Loss_ut_ics: 2.807e-04,, Time: 4.60
+mean_grad_res: 8.693e+00
+mean_grad_bcs: 1.024e-03
+mean_grad_ics: 1.591e-02
+kurtosis_grad_ics: 2.533e+02
+kurtosis_grad_bcs: 5.388e+01
+kurtosis_grad_res: 2.372e+02
+It: 24800, Loss: 1.175e+02, Loss_res: 9.759e+01,  Loss_bcs: 2.580e-04, Loss_ut_ics: 3.710e-04,, Time: 5.54
+mean_grad_res: 6.422e+00
+mean_grad_bcs: 8.972e-04
+mean_grad_ics: 1.443e-02
+kurtosis_grad_ics: 2.611e+02
+kurtosis_grad_bcs: 5.575e+01
+kurtosis_grad_res: 3.789e+02
+It: 24900, Loss: 1.222e+02, Loss_res: 1.020e+02,  Loss_bcs: 2.558e-04, Loss_ut_ics: 5.260e-04,, Time: 6.84
+mean_grad_res: 7.638e+00
+mean_grad_bcs: 1.189e-03
+mean_grad_ics: 2.743e-02
+kurtosis_grad_ics: 2.227e+02
+kurtosis_grad_bcs: 6.023e+01
+kurtosis_grad_res: 2.498e+02
+It: 25000, Loss: 1.137e+02, Loss_res: 9.321e+01,  Loss_bcs: 2.736e-04, Loss_ut_ics: 1.655e-04,, Time: 7.29
+mean_grad_res: 6.783e+00
+mean_grad_bcs: 7.210e-04
+mean_grad_ics: 9.853e-03
+kurtosis_grad_ics: 2.841e+02
+kurtosis_grad_bcs: 6.373e+01
+kurtosis_grad_res: 3.367e+02
+It: 25100, Loss: 1.258e+02, Loss_res: 1.067e+02,  Loss_bcs: 2.383e-04, Loss_ut_ics: 6.117e-04,, Time: 4.91
+mean_grad_res: 1.019e+01
+mean_grad_bcs: 3.836e-04
+mean_grad_ics: 6.181e-03
+kurtosis_grad_ics: 2.973e+02
+kurtosis_grad_bcs: 5.934e+01
+kurtosis_grad_res: 1.635e+02
+It: 25200, Loss: 1.194e+02, Loss_res: 9.391e+01,  Loss_bcs: 3.180e-04, Loss_ut_ics: 8.244e-04,, Time: 4.88
+mean_grad_res: 7.514e+00
+mean_grad_bcs: 1.074e-03
+mean_grad_ics: 2.829e-02
+kurtosis_grad_ics: 2.960e+02
+kurtosis_grad_bcs: 5.119e+01
+kurtosis_grad_res: 2.148e+02
+It: 25300, Loss: 1.138e+02, Loss_res: 9.708e+01,  Loss_bcs: 2.228e-04, Loss_ut_ics: 1.554e-04,, Time: 4.62
+mean_grad_res: 7.465e+00
+mean_grad_bcs: 5.838e-04
+mean_grad_ics: 5.197e-03
+kurtosis_grad_ics: 3.196e+02
+kurtosis_grad_bcs: 5.590e+01
+kurtosis_grad_res: 2.180e+02
+It: 25400, Loss: 1.174e+02, Loss_res: 9.992e+01,  Loss_bcs: 2.282e-04, Loss_ut_ics: 2.770e-04,, Time: 4.36
+mean_grad_res: 6.649e+00
+mean_grad_bcs: 7.282e-04
+mean_grad_ics: 1.395e-02
+kurtosis_grad_ics: 2.993e+02
+kurtosis_grad_bcs: 5.720e+01
+kurtosis_grad_res: 4.130e+02
+It: 25500, Loss: 1.036e+02, Loss_res: 8.497e+01,  Loss_bcs: 2.337e-04, Loss_ut_ics: 5.579e-04,, Time: 4.40
+mean_grad_res: 6.375e+00
+mean_grad_bcs: 2.038e-03
+mean_grad_ics: 1.930e-02
+kurtosis_grad_ics: 3.260e+02
+kurtosis_grad_bcs: 6.136e+01
+kurtosis_grad_res: 2.207e+02
+It: 25600, Loss: 1.298e+02, Loss_res: 1.120e+02,  Loss_bcs: 2.276e-04, Loss_ut_ics: 4.210e-04,, Time: 4.50
+mean_grad_res: 6.270e+00
+mean_grad_bcs: 4.150e-04
+mean_grad_ics: 6.286e-03
+kurtosis_grad_ics: 2.992e+02
+kurtosis_grad_bcs: 7.557e+01
+kurtosis_grad_res: 3.237e+02
+It: 25700, Loss: 1.214e+02, Loss_res: 1.037e+02,  Loss_bcs: 2.212e-04, Loss_ut_ics: 5.326e-04,, Time: 4.38
+mean_grad_res: 1.108e+01
+mean_grad_bcs: 1.084e-03
+mean_grad_ics: 7.235e-03
+kurtosis_grad_ics: 2.979e+02
+kurtosis_grad_bcs: 6.281e+01
+kurtosis_grad_res: 1.508e+02
+It: 25800, Loss: 1.199e+02, Loss_res: 9.852e+01,  Loss_bcs: 2.676e-04, Loss_ut_ics: 6.668e-04,, Time: 4.35
+mean_grad_res: 7.094e+00
+mean_grad_bcs: 1.071e-03
+mean_grad_ics: 1.917e-02
+kurtosis_grad_ics: 3.089e+02
+kurtosis_grad_bcs: 6.456e+01
+kurtosis_grad_res: 2.855e+02
+It: 25900, Loss: 1.102e+02, Loss_res: 9.363e+01,  Loss_bcs: 2.138e-04, Loss_ut_ics: 3.415e-04,, Time: 4.41
+mean_grad_res: 5.092e+00
+mean_grad_bcs: 1.006e-03
+mean_grad_ics: 8.685e-03
+kurtosis_grad_ics: 2.347e+02
+kurtosis_grad_bcs: 5.975e+01
+kurtosis_grad_res: 3.307e+02
+It: 26000, Loss: 1.114e+02, Loss_res: 8.999e+01,  Loss_bcs: 2.756e-04, Loss_ut_ics: 4.619e-04,, Time: 4.36
+mean_grad_res: 6.566e+00
+mean_grad_bcs: 4.457e-04
+mean_grad_ics: 7.138e-03
+kurtosis_grad_ics: 2.799e+02
+kurtosis_grad_bcs: 6.661e+01
+kurtosis_grad_res: 5.333e+02
+It: 26100, Loss: 1.099e+02, Loss_res: 9.192e+01,  Loss_bcs: 2.246e-04, Loss_ut_ics: 5.675e-04,, Time: 4.44
+mean_grad_res: 5.780e+00
+mean_grad_bcs: 9.587e-04
+mean_grad_ics: 3.124e-02
+kurtosis_grad_ics: 2.972e+02
+kurtosis_grad_bcs: 7.074e+01
+kurtosis_grad_res: 3.020e+02
+It: 26200, Loss: 1.089e+02, Loss_res: 8.834e+01,  Loss_bcs: 2.540e-04, Loss_ut_ics: 7.095e-04,, Time: 4.48
+mean_grad_res: 7.043e+00
+mean_grad_bcs: 7.942e-04
+mean_grad_ics: 4.584e-02
+kurtosis_grad_ics: 2.671e+02
+kurtosis_grad_bcs: 5.232e+01
+kurtosis_grad_res: 4.136e+02
+It: 26300, Loss: 1.212e+02, Loss_res: 1.039e+02,  Loss_bcs: 2.305e-04, Loss_ut_ics: 1.783e-04,, Time: 4.30
+mean_grad_res: 6.568e+00
+mean_grad_bcs: 8.313e-04
+mean_grad_ics: 8.395e-03
+kurtosis_grad_ics: 2.954e+02
+kurtosis_grad_bcs: 5.649e+01
+kurtosis_grad_res: 3.920e+02
+It: 26400, Loss: 1.108e+02, Loss_res: 9.126e+01,  Loss_bcs: 2.523e-04, Loss_ut_ics: 3.900e-04,, Time: 4.38
+mean_grad_res: 8.418e+00
+mean_grad_bcs: 5.193e-04
+mean_grad_ics: 1.767e-02
+kurtosis_grad_ics: 2.409e+02
+kurtosis_grad_bcs: 6.986e+01
+kurtosis_grad_res: 2.076e+02
+It: 26500, Loss: 1.271e+02, Loss_res: 1.022e+02,  Loss_bcs: 3.009e-04, Loss_ut_ics: 1.028e-03,, Time: 4.33
+mean_grad_res: 8.540e+00
+mean_grad_bcs: 1.205e-03
+mean_grad_ics: 5.757e-02
+kurtosis_grad_ics: 2.272e+02
+kurtosis_grad_bcs: 5.630e+01
+kurtosis_grad_res: 2.050e+02
+It: 26600, Loss: 1.115e+02, Loss_res: 9.087e+01,  Loss_bcs: 2.344e-04, Loss_ut_ics: 1.255e-03,, Time: 4.34
+mean_grad_res: 7.321e+00
+mean_grad_bcs: 5.984e-04
+mean_grad_ics: 1.622e-02
+kurtosis_grad_ics: 2.547e+02
+kurtosis_grad_bcs: 6.726e+01
+kurtosis_grad_res: 2.161e+02
+It: 26700, Loss: 1.015e+02, Loss_res: 8.213e+01,  Loss_bcs: 2.433e-04, Loss_ut_ics: 5.794e-04,, Time: 4.32
+mean_grad_res: 7.528e+00
+mean_grad_bcs: 1.032e-03
+mean_grad_ics: 1.534e-02
+kurtosis_grad_ics: 2.966e+02
+kurtosis_grad_bcs: 5.305e+01
+kurtosis_grad_res: 2.407e+02
+It: 26800, Loss: 9.079e+01, Loss_res: 7.388e+01,  Loss_bcs: 2.222e-04, Loss_ut_ics: 2.393e-04,, Time: 4.38
+mean_grad_res: 6.080e+00
+mean_grad_bcs: 1.106e-03
+mean_grad_ics: 9.374e-03
+kurtosis_grad_ics: 2.348e+02
+kurtosis_grad_bcs: 6.384e+01
+kurtosis_grad_res: 2.973e+02
+It: 26900, Loss: 1.189e+02, Loss_res: 1.021e+02,  Loss_bcs: 2.202e-04, Loss_ut_ics: 2.619e-04,, Time: 4.35
+mean_grad_res: 8.704e+00
+mean_grad_bcs: 4.687e-04
+mean_grad_ics: 5.521e-03
+kurtosis_grad_ics: 2.506e+02
+kurtosis_grad_bcs: 5.756e+01
+kurtosis_grad_res: 5.027e+02
+It: 27000, Loss: 1.069e+02, Loss_res: 9.013e+01,  Loss_bcs: 2.191e-04, Loss_ut_ics: 2.697e-04,, Time: 4.34
+mean_grad_res: 7.043e+00
+mean_grad_bcs: 8.292e-04
+mean_grad_ics: 1.396e-02
+kurtosis_grad_ics: 2.576e+02
+kurtosis_grad_bcs: 6.850e+01
+kurtosis_grad_res: 2.977e+02
+It: 27100, Loss: 1.154e+02, Loss_res: 9.888e+01,  Loss_bcs: 2.195e-04, Loss_ut_ics: 1.747e-04,, Time: 5.36
+mean_grad_res: 6.165e+00
+mean_grad_bcs: 4.705e-04
+mean_grad_ics: 2.168e-02
+kurtosis_grad_ics: 3.028e+02
+kurtosis_grad_bcs: 7.824e+01
+kurtosis_grad_res: 2.772e+02
+It: 27200, Loss: 1.109e+02, Loss_res: 9.103e+01,  Loss_bcs: 2.390e-04, Loss_ut_ics: 8.632e-04,, Time: 4.32
+mean_grad_res: 8.492e+00
+mean_grad_bcs: 7.871e-04
+mean_grad_ics: 9.603e-03
+kurtosis_grad_ics: 2.770e+02
+kurtosis_grad_bcs: 5.642e+01
+kurtosis_grad_res: 2.778e+02
+It: 27300, Loss: 8.753e+01, Loss_res: 7.090e+01,  Loss_bcs: 2.197e-04, Loss_ut_ics: 2.052e-04,, Time: 4.37
+mean_grad_res: 6.812e+00
+mean_grad_bcs: 6.520e-04
+mean_grad_ics: 2.046e-02
+kurtosis_grad_ics: 2.315e+02
+kurtosis_grad_bcs: 6.916e+01
+kurtosis_grad_res: 2.436e+02
+It: 27400, Loss: 1.067e+02, Loss_res: 8.698e+01,  Loss_bcs: 2.324e-04, Loss_ut_ics: 9.704e-04,, Time: 4.36
+mean_grad_res: 6.763e+00
+mean_grad_bcs: 1.209e-03
+mean_grad_ics: 4.772e-02
+kurtosis_grad_ics: 2.794e+02
+kurtosis_grad_bcs: 6.691e+01
+kurtosis_grad_res: 2.375e+02
+It: 27500, Loss: 1.014e+02, Loss_res: 8.662e+01,  Loss_bcs: 1.905e-04, Loss_ut_ics: 2.962e-04,, Time: 4.33
+mean_grad_res: 6.972e+00
+mean_grad_bcs: 5.225e-04
+mean_grad_ics: 1.312e-02
+kurtosis_grad_ics: 2.554e+02
+kurtosis_grad_bcs: 6.328e+01
+kurtosis_grad_res: 2.868e+02
+It: 27600, Loss: 1.116e+02, Loss_res: 9.447e+01,  Loss_bcs: 2.198e-04, Loss_ut_ics: 3.688e-04,, Time: 4.43
+mean_grad_res: 7.814e+00
+mean_grad_bcs: 8.467e-04
+mean_grad_ics: 2.252e-02
+kurtosis_grad_ics: 2.164e+02
+kurtosis_grad_bcs: 5.756e+01
+kurtosis_grad_res: 2.474e+02
+It: 27700, Loss: 1.088e+02, Loss_res: 9.382e+01,  Loss_bcs: 1.953e-04, Loss_ut_ics: 2.497e-04,, Time: 4.37
+mean_grad_res: 5.900e+00
+mean_grad_bcs: 5.317e-04
+mean_grad_ics: 1.682e-02
+kurtosis_grad_ics: 2.760e+02
+kurtosis_grad_bcs: 7.332e+01
+kurtosis_grad_res: 3.702e+02
+It: 27800, Loss: 1.009e+02, Loss_res: 8.511e+01,  Loss_bcs: 2.019e-04, Loss_ut_ics: 3.742e-04,, Time: 4.36
+mean_grad_res: 6.678e+00
+mean_grad_bcs: 2.651e-04
+mean_grad_ics: 1.055e-02
+kurtosis_grad_ics: 2.474e+02
+kurtosis_grad_bcs: 1.352e+02
+kurtosis_grad_res: 3.510e+02
+It: 27900, Loss: 1.058e+02, Loss_res: 8.914e+01,  Loss_bcs: 2.079e-04, Loss_ut_ics: 5.360e-04,, Time: 4.30
+mean_grad_res: 8.249e+00
+mean_grad_bcs: 1.236e-03
+mean_grad_ics: 2.678e-02
+kurtosis_grad_ics: 2.389e+02
+kurtosis_grad_bcs: 5.946e+01
+kurtosis_grad_res: 4.691e+02
+It: 28000, Loss: 9.554e+01, Loss_res: 7.957e+01,  Loss_bcs: 2.025e-04, Loss_ut_ics: 4.188e-04,, Time: 4.34
+mean_grad_res: 5.252e+00
+mean_grad_bcs: 1.175e-03
+mean_grad_ics: 8.106e-03
+kurtosis_grad_ics: 2.389e+02
+kurtosis_grad_bcs: 5.512e+01
+kurtosis_grad_res: 3.428e+02
+It: 28100, Loss: 1.063e+02, Loss_res: 9.001e+01,  Loss_bcs: 2.142e-04, Loss_ut_ics: 2.410e-04,, Time: 4.38
+mean_grad_res: 7.093e+00
+mean_grad_bcs: 7.430e-04
+mean_grad_ics: 1.364e-02
+kurtosis_grad_ics: 3.070e+02
+kurtosis_grad_bcs: 5.648e+01
+kurtosis_grad_res: 3.536e+02
+It: 28200, Loss: 9.792e+01, Loss_res: 8.090e+01,  Loss_bcs: 2.255e-04, Loss_ut_ics: 1.980e-04,, Time: 4.37
+mean_grad_res: 6.294e+00
+mean_grad_bcs: 6.966e-04
+mean_grad_ics: 8.442e-03
+kurtosis_grad_ics: 2.819e+02
+kurtosis_grad_bcs: 6.774e+01
+kurtosis_grad_res: 2.347e+02
+It: 28300, Loss: 1.046e+02, Loss_res: 8.870e+01,  Loss_bcs: 2.070e-04, Loss_ut_ics: 2.918e-04,, Time: 4.36
+mean_grad_res: 1.031e+01
+mean_grad_bcs: 8.250e-04
+mean_grad_ics: 2.097e-02
+kurtosis_grad_ics: 2.666e+02
+kurtosis_grad_bcs: 6.070e+01
+kurtosis_grad_res: 1.660e+02
+It: 28400, Loss: 1.074e+02, Loss_res: 9.197e+01,  Loss_bcs: 2.051e-04, Loss_ut_ics: 1.492e-04,, Time: 4.35
+mean_grad_res: 7.731e+00
+mean_grad_bcs: 6.132e-04
+mean_grad_ics: 8.015e-03
+kurtosis_grad_ics: 2.527e+02
+kurtosis_grad_bcs: 5.020e+01
+kurtosis_grad_res: 4.018e+02
+It: 28500, Loss: 9.805e+01, Loss_res: 8.374e+01,  Loss_bcs: 1.884e-04, Loss_ut_ics: 1.967e-04,, Time: 4.34
+mean_grad_res: 6.204e+00
+mean_grad_bcs: 7.273e-04
+mean_grad_ics: 1.794e-02
+kurtosis_grad_ics: 2.767e+02
+kurtosis_grad_bcs: 5.472e+01
+kurtosis_grad_res: 3.931e+02
+It: 28600, Loss: 1.031e+02, Loss_res: 8.595e+01,  Loss_bcs: 2.266e-04, Loss_ut_ics: 2.228e-04,, Time: 4.37
+mean_grad_res: 6.567e+00
+mean_grad_bcs: 1.379e-03
+mean_grad_ics: 1.339e-02
+kurtosis_grad_ics: 2.499e+02
+kurtosis_grad_bcs: 6.316e+01
+kurtosis_grad_res: 2.088e+02
+It: 28700, Loss: 9.043e+01, Loss_res: 7.569e+01,  Loss_bcs: 1.854e-04, Loss_ut_ics: 4.244e-04,, Time: 4.36
+mean_grad_res: 5.620e+00
+mean_grad_bcs: 3.800e-04
+mean_grad_ics: 1.564e-02
+kurtosis_grad_ics: 2.467e+02
+kurtosis_grad_bcs: 6.697e+01
+kurtosis_grad_res: 3.153e+02
+It: 28800, Loss: 9.688e+01, Loss_res: 7.915e+01,  Loss_bcs: 2.193e-04, Loss_ut_ics: 6.101e-04,, Time: 5.12
+mean_grad_res: 7.080e+00
+mean_grad_bcs: 9.752e-04
+mean_grad_ics: 9.677e-03
+kurtosis_grad_ics: 2.420e+02
+kurtosis_grad_bcs: 5.349e+01
+kurtosis_grad_res: 2.357e+02
+It: 28900, Loss: 9.319e+01, Loss_res: 7.822e+01,  Loss_bcs: 1.955e-04, Loss_ut_ics: 2.458e-04,, Time: 5.31
+mean_grad_res: 5.414e+00
+mean_grad_bcs: 3.661e-04
+mean_grad_ics: 1.274e-02
+kurtosis_grad_ics: 3.163e+02
+kurtosis_grad_bcs: 7.250e+01
+kurtosis_grad_res: 3.243e+02
+It: 29000, Loss: 1.080e+02, Loss_res: 8.938e+01,  Loss_bcs: 2.267e-04, Loss_ut_ics: 7.185e-04,, Time: 5.10
+mean_grad_res: 7.049e+00
+mean_grad_bcs: 2.820e-04
+mean_grad_ics: 2.516e-02
+kurtosis_grad_ics: 2.077e+02
+kurtosis_grad_bcs: 9.742e+01
+kurtosis_grad_res: 2.983e+02
+It: 29100, Loss: 9.871e+01, Loss_res: 8.128e+01,  Loss_bcs: 2.279e-04, Loss_ut_ics: 2.804e-04,, Time: 4.70
+mean_grad_res: 6.223e+00
+mean_grad_bcs: 5.290e-04
+mean_grad_ics: 6.076e-03
+kurtosis_grad_ics: 3.113e+02
+kurtosis_grad_bcs: 6.227e+01
+kurtosis_grad_res: 4.306e+02
+It: 29200, Loss: 1.001e+02, Loss_res: 8.199e+01,  Loss_bcs: 2.261e-04, Loss_ut_ics: 5.519e-04,, Time: 4.48
+mean_grad_res: 1.023e+01
+mean_grad_bcs: 7.941e-04
+mean_grad_ics: 1.320e-02
+kurtosis_grad_ics: 2.547e+02
+kurtosis_grad_bcs: 5.925e+01
+kurtosis_grad_res: 3.529e+02
+It: 29300, Loss: 8.487e+01, Loss_res: 6.882e+01,  Loss_bcs: 2.103e-04, Loss_ut_ics: 2.457e-04,, Time: 4.38
+mean_grad_res: 6.226e+00
+mean_grad_bcs: 9.541e-04
+mean_grad_ics: 1.587e-02
+kurtosis_grad_ics: 2.757e+02
+kurtosis_grad_bcs: 5.994e+01
+kurtosis_grad_res: 2.826e+02
+It: 29400, Loss: 9.456e+01, Loss_res: 8.048e+01,  Loss_bcs: 1.848e-04, Loss_ut_ics: 2.088e-04,, Time: 5.26
+mean_grad_res: 7.871e+00
+mean_grad_bcs: 2.759e-04
+mean_grad_ics: 8.952e-03
+kurtosis_grad_ics: 2.792e+02
+kurtosis_grad_bcs: 6.157e+01
+kurtosis_grad_res: 2.367e+02
+It: 29500, Loss: 8.989e+01, Loss_res: 7.625e+01,  Loss_bcs: 1.794e-04, Loss_ut_ics: 1.919e-04,, Time: 4.46
+mean_grad_res: 7.498e+00
+mean_grad_bcs: 1.373e-04
+mean_grad_ics: 1.452e-02
+kurtosis_grad_ics: 3.001e+02
+kurtosis_grad_bcs: 1.700e+02
+kurtosis_grad_res: 2.645e+02
+It: 29600, Loss: 9.401e+01, Loss_res: 7.648e+01,  Loss_bcs: 2.195e-04, Loss_ut_ics: 5.332e-04,, Time: 4.26
+mean_grad_res: 7.546e+00
+mean_grad_bcs: 9.002e-04
+mean_grad_ics: 8.013e-03
+kurtosis_grad_ics: 2.710e+02
+kurtosis_grad_bcs: 6.557e+01
+kurtosis_grad_res: 2.665e+02
+It: 29700, Loss: 8.875e+01, Loss_res: 7.242e+01,  Loss_bcs: 2.157e-04, Loss_ut_ics: 2.057e-04,, Time: 4.28
+mean_grad_res: 7.212e+00
+mean_grad_bcs: 1.442e-03
+mean_grad_ics: 2.357e-02
+kurtosis_grad_ics: 3.006e+02
+kurtosis_grad_bcs: 5.436e+01
+kurtosis_grad_res: 2.894e+02
+It: 29800, Loss: 9.686e+01, Loss_res: 8.066e+01,  Loss_bcs: 2.146e-04, Loss_ut_ics: 1.881e-04,, Time: 4.27
+mean_grad_res: 9.073e+00
+mean_grad_bcs: 1.046e-03
+mean_grad_ics: 4.565e-03
+kurtosis_grad_ics: 2.394e+02
+kurtosis_grad_bcs: 5.521e+01
+kurtosis_grad_res: 4.341e+02
+It: 29900, Loss: 9.745e+01, Loss_res: 8.230e+01,  Loss_bcs: 1.992e-04, Loss_ut_ics: 2.156e-04,, Time: 4.21
+mean_grad_res: 6.089e+00
+mean_grad_bcs: 6.571e-04
+mean_grad_ics: 2.192e-03
+kurtosis_grad_ics: 3.452e+02
+kurtosis_grad_bcs: 5.596e+01
+kurtosis_grad_res: 2.810e+02
+It: 30000, Loss: 8.180e+01, Loss_res: 6.483e+01,  Loss_bcs: 2.064e-04, Loss_ut_ics: 6.762e-04,, Time: 4.20
+mean_grad_res: 5.019e+00
+mean_grad_bcs: 8.139e-04
+mean_grad_ics: 1.780e-02
+kurtosis_grad_ics: 2.931e+02
+kurtosis_grad_bcs: 6.699e+01
+kurtosis_grad_res: 3.444e+02
+It: 30100, Loss: 9.032e+01, Loss_res: 7.351e+01,  Loss_bcs: 2.205e-04, Loss_ut_ics: 2.525e-04,, Time: 4.24
+mean_grad_res: 7.182e+00
+mean_grad_bcs: 5.109e-04
+mean_grad_ics: 1.760e-02
+kurtosis_grad_ics: 2.857e+02
+kurtosis_grad_bcs: 8.020e+01
+kurtosis_grad_res: 1.979e+02
+It: 30200, Loss: 8.568e+01, Loss_res: 7.063e+01,  Loss_bcs: 1.944e-04, Loss_ut_ics: 3.015e-04,, Time: 4.21
+mean_grad_res: 7.385e+00
+mean_grad_bcs: 5.842e-04
+mean_grad_ics: 1.295e-02
+kurtosis_grad_ics: 1.973e+02
+kurtosis_grad_bcs: 6.978e+01
+kurtosis_grad_res: 2.413e+02
+It: 30300, Loss: 9.868e+01, Loss_res: 8.331e+01,  Loss_bcs: 1.899e-04, Loss_ut_ics: 5.349e-04,, Time: 4.21
+mean_grad_res: 7.240e+00
+mean_grad_bcs: 6.946e-04
+mean_grad_ics: 3.497e-02
+kurtosis_grad_ics: 2.074e+02
+kurtosis_grad_bcs: 5.703e+01
+kurtosis_grad_res: 2.884e+02
+It: 30400, Loss: 8.035e+01, Loss_res: 6.720e+01,  Loss_bcs: 1.725e-04, Loss_ut_ics: 1.963e-04,, Time: 4.30
+mean_grad_res: 6.890e+00
+mean_grad_bcs: 3.082e-04
+mean_grad_ics: 2.315e-02
+kurtosis_grad_ics: 2.910e+02
+kurtosis_grad_bcs: 9.580e+01
+kurtosis_grad_res: 2.502e+02
+It: 30500, Loss: 8.828e+01, Loss_res: 7.300e+01,  Loss_bcs: 1.979e-04, Loss_ut_ics: 2.941e-04,, Time: 4.19
+mean_grad_res: 6.441e+00
+mean_grad_bcs: 5.681e-04
+mean_grad_ics: 8.640e-03
+kurtosis_grad_ics: 2.861e+02
+kurtosis_grad_bcs: 6.967e+01
+kurtosis_grad_res: 2.532e+02
+It: 30600, Loss: 7.962e+01, Loss_res: 6.450e+01,  Loss_bcs: 1.928e-04, Loss_ut_ics: 3.722e-04,, Time: 4.22
+mean_grad_res: 4.747e+00
+mean_grad_bcs: 7.644e-04
+mean_grad_ics: 4.535e-02
+kurtosis_grad_ics: 2.204e+02
+kurtosis_grad_bcs: 5.977e+01
+kurtosis_grad_res: 3.899e+02
+It: 30700, Loss: 8.911e+01, Loss_res: 7.561e+01,  Loss_bcs: 1.772e-04, Loss_ut_ics: 1.964e-04,, Time: 4.20
+mean_grad_res: 1.030e+01
+mean_grad_bcs: 6.804e-04
+mean_grad_ics: 8.644e-03
+kurtosis_grad_ics: 2.664e+02
+kurtosis_grad_bcs: 6.435e+01
+kurtosis_grad_res: 2.127e+02
+It: 30800, Loss: 8.169e+01, Loss_res: 6.749e+01,  Loss_bcs: 1.827e-04, Loss_ut_ics: 3.076e-04,, Time: 4.42
+mean_grad_res: 6.304e+00
+mean_grad_bcs: 5.093e-04
+mean_grad_ics: 7.358e-03
+kurtosis_grad_ics: 2.852e+02
+kurtosis_grad_bcs: 5.998e+01
+kurtosis_grad_res: 4.061e+02
+It: 30900, Loss: 8.567e+01, Loss_res: 7.148e+01,  Loss_bcs: 1.756e-04, Loss_ut_ics: 4.868e-04,, Time: 8.37
+mean_grad_res: 5.245e+00
+mean_grad_bcs: 3.180e-04
+mean_grad_ics: 8.842e-03
+kurtosis_grad_ics: 2.769e+02
+kurtosis_grad_bcs: 7.548e+01
+kurtosis_grad_res: 2.840e+02
+It: 31000, Loss: 9.464e+01, Loss_res: 7.866e+01,  Loss_bcs: 2.070e-04, Loss_ut_ics: 3.079e-04,, Time: 6.87
+mean_grad_res: 7.222e+00
+mean_grad_bcs: 7.025e-04
+mean_grad_ics: 1.402e-02
+kurtosis_grad_ics: 2.581e+02
+kurtosis_grad_bcs: 6.410e+01
+kurtosis_grad_res: 1.960e+02
+It: 31100, Loss: 8.819e+01, Loss_res: 7.103e+01,  Loss_bcs: 2.164e-04, Loss_ut_ics: 4.847e-04,, Time: 4.60
+mean_grad_res: 6.090e+00
+mean_grad_bcs: 1.005e-03
+mean_grad_ics: 2.490e-02
+kurtosis_grad_ics: 2.946e+02
+kurtosis_grad_bcs: 5.060e+01
+kurtosis_grad_res: 2.839e+02
+It: 31200, Loss: 9.285e+01, Loss_res: 7.291e+01,  Loss_bcs: 2.484e-04, Loss_ut_ics: 6.403e-04,, Time: 4.41
+mean_grad_res: 9.366e+00
+mean_grad_bcs: 9.481e-04
+mean_grad_ics: 1.784e-02
+kurtosis_grad_ics: 2.613e+02
+kurtosis_grad_bcs: 5.645e+01
+kurtosis_grad_res: 1.916e+02
+It: 31300, Loss: 8.066e+01, Loss_res: 6.637e+01,  Loss_bcs: 1.858e-04, Loss_ut_ics: 2.548e-04,, Time: 4.44
+mean_grad_res: 5.199e+00
+mean_grad_bcs: 3.459e-04
+mean_grad_ics: 6.150e-03
+kurtosis_grad_ics: 2.657e+02
+kurtosis_grad_bcs: 7.203e+01
+kurtosis_grad_res: 2.717e+02
+It: 31400, Loss: 9.156e+01, Loss_res: 7.642e+01,  Loss_bcs: 2.026e-04, Loss_ut_ics: 1.180e-04,, Time: 4.60
+mean_grad_res: 6.069e+00
+mean_grad_bcs: 1.275e-03
+mean_grad_ics: 1.827e-02
+kurtosis_grad_ics: 2.592e+02
+kurtosis_grad_bcs: 5.668e+01
+kurtosis_grad_res: 3.211e+02
+It: 31500, Loss: 7.355e+01, Loss_res: 5.814e+01,  Loss_bcs: 1.884e-04, Loss_ut_ics: 5.869e-04,, Time: 4.42
+mean_grad_res: 5.932e+00
+mean_grad_bcs: 8.239e-04
+mean_grad_ics: 2.811e-02
+kurtosis_grad_ics: 2.221e+02
+kurtosis_grad_bcs: 5.265e+01
+kurtosis_grad_res: 1.987e+02
+It: 31600, Loss: 8.214e+01, Loss_res: 6.817e+01,  Loss_bcs: 1.852e-04, Loss_ut_ics: 1.600e-04,, Time: 4.47
+mean_grad_res: 5.751e+00
+mean_grad_bcs: 6.679e-04
+mean_grad_ics: 3.259e-02
+kurtosis_grad_ics: 2.869e+02
+kurtosis_grad_bcs: 6.888e+01
+kurtosis_grad_res: 2.620e+02
+It: 31700, Loss: 8.213e+01, Loss_res: 6.749e+01,  Loss_bcs: 1.906e-04, Loss_ut_ics: 2.542e-04,, Time: 4.48
+mean_grad_res: 8.281e+00
+mean_grad_bcs: 3.783e-04
+mean_grad_ics: 1.042e-02
+kurtosis_grad_ics: 2.522e+02
+kurtosis_grad_bcs: 7.213e+01
+kurtosis_grad_res: 3.281e+02
+It: 31800, Loss: 9.098e+01, Loss_res: 7.783e+01,  Loss_bcs: 1.764e-04, Loss_ut_ics: 9.668e-05,, Time: 4.71
+mean_grad_res: 6.956e+00
+mean_grad_bcs: 3.322e-04
+mean_grad_ics: 2.120e-02
+kurtosis_grad_ics: 2.459e+02
+kurtosis_grad_bcs: 8.665e+01
+kurtosis_grad_res: 6.354e+02
+It: 31900, Loss: 7.960e+01, Loss_res: 6.460e+01,  Loss_bcs: 1.967e-04, Loss_ut_ics: 2.285e-04,, Time: 4.47
+mean_grad_res: 4.758e+00
+mean_grad_bcs: 3.247e-04
+mean_grad_ics: 9.735e-03
+kurtosis_grad_ics: 2.963e+02
+kurtosis_grad_bcs: 7.786e+01
+kurtosis_grad_res: 2.984e+02
+It: 32000, Loss: 9.884e+01, Loss_res: 8.396e+01,  Loss_bcs: 1.909e-04, Loss_ut_ics: 3.327e-04,, Time: 4.34
+mean_grad_res: 8.687e+00
+mean_grad_bcs: 6.005e-04
+mean_grad_ics: 1.861e-02
+kurtosis_grad_ics: 2.388e+02
+kurtosis_grad_bcs: 6.479e+01
+kurtosis_grad_res: 3.174e+02
+It: 32100, Loss: 8.662e+01, Loss_res: 6.961e+01,  Loss_bcs: 2.175e-04, Loss_ut_ics: 4.020e-04,, Time: 4.47
+mean_grad_res: 7.101e+00
+mean_grad_bcs: 5.708e-04
+mean_grad_ics: 9.599e-03
+kurtosis_grad_ics: 2.806e+02
+kurtosis_grad_bcs: 5.667e+01
+kurtosis_grad_res: 2.793e+02
+It: 32200, Loss: 8.735e+01, Loss_res: 7.324e+01,  Loss_bcs: 1.872e-04, Loss_ut_ics: 1.567e-04,, Time: 4.53
+mean_grad_res: 8.007e+00
+mean_grad_bcs: 9.003e-04
+mean_grad_ics: 1.166e-02
+kurtosis_grad_ics: 2.696e+02
+kurtosis_grad_bcs: 6.450e+01
+kurtosis_grad_res: 2.050e+02
+It: 32300, Loss: 8.789e+01, Loss_res: 7.435e+01,  Loss_bcs: 1.780e-04, Loss_ut_ics: 1.912e-04,, Time: 4.62
+mean_grad_res: 6.555e+00
+mean_grad_bcs: 3.011e-04
+mean_grad_ics: 6.417e-03
+kurtosis_grad_ics: 2.901e+02
+kurtosis_grad_bcs: 7.551e+01
+kurtosis_grad_res: 3.222e+02
+It: 32400, Loss: 8.148e+01, Loss_res: 6.647e+01,  Loss_bcs: 1.939e-04, Loss_ut_ics: 2.980e-04,, Time: 4.36
+mean_grad_res: 7.413e+00
+mean_grad_bcs: 7.599e-04
+mean_grad_ics: 5.182e-03
+kurtosis_grad_ics: 2.348e+02
+kurtosis_grad_bcs: 7.449e+01
+kurtosis_grad_res: 1.904e+02
+It: 32500, Loss: 8.451e+01, Loss_res: 7.036e+01,  Loss_bcs: 1.858e-04, Loss_ut_ics: 2.062e-04,, Time: 4.52
+mean_grad_res: 6.299e+00
+mean_grad_bcs: 1.056e-03
+mean_grad_ics: 1.713e-02
+kurtosis_grad_ics: 2.374e+02
+kurtosis_grad_bcs: 5.613e+01
+kurtosis_grad_res: 4.377e+02
+It: 32600, Loss: 8.444e+01, Loss_res: 6.967e+01,  Loss_bcs: 1.839e-04, Loss_ut_ics: 4.768e-04,, Time: 4.47
+mean_grad_res: 6.184e+00
+mean_grad_bcs: 9.673e-04
+mean_grad_ics: 1.638e-02
+kurtosis_grad_ics: 2.693e+02
+kurtosis_grad_bcs: 5.012e+01
+kurtosis_grad_res: 2.873e+02
+It: 32700, Loss: 7.517e+01, Loss_res: 6.104e+01,  Loss_bcs: 1.869e-04, Loss_ut_ics: 1.705e-04,, Time: 6.73
+mean_grad_res: 5.445e+00
+mean_grad_bcs: 2.468e-04
+mean_grad_ics: 1.889e-02
+kurtosis_grad_ics: 2.234e+02
+kurtosis_grad_bcs: 5.908e+01
+kurtosis_grad_res: 3.120e+02
+It: 32800, Loss: 8.201e+01, Loss_res: 6.496e+01,  Loss_bcs: 2.275e-04, Loss_ut_ics: 1.553e-04,, Time: 6.92
+mean_grad_res: 6.656e+00
+mean_grad_bcs: 7.680e-04
+mean_grad_ics: 8.779e-03
+kurtosis_grad_ics: 3.003e+02
+kurtosis_grad_bcs: 6.408e+01
+kurtosis_grad_res: 3.672e+02
+It: 32900, Loss: 9.372e+01, Loss_res: 7.770e+01,  Loss_bcs: 2.117e-04, Loss_ut_ics: 2.019e-04,, Time: 4.64
+mean_grad_res: 6.980e+00
+mean_grad_bcs: 8.313e-04
+mean_grad_ics: 8.450e-03
+kurtosis_grad_ics: 2.760e+02
+kurtosis_grad_bcs: 5.791e+01
+kurtosis_grad_res: 2.719e+02
+It: 33000, Loss: 8.658e+01, Loss_res: 7.059e+01,  Loss_bcs: 2.062e-04, Loss_ut_ics: 3.328e-04,, Time: 4.36
+mean_grad_res: 5.846e+00
+mean_grad_bcs: 7.945e-04
+mean_grad_ics: 1.671e-02
+kurtosis_grad_ics: 2.589e+02
+kurtosis_grad_bcs: 8.442e+01
+kurtosis_grad_res: 5.250e+02
+It: 33100, Loss: 7.402e+01, Loss_res: 5.997e+01,  Loss_bcs: 1.851e-04, Loss_ut_ics: 1.875e-04,, Time: 4.47
+mean_grad_res: 5.679e+00
+mean_grad_bcs: 6.575e-04
+mean_grad_ics: 8.166e-03
+kurtosis_grad_ics: 2.687e+02
+kurtosis_grad_bcs: 6.352e+01
+kurtosis_grad_res: 2.867e+02
+It: 33200, Loss: 7.195e+01, Loss_res: 5.849e+01,  Loss_bcs: 1.787e-04, Loss_ut_ics: 1.423e-04,, Time: 4.63
+mean_grad_res: 6.222e+00
+mean_grad_bcs: 6.901e-04
+mean_grad_ics: 8.483e-03
+kurtosis_grad_ics: 2.201e+02
+kurtosis_grad_bcs: 5.904e+01
+kurtosis_grad_res: 4.283e+02
+It: 33300, Loss: 7.362e+01, Loss_res: 6.033e+01,  Loss_bcs: 1.740e-04, Loss_ut_ics: 2.078e-04,, Time: 4.36
+mean_grad_res: 7.318e+00
+mean_grad_bcs: 9.037e-04
+mean_grad_ics: 6.175e-03
+kurtosis_grad_ics: 2.928e+02
+kurtosis_grad_bcs: 5.744e+01
+kurtosis_grad_res: 2.109e+02
+It: 33400, Loss: 7.977e+01, Loss_res: 6.580e+01,  Loss_bcs: 1.862e-04, Loss_ut_ics: 1.327e-04,, Time: 4.54
+mean_grad_res: 6.140e+00
+mean_grad_bcs: 6.896e-04
+mean_grad_ics: 9.919e-03
+kurtosis_grad_ics: 2.274e+02
+kurtosis_grad_bcs: 6.737e+01
+kurtosis_grad_res: 4.019e+02
+It: 33500, Loss: 7.843e+01, Loss_res: 6.434e+01,  Loss_bcs: 1.831e-04, Loss_ut_ics: 2.576e-04,, Time: 4.56
+mean_grad_res: 5.558e+00
+mean_grad_bcs: 7.817e-04
+mean_grad_ics: 2.602e-02
+kurtosis_grad_ics: 2.843e+02
+kurtosis_grad_bcs: 6.162e+01
+kurtosis_grad_res: 2.410e+02
+It: 33600, Loss: 8.055e+01, Loss_res: 6.495e+01,  Loss_bcs: 2.086e-04, Loss_ut_ics: 1.321e-04,, Time: 4.90
+mean_grad_res: 4.831e+00
+mean_grad_bcs: 9.570e-04
+mean_grad_ics: 9.676e-03
+kurtosis_grad_ics: 2.724e+02
+kurtosis_grad_bcs: 6.397e+01
+kurtosis_grad_res: 2.953e+02
+It: 33700, Loss: 7.408e+01, Loss_res: 6.075e+01,  Loss_bcs: 1.722e-04, Loss_ut_ics: 2.672e-04,, Time: 4.77
+mean_grad_res: 6.095e+00
+mean_grad_bcs: 7.978e-04
+mean_grad_ics: 8.116e-03
+kurtosis_grad_ics: 3.358e+02
+kurtosis_grad_bcs: 6.137e+01
+kurtosis_grad_res: 2.415e+02
+It: 33800, Loss: 8.080e+01, Loss_res: 6.704e+01,  Loss_bcs: 1.828e-04, Loss_ut_ics: 1.472e-04,, Time: 6.83
+mean_grad_res: 6.308e+00
+mean_grad_bcs: 8.246e-04
+mean_grad_ics: 1.071e-02
+kurtosis_grad_ics: 2.791e+02
+kurtosis_grad_bcs: 5.909e+01
+kurtosis_grad_res: 5.049e+02
+It: 33900, Loss: 8.464e+01, Loss_res: 6.921e+01,  Loss_bcs: 1.980e-04, Loss_ut_ics: 3.431e-04,, Time: 4.41
+mean_grad_res: 8.549e+00
+mean_grad_bcs: 9.541e-04
+mean_grad_ics: 6.975e-03
+kurtosis_grad_ics: 3.019e+02
+kurtosis_grad_bcs: 5.482e+01
+kurtosis_grad_res: 2.803e+02
+It: 34000, Loss: 8.660e+01, Loss_res: 7.359e+01,  Loss_bcs: 1.708e-04, Loss_ut_ics: 1.891e-04,, Time: 4.98
+mean_grad_res: 6.169e+00
+mean_grad_bcs: 4.980e-04
+mean_grad_ics: 5.699e-03
+kurtosis_grad_ics: 2.416e+02
+kurtosis_grad_bcs: 6.818e+01
+kurtosis_grad_res: 2.158e+02
+It: 34100, Loss: 7.936e+01, Loss_res: 6.573e+01,  Loss_bcs: 1.805e-04, Loss_ut_ics: 1.593e-04,, Time: 4.81
+mean_grad_res: 6.344e+00
+mean_grad_bcs: 1.290e-03
+mean_grad_ics: 1.219e-02
+kurtosis_grad_ics: 2.967e+02
+kurtosis_grad_bcs: 5.652e+01
+kurtosis_grad_res: 4.445e+02
+It: 34200, Loss: 8.547e+01, Loss_res: 6.980e+01,  Loss_bcs: 2.079e-04, Loss_ut_ics: 1.735e-04,, Time: 6.02
+mean_grad_res: 8.575e+00
+mean_grad_bcs: 4.087e-04
+mean_grad_ics: 6.633e-03
+kurtosis_grad_ics: 2.956e+02
+kurtosis_grad_bcs: 8.892e+01
+kurtosis_grad_res: 2.577e+02
+It: 34300, Loss: 7.321e+01, Loss_res: 5.835e+01,  Loss_bcs: 1.958e-04, Loss_ut_ics: 2.004e-04,, Time: 4.42
+mean_grad_res: 6.738e+00
+mean_grad_bcs: 6.095e-04
+mean_grad_ics: 9.376e-03
+kurtosis_grad_ics: 2.309e+02
+kurtosis_grad_bcs: 7.218e+01
+kurtosis_grad_res: 2.542e+02
+It: 34400, Loss: 8.412e+01, Loss_res: 6.926e+01,  Loss_bcs: 1.912e-04, Loss_ut_ics: 3.168e-04,, Time: 4.37
+mean_grad_res: 5.748e+00
+mean_grad_bcs: 5.621e-04
+mean_grad_ics: 1.924e-02
+kurtosis_grad_ics: 2.516e+02
+kurtosis_grad_bcs: 5.198e+01
+kurtosis_grad_res: 3.880e+02
+It: 34500, Loss: 9.108e+01, Loss_res: 7.603e+01,  Loss_bcs: 2.031e-04, Loss_ut_ics: 7.791e-05,, Time: 4.42
+mean_grad_res: 8.043e+00
+mean_grad_bcs: 2.097e-04
+mean_grad_ics: 1.216e-02
+kurtosis_grad_ics: 2.182e+02
+kurtosis_grad_bcs: 7.077e+01
+kurtosis_grad_res: 2.879e+02
+It: 34600, Loss: 7.635e+01, Loss_res: 6.213e+01,  Loss_bcs: 1.899e-04, Loss_ut_ics: 1.254e-04,, Time: 4.61
+mean_grad_res: 6.430e+00
+mean_grad_bcs: 2.191e-04
+mean_grad_ics: 1.627e-02
+kurtosis_grad_ics: 2.640e+02
+kurtosis_grad_bcs: 8.093e+01
+kurtosis_grad_res: 2.106e+02
+It: 34700, Loss: 7.355e+01, Loss_res: 5.868e+01,  Loss_bcs: 1.999e-04, Loss_ut_ics: 9.502e-05,, Time: 4.45
+mean_grad_res: 4.656e+00
+mean_grad_bcs: 8.659e-04
+mean_grad_ics: 4.281e-03
+kurtosis_grad_ics: 2.892e+02
+kurtosis_grad_bcs: 5.893e+01
+kurtosis_grad_res: 2.458e+02
+It: 34800, Loss: 8.932e+01, Loss_res: 7.339e+01,  Loss_bcs: 2.149e-04, Loss_ut_ics: 8.302e-05,, Time: 4.78
+mean_grad_res: 7.021e+00
+mean_grad_bcs: 4.938e-04
+mean_grad_ics: 2.024e-02
+kurtosis_grad_ics: 2.613e+02
+kurtosis_grad_bcs: 7.146e+01
+kurtosis_grad_res: 4.122e+02
+It: 34900, Loss: 6.930e+01, Loss_res: 5.629e+01,  Loss_bcs: 1.707e-04, Loss_ut_ics: 1.931e-04,, Time: 4.52
+mean_grad_res: 7.686e+00
+mean_grad_bcs: 5.472e-04
+mean_grad_ics: 2.073e-02
+kurtosis_grad_ics: 2.749e+02
+kurtosis_grad_bcs: 6.849e+01
+kurtosis_grad_res: 1.974e+02
+It: 35000, Loss: 7.599e+01, Loss_res: 6.250e+01,  Loss_bcs: 1.796e-04, Loss_ut_ics: 1.320e-04,, Time: 4.66
+mean_grad_res: 5.133e+00
+mean_grad_bcs: 7.796e-04
+mean_grad_ics: 4.865e-03
+kurtosis_grad_ics: 2.912e+02
+kurtosis_grad_bcs: 5.744e+01
+kurtosis_grad_res: 2.534e+02
+It: 35100, Loss: 6.586e+01, Loss_res: 5.249e+01,  Loss_bcs: 1.776e-04, Loss_ut_ics: 1.412e-04,, Time: 4.37
+mean_grad_res: 7.059e+00
+mean_grad_bcs: 8.058e-04
+mean_grad_ics: 6.519e-04
+kurtosis_grad_ics: 4.167e+02
+kurtosis_grad_bcs: 6.148e+01
+kurtosis_grad_res: 2.336e+02
+It: 35200, Loss: 6.961e+01, Loss_res: 5.661e+01,  Loss_bcs: 1.747e-04, Loss_ut_ics: 8.435e-05,, Time: 4.43
+mean_grad_res: 6.295e+00
+mean_grad_bcs: 5.447e-04
+mean_grad_ics: 1.394e-02
+kurtosis_grad_ics: 2.780e+02
+kurtosis_grad_bcs: 6.759e+01
+kurtosis_grad_res: 2.459e+02
+It: 35300, Loss: 6.812e+01, Loss_res: 5.639e+01,  Loss_bcs: 1.546e-04, Loss_ut_ics: 1.597e-04,, Time: 4.65
+mean_grad_res: 6.290e+00
+mean_grad_bcs: 3.636e-04
+mean_grad_ics: 1.741e-02
+kurtosis_grad_ics: 2.576e+02
+kurtosis_grad_bcs: 6.709e+01
+kurtosis_grad_res: 2.671e+02
+It: 35400, Loss: 7.180e+01, Loss_res: 5.707e+01,  Loss_bcs: 1.949e-04, Loss_ut_ics: 1.786e-04,, Time: 4.37
+mean_grad_res: 5.687e+00
+mean_grad_bcs: 8.160e-04
+mean_grad_ics: 3.148e-03
+kurtosis_grad_ics: 2.725e+02
+kurtosis_grad_bcs: 5.811e+01
+kurtosis_grad_res: 2.978e+02
+It: 35500, Loss: 7.032e+01, Loss_res: 5.699e+01,  Loss_bcs: 1.770e-04, Loss_ut_ics: 1.453e-04,, Time: 4.34
+mean_grad_res: 8.740e+00
+mean_grad_bcs: 4.557e-04
+mean_grad_ics: 7.942e-03
+kurtosis_grad_ics: 2.080e+02
+kurtosis_grad_bcs: 6.066e+01
+kurtosis_grad_res: 3.033e+02
+It: 35600, Loss: 6.800e+01, Loss_res: 5.437e+01,  Loss_bcs: 1.784e-04, Loss_ut_ics: 2.124e-04,, Time: 4.44
+mean_grad_res: 4.320e+00
+mean_grad_bcs: 5.564e-04
+mean_grad_ics: 1.543e-02
+kurtosis_grad_ics: 2.617e+02
+kurtosis_grad_bcs: 7.378e+01
+kurtosis_grad_res: 3.136e+02
+It: 35700, Loss: 8.246e+01, Loss_res: 6.978e+01,  Loss_bcs: 1.678e-04, Loss_ut_ics: 1.491e-04,, Time: 6.77
+mean_grad_res: 7.280e+00
+mean_grad_bcs: 9.719e-04
+mean_grad_ics: 2.013e-02
+kurtosis_grad_ics: 2.690e+02
+kurtosis_grad_bcs: 5.534e+01
+kurtosis_grad_res: 5.189e+02
+It: 35800, Loss: 7.734e+01, Loss_res: 6.234e+01,  Loss_bcs: 1.920e-04, Loss_ut_ics: 3.468e-04,, Time: 4.43
+mean_grad_res: 6.925e+00
+mean_grad_bcs: 6.211e-04
+mean_grad_ics: 2.174e-02
+kurtosis_grad_ics: 3.015e+02
+kurtosis_grad_bcs: 7.318e+01
+kurtosis_grad_res: 2.991e+02
+It: 35900, Loss: 7.785e+01, Loss_res: 6.393e+01,  Loss_bcs: 1.800e-04, Loss_ut_ics: 2.748e-04,, Time: 4.29
+mean_grad_res: 9.979e+00
+mean_grad_bcs: 9.593e-04
+mean_grad_ics: 3.710e-02
+kurtosis_grad_ics: 2.984e+02
+kurtosis_grad_bcs: 5.625e+01
+kurtosis_grad_res: 1.741e+02
+It: 36000, Loss: 7.310e+01, Loss_res: 5.886e+01,  Loss_bcs: 1.892e-04, Loss_ut_ics: 1.482e-04,, Time: 4.37
+mean_grad_res: 5.696e+00
+mean_grad_bcs: 3.364e-04
+mean_grad_ics: 1.002e-02
+kurtosis_grad_ics: 2.217e+02
+kurtosis_grad_bcs: 9.331e+01
+kurtosis_grad_res: 2.915e+02
+It: 36100, Loss: 6.671e+01, Loss_res: 5.438e+01,  Loss_bcs: 1.649e-04, Loss_ut_ics: 1.023e-04,, Time: 4.98
+mean_grad_res: 5.764e+00
+mean_grad_bcs: 4.010e-04
+mean_grad_ics: 7.684e-03
+kurtosis_grad_ics: 2.858e+02
+kurtosis_grad_bcs: 7.750e+01
+kurtosis_grad_res: 2.531e+02
+It: 36200, Loss: 7.922e+01, Loss_res: 6.501e+01,  Loss_bcs: 1.905e-04, Loss_ut_ics: 1.067e-04,, Time: 4.51
+mean_grad_res: 8.153e+00
+mean_grad_bcs: 5.317e-04
+mean_grad_ics: 7.453e-03
+kurtosis_grad_ics: 1.994e+02
+kurtosis_grad_bcs: 6.758e+01
+kurtosis_grad_res: 3.043e+02
+It: 36300, Loss: 7.170e+01, Loss_res: 5.776e+01,  Loss_bcs: 1.840e-04, Loss_ut_ics: 1.785e-04,, Time: 4.52
+mean_grad_res: 5.759e+00
+mean_grad_bcs: 7.497e-04
+mean_grad_ics: 9.203e-03
+kurtosis_grad_ics: 3.034e+02
+kurtosis_grad_bcs: 6.397e+01
+kurtosis_grad_res: 2.620e+02
+It: 36400, Loss: 6.826e+01, Loss_res: 5.414e+01,  Loss_bcs: 1.840e-04, Loss_ut_ics: 2.404e-04,, Time: 4.36
+mean_grad_res: 6.408e+00
+mean_grad_bcs: 3.435e-04
+mean_grad_ics: 4.229e-03
+kurtosis_grad_ics: 3.089e+02
+kurtosis_grad_bcs: 7.212e+01
+kurtosis_grad_res: 4.118e+02
+It: 36500, Loss: 7.685e+01, Loss_res: 6.099e+01,  Loss_bcs: 2.100e-04, Loss_ut_ics: 1.858e-04,, Time: 4.55
+mean_grad_res: 5.911e+00
+mean_grad_bcs: 2.889e-04
+mean_grad_ics: 1.102e-02
+kurtosis_grad_ics: 2.377e+02
+kurtosis_grad_bcs: 8.072e+01
+kurtosis_grad_res: 1.840e+02
+It: 36600, Loss: 7.377e+01, Loss_res: 6.158e+01,  Loss_bcs: 1.622e-04, Loss_ut_ics: 1.251e-04,, Time: 4.36
+mean_grad_res: 7.084e+00
+mean_grad_bcs: 4.686e-04
+mean_grad_ics: 5.246e-03
+kurtosis_grad_ics: 2.398e+02
+kurtosis_grad_bcs: 6.276e+01
+kurtosis_grad_res: 4.053e+02
+It: 36700, Loss: 6.924e+01, Loss_res: 5.573e+01,  Loss_bcs: 1.805e-04, Loss_ut_ics: 1.183e-04,, Time: 4.39
+mean_grad_res: 6.392e+00
+mean_grad_bcs: 5.558e-04
+mean_grad_ics: 1.021e-02
+kurtosis_grad_ics: 2.219e+02
+kurtosis_grad_bcs: 7.567e+01
+kurtosis_grad_res: 8.318e+02
+It: 36800, Loss: 7.360e+01, Loss_res: 6.106e+01,  Loss_bcs: 1.616e-04, Loss_ut_ics: 2.624e-04,, Time: 4.33
+mean_grad_res: 9.573e+00
+mean_grad_bcs: 5.312e-04
+mean_grad_ics: 1.946e-02
+kurtosis_grad_ics: 2.550e+02
+kurtosis_grad_bcs: 5.944e+01
+kurtosis_grad_res: 2.379e+02
+It: 36900, Loss: 6.987e+01, Loss_res: 5.663e+01,  Loss_bcs: 1.774e-04, Loss_ut_ics: 1.031e-04,, Time: 4.72
+mean_grad_res: 7.188e+00
+mean_grad_bcs: 4.378e-04
+mean_grad_ics: 1.436e-03
+kurtosis_grad_ics: 2.528e+02
+kurtosis_grad_bcs: 6.752e+01
+kurtosis_grad_res: 6.011e+02
+It: 37000, Loss: 7.963e+01, Loss_res: 6.618e+01,  Loss_bcs: 1.817e-04, Loss_ut_ics: 6.491e-05,, Time: 4.75
+mean_grad_res: 7.144e+00
+mean_grad_bcs: 6.174e-04
+mean_grad_ics: 6.108e-03
+kurtosis_grad_ics: 2.034e+02
+kurtosis_grad_bcs: 6.403e+01
+kurtosis_grad_res: 3.287e+02
+It: 37100, Loss: 6.538e+01, Loss_res: 5.230e+01,  Loss_bcs: 1.760e-04, Loss_ut_ics: 8.031e-05,, Time: 4.40
+mean_grad_res: 7.406e+00
+mean_grad_bcs: 5.354e-04
+mean_grad_ics: 5.822e-03
+kurtosis_grad_ics: 2.976e+02
+kurtosis_grad_bcs: 6.499e+01
+kurtosis_grad_res: 3.158e+02
+It: 37200, Loss: 7.272e+01, Loss_res: 5.818e+01,  Loss_bcs: 1.963e-04, Loss_ut_ics: 7.089e-05,, Time: 4.32
+mean_grad_res: 4.613e+00
+mean_grad_bcs: 4.614e-04
+mean_grad_ics: 8.238e-03
+kurtosis_grad_ics: 2.828e+02
+kurtosis_grad_bcs: 7.239e+01
+kurtosis_grad_res: 3.847e+02
+It: 37300, Loss: 7.001e+01, Loss_res: 5.764e+01,  Loss_bcs: 1.648e-04, Loss_ut_ics: 1.186e-04,, Time: 4.35
+mean_grad_res: 5.469e+00
+mean_grad_bcs: 2.265e-04
+mean_grad_ics: 5.281e-03
+kurtosis_grad_ics: 2.861e+02
+kurtosis_grad_bcs: 8.443e+01
+kurtosis_grad_res: 5.123e+02
+It: 37400, Loss: 6.917e+01, Loss_res: 5.517e+01,  Loss_bcs: 1.842e-04, Loss_ut_ics: 1.973e-04,, Time: 4.82
+mean_grad_res: 4.469e+00
+mean_grad_bcs: 4.328e-04
+mean_grad_ics: 1.231e-02
+kurtosis_grad_ics: 2.415e+02
+kurtosis_grad_bcs: 6.767e+01
+kurtosis_grad_res: 4.208e+02
+It: 37500, Loss: 6.553e+01, Loss_res: 5.273e+01,  Loss_bcs: 1.718e-04, Loss_ut_ics: 9.073e-05,, Time: 4.58
+mean_grad_res: 3.932e+00
+mean_grad_bcs: 2.193e-04
+mean_grad_ics: 7.606e-03
+kurtosis_grad_ics: 2.658e+02
+kurtosis_grad_bcs: 6.876e+01
+kurtosis_grad_res: 3.451e+02
+It: 37600, Loss: 6.654e+01, Loss_res: 5.312e+01,  Loss_bcs: 1.756e-04, Loss_ut_ics: 2.133e-04,, Time: 4.17
+mean_grad_res: 6.424e+00
+mean_grad_bcs: 4.084e-04
+mean_grad_ics: 1.872e-02
+kurtosis_grad_ics: 2.373e+02
+kurtosis_grad_bcs: 6.049e+01
+kurtosis_grad_res: 2.546e+02
+It: 37700, Loss: 6.438e+01, Loss_res: 5.223e+01,  Loss_bcs: 1.578e-04, Loss_ut_ics: 2.218e-04,, Time: 4.11
+mean_grad_res: 6.396e+00
+mean_grad_bcs: 5.797e-04
+mean_grad_ics: 9.166e-03
+kurtosis_grad_ics: 2.458e+02
+kurtosis_grad_bcs: 6.520e+01
+kurtosis_grad_res: 5.685e+02
+It: 37800, Loss: 6.465e+01, Loss_res: 4.982e+01,  Loss_bcs: 1.949e-04, Loss_ut_ics: 2.141e-04,, Time: 4.45
+mean_grad_res: 4.904e+00
+mean_grad_bcs: 4.013e-04
+mean_grad_ics: 3.211e-03
+kurtosis_grad_ics: 2.725e+02
+kurtosis_grad_bcs: 8.010e+01
+kurtosis_grad_res: 3.211e+02
+It: 37900, Loss: 7.333e+01, Loss_res: 6.088e+01,  Loss_bcs: 1.654e-04, Loss_ut_ics: 1.310e-04,, Time: 4.45
+mean_grad_res: 6.078e+00
+mean_grad_bcs: 6.214e-04
+mean_grad_ics: 2.792e-03
+kurtosis_grad_ics: 3.146e+02
+kurtosis_grad_bcs: 5.672e+01
+kurtosis_grad_res: 5.987e+02
+It: 38000, Loss: 6.922e+01, Loss_res: 5.458e+01,  Loss_bcs: 1.918e-04, Loss_ut_ics: 2.242e-04,, Time: 4.31
+mean_grad_res: 7.127e+00
+mean_grad_bcs: 3.326e-04
+mean_grad_ics: 8.820e-03
+kurtosis_grad_ics: 2.963e+02
+kurtosis_grad_bcs: 8.759e+01
+kurtosis_grad_res: 2.162e+02
+It: 38100, Loss: 7.111e+01, Loss_res: 5.865e+01,  Loss_bcs: 1.672e-04, Loss_ut_ics: 8.998e-05,, Time: 4.48
+mean_grad_res: 6.170e+00
+mean_grad_bcs: 1.296e-04
+mean_grad_ics: 4.639e-03
+kurtosis_grad_ics: 2.330e+02
+kurtosis_grad_bcs: 1.482e+02
+kurtosis_grad_res: 2.919e+02
+It: 38200, Loss: 7.023e+01, Loss_res: 5.680e+01,  Loss_bcs: 1.806e-04, Loss_ut_ics: 8.780e-05,, Time: 4.44
+mean_grad_res: 6.537e+00
+mean_grad_bcs: 3.417e-04
+mean_grad_ics: 6.522e-03
+kurtosis_grad_ics: 3.137e+02
+kurtosis_grad_bcs: 7.080e+01
+kurtosis_grad_res: 2.550e+02
+It: 38300, Loss: 6.754e+01, Loss_res: 5.539e+01,  Loss_bcs: 1.622e-04, Loss_ut_ics: 1.065e-04,, Time: 4.67
+mean_grad_res: 4.999e+00
+mean_grad_bcs: 5.729e-04
+mean_grad_ics: 7.174e-03
+kurtosis_grad_ics: 2.863e+02
+kurtosis_grad_bcs: 6.620e+01
+kurtosis_grad_res: 2.737e+02
+It: 38400, Loss: 6.757e+01, Loss_res: 5.481e+01,  Loss_bcs: 1.656e-04, Loss_ut_ics: 2.350e-04,, Time: 4.73
+mean_grad_res: 5.582e+00
+mean_grad_bcs: 5.477e-04
+mean_grad_ics: 7.203e-03
+kurtosis_grad_ics: 2.497e+02
+kurtosis_grad_bcs: 7.257e+01
+kurtosis_grad_res: 3.852e+02
+It: 38500, Loss: 6.748e+01, Loss_res: 5.429e+01,  Loss_bcs: 1.759e-04, Loss_ut_ics: 1.225e-04,, Time: 4.42
+mean_grad_res: 5.967e+00
+mean_grad_bcs: 2.754e-04
+mean_grad_ics: 9.519e-03
+kurtosis_grad_ics: 2.178e+02
+kurtosis_grad_bcs: 1.026e+02
+kurtosis_grad_res: 4.694e+02
+It: 38600, Loss: 7.142e+01, Loss_res: 5.816e+01,  Loss_bcs: 1.790e-04, Loss_ut_ics: 6.683e-05,, Time: 4.49
+mean_grad_res: 6.659e+00
+mean_grad_bcs: 5.548e-04
+mean_grad_ics: 2.813e-03
+kurtosis_grad_ics: 2.711e+02
+kurtosis_grad_bcs: 7.127e+01
+kurtosis_grad_res: 3.160e+02
+It: 38700, Loss: 7.936e+01, Loss_res: 6.692e+01,  Loss_bcs: 1.663e-04, Loss_ut_ics: 1.034e-04,, Time: 4.80
+mean_grad_res: 7.930e+00
+mean_grad_bcs: 4.008e-04
+mean_grad_ics: 2.537e-03
+kurtosis_grad_ics: 2.855e+02
+kurtosis_grad_bcs: 8.244e+01
+kurtosis_grad_res: 5.556e+02
+It: 38800, Loss: 6.531e+01, Loss_res: 5.141e+01,  Loss_bcs: 1.775e-04, Loss_ut_ics: 3.350e-04,, Time: 4.55
+mean_grad_res: 7.367e+00
+mean_grad_bcs: 6.480e-04
+mean_grad_ics: 1.056e-02
+kurtosis_grad_ics: 2.838e+02
+kurtosis_grad_bcs: 7.693e+01
+kurtosis_grad_res: 2.987e+02
+It: 38900, Loss: 6.134e+01, Loss_res: 4.848e+01,  Loss_bcs: 1.715e-04, Loss_ut_ics: 1.196e-04,, Time: 4.75
+mean_grad_res: 6.025e+00
+mean_grad_bcs: 2.936e-04
+mean_grad_ics: 3.980e-03
+kurtosis_grad_ics: 2.658e+02
+kurtosis_grad_bcs: 6.721e+01
+kurtosis_grad_res: 3.305e+02
+It: 39000, Loss: 7.125e+01, Loss_res: 5.921e+01,  Loss_bcs: 1.604e-04, Loss_ut_ics: 1.175e-04,, Time: 4.77
+mean_grad_res: 5.449e+00
+mean_grad_bcs: 4.265e-04
+mean_grad_ics: 4.301e-03
+kurtosis_grad_ics: 2.648e+02
+kurtosis_grad_bcs: 6.443e+01
+kurtosis_grad_res: 2.958e+02
+It: 39100, Loss: 7.054e+01, Loss_res: 5.693e+01,  Loss_bcs: 1.806e-04, Loss_ut_ics: 1.503e-04,, Time: 4.77
+mean_grad_res: 8.759e+00
+mean_grad_bcs: 4.884e-04
+mean_grad_ics: 3.644e-03
+kurtosis_grad_ics: 3.005e+02
+kurtosis_grad_bcs: 8.497e+01
+kurtosis_grad_res: 2.419e+02
+It: 39200, Loss: 6.735e+01, Loss_res: 5.531e+01,  Loss_bcs: 1.603e-04, Loss_ut_ics: 1.183e-04,, Time: 4.98
+mean_grad_res: 5.080e+00
+mean_grad_bcs: 4.880e-04
+mean_grad_ics: 4.532e-03
+kurtosis_grad_ics: 2.706e+02
+kurtosis_grad_bcs: 6.327e+01
+kurtosis_grad_res: 4.193e+02
+It: 39300, Loss: 6.490e+01, Loss_res: 5.265e+01,  Loss_bcs: 1.625e-04, Loss_ut_ics: 1.362e-04,, Time: 4.38
+mean_grad_res: 7.624e+00
+mean_grad_bcs: 9.329e-04
+mean_grad_ics: 9.758e-03
+kurtosis_grad_ics: 2.334e+02
+kurtosis_grad_bcs: 6.529e+01
+kurtosis_grad_res: 2.431e+02
+It: 39400, Loss: 5.774e+01, Loss_res: 4.516e+01,  Loss_bcs: 1.673e-04, Loss_ut_ics: 1.284e-04,, Time: 4.44
+mean_grad_res: 5.378e+00
+mean_grad_bcs: 5.242e-04
+mean_grad_ics: 9.463e-03
+kurtosis_grad_ics: 2.952e+02
+kurtosis_grad_bcs: 5.779e+01
+kurtosis_grad_res: 2.542e+02
+It: 39500, Loss: 6.360e+01, Loss_res: 5.045e+01,  Loss_bcs: 1.753e-04, Loss_ut_ics: 1.225e-04,, Time: 4.86
+mean_grad_res: 5.020e+00
+mean_grad_bcs: 1.703e-04
+mean_grad_ics: 1.368e-02
+kurtosis_grad_ics: 2.611e+02
+kurtosis_grad_bcs: 1.042e+02
+kurtosis_grad_res: 3.196e+02
+It: 39600, Loss: 6.180e+01, Loss_res: 4.894e+01,  Loss_bcs: 1.704e-04, Loss_ut_ics: 1.444e-04,, Time: 4.71
+mean_grad_res: 6.736e+00
+mean_grad_bcs: 1.789e-04
+mean_grad_ics: 9.284e-03
+kurtosis_grad_ics: 2.451e+02
+kurtosis_grad_bcs: 7.324e+01
+kurtosis_grad_res: 2.205e+02
+It: 39700, Loss: 6.225e+01, Loss_res: 5.035e+01,  Loss_bcs: 1.578e-04, Loss_ut_ics: 1.328e-04,, Time: 4.19
+mean_grad_res: 6.141e+00
+mean_grad_bcs: 5.675e-04
+mean_grad_ics: 9.026e-03
+kurtosis_grad_ics: 2.241e+02
+kurtosis_grad_bcs: 5.784e+01
+kurtosis_grad_res: 2.132e+02
+It: 39800, Loss: 6.042e+01, Loss_res: 4.732e+01,  Loss_bcs: 1.743e-04, Loss_ut_ics: 1.315e-04,, Time: 4.51
+mean_grad_res: 6.568e+00
+mean_grad_bcs: 3.535e-04
+mean_grad_ics: 5.897e-03
+kurtosis_grad_ics: 2.422e+02
+kurtosis_grad_bcs: 7.176e+01
+kurtosis_grad_res: 1.832e+02
+It: 39900, Loss: 5.567e+01, Loss_res: 4.358e+01,  Loss_bcs: 1.599e-04, Loss_ut_ics: 1.488e-04,, Time: 4.67
+mean_grad_res: 4.741e+00
+mean_grad_bcs: 5.897e-04
+mean_grad_ics: 6.528e-03
+kurtosis_grad_ics: 2.693e+02
+kurtosis_grad_bcs: 6.423e+01
+kurtosis_grad_res: 2.694e+02
+Gradients information stored ...
+It: 40000, Loss: 6.223e+01, Loss_res: 4.975e+01,  Loss_bcs: 1.630e-04, Loss_ut_ics: 2.016e-04,, Time: 8.71
+mean_grad_res: 4.624e+00
+mean_grad_bcs: 2.289e-04
+mean_grad_ics: 7.438e-03
+kurtosis_grad_ics: 2.333e+02
+kurtosis_grad_bcs: 8.917e+01
+kurtosis_grad_res: 3.483e+02
+elapsed: 1.80e+03
+Relative L2 error_u: 1.98e-01
+Relative L2 error_r: 1.30e+01
+Save uv NN parameters successfully in %s ...checkpoints/Jan-19-2024_14-12-22-224054_M2
+Final loss total loss: 6.222726e+01
+Final loss loss_res: 4.975422e+01
+Final loss loss_bcs: 1.630247e-04
+Final loss loss_ics_u_t: 2.016205e-04
+average lambda_bc : 8.4265e+02
+average lambda_ic : 4.3081e+02
+average lambda_res : 1.0
+
+
+Method: mini_batch
+
+average of time_list:1.7963e+03
+average of error_u_list:1.9817e-01
+average of error_r_list:1.2966e+01
+elapsed: 1.80e+03
+Relative L2 error_u: 1.98e-01
+Relative L2 error_r: 1.30e+01
+Save uv NN parameters successfully in %s ...checkpoints/Jan-19-2024_14-12-22-224054_M2
+Final loss total loss: 6.222726e+01
+Final loss loss_res: 4.975422e+01
+Final loss loss_bcs: 1.630247e-04
+Final loss loss_ics_u_t: 2.016205e-04
+average lambda_bc : 8.4265e+02
+average lambda_ic : 4.3081e+02
+average lambda_res : 1.0
+
+
+Method: mini_batch
+
+average of time_list:1.7995e+03
+average of error_u_list:1.9817e-01
+average of error_r_list:1.2966e+01

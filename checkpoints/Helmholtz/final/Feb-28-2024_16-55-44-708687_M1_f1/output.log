@@ -1,0 +1,105 @@
+Using mode: M1_f1
+neural network: [2, 50, 50, 50, 1]
+Batch size : 300
+Activation function: tanh
+number of iterations: 40001
+starter_learning_rate: 1.0000e-03
+Method desciption : gradual learing rate , M1_f1, with  mini_batch batch. 
+File directory: /home/vlq26735/code/PhD/GradientPathologiesPINNs/checkpoints/Helmholtz/final/Feb-28-2024_16-55-44-708687_M1_f1
+mean_grad_res: 1.863e+00
+mean_grad_bcs: 1.215e+01
+Gradients information stored ...
+Gradients information stored ...
+mean_grad_res: 2.441e+00
+mean_grad_bcs: 3.596e+00
+Gradients information stored ...
+mean_grad_res: 2.861e+00
+mean_grad_bcs: 4.905e-01
+mean_grad_res: 2.600e+00
+mean_grad_bcs: 1.296e+00
+mean_grad_res: 3.557e+00
+mean_grad_bcs: 1.895e+00
+mean_grad_res: 5.461e+00
+mean_grad_bcs: 5.816e-01
+mean_grad_res: 7.798e+00
+mean_grad_bcs: 3.258e+00
+mean_grad_res: 9.887e+00
+mean_grad_bcs: 3.488e+00
+mean_grad_res: 1.546e+01
+mean_grad_bcs: 1.804e+00
+mean_grad_res: 1.323e+01
+mean_grad_bcs: 6.926e-01
+mean_grad_res: 3.076e+01
+mean_grad_bcs: 2.782e+00
+mean_grad_res: 3.053e+01
+mean_grad_bcs: 3.156e+00
+mean_grad_res: 2.277e+01
+mean_grad_bcs: 8.552e-01
+mean_grad_res: 1.276e+01
+mean_grad_bcs: 2.011e+00
+mean_grad_res: 3.385e+01
+mean_grad_bcs: 9.094e-01
+mean_grad_res: 1.628e+01
+mean_grad_bcs: 1.504e+00
+mean_grad_res: 1.262e+01
+mean_grad_bcs: 1.674e+00
+mean_grad_res: 1.789e+01
+mean_grad_bcs: 2.866e+00
+mean_grad_res: 5.197e+01
+mean_grad_bcs: 1.216e+00
+mean_grad_res: 4.499e+01
+mean_grad_bcs: 1.161e+00
+mean_grad_res: 5.175e+01
+mean_grad_bcs: 1.079e+00
+mean_grad_res: 2.805e+01
+mean_grad_bcs: 1.940e+00
+mean_grad_res: 2.942e+01
+mean_grad_bcs: 1.256e+00
+mean_grad_res: 1.949e+01
+mean_grad_bcs: 1.364e+00
+mean_grad_res: 2.916e+01
+mean_grad_bcs: 2.426e+00
+mean_grad_res: 2.807e+01
+mean_grad_bcs: 1.480e+00
+mean_grad_res: 3.952e+01
+mean_grad_bcs: 2.498e+00
+mean_grad_res: 5.715e+01
+mean_grad_bcs: 2.172e+00
+mean_grad_res: 2.487e+01
+mean_grad_bcs: 1.266e+00
+mean_grad_res: 3.624e+01
+mean_grad_bcs: 1.420e+00
+mean_grad_res: 2.368e+01
+mean_grad_bcs: 1.623e+00
+mean_grad_res: 2.245e+01
+mean_grad_bcs: 1.416e+00
+mean_grad_res: 2.938e+01
+mean_grad_bcs: 2.535e+00
+mean_grad_res: 3.224e+01
+mean_grad_bcs: 1.222e+00
+mean_grad_res: 5.446e+01
+mean_grad_bcs: 1.152e+00
+mean_grad_res: 2.113e+01
+mean_grad_bcs: 2.301e+00
+mean_grad_res: 4.326e+01
+mean_grad_bcs: 1.773e+00
+mean_grad_res: 1.731e+01
+mean_grad_bcs: 1.537e+00
+mean_grad_res: 3.649e+01
+mean_grad_bcs: 3.415e+00
+mean_grad_res: 3.684e+01
+mean_grad_bcs: 2.410e+00
+Gradients information stored ...
+mean_grad_res: 3.162e+01
+mean_grad_bcs: 1.523e+00
+elapsed: 5.70e+04
+Relative L2 error_u: 9.87e-01
+Relative L2 error_f: 8.20e-01
+file directory:/home/vlq26735/code/PhD/GradientPathologiesPINNs/checkpoints/Helmholtz/final/Feb-28-2024_16-55-44-708687_M1_f1
+Save uv NN parameters successfully in %s .../home/vlq26735/code/PhD/GradientPathologiesPINNs/checkpoints/Helmholtz/final/Feb-28-2024_16-55-44-708687_M1_f1
+Final loss total loss: 8.379584e+02
+Final loss loss_res: 8.303297e+02
+Final loss loss_bcs1: 2.060647e-01
+Final loss loss_bcs2: 3.637102e+00
+Final loss loss_bcs3: 1.446436e-01
+Final loss loss_bcs4: 3.640880e+00

@@ -1,0 +1,6 @@
+It: 0, Loss: 7.214e+03, Loss_bcs: 5.338e-01, Loss_res: 7.213e+03,Time: 1.52
+ kurtosis_grad_res: 2.3075e+02
+ kurtosis_grad_bcs: 2.3506e+02
+std_grad_bcs: 0.188835
+std_grad_res: 0.701414
+adaptive_bcs_val: nanadaptive_res_val: nanGradients information stored ...It: 100, Loss: nan, Loss_bcs: nan, Loss_res: nan,Time: 0.01 kurtosis_grad_res: nan kurtosis_grad_bcs: nanstd_grad_bcs: nanstd_grad_res: nanadaptive_bcs_val: nanadaptive_res_val: nanGradients information stored ...

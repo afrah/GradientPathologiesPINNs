@@ -1,0 +1,102 @@
+Using mode: ntk
+neural network: [2, 50, 50, 50, 1]
+Batch size : 300
+Activation function: tanh
+number of iterations: 2000
+starter_learning_rate: 1.0000e-03
+Method desciption : gradual learing rate , ntk, with  mini_batch batch. 
+File directory: /home/vlq26735/code/PhD/GradientPathologiesPINNs/checkpoints/Helmholtz/final/Feb-28-2024_17-17-57-884090_ntk
+mean_grad_res: 7.220e-04
+mean_grad_bcs: 4.461e-01
+adaptive_constant_bc_val: 1.403e+01
+adaptive_constant_res_val: 1.077e+00
+Gradients information stored ...
+mean_grad_res: 1.029e-03
+mean_grad_bcs: 3.543e-04
+adaptive_constant_bc_val: 1.414e+01
+adaptive_constant_res_val: 1.076e+00
+Gradients information stored ...
+mean_grad_res: 8.422e-04
+mean_grad_bcs: 3.324e-04
+adaptive_constant_bc_val: 1.440e+01
+adaptive_constant_res_val: 1.075e+00
+mean_grad_res: 9.271e-04
+mean_grad_bcs: 9.716e-05
+adaptive_constant_bc_val: 1.459e+01
+adaptive_constant_res_val: 1.074e+00
+mean_grad_res: 1.689e-03
+mean_grad_bcs: 4.819e-04
+adaptive_constant_bc_val: 1.445e+01
+adaptive_constant_res_val: 1.074e+00
+mean_grad_res: 1.441e-03
+mean_grad_bcs: 1.613e-04
+adaptive_constant_bc_val: 1.457e+01
+adaptive_constant_res_val: 1.074e+00
+mean_grad_res: 1.008e-03
+mean_grad_bcs: 9.755e-05
+adaptive_constant_bc_val: 1.368e+01
+adaptive_constant_res_val: 1.079e+00
+mean_grad_res: 1.153e-03
+mean_grad_bcs: 4.724e-04
+adaptive_constant_bc_val: 1.589e+01
+adaptive_constant_res_val: 1.067e+00
+mean_grad_res: 1.421e-03
+mean_grad_bcs: 4.899e-04
+adaptive_constant_bc_val: 1.552e+01
+adaptive_constant_res_val: 1.069e+00
+mean_grad_res: 1.900e-03
+mean_grad_bcs: 8.069e-04
+adaptive_constant_bc_val: 2.264e+01
+adaptive_constant_res_val: 1.046e+00
+mean_grad_res: 1.955e-03
+mean_grad_bcs: 1.592e-03
+adaptive_constant_bc_val: 2.462e+01
+adaptive_constant_res_val: 1.042e+00
+Gradients information stored ...
+mean_grad_res: 2.835e-03
+mean_grad_bcs: 1.737e-03
+adaptive_constant_bc_val: 3.697e+01
+adaptive_constant_res_val: 1.028e+00
+mean_grad_res: 2.327e-03
+mean_grad_bcs: 8.494e-04
+adaptive_constant_bc_val: 7.878e+01
+adaptive_constant_res_val: 1.013e+00
+mean_grad_res: 2.071e-03
+mean_grad_bcs: 1.053e-03
+adaptive_constant_bc_val: 8.316e+01
+adaptive_constant_res_val: 1.012e+00
+mean_grad_res: 4.493e-03
+mean_grad_bcs: 2.751e-04
+adaptive_constant_bc_val: 8.912e+01
+adaptive_constant_res_val: 1.011e+00
+mean_grad_res: 4.537e-03
+mean_grad_bcs: 1.519e-03
+adaptive_constant_bc_val: 9.779e+01
+adaptive_constant_res_val: 1.010e+00
+mean_grad_res: 4.831e-03
+mean_grad_bcs: 6.049e-04
+adaptive_constant_bc_val: 9.630e+01
+adaptive_constant_res_val: 1.010e+00
+mean_grad_res: 5.665e-03
+mean_grad_bcs: 1.589e-03
+adaptive_constant_bc_val: 1.652e+02
+adaptive_constant_res_val: 1.006e+00
+mean_grad_res: 8.874e-03
+mean_grad_bcs: 1.260e-03
+adaptive_constant_bc_val: 2.035e+02
+adaptive_constant_res_val: 1.005e+00
+mean_grad_res: 4.738e-03
+mean_grad_bcs: 2.711e-04
+adaptive_constant_bc_val: 3.138e+02
+adaptive_constant_res_val: 1.003e+00
+elapsed: 4.93e+03
+Relative L2 error_u: 9.62e-01
+Relative L2 error_f: 9.49e-01
+file directory:/home/vlq26735/code/PhD/GradientPathologiesPINNs/checkpoints/Helmholtz/final/Feb-28-2024_17-17-57-884090_ntk
+Save uv NN parameters successfully in %s .../home/vlq26735/code/PhD/GradientPathologiesPINNs/checkpoints/Helmholtz/final/Feb-28-2024_17-17-57-884090_ntk
+Final loss total loss: 8.849617e+00
+Final loss loss_res: 8.815038e+00
+Final loss loss_bcs1: 7.152555e-07
+Final loss loss_bcs2: 9.417489e-06
+Final loss loss_bcs3: 2.264974e-06
+Final loss loss_bcs4: 7.986991e-06

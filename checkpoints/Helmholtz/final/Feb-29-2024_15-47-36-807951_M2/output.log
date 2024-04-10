@@ -1,0 +1,146 @@
+Using mode: M2
+neural network: [2, 50, 50, 50, 1]
+Batch size : 300
+Activation function: tanh
+number of iterations: 40001
+starter_learning_rate: 1.0000e-03
+Method desciption : gradual learing rate , M2, with  mini_batch batch. 
+File directory: /home/vlq26735/code/PhD/GradientPathologiesPINNs/checkpoints/Helmholtz/final/Feb-29-2024_15-47-36-807951_M2
+mean_grad_res: 4.061e+01
+mean_grad_bcs: 6.069e-01
+adaptive_constant_val: 7.022e+01
+Gradients information stored ...
+Gradients information stored ...
+mean_grad_res: 3.808e+02
+mean_grad_bcs: 1.181e-01
+adaptive_constant_val: 2.910e+03
+Gradients information stored ...
+mean_grad_res: 1.946e+02
+mean_grad_bcs: 1.699e-02
+adaptive_constant_val: 1.060e+04
+mean_grad_res: 2.646e+02
+mean_grad_bcs: 7.737e-03
+adaptive_constant_val: 3.184e+04
+mean_grad_res: 2.569e+02
+mean_grad_bcs: 3.128e-03
+adaptive_constant_val: 7.710e+04
+mean_grad_res: 1.908e+02
+mean_grad_bcs: 2.287e-03
+adaptive_constant_val: 8.279e+04
+mean_grad_res: 2.810e+02
+mean_grad_bcs: 4.670e-03
+adaptive_constant_val: 6.244e+04
+mean_grad_res: 7.124e+01
+mean_grad_bcs: 1.677e-03
+adaptive_constant_val: 4.447e+04
+mean_grad_res: 1.632e+02
+mean_grad_bcs: 1.793e-03
+adaptive_constant_val: 8.640e+04
+mean_grad_res: 1.919e+02
+mean_grad_bcs: 1.525e-03
+adaptive_constant_val: 1.219e+05
+mean_grad_res: 1.199e+02
+mean_grad_bcs: 4.340e-03
+adaptive_constant_val: 3.705e+04
+mean_grad_res: 1.699e+02
+mean_grad_bcs: 2.839e-03
+adaptive_constant_val: 5.754e+04
+mean_grad_res: 1.580e+02
+mean_grad_bcs: 2.337e-03
+adaptive_constant_val: 6.660e+04
+mean_grad_res: 1.082e+02
+mean_grad_bcs: 1.463e-03
+adaptive_constant_val: 7.319e+04
+mean_grad_res: 2.266e+02
+mean_grad_bcs: 1.129e-03
+adaptive_constant_val: 1.879e+05
+mean_grad_res: 3.150e+02
+mean_grad_bcs: 7.042e-04
+adaptive_constant_val: 4.214e+05
+mean_grad_res: 1.265e+02
+mean_grad_bcs: 6.175e-04
+adaptive_constant_val: 2.265e+05
+mean_grad_res: 1.434e+02
+mean_grad_bcs: 1.582e-03
+adaptive_constant_val: 1.042e+05
+mean_grad_res: 2.165e+02
+mean_grad_bcs: 6.228e-04
+adaptive_constant_val: 3.233e+05
+mean_grad_res: 2.506e+02
+mean_grad_bcs: 8.207e-04
+adaptive_constant_val: 3.071e+05
+mean_grad_res: 2.145e+02
+mean_grad_bcs: 3.616e-04
+adaptive_constant_val: 5.646e+05
+mean_grad_res: 2.298e+02
+mean_grad_bcs: 9.752e-04
+adaptive_constant_val: 2.686e+05
+mean_grad_res: 2.188e+02
+mean_grad_bcs: 5.051e-04
+adaptive_constant_val: 4.167e+05
+mean_grad_res: 1.426e+02
+mean_grad_bcs: 9.192e-04
+adaptive_constant_val: 1.813e+05
+mean_grad_res: 1.050e+02
+mean_grad_bcs: 4.418e-04
+adaptive_constant_val: 2.320e+05
+mean_grad_res: 2.896e+02
+mean_grad_bcs: 9.028e-04
+adaptive_constant_val: 3.119e+05
+mean_grad_res: 3.131e+02
+mean_grad_bcs: 4.550e-04
+adaptive_constant_val: 6.505e+05
+mean_grad_res: 1.283e+02
+mean_grad_bcs: 2.598e-04
+adaptive_constant_val: 5.097e+05
+mean_grad_res: 1.303e+02
+mean_grad_bcs: 2.537e-04
+adaptive_constant_val: 5.132e+05
+mean_grad_res: 1.215e+02
+mean_grad_bcs: 4.458e-04
+adaptive_constant_val: 2.967e+05
+mean_grad_res: 1.456e+02
+mean_grad_bcs: 3.267e-04
+adaptive_constant_val: 4.308e+05
+mean_grad_res: 2.118e+02
+mean_grad_bcs: 3.199e-04
+adaptive_constant_val: 6.390e+05
+mean_grad_res: 3.163e+02
+mean_grad_bcs: 6.068e-04
+adaptive_constant_val: 5.330e+05
+mean_grad_res: 1.674e+02
+mean_grad_bcs: 8.728e-05
+adaptive_constant_val: 1.779e+06
+mean_grad_res: 1.197e+02
+mean_grad_bcs: 4.431e-04
+adaptive_constant_val: 4.210e+05
+mean_grad_res: 8.422e+01
+mean_grad_bcs: 7.046e-04
+adaptive_constant_val: 1.497e+05
+mean_grad_res: 2.792e+02
+mean_grad_bcs: 2.279e-04
+adaptive_constant_val: 1.118e+06
+mean_grad_res: 2.782e+02
+mean_grad_bcs: 1.821e-04
+adaptive_constant_val: 1.487e+06
+mean_grad_res: 1.236e+02
+mean_grad_bcs: 1.893e-04
+adaptive_constant_val: 7.363e+05
+mean_grad_res: 1.102e+02
+mean_grad_bcs: 1.149e-04
+adaptive_constant_val: 9.368e+05
+Gradients information stored ...
+mean_grad_res: 1.527e+02
+mean_grad_bcs: 2.473e-04
+adaptive_constant_val: 6.493e+05
+elapsed: 6.77e+04
+Relative L2 error_u: 1.80e-01
+Relative L2 error_f: 4.85e-02
+file directory:/home/vlq26735/code/PhD/GradientPathologiesPINNs/checkpoints/Helmholtz/final/Feb-29-2024_15-47-36-807951_M2
+Save uv NN parameters successfully in %s .../home/vlq26735/code/PhD/GradientPathologiesPINNs/checkpoints/Helmholtz/final/Feb-29-2024_15-47-36-807951_M2
+Final loss total loss: 3.997739e+01
+Final loss loss_res: 9.832350e+00
+Final loss loss_bcs1: 1.311951e-05
+Final loss loss_bcs2: 1.373429e-05
+Final loss loss_bcs3: 2.921591e-06
+Final loss loss_bcs4: 2.404301e-06

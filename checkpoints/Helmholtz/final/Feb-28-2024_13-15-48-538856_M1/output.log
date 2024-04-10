@@ -1,0 +1,10 @@
+Using mode: M1
+neural network: [2, 50, 50, 50, 1]
+Batch size : 300
+Activation function: tanh
+number of iterations: 40001
+starter_learning_rate: 1.0000e-03
+Method desciption : gradual learing rate , M1, with  mini_batch batch. 
+File directory: /home/vlq26735/code/PhD/GradientPathologiesPINNs/checkpoints/Helmholtz/final/Feb-28-2024_13-15-48-538856_M1
+mean_grad_res: 4.925e+00
+mean_grad_bcs: 8.557e-01

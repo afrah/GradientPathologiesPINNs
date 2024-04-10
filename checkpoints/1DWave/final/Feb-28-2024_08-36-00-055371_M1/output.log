@@ -1,0 +1,54 @@
+mini_batch method is used
+It: 0, Loss: 2.247e+03, Loss_res: 2.244e+03,  Loss_bcs: 2.142e+00, Loss_ut_ics: 1.280e+00,, Time: 36.03
+mean_grad_res: 3.666e+02
+mean_grad_ics: 3.069e-01
+mean_grad_bcs: 5.840e-01
+Gradients information stored ...
+It: 100, Loss: 4.357e-01, Loss_res: 9.835e-02,  Loss_bcs: 3.149e-01, Loss_ut_ics: 2.253e-02,, Time: 195.76
+Gradients information stored ...
+It: 200, Loss: 4.420e-01, Loss_res: 4.437e-02,  Loss_bcs: 3.898e-01, Loss_ut_ics: 7.888e-03,, Time: 319.34
+It: 300, Loss: 3.780e-01, Loss_res: 2.746e-02,  Loss_bcs: 3.406e-01, Loss_ut_ics: 1.000e-02,, Time: 393.93
+It: 400, Loss: 4.228e-01, Loss_res: 2.126e-02,  Loss_bcs: 3.942e-01, Loss_ut_ics: 7.344e-03,, Time: 465.11
+It: 500, Loss: 3.760e-01, Loss_res: 1.766e-02,  Loss_bcs: 3.510e-01, Loss_ut_ics: 7.316e-03,, Time: 537.93
+It: 600, Loss: 3.418e-01, Loss_res: 1.289e-02,  Loss_bcs: 3.230e-01, Loss_ut_ics: 5.887e-03,, Time: 610.17
+It: 700, Loss: 3.660e-01, Loss_res: 9.977e-03,  Loss_bcs: 3.472e-01, Loss_ut_ics: 8.903e-03,, Time: 681.98
+It: 800, Loss: 3.353e-01, Loss_res: 1.303e-02,  Loss_bcs: 3.121e-01, Loss_ut_ics: 1.022e-02,, Time: 755.42
+It: 900, Loss: 3.616e-01, Loss_res: 9.606e-03,  Loss_bcs: 3.449e-01, Loss_ut_ics: 7.105e-03,, Time: 827.33
+elapsed: 1.00e+03
+Relative L2 error_u: 1.09e+00
+Relative L2 error_r: 1.75e-01
+Save uv NN parameters successfully in %s .../home/vlq26735/code/PhD/GradientPathologiesPINNs/checkpoints/1DWave/final/Feb-28-2024_08-36-00-055371_M1
+Final loss total loss: 3.222358e-01
+Final loss loss_res: 1.169294e-02
+Final loss loss_bcs: 3.019346e-01
+Final loss loss_bc1: 3.623473e-02
+Final loss loss_bc2: 3.819471e-02
+Final loss loss_ics_u: 2.275051e-01
+Final loss loss_ics_u_t: 8.608266e-03
+Using mode: M1
+neural network: [2, 500, 500, 1]
+Batch size : 300
+Activation function: tanh
+number of iterations: 1000
+starter_learning_rate: 1.0000e-03
+Method desciption : gradual learing rate , M1, with  mini_batch batch. 
+File directory: /home/vlq26735/code/PhD/GradientPathologiesPINNs/checkpoints/1DWave/final/Feb-28-2024_08-36-00-055371_M1
+It: 0, Loss: 3.589e-01, Loss_res: 1.181e-02,  Loss_bcs: 3.412e-01, Loss_ut_ics: 5.910e-03,, Time: 0.37
+mean_grad_res: 2.563e-01
+mean_grad_ics: 7.500e-03
+mean_grad_bcs: 2.648e-02
+Gradients information stored ...
+It: 100, Loss: 2.933e-01, Loss_res: 6.890e-03,  Loss_bcs: 2.797e-01, Loss_ut_ics: 6.757e-03,, Time: 124.79
+Gradients information stored ...
+It: 200, Loss: 3.595e-01, Loss_res: 6.823e-03,  Loss_bcs: 3.461e-01, Loss_ut_ics: 6.558e-03,, Time: 244.43
+It: 300, Loss: 3.151e-01, Loss_res: 7.778e-03,  Loss_bcs: 2.998e-01, Loss_ut_ics: 7.524e-03,, Time: 318.09
+It: 400, Loss: 3.306e-01, Loss_res: 8.538e-03,  Loss_bcs: 3.144e-01, Loss_ut_ics: 7.761e-03,, Time: 390.54
+It: 500, Loss: 3.283e-01, Loss_res: 5.616e-03,  Loss_bcs: 3.149e-01, Loss_ut_ics: 7.843e-03,, Time: 460.76
+It: 600, Loss: 3.589e-01, Loss_res: 7.939e-03,  Loss_bcs: 3.412e-01, Loss_ut_ics: 9.771e-03,, Time: 531.98
+It: 700, Loss: 3.194e-01, Loss_res: 2.713e-02,  Loss_bcs: 2.847e-01, Loss_ut_ics: 7.530e-03,, Time: 602.52
+It: 800, Loss: 6.143e-01, Loss_res: 2.882e-01,  Loss_bcs: 3.187e-01, Loss_ut_ics: 7.400e-03,, Time: 672.42
+It: 900, Loss: 3.164e-01, Loss_res: 1.964e-02,  Loss_bcs: 2.894e-01, Loss_ut_ics: 7.385e-03,, Time: 743.94
+elapsed: 8.17e+02
+Relative L2 error_u: 1.06e+00
+Relative L2 error_r: inf
+mean value of lambda_bc: nan

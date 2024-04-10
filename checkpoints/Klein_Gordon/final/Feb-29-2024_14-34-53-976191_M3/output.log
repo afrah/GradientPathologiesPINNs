@@ -1,0 +1,14 @@
+Using mode: M3
+neural network: [2, 50, 50, 50, 50, 50, 1]
+Batch size : 128
+Activation function: tanh
+number of iterations: 40001
+starter_learning_rate: 1.0000e-03
+Method desciption : gradual learing rate , M3, with  mini_batch batch. 
+File directory: /home/vlq26735/code/PhD/GradientPathologiesPINNs/checkpoints/Klein_Gordon/final/Feb-29-2024_14-34-53-976191_M3
+It: 0| Loss: 2.141e+01| Loss_bcs: 1.092e+00| loss_ic_ut: 4.703e-01| Loss_res: 9.547e+00|Time: 102.94
+mean_grad_res: 1.256e-02
+mean_grad_bcs: 1.961e-01
+mean_grad_ic_ut: 1.900e-01
+adaptive_constant_ics_val: 2.098e+00
+adaptive_constant_bcs_val: 2.033e+00

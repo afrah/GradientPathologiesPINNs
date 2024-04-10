@@ -1,0 +1,1617 @@
+It: 0| loss: 3.134e+01| loss_res: 1.014e+04| loss_f: 1.436e+01| loss_ics: 4.745e-02| loss_bcs: 1.311e+00| Time: 1.14
+mean_grad_res: 0.025
+mean_grad_ics: 0.016
+mean_grad_bcs: 0.056
+Gradients information stored ...
+It: 100| loss: 3.330e+01| loss_res: 1.070e+04| loss_f: 1.534e+01| loss_ics: 2.027e+00| loss_bcs: 1.310e+00| Time: 0.00
+mean_grad_res: 0.103
+mean_grad_ics: 0.367
+mean_grad_bcs: 0.062
+Gradients information stored ...
+It: 200| loss: 2.531e+01| loss_res: 8.276e+03| loss_f: 1.131e+01| loss_ics: 1.027e+01| loss_bcs: 1.340e+00| Time: 0.00
+mean_grad_res: 0.136
+mean_grad_ics: 1.317
+mean_grad_bcs: 0.136
+It: 300| loss: 2.093e+01| loss_res: 7.973e+03| loss_f: 9.103e+00| loss_ics: 1.471e+01| loss_bcs: 1.363e+00| Time: 0.02
+mean_grad_res: 0.124
+mean_grad_ics: 1.831
+mean_grad_bcs: 0.124
+It: 400| loss: 3.810e+01| loss_res: 1.148e+04| loss_f: 1.739e+01| loss_ics: 2.617e+01| loss_bcs: 1.654e+00| Time: 0.01
+mean_grad_res: 0.300
+mean_grad_ics: 3.247
+mean_grad_bcs: 0.145
+It: 500| loss: 2.428e+01| loss_res: 1.732e+04| loss_f: 1.058e+01| loss_ics: 2.765e+01| loss_bcs: 1.554e+00| Time: 0.01
+mean_grad_res: 0.232
+mean_grad_ics: 3.589
+mean_grad_bcs: 0.188
+It: 600| loss: 2.457e+01| loss_res: 2.257e+04| loss_f: 1.067e+01| loss_ics: 6.675e+01| loss_bcs: 1.616e+00| Time: 0.00
+mean_grad_res: 0.154
+mean_grad_ics: 6.106
+mean_grad_bcs: 0.207
+It: 700| loss: 2.000e+01| loss_res: 6.681e+04| loss_f: 8.833e+00| loss_ics: 1.429e+02| loss_bcs: 1.170e+00| Time: 0.00
+mean_grad_res: 0.304
+mean_grad_ics: 10.748
+mean_grad_bcs: 0.208
+It: 800| loss: 2.002e+01| loss_res: 1.532e+05| loss_f: 9.107e+00| loss_ics: 2.070e+02| loss_bcs: 9.019e-01| Time: 0.00
+mean_grad_res: 0.281
+mean_grad_ics: 13.556
+mean_grad_bcs: 0.209
+It: 900| loss: 1.831e+01| loss_res: 1.961e+05| loss_f: 7.343e+00| loss_ics: 5.176e+02| loss_bcs: 1.813e+00| Time: 0.00
+mean_grad_res: 0.377
+mean_grad_ics: 35.446
+mean_grad_bcs: 0.398
+It: 1000| loss: 2.415e+01| loss_res: 5.142e+05| loss_f: 1.073e+01| loss_ics: 5.472e+02| loss_bcs: 1.341e+00| Time: 0.00
+mean_grad_res: 0.446
+mean_grad_ics: 31.000
+mean_grad_bcs: 0.597
+Gradients information stored ...
+It: 1100| loss: 1.376e+01| loss_res: 6.845e+05| loss_f: 6.084e+00| loss_ics: 9.714e+02| loss_bcs: 7.962e-01| Time: 0.00
+mean_grad_res: 0.467
+mean_grad_ics: 77.781
+mean_grad_bcs: 0.378
+It: 1200| loss: 2.863e+01| loss_res: 1.005e+06| loss_f: 1.362e+01| loss_ics: 1.553e+03| loss_bcs: 6.965e-01| Time: 0.00
+mean_grad_res: 0.875
+mean_grad_ics: 158.283
+mean_grad_bcs: 0.267
+It: 1300| loss: 7.551e+00| loss_res: 1.259e+06| loss_f: 3.128e+00| loss_ics: 2.236e+03| loss_bcs: 6.475e-01| Time: 0.00
+mean_grad_res: 0.406
+mean_grad_ics: 196.666
+mean_grad_bcs: 0.265
+It: 1400| loss: 7.533e+00| loss_res: 1.870e+06| loss_f: 2.351e+00| loss_ics: 2.299e+03| loss_bcs: 1.415e+00| Time: 0.00
+mean_grad_res: 0.281
+mean_grad_ics: 255.750
+mean_grad_bcs: 0.662
+It: 1500| loss: 1.294e+01| loss_res: 1.242e+06| loss_f: 4.643e+00| loss_ics: 2.513e+03| loss_bcs: 1.826e+00| Time: 0.01
+mean_grad_res: 0.696
+mean_grad_ics: 258.222
+mean_grad_bcs: 2.225
+It: 1600| loss: 7.085e+00| loss_res: 2.768e+06| loss_f: 2.651e+00| loss_ics: 3.740e+03| loss_bcs: 8.908e-01| Time: 0.01
+mean_grad_res: 0.517
+mean_grad_ics: 544.005
+mean_grad_bcs: 1.022
+It: 1700| loss: 1.788e+01| loss_res: 4.338e+06| loss_f: 8.079e+00| loss_ics: 3.720e+03| loss_bcs: 8.596e-01| Time: 0.00
+mean_grad_res: 1.440
+mean_grad_ics: 837.929
+mean_grad_bcs: 1.421
+It: 1800| loss: 3.112e+01| loss_res: 6.600e+06| loss_f: 1.509e+01| loss_ics: 5.725e+03| loss_bcs: 4.727e-01| Time: 0.00
+mean_grad_res: 1.458
+mean_grad_ics: 1185.514
+mean_grad_bcs: 1.155
+It: 1900| loss: 1.404e+01| loss_res: 3.413e+06| loss_f: 6.214e+00| loss_ics: 6.286e+03| loss_bcs: 8.077e-01| Time: 0.00
+mean_grad_res: 0.990
+mean_grad_ics: 1344.297
+mean_grad_bcs: 0.637
+It: 2000| loss: 9.665e+00| loss_res: 5.781e+06| loss_f: 2.922e+00| loss_ics: 9.080e+03| loss_bcs: 1.911e+00| Time: 0.01
+mean_grad_res: 0.407
+mean_grad_ics: 1650.412
+mean_grad_bcs: 2.037
+It: 2100| loss: 1.899e+01| loss_res: 1.147e+07| loss_f: 8.508e+00| loss_ics: 7.836e+03| loss_bcs: 9.858e-01| Time: 0.00
+mean_grad_res: 1.369
+mean_grad_ics: 1468.877
+mean_grad_bcs: 1.844
+It: 2200| loss: 6.437e+00| loss_res: 6.890e+06| loss_f: 2.420e+00| loss_ics: 8.315e+03| loss_bcs: 7.982e-01| Time: 0.00
+mean_grad_res: 0.544
+mean_grad_ics: 1814.946
+mean_grad_bcs: 1.481
+It: 2300| loss: 1.539e+01| loss_res: 1.722e+07| loss_f: 7.319e+00| loss_ics: 9.863e+03| loss_bcs: 3.741e-01| Time: 0.00
+mean_grad_res: 1.048
+mean_grad_ics: 2374.140
+mean_grad_bcs: 1.088
+It: 2400| loss: 1.453e+01| loss_res: 5.950e+06| loss_f: 5.183e+00| loss_ics: 8.360e+03| loss_bcs: 2.081e+00| Time: 0.01
+mean_grad_res: 0.424
+mean_grad_ics: 2170.950
+mean_grad_bcs: 1.863
+It: 2500| loss: 1.792e+01| loss_res: 5.700e+06| loss_f: 8.680e+00| loss_ics: 1.028e+04| loss_bcs: 2.779e-01| Time: 0.00
+mean_grad_res: 0.972
+mean_grad_ics: 2410.430
+mean_grad_bcs: 0.580
+It: 2600| loss: 1.408e+01| loss_res: 6.177e+06| loss_f: 5.213e+00| loss_ics: 1.039e+04| loss_bcs: 1.829e+00| Time: 0.01
+mean_grad_res: 1.536
+mean_grad_ics: 3644.215
+mean_grad_bcs: 1.265
+It: 2700| loss: 1.850e+01| loss_res: 2.986e+07| loss_f: 7.385e+00| loss_ics: 8.414e+03| loss_bcs: 1.866e+00| Time: 0.00
+mean_grad_res: 1.899
+mean_grad_ics: 2375.932
+mean_grad_bcs: 4.704
+It: 2800| loss: 6.116e+00| loss_res: 7.030e+06| loss_f: 1.996e+00| loss_ics: 1.403e+04| loss_bcs: 1.062e+00| Time: 0.00
+mean_grad_res: 0.616
+mean_grad_ics: 3372.990
+mean_grad_bcs: 2.536
+It: 2900| loss: 1.330e+01| loss_res: 1.135e+07| loss_f: 5.916e+00| loss_ics: 1.316e+04| loss_bcs: 7.361e-01| Time: 0.00
+mean_grad_res: 2.104
+mean_grad_ics: 4112.923
+mean_grad_bcs: 1.840
+It: 3000| loss: 5.005e+00| loss_res: 1.797e+07| loss_f: 2.323e+00| loss_ics: 1.203e+04| loss_bcs: 1.791e-01| Time: 0.01
+mean_grad_res: 0.550
+mean_grad_ics: 3702.401
+mean_grad_bcs: 0.345
+It: 3100| loss: 8.840e+00| loss_res: 2.708e+07| loss_f: 2.156e+00| loss_ics: 2.869e+04| loss_bcs: 2.264e+00| Time: 0.00
+mean_grad_res: 1.643
+mean_grad_ics: 8018.584
+mean_grad_bcs: 4.887
+It: 3200| loss: 9.010e+00| loss_res: 1.565e+07| loss_f: 3.973e+00| loss_ics: 1.154e+04| loss_bcs: 5.323e-01| Time: 0.00
+mean_grad_res: 1.320
+mean_grad_ics: 4603.432
+mean_grad_bcs: 1.543
+It: 3300| loss: 1.325e+01| loss_res: 1.727e+07| loss_f: 6.192e+00| loss_ics: 1.425e+04| loss_bcs: 4.326e-01| Time: 0.01
+mean_grad_res: 2.209
+mean_grad_ics: 5537.457
+mean_grad_bcs: 1.188
+It: 3400| loss: 4.610e+00| loss_res: 1.899e+07| loss_f: 1.618e+00| loss_ics: 2.062e+04| loss_bcs: 6.868e-01| Time: 0.00
+mean_grad_res: 0.617
+mean_grad_ics: 8730.226
+mean_grad_bcs: 3.738
+It: 3500| loss: 1.518e+01| loss_res: 9.983e+06| loss_f: 7.084e+00| loss_ics: 1.623e+04| loss_bcs: 5.050e-01| Time: 0.00
+mean_grad_res: 2.221
+mean_grad_ics: 8821.769
+mean_grad_bcs: 1.561
+It: 3600| loss: 5.357e+00| loss_res: 1.854e+07| loss_f: 2.058e+00| loss_ics: 1.510e+04| loss_bcs: 6.208e-01| Time: 0.00
+mean_grad_res: 0.556
+mean_grad_ics: 7263.529
+mean_grad_bcs: 1.831
+It: 3700| loss: 1.619e+01| loss_res: 3.051e+07| loss_f: 7.432e+00| loss_ics: 1.581e+04| loss_bcs: 6.606e-01| Time: 0.00
+mean_grad_res: 2.280
+mean_grad_ics: 10007.948
+mean_grad_bcs: 2.426
+It: 3800| loss: 4.733e+00| loss_res: 3.390e+07| loss_f: 2.041e+00| loss_ics: 2.706e+04| loss_bcs: 3.255e-01| Time: 0.00
+mean_grad_res: 0.872
+mean_grad_ics: 11665.116
+mean_grad_bcs: 1.558
+It: 3900| loss: 7.283e+00| loss_res: 3.405e+07| loss_f: 3.131e+00| loss_ics: 2.495e+04| loss_bcs: 5.105e-01| Time: 0.01
+mean_grad_res: 1.180
+mean_grad_ics: 11818.579
+mean_grad_bcs: 0.393
+It: 4000| loss: 4.870e+00| loss_res: 3.540e+07| loss_f: 1.829e+00| loss_ics: 1.870e+04| loss_bcs: 6.056e-01| Time: 0.00
+mean_grad_res: 0.933
+mean_grad_ics: 9497.730
+mean_grad_bcs: 1.723
+It: 4100| loss: 4.212e+00| loss_res: 6.148e+07| loss_f: 1.071e+00| loss_ics: 1.394e+04| loss_bcs: 1.035e+00| Time: 0.00
+mean_grad_res: 0.482
+mean_grad_ics: 9571.075
+mean_grad_bcs: 2.043
+It: 4200| loss: 1.571e+01| loss_res: 4.412e+07| loss_f: 7.162e+00| loss_ics: 1.628e+04| loss_bcs: 6.949e-01| Time: 0.01
+mean_grad_res: 2.000
+mean_grad_ics: 9075.837
+mean_grad_bcs: 1.905
+It: 4300| loss: 3.027e+00| loss_res: 1.097e+07| loss_f: 1.126e+00| loss_ics: 1.770e+04| loss_bcs: 3.876e-01| Time: 0.00
+mean_grad_res: 0.424
+mean_grad_ics: 7447.634
+mean_grad_bcs: 1.558
+It: 4400| loss: 3.735e+00| loss_res: 3.945e+07| loss_f: 8.492e-01| loss_ics: 2.684e+04| loss_bcs: 1.018e+00| Time: 0.01
+mean_grad_res: 0.407
+mean_grad_ics: 11486.003
+mean_grad_bcs: 2.867
+It: 4500| loss: 6.368e+00| loss_res: 2.502e+07| loss_f: 2.163e+00| loss_ics: 2.719e+04| loss_bcs: 1.021e+00| Time: 0.00
+mean_grad_res: 1.012
+mean_grad_ics: 12582.414
+mean_grad_bcs: 2.213
+It: 4600| loss: 9.305e+00| loss_res: 3.343e+07| loss_f: 3.270e+00| loss_ics: 2.716e+04| loss_bcs: 1.383e+00| Time: 0.01
+mean_grad_res: 1.465
+mean_grad_ics: 15683.032
+mean_grad_bcs: 3.242
+It: 4700| loss: 1.993e+01| loss_res: 4.409e+07| loss_f: 9.638e+00| loss_ics: 3.128e+04| loss_bcs: 3.279e-01| Time: 0.00
+mean_grad_res: 1.927
+mean_grad_ics: 15850.538
+mean_grad_bcs: 0.923
+It: 4800| loss: 3.631e+00| loss_res: 7.979e+06| loss_f: 1.525e+00| loss_ics: 2.590e+04| loss_bcs: 2.903e-01| Time: 0.01
+mean_grad_res: 0.897
+mean_grad_ics: 16144.884
+mean_grad_bcs: 1.832
+It: 4900| loss: 3.696e+00| loss_res: 9.746e+07| loss_f: 1.639e+00| loss_ics: 2.387e+04| loss_bcs: 2.092e-01| Time: 0.01
+mean_grad_res: 0.882
+mean_grad_ics: 9736.659
+mean_grad_bcs: 1.517
+It: 5000| loss: 2.623e+01| loss_res: 9.904e+07| loss_f: 1.088e+01| loss_ics: 2.483e+04| loss_bcs: 2.235e+00| Time: 0.01
+mean_grad_res: 3.075
+mean_grad_ics: 14565.625
+mean_grad_bcs: 7.464
+It: 5100| loss: 1.255e+01| loss_res: 8.023e+07| loss_f: 5.142e+00| loss_ics: 2.957e+04| loss_bcs: 1.133e+00| Time: 0.00
+mean_grad_res: 3.952
+mean_grad_ics: 14858.379
+mean_grad_bcs: 3.062
+It: 5200| loss: 3.198e+00| loss_res: 2.051e+07| loss_f: 1.398e+00| loss_ics: 2.648e+04| loss_bcs: 2.009e-01| Time: 0.00
+mean_grad_res: 0.663
+mean_grad_ics: 21104.920
+mean_grad_bcs: 1.387
+It: 5300| loss: 6.187e+00| loss_res: 9.618e+07| loss_f: 2.846e+00| loss_ics: 2.736e+04| loss_bcs: 2.476e-01| Time: 0.00
+mean_grad_res: 1.571
+mean_grad_ics: 18273.908
+mean_grad_bcs: 1.435
+It: 5400| loss: 8.290e+00| loss_res: 8.324e+07| loss_f: 3.815e+00| loss_ics: 3.451e+04| loss_bcs: 3.300e-01| Time: 0.00
+mean_grad_res: 2.410
+mean_grad_ics: 22161.545
+mean_grad_bcs: 3.101
+It: 5500| loss: 3.894e+00| loss_res: 1.679e+07| loss_f: 7.011e-01| loss_ics: 3.757e+04| loss_bcs: 1.246e+00| Time: 0.00
+mean_grad_res: 0.706
+mean_grad_ics: 25584.469
+mean_grad_bcs: 3.558
+It: 5600| loss: 2.376e+00| loss_res: 2.897e+07| loss_f: 1.085e+00| loss_ics: 3.241e+04| loss_bcs: 1.034e-01| Time: 0.01
+mean_grad_res: 0.301
+mean_grad_ics: 24121.531
+mean_grad_bcs: 0.967
+It: 5700| loss: 3.100e+00| loss_res: 1.310e+08| loss_f: 8.728e-01| loss_ics: 2.665e+04| loss_bcs: 6.775e-01| Time: 0.00
+mean_grad_res: 0.463
+mean_grad_ics: 17150.783
+mean_grad_bcs: 2.715
+It: 5800| loss: 4.206e+00| loss_res: 1.566e+07| loss_f: 1.442e+00| loss_ics: 3.113e+04| loss_bcs: 6.606e-01| Time: 0.01
+mean_grad_res: 0.601
+mean_grad_ics: 19471.861
+mean_grad_bcs: 1.739
+It: 5900| loss: 6.961e+00| loss_res: 2.649e+07| loss_f: 2.767e+00| loss_ics: 3.489e+04| loss_bcs: 7.131e-01| Time: 0.01
+mean_grad_res: 1.628
+mean_grad_ics: 22297.445
+mean_grad_bcs: 2.903
+It: 6000| loss: 2.398e+01| loss_res: 2.140e+08| loss_f: 1.087e+01| loss_ics: 2.437e+04| loss_bcs: 1.116e+00| Time: 0.00
+mean_grad_res: 5.064
+mean_grad_ics: 25725.398
+mean_grad_bcs: 5.799
+It: 6100| loss: 6.721e+00| loss_res: 6.154e+07| loss_f: 2.568e+00| loss_ics: 3.180e+04| loss_bcs: 7.928e-01| Time: 0.00
+mean_grad_res: 1.676
+mean_grad_ics: 20608.318
+mean_grad_bcs: 4.931
+It: 6200| loss: 1.544e+01| loss_res: 3.111e+08| loss_f: 6.692e+00| loss_ics: 4.153e+04| loss_bcs: 1.030e+00| Time: 0.00
+mean_grad_res: 3.945
+mean_grad_ics: 23652.297
+mean_grad_bcs: 2.501
+It: 6300| loss: 3.933e+00| loss_res: 2.305e+07| loss_f: 1.493e+00| loss_ics: 4.064e+04| loss_bcs: 4.731e-01| Time: 0.00
+mean_grad_res: 0.738
+mean_grad_ics: 30669.438
+mean_grad_bcs: 2.365
+It: 6400| loss: 9.235e+00| loss_res: 7.500e+07| loss_f: 3.095e+00| loss_ics: 4.329e+04| loss_bcs: 1.523e+00| Time: 0.00
+mean_grad_res: 1.960
+mean_grad_ics: 27090.602
+mean_grad_bcs: 3.924
+It: 6500| loss: 3.085e+00| loss_res: 3.491e+08| loss_f: 1.126e+00| loss_ics: 2.725e+04| loss_bcs: 4.162e-01| Time: 0.00
+mean_grad_res: 1.268
+mean_grad_ics: 16655.408
+mean_grad_bcs: 1.213
+It: 6600| loss: 7.326e+00| loss_res: 1.363e+08| loss_f: 3.222e+00| loss_ics: 3.025e+04| loss_bcs: 4.413e-01| Time: 0.00
+mean_grad_res: 1.679
+mean_grad_ics: 24172.283
+mean_grad_bcs: 2.769
+It: 6700| loss: 3.215e+00| loss_res: 1.261e+08| loss_f: 1.141e+00| loss_ics: 3.542e+04| loss_bcs: 4.670e-01| Time: 0.00
+mean_grad_res: 1.179
+mean_grad_ics: 19394.891
+mean_grad_bcs: 1.637
+It: 6800| loss: 9.798e+00| loss_res: 1.664e+08| loss_f: 4.355e+00| loss_ics: 3.556e+04| loss_bcs: 5.439e-01| Time: 0.01
+mean_grad_res: 3.476
+mean_grad_ics: 22542.900
+mean_grad_bcs: 3.432
+It: 6900| loss: 5.597e+00| loss_res: 4.318e+07| loss_f: 2.625e+00| loss_ics: 3.128e+04| loss_bcs: 1.731e-01| Time: 0.00
+mean_grad_res: 2.876
+mean_grad_ics: 28920.039
+mean_grad_bcs: 2.435
+It: 7000| loss: 5.335e+00| loss_res: 1.720e+08| loss_f: 1.864e+00| loss_ics: 3.542e+04| loss_bcs: 8.029e-01| Time: 0.00
+mean_grad_res: 0.904
+mean_grad_ics: 21542.416
+mean_grad_bcs: 2.659
+It: 7100| loss: 7.330e+00| loss_res: 3.195e+08| loss_f: 3.372e+00| loss_ics: 3.234e+04| loss_bcs: 2.932e-01| Time: 0.01
+mean_grad_res: 2.839
+mean_grad_ics: 24324.139
+mean_grad_bcs: 2.953
+It: 7200| loss: 3.113e+00| loss_res: 2.172e+08| loss_f: 1.236e+00| loss_ics: 3.758e+04| loss_bcs: 3.201e-01| Time: 0.01
+mean_grad_res: 0.455
+mean_grad_ics: 32626.916
+mean_grad_bcs: 1.118
+It: 7300| loss: 5.739e+00| loss_res: 1.876e+08| loss_f: 2.709e+00| loss_ics: 4.755e+04| loss_bcs: 1.606e-01| Time: 0.00
+mean_grad_res: 1.192
+mean_grad_ics: 37057.004
+mean_grad_bcs: 1.879
+It: 7400| loss: 6.437e+00| loss_res: 1.218e+08| loss_f: 3.053e+00| loss_ics: 3.089e+04| loss_bcs: 1.652e-01| Time: 0.01
+mean_grad_res: 2.148
+mean_grad_ics: 23752.861
+mean_grad_bcs: 1.529
+It: 7500| loss: 3.252e+00| loss_res: 1.708e+07| loss_f: 1.290e+00| loss_ics: 4.254e+04| loss_bcs: 3.361e-01| Time: 0.01
+mean_grad_res: 0.542
+mean_grad_ics: 34428.836
+mean_grad_bcs: 2.171
+It: 7600| loss: 6.768e+00| loss_res: 3.911e+08| loss_f: 3.026e+00| loss_ics: 4.222e+04| loss_bcs: 3.579e-01| Time: 0.00
+mean_grad_res: 1.579
+mean_grad_ics: 29732.365
+mean_grad_bcs: 3.508
+It: 7700| loss: 4.547e+00| loss_res: 5.100e+07| loss_f: 9.693e-01| loss_ics: 3.231e+04| loss_bcs: 1.304e+00| Time: 0.00
+mean_grad_res: 0.207
+mean_grad_ics: 31677.312
+mean_grad_bcs: 2.118
+It: 7800| loss: 9.311e+00| loss_res: 1.640e+08| loss_f: 4.069e+00| loss_ics: 5.366e+04| loss_bcs: 5.865e-01| Time: 0.01
+mean_grad_res: 1.719
+mean_grad_ics: 43393.941
+mean_grad_bcs: 3.357
+It: 7900| loss: 1.565e+01| loss_res: 2.058e+08| loss_f: 7.550e+00| loss_ics: 3.806e+04| loss_bcs: 2.737e-01| Time: 0.00
+mean_grad_res: 4.119
+mean_grad_ics: 40625.484
+mean_grad_bcs: 1.709
+It: 8000| loss: 1.923e+01| loss_res: 5.920e+08| loss_f: 8.800e+00| loss_ics: 6.986e+04| loss_bcs: 8.140e-01| Time: 0.00
+mean_grad_res: 4.636
+mean_grad_ics: 54059.316
+mean_grad_bcs: 10.830
+It: 8100| loss: 4.693e+00| loss_res: 3.754e+08| loss_f: 1.998e+00| loss_ics: 4.284e+04| loss_bcs: 3.484e-01| Time: 0.01
+mean_grad_res: 1.935
+mean_grad_ics: 38368.812
+mean_grad_bcs: 2.873
+It: 8200| loss: 7.321e+00| loss_res: 1.436e+08| loss_f: 3.171e+00| loss_ics: 5.631e+04| loss_bcs: 4.891e-01| Time: 0.01
+mean_grad_res: 1.737
+mean_grad_ics: 58381.578
+mean_grad_bcs: 1.365
+It: 8300| loss: 9.061e+00| loss_res: 1.903e+08| loss_f: 4.268e+00| loss_ics: 6.044e+04| loss_bcs: 2.621e-01| Time: 0.01
+mean_grad_res: 3.578
+mean_grad_ics: 64614.449
+mean_grad_bcs: 4.317
+It: 8400| loss: 5.341e+00| loss_res: 1.542e+08| loss_f: 2.002e+00| loss_ics: 6.062e+04| loss_bcs: 6.685e-01| Time: 0.00
+mean_grad_res: 1.401
+mean_grad_ics: 57045.840
+mean_grad_bcs: 4.782
+It: 8500| loss: 1.305e+01| loss_res: 1.910e+08| loss_f: 6.263e+00| loss_ics: 5.295e+04| loss_bcs: 2.626e-01| Time: 0.01
+mean_grad_res: 2.993
+mean_grad_ics: 37605.719
+mean_grad_bcs: 1.537
+It: 8600| loss: 1.193e+01| loss_res: 4.595e+07| loss_f: 5.791e+00| loss_ics: 4.142e+04| loss_bcs: 1.726e-01| Time: 0.00
+mean_grad_res: 3.204
+mean_grad_ics: 41720.332
+mean_grad_bcs: 1.863
+It: 8700| loss: 1.020e+01| loss_res: 1.494e+08| loss_f: 4.777e+00| loss_ics: 4.829e+04| loss_bcs: 3.251e-01| Time: 0.01
+mean_grad_res: 3.099
+mean_grad_ics: 51114.855
+mean_grad_bcs: 1.511
+It: 8800| loss: 1.638e+00| loss_res: 1.041e+08| loss_f: 5.962e-01| loss_ics: 4.722e+04| loss_bcs: 2.231e-01| Time: 0.00
+mean_grad_res: 0.318
+mean_grad_ics: 44233.004
+mean_grad_bcs: 1.034
+It: 8900| loss: 9.830e+00| loss_res: 1.637e+08| loss_f: 3.829e+00| loss_ics: 6.426e+04| loss_bcs: 1.086e+00| Time: 0.01
+mean_grad_res: 1.737
+mean_grad_ics: 61289.672
+mean_grad_bcs: 3.781
+It: 9000| loss: 5.258e+00| loss_res: 6.251e+07| loss_f: 1.313e+00| loss_ics: 9.089e+04| loss_bcs: 1.316e+00| Time: 0.01
+mean_grad_res: 0.566
+mean_grad_ics: 74440.117
+mean_grad_bcs: 2.015
+It: 9100| loss: 1.053e+01| loss_res: 6.206e+07| loss_f: 5.137e+00| loss_ics: 5.279e+04| loss_bcs: 1.276e-01| Time: 0.00
+mean_grad_res: 3.624
+mean_grad_ics: 60400.848
+mean_grad_bcs: 4.129
+It: 9200| loss: 1.214e+01| loss_res: 1.282e+08| loss_f: 5.640e+00| loss_ics: 4.778e+04| loss_bcs: 4.288e-01| Time: 0.01
+mean_grad_res: 4.941
+mean_grad_ics: 38333.277
+mean_grad_bcs: 1.763
+It: 9300| loss: 3.983e+00| loss_res: 1.019e+08| loss_f: 5.815e-01| loss_ics: 5.175e+04| loss_bcs: 1.410e+00| Time: 0.00
+mean_grad_res: 0.101
+mean_grad_ics: 54730.348
+mean_grad_bcs: 6.291
+It: 9400| loss: 3.591e+00| loss_res: 7.353e+08| loss_f: 1.284e+00| loss_ics: 7.268e+04| loss_bcs: 5.116e-01| Time: 0.00
+mean_grad_res: 0.480
+mean_grad_ics: 73280.945
+mean_grad_bcs: 1.178
+It: 9500| loss: 2.574e+00| loss_res: 1.793e+08| loss_f: 8.599e-01| loss_ics: 4.152e+04| loss_bcs: 4.273e-01| Time: 0.01
+mean_grad_res: 0.716
+mean_grad_ics: 39633.188
+mean_grad_bcs: 1.726
+It: 9600| loss: 9.595e+00| loss_res: 5.210e+08| loss_f: 4.331e+00| loss_ics: 6.314e+04| loss_bcs: 4.662e-01| Time: 0.00
+mean_grad_res: 1.753
+mean_grad_ics: 64029.371
+mean_grad_bcs: 3.850
+It: 9700| loss: 2.794e+00| loss_res: 3.359e+08| loss_f: 1.206e+00| loss_ics: 5.173e+04| loss_bcs: 1.912e-01| Time: 0.00
+mean_grad_res: 0.339
+mean_grad_ics: 49758.906
+mean_grad_bcs: 1.452
+It: 9800| loss: 9.522e+00| loss_res: 1.778e+08| loss_f: 4.537e+00| loss_ics: 6.015e+04| loss_bcs: 2.242e-01| Time: 0.00
+mean_grad_res: 2.449
+mean_grad_ics: 60371.238
+mean_grad_bcs: 1.608
+It: 9900| loss: 6.504e+00| loss_res: 1.229e+08| loss_f: 2.962e+00| loss_ics: 6.616e+04| loss_bcs: 2.902e-01| Time: 0.01
+mean_grad_res: 2.294
+mean_grad_ics: 71805.305
+mean_grad_bcs: 1.679
+It: 10000| loss: 4.512e+00| loss_res: 1.136e+09| loss_f: 1.755e+00| loss_ics: 6.286e+04| loss_bcs: 5.008e-01| Time: 0.00
+mean_grad_res: 1.187
+mean_grad_ics: 63673.812
+mean_grad_bcs: 4.485
+It: 10100| loss: 9.834e+00| loss_res: 5.824e+08| loss_f: 4.273e+00| loss_ics: 9.322e+04| loss_bcs: 6.438e-01| Time: 0.01
+mean_grad_res: 3.578
+mean_grad_ics: 113208.273
+mean_grad_bcs: 3.387
+It: 10200| loss: 3.964e+00| loss_res: 1.145e+08| loss_f: 1.649e+00| loss_ics: 8.512e+04| loss_bcs: 3.333e-01| Time: 0.00
+mean_grad_res: 1.499
+mean_grad_ics: 89503.289
+mean_grad_bcs: 2.880
+It: 10300| loss: 6.622e+00| loss_res: 7.735e+07| loss_f: 3.106e+00| loss_ics: 7.148e+04| loss_bcs: 2.051e-01| Time: 0.00
+mean_grad_res: 2.702
+mean_grad_ics: 122701.789
+mean_grad_bcs: 6.624
+It: 10400| loss: 5.134e+00| loss_res: 6.424e+08| loss_f: 2.354e+00| loss_ics: 5.784e+04| loss_bcs: 2.130e-01| Time: 0.00
+mean_grad_res: 2.535
+mean_grad_ics: 55851.422
+mean_grad_bcs: 2.433
+It: 10500| loss: 6.752e+00| loss_res: 4.056e+08| loss_f: 2.969e+00| loss_ics: 9.047e+04| loss_bcs: 4.066e-01| Time: 0.00
+mean_grad_res: 1.882
+mean_grad_ics: 87543.477
+mean_grad_bcs: 3.294
+It: 10600| loss: 1.730e+00| loss_res: 3.325e+08| loss_f: 4.696e-01| loss_ics: 5.068e+04| loss_bcs: 3.955e-01| Time: 0.00
+mean_grad_res: 0.114
+mean_grad_ics: 43452.676
+mean_grad_bcs: 1.416
+It: 10700| loss: 7.998e+00| loss_res: 5.573e+08| loss_f: 3.781e+00| loss_ics: 4.048e+04| loss_bcs: 2.175e-01| Time: 0.00
+mean_grad_res: 2.640
+mean_grad_ics: 45210.438
+mean_grad_bcs: 1.580
+It: 10800| loss: 2.365e+00| loss_res: 2.313e+08| loss_f: 7.741e-01| loss_ics: 5.102e+04| loss_bcs: 4.085e-01| Time: 0.00
+mean_grad_res: 0.386
+mean_grad_ics: 57725.469
+mean_grad_bcs: 1.254
+It: 10900| loss: 1.441e+01| loss_res: 6.529e+08| loss_f: 6.316e+00| loss_ics: 1.028e+05| loss_bcs: 8.913e-01| Time: 0.01
+mean_grad_res: 4.743
+mean_grad_ics: 138595.234
+mean_grad_bcs: 4.531
+It: 11000| loss: 5.979e+00| loss_res: 9.885e+08| loss_f: 2.609e+00| loss_ics: 5.591e+04| loss_bcs: 3.802e-01| Time: 0.00
+mean_grad_res: 1.348
+mean_grad_ics: 57196.797
+mean_grad_bcs: 1.696
+It: 11100| loss: 6.915e+00| loss_res: 1.736e+09| loss_f: 3.116e+00| loss_ics: 9.503e+04| loss_bcs: 3.412e-01| Time: 0.01
+mean_grad_res: 2.683
+mean_grad_ics: 96578.102
+mean_grad_bcs: 2.439
+It: 11200| loss: 2.803e+00| loss_res: 5.971e+08| loss_f: 1.215e+00| loss_ics: 3.902e+04| loss_bcs: 1.867e-01| Time: 0.01
+mean_grad_res: 1.063
+mean_grad_ics: 38627.355
+mean_grad_bcs: 1.689
+It: 11300| loss: 2.226e+00| loss_res: 2.368e+08| loss_f: 8.253e-01| loss_ics: 7.134e+04| loss_bcs: 2.878e-01| Time: 0.00
+mean_grad_res: 0.257
+mean_grad_ics: 63554.203
+mean_grad_bcs: 2.925
+It: 11400| loss: 2.480e+00| loss_res: 5.783e+07| loss_f: 9.772e-01| loss_ics: 5.566e+04| loss_bcs: 2.629e-01| Time: 0.01
+mean_grad_res: 1.053
+mean_grad_ics: 51524.527
+mean_grad_bcs: 2.917
+It: 11500| loss: 3.423e+00| loss_res: 2.803e+08| loss_f: 1.440e+00| loss_ics: 5.826e+04| loss_bcs: 2.717e-01| Time: 0.00
+mean_grad_res: 0.657
+mean_grad_ics: 84119.078
+mean_grad_bcs: 1.427
+It: 11600| loss: 5.771e+00| loss_res: 3.810e+08| loss_f: 2.604e+00| loss_ics: 6.225e+04| loss_bcs: 2.816e-01| Time: 0.00
+mean_grad_res: 2.971
+mean_grad_ics: 77308.305
+mean_grad_bcs: 3.711
+It: 11700| loss: 1.332e+01| loss_res: 2.270e+08| loss_f: 6.353e+00| loss_ics: 9.530e+04| loss_bcs: 3.078e-01| Time: 0.01
+mean_grad_res: 4.049
+mean_grad_ics: 121837.188
+mean_grad_bcs: 4.522
+It: 11800| loss: 4.755e+00| loss_res: 5.609e+08| loss_f: 1.510e+00| loss_ics: 8.732e+04| loss_bcs: 8.677e-01| Time: 0.01
+mean_grad_res: 0.696
+mean_grad_ics: 111198.508
+mean_grad_bcs: 4.612
+It: 11900| loss: 7.149e+00| loss_res: 1.165e+08| loss_f: 3.507e+00| loss_ics: 7.621e+04| loss_bcs: 6.763e-02| Time: 0.01
+mean_grad_res: 1.766
+mean_grad_ics: 75548.148
+mean_grad_bcs: 0.857
+It: 12000| loss: 5.246e+00| loss_res: 2.470e+08| loss_f: 2.372e+00| loss_ics: 1.075e+05| loss_bcs: 2.513e-01| Time: 0.00
+mean_grad_res: 2.062
+mean_grad_ics: 115078.555
+mean_grad_bcs: 1.073
+It: 12100| loss: 1.567e+00| loss_res: 1.355e+07| loss_f: 5.535e-01| loss_ics: 8.919e+04| loss_bcs: 2.303e-01| Time: 0.01
+mean_grad_res: 0.164
+mean_grad_ics: 90239.148
+mean_grad_bcs: 2.641
+It: 12200| loss: 3.462e+00| loss_res: 1.920e+07| loss_f: 1.480e+00| loss_ics: 5.541e+04| loss_bcs: 2.507e-01| Time: 0.00
+mean_grad_res: 1.237
+mean_grad_ics: 61933.031
+mean_grad_bcs: 1.933
+It: 12300| loss: 5.349e+00| loss_res: 1.114e+09| loss_f: 2.341e+00| loss_ics: 6.887e+04| loss_bcs: 3.330e-01| Time: 0.00
+mean_grad_res: 1.683
+mean_grad_ics: 68702.992
+mean_grad_bcs: 1.378
+It: 12400| loss: 3.935e+00| loss_res: 5.131e+07| loss_f: 1.858e+00| loss_ics: 9.151e+04| loss_bcs: 1.090e-01| Time: 0.01
+mean_grad_res: 1.824
+mean_grad_ics: 107807.289
+mean_grad_bcs: 1.663
+It: 12500| loss: 1.645e+00| loss_res: 1.602e+08| loss_f: 6.659e-01| loss_ics: 9.251e+04| loss_bcs: 1.564e-01| Time: 0.00
+mean_grad_res: 0.351
+mean_grad_ics: 90331.680
+mean_grad_bcs: 5.518
+It: 12600| loss: 8.114e+00| loss_res: 3.103e+08| loss_f: 3.657e+00| loss_ics: 9.722e+04| loss_bcs: 3.998e-01| Time: 0.00
+mean_grad_res: 3.947
+mean_grad_ics: 131411.922
+mean_grad_bcs: 3.509
+It: 12700| loss: 2.515e+00| loss_res: 5.216e+07| loss_f: 9.407e-01| loss_ics: 7.659e+04| loss_bcs: 3.167e-01| Time: 0.00
+mean_grad_res: 0.537
+mean_grad_ics: 80729.625
+mean_grad_bcs: 1.259
+It: 12800| loss: 3.262e+00| loss_res: 1.291e+08| loss_f: 1.326e+00| loss_ics: 1.298e+05| loss_bcs: 3.046e-01| Time: 0.00
+mean_grad_res: 1.029
+mean_grad_ics: 154057.188
+mean_grad_bcs: 2.174
+It: 12900| loss: 2.082e+00| loss_res: 1.692e+08| loss_f: 8.663e-01| loss_ics: 1.035e+05| loss_bcs: 1.749e-01| Time: 0.01
+mean_grad_res: 1.174
+mean_grad_ics: 94635.180
+mean_grad_bcs: 1.419
+It: 13000| loss: 6.340e+00| loss_res: 3.129e+08| loss_f: 2.987e+00| loss_ics: 9.120e+04| loss_bcs: 1.833e-01| Time: 0.00
+mean_grad_res: 1.602
+mean_grad_ics: 93962.336
+mean_grad_bcs: 1.447
+It: 13100| loss: 5.142e+00| loss_res: 3.655e+08| loss_f: 2.309e+00| loss_ics: 8.382e+04| loss_bcs: 2.620e-01| Time: 0.01
+mean_grad_res: 1.636
+mean_grad_ics: 73616.711
+mean_grad_bcs: 2.445
+It: 13200| loss: 6.929e+00| loss_res: 6.164e+08| loss_f: 2.683e+00| loss_ics: 1.278e+05| loss_bcs: 7.809e-01| Time: 0.00
+mean_grad_res: 2.291
+mean_grad_ics: 154473.547
+mean_grad_bcs: 4.629
+It: 13300| loss: 5.261e+00| loss_res: 2.451e+08| loss_f: 2.497e+00| loss_ics: 9.983e+04| loss_bcs: 1.337e-01| Time: 0.01
+mean_grad_res: 2.772
+mean_grad_ics: 120576.719
+mean_grad_bcs: 1.760
+It: 13400| loss: 8.675e+00| loss_res: 3.064e+08| loss_f: 4.058e+00| loss_ics: 8.627e+04| loss_bcs: 2.795e-01| Time: 0.00
+mean_grad_res: 3.967
+mean_grad_ics: 82167.086
+mean_grad_bcs: 1.421
+It: 13500| loss: 3.318e+00| loss_res: 1.353e+09| loss_f: 8.863e-01| loss_ics: 1.262e+05| loss_bcs: 7.725e-01| Time: 0.01
+mean_grad_res: 2.030
+mean_grad_ics: 130441.180
+mean_grad_bcs: 2.654
+It: 13600| loss: 4.887e+00| loss_res: 3.858e+08| loss_f: 2.139e+00| loss_ics: 1.309e+05| loss_bcs: 3.043e-01| Time: 0.00
+mean_grad_res: 1.950
+mean_grad_ics: 135523.766
+mean_grad_bcs: 2.322
+It: 13700| loss: 1.014e+01| loss_res: 6.825e+08| loss_f: 4.509e+00| loss_ics: 8.780e+04| loss_bcs: 5.628e-01| Time: 0.00
+mean_grad_res: 3.847
+mean_grad_ics: 102495.781
+mean_grad_bcs: 5.450
+It: 13800| loss: 1.602e+00| loss_res: 5.135e+07| loss_f: 4.313e-01| loss_ics: 1.285e+05| loss_bcs: 3.696e-01| Time: 0.00
+mean_grad_res: 0.098
+mean_grad_ics: 130843.898
+mean_grad_bcs: 3.848
+It: 13900| loss: 8.145e+00| loss_res: 1.710e+09| loss_f: 3.829e+00| loss_ics: 1.073e+05| loss_bcs: 2.432e-01| Time: 0.00
+mean_grad_res: 7.454
+mean_grad_ics: 134834.375
+mean_grad_bcs: 3.218
+It: 14000| loss: 1.406e+00| loss_res: 8.411e+06| loss_f: 4.549e-01| loss_ics: 1.470e+05| loss_bcs: 2.479e-01| Time: 0.00
+mean_grad_res: 0.108
+mean_grad_ics: 202936.516
+mean_grad_bcs: 2.596
+It: 14100| loss: 5.214e+00| loss_res: 1.355e+08| loss_f: 2.437e+00| loss_ics: 9.576e+04| loss_bcs: 1.700e-01| Time: 0.00
+mean_grad_res: 1.964
+mean_grad_ics: 154403.516
+mean_grad_bcs: 1.680
+It: 14200| loss: 1.744e+00| loss_res: 1.399e+09| loss_f: 6.422e-01| loss_ics: 1.001e+05| loss_bcs: 2.298e-01| Time: 0.00
+mean_grad_res: 0.462
+mean_grad_ics: 124890.898
+mean_grad_bcs: 2.298
+It: 14300| loss: 3.096e+00| loss_res: 1.408e+07| loss_f: 1.189e+00| loss_ics: 8.675e+04| loss_bcs: 3.590e-01| Time: 0.01
+mean_grad_res: 0.788
+mean_grad_ics: 90451.133
+mean_grad_bcs: 3.444
+It: 14400| loss: 8.156e+00| loss_res: 5.718e+08| loss_f: 3.446e+00| loss_ics: 1.197e+05| loss_bcs: 6.320e-01| Time: 0.00
+mean_grad_res: 2.363
+mean_grad_ics: 135234.266
+mean_grad_bcs: 3.890
+It: 14500| loss: 1.215e+01| loss_res: 5.909e+08| loss_f: 5.909e+00| loss_ics: 8.800e+04| loss_bcs: 1.656e-01| Time: 0.00
+mean_grad_res: 3.234
+mean_grad_ics: 98835.258
+mean_grad_bcs: 0.990
+It: 14600| loss: 2.400e+00| loss_res: 6.502e+07| loss_f: 1.040e+00| loss_ics: 1.309e+05| loss_bcs: 1.605e-01| Time: 0.00
+mean_grad_res: 0.865
+mean_grad_ics: 131514.422
+mean_grad_bcs: 2.239
+It: 14700| loss: 5.640e+00| loss_res: 1.886e+08| loss_f: 2.584e+00| loss_ics: 1.416e+05| loss_bcs: 2.358e-01| Time: 0.00
+mean_grad_res: 1.268
+mean_grad_ics: 153434.141
+mean_grad_bcs: 3.640
+It: 14800| loss: 6.255e+00| loss_res: 1.170e+08| loss_f: 2.978e+00| loss_ics: 1.157e+05| loss_bcs: 1.498e-01| Time: 0.00
+mean_grad_res: 3.413
+mean_grad_ics: 138917.266
+mean_grad_bcs: 3.601
+It: 14900| loss: 3.628e+00| loss_res: 2.166e+08| loss_f: 1.570e+00| loss_ics: 8.387e+04| loss_bcs: 2.443e-01| Time: 0.01
+mean_grad_res: 2.574
+mean_grad_ics: 68852.852
+mean_grad_bcs: 3.744
+It: 15000| loss: 6.006e+00| loss_res: 9.889e+07| loss_f: 2.841e+00| loss_ics: 1.215e+05| loss_bcs: 1.622e-01| Time: 0.00
+mean_grad_res: 3.387
+mean_grad_ics: 153752.422
+mean_grad_bcs: 3.309
+It: 15100| loss: 7.651e+00| loss_res: 6.402e+08| loss_f: 3.641e+00| loss_ics: 1.040e+05| loss_bcs: 1.840e-01| Time: 0.01
+mean_grad_res: 5.092
+mean_grad_ics: 121760.195
+mean_grad_bcs: 2.694
+It: 15200| loss: 9.604e+00| loss_res: 2.120e+08| loss_f: 4.264e+00| loss_ics: 1.668e+05| loss_bcs: 5.381e-01| Time: 0.01
+mean_grad_res: 3.748
+mean_grad_ics: 221256.984
+mean_grad_bcs: 3.320
+It: 15300| loss: 2.095e+00| loss_res: 5.178e+08| loss_f: 9.982e-01| loss_ics: 8.067e+04| loss_bcs: 4.921e-02| Time: 0.00
+mean_grad_res: 1.303
+mean_grad_ics: 104442.625
+mean_grad_bcs: 1.054
+It: 15400| loss: 2.883e+00| loss_res: 8.711e+08| loss_f: 1.306e+00| loss_ics: 8.881e+04| loss_bcs: 1.354e-01| Time: 0.00
+mean_grad_res: 1.340
+mean_grad_ics: 106246.125
+mean_grad_bcs: 3.924
+It: 15500| loss: 4.414e+00| loss_res: 1.568e+09| loss_f: 2.108e+00| loss_ics: 1.082e+05| loss_bcs: 9.873e-02| Time: 0.01
+mean_grad_res: 3.431
+mean_grad_ics: 132138.812
+mean_grad_bcs: 1.701
+It: 15600| loss: 2.127e+00| loss_res: 8.578e+08| loss_f: 7.122e-01| loss_ics: 1.290e+05| loss_bcs: 3.512e-01| Time: 0.00
+mean_grad_res: 0.523
+mean_grad_ics: 153771.141
+mean_grad_bcs: 4.693
+It: 15700| loss: 1.079e+01| loss_res: 1.189e+09| loss_f: 5.225e+00| loss_ics: 9.448e+04| loss_bcs: 1.714e-01| Time: 0.00
+mean_grad_res: 3.029
+mean_grad_ics: 116387.742
+mean_grad_bcs: 1.774
+It: 15800| loss: 2.689e+00| loss_res: 1.205e+09| loss_f: 1.262e+00| loss_ics: 1.212e+05| loss_bcs: 8.317e-02| Time: 0.00
+mean_grad_res: 2.484
+mean_grad_ics: 145867.172
+mean_grad_bcs: 1.014
+It: 15900| loss: 3.439e+00| loss_res: 8.236e+07| loss_f: 5.500e-01| loss_ics: 1.906e+05| loss_bcs: 1.170e+00| Time: 0.01
+mean_grad_res: 0.207
+mean_grad_ics: 202791.766
+mean_grad_bcs: 8.635
+It: 16000| loss: 1.635e+01| loss_res: 2.114e+08| loss_f: 8.021e+00| loss_ics: 1.348e+05| loss_bcs: 1.547e-01| Time: 0.00
+mean_grad_res: 6.963
+mean_grad_ics: 167392.547
+mean_grad_bcs: 3.736
+It: 16100| loss: 2.881e+00| loss_res: 1.157e+09| loss_f: 1.289e+00| loss_ics: 1.090e+05| loss_bcs: 1.512e-01| Time: 0.00
+mean_grad_res: 1.273
+mean_grad_ics: 124193.008
+mean_grad_bcs: 2.361
+It: 16200| loss: 4.014e+00| loss_res: 3.441e+08| loss_f: 1.907e+00| loss_ics: 1.412e+05| loss_bcs: 9.964e-02| Time: 0.00
+mean_grad_res: 2.606
+mean_grad_ics: 147449.391
+mean_grad_bcs: 1.457
+It: 16300| loss: 5.696e+00| loss_res: 8.262e+07| loss_f: 2.675e+00| loss_ics: 1.596e+05| loss_bcs: 1.730e-01| Time: 0.00
+mean_grad_res: 3.290
+mean_grad_ics: 197024.422
+mean_grad_bcs: 4.317
+It: 16400| loss: 3.639e+00| loss_res: 1.659e+09| loss_f: 1.587e+00| loss_ics: 1.086e+05| loss_bcs: 2.328e-01| Time: 0.01
+mean_grad_res: 1.822
+mean_grad_ics: 133176.672
+mean_grad_bcs: 1.398
+It: 16500| loss: 2.412e+00| loss_res: 1.574e+09| loss_f: 1.005e+00| loss_ics: 1.454e+05| loss_bcs: 2.009e-01| Time: 0.00
+mean_grad_res: 1.908
+mean_grad_ics: 236141.703
+mean_grad_bcs: 4.564
+It: 16600| loss: 1.769e+00| loss_res: 9.920e+07| loss_f: 5.596e-01| loss_ics: 1.887e+05| loss_bcs: 3.248e-01| Time: 0.00
+mean_grad_res: 0.168
+mean_grad_ics: 211385.609
+mean_grad_bcs: 1.910
+It: 16700| loss: 9.647e+00| loss_res: 4.216e+07| loss_f: 4.564e+00| loss_ics: 1.196e+05| loss_bcs: 2.595e-01| Time: 0.00
+mean_grad_res: 3.803
+mean_grad_ics: 220220.375
+mean_grad_bcs: 4.107
+It: 16800| loss: 2.827e+00| loss_res: 1.330e+09| loss_f: 1.239e+00| loss_ics: 9.679e+04| loss_bcs: 1.742e-01| Time: 0.00
+mean_grad_res: 2.070
+mean_grad_ics: 120564.055
+mean_grad_bcs: 1.949
+It: 16900| loss: 3.503e+00| loss_res: 1.025e+08| loss_f: 1.536e+00| loss_ics: 1.227e+05| loss_bcs: 2.157e-01| Time: 0.00
+mean_grad_res: 1.815
+mean_grad_ics: 173975.797
+mean_grad_bcs: 2.899
+It: 17000| loss: 3.012e+00| loss_res: 1.136e+09| loss_f: 5.829e-01| loss_ics: 2.044e+05| loss_bcs: 9.229e-01| Time: 0.00
+mean_grad_res: 0.180
+mean_grad_ics: 262375.656
+mean_grad_bcs: 6.037
+It: 17100| loss: 3.472e+00| loss_res: 6.004e+07| loss_f: 1.177e+00| loss_ics: 1.041e+05| loss_bcs: 5.588e-01| Time: 0.00
+mean_grad_res: 1.195
+mean_grad_ics: 156685.250
+mean_grad_bcs: 5.685
+It: 17200| loss: 1.520e+00| loss_res: 3.235e+08| loss_f: 5.059e-01| loss_ics: 1.352e+05| loss_bcs: 2.543e-01| Time: 0.01
+mean_grad_res: 0.164
+mean_grad_ics: 182246.688
+mean_grad_bcs: 3.282
+It: 17300| loss: 2.429e+00| loss_res: 1.009e+09| loss_f: 1.080e+00| loss_ics: 1.591e+05| loss_bcs: 1.345e-01| Time: 0.00
+mean_grad_res: 0.816
+mean_grad_ics: 199620.578
+mean_grad_bcs: 1.892
+It: 17400| loss: 1.650e+00| loss_res: 1.493e+09| loss_f: 5.789e-01| loss_ics: 1.371e+05| loss_bcs: 2.460e-01| Time: 0.01
+mean_grad_res: 0.596
+mean_grad_ics: 202231.516
+mean_grad_bcs: 2.909
+It: 17500| loss: 3.382e+00| loss_res: 3.017e+08| loss_f: 1.283e+00| loss_ics: 1.647e+05| loss_bcs: 4.077e-01| Time: 0.01
+mean_grad_res: 0.825
+mean_grad_ics: 241057.609
+mean_grad_bcs: 4.426
+It: 17600| loss: 2.696e+00| loss_res: 2.515e+08| loss_f: 1.246e+00| loss_ics: 9.562e+04| loss_bcs: 1.020e-01| Time: 0.00
+mean_grad_res: 1.189
+mean_grad_ics: 115787.992
+mean_grad_bcs: 1.846
+It: 17700| loss: 1.299e+00| loss_res: 7.009e+07| loss_f: 4.066e-01| loss_ics: 1.996e+05| loss_bcs: 2.431e-01| Time: 0.00
+mean_grad_res: 0.133
+mean_grad_ics: 229128.312
+mean_grad_bcs: 2.274
+It: 17800| loss: 2.974e+00| loss_res: 2.691e+08| loss_f: 1.150e+00| loss_ics: 1.487e+05| loss_bcs: 3.371e-01| Time: 0.00
+mean_grad_res: 0.943
+mean_grad_ics: 211631.438
+mean_grad_bcs: 2.867
+It: 17900| loss: 4.640e+00| loss_res: 1.514e+09| loss_f: 2.106e+00| loss_ics: 1.587e+05| loss_bcs: 2.140e-01| Time: 0.00
+mean_grad_res: 2.120
+mean_grad_ics: 248029.953
+mean_grad_bcs: 5.720
+It: 18000| loss: 6.865e+00| loss_res: 3.252e+09| loss_f: 3.302e+00| loss_ics: 1.466e+05| loss_bcs: 1.308e-01| Time: 0.00
+mean_grad_res: 5.547
+mean_grad_ics: 156554.016
+mean_grad_bcs: 3.786
+It: 18100| loss: 9.623e+00| loss_res: 1.115e+08| loss_f: 4.394e+00| loss_ics: 1.951e+05| loss_bcs: 4.172e-01| Time: 0.01
+mean_grad_res: 4.721
+mean_grad_ics: 271017.812
+mean_grad_bcs: 4.196
+It: 18200| loss: 2.247e+00| loss_res: 1.664e+08| loss_f: 7.945e-01| loss_ics: 1.899e+05| loss_bcs: 3.291e-01| Time: 0.01
+mean_grad_res: 1.073
+mean_grad_ics: 227221.125
+mean_grad_bcs: 3.673
+It: 18300| loss: 1.586e+00| loss_res: 2.919e+08| loss_f: 6.557e-01| loss_ics: 1.789e+05| loss_bcs: 1.372e-01| Time: 0.01
+mean_grad_res: 0.713
+mean_grad_ics: 225138.609
+mean_grad_bcs: 3.359
+It: 18400| loss: 1.589e+00| loss_res: 1.615e+09| loss_f: 6.957e-01| loss_ics: 1.613e+05| loss_bcs: 9.876e-02| Time: 0.00
+mean_grad_res: 0.385
+mean_grad_ics: 205182.125
+mean_grad_bcs: 2.784
+It: 18500| loss: 1.819e+00| loss_res: 3.634e+07| loss_f: 6.979e-01| loss_ics: 1.682e+05| loss_bcs: 2.117e-01| Time: 0.00
+mean_grad_res: 0.397
+mean_grad_ics: 228609.500
+mean_grad_bcs: 5.244
+It: 18600| loss: 5.464e+00| loss_res: 1.513e+09| loss_f: 2.600e+00| loss_ics: 1.761e+05| loss_bcs: 1.318e-01| Time: 0.00
+mean_grad_res: 4.766
+mean_grad_ics: 255224.734
+mean_grad_bcs: 1.802
+It: 18700| loss: 9.794e+00| loss_res: 1.830e+09| loss_f: 4.807e+00| loss_ics: 1.515e+05| loss_bcs: 8.992e-02| Time: 0.00
+mean_grad_res: 3.586
+mean_grad_ics: 212300.766
+mean_grad_bcs: 2.219
+It: 18800| loss: 3.980e+00| loss_res: 2.047e+08| loss_f: 1.675e+00| loss_ics: 2.239e+05| loss_bcs: 3.147e-01| Time: 0.00
+mean_grad_res: 1.625
+mean_grad_ics: 327991.562
+mean_grad_bcs: 2.863
+It: 18900| loss: 7.097e+00| loss_res: 1.599e+08| loss_f: 3.428e+00| loss_ics: 1.374e+05| loss_bcs: 1.209e-01| Time: 0.00
+mean_grad_res: 5.591
+mean_grad_ics: 178082.672
+mean_grad_bcs: 2.955
+It: 19000| loss: 2.120e+00| loss_res: 1.414e+08| loss_f: 6.595e-01| loss_ics: 1.634e+05| loss_bcs: 4.006e-01| Time: 0.01
+mean_grad_res: 0.614
+mean_grad_ics: 212463.016
+mean_grad_bcs: 5.034
+It: 19100| loss: 1.526e+00| loss_res: 1.547e+08| loss_f: 5.584e-01| loss_ics: 1.494e+05| loss_bcs: 2.047e-01| Time: 0.00
+mean_grad_res: 0.170
+mean_grad_ics: 189871.250
+mean_grad_bcs: 2.505
+It: 19200| loss: 5.947e+00| loss_res: 3.916e+09| loss_f: 2.826e+00| loss_ics: 1.344e+05| loss_bcs: 1.468e-01| Time: 0.01
+mean_grad_res: 3.877
+mean_grad_ics: 182003.266
+mean_grad_bcs: 2.036
+It: 19300| loss: 1.804e+00| loss_res: 2.012e+07| loss_f: 7.679e-01| loss_ics: 1.647e+05| loss_bcs: 1.341e-01| Time: 0.01
+mean_grad_res: 0.605
+mean_grad_ics: 221129.000
+mean_grad_bcs: 3.128
+It: 19400| loss: 8.032e+00| loss_res: 3.708e+08| loss_f: 3.909e+00| loss_ics: 1.804e+05| loss_bcs: 1.074e-01| Time: 0.01
+mean_grad_res: 3.074
+mean_grad_ics: 301707.625
+mean_grad_bcs: 1.939
+It: 19500| loss: 8.138e+00| loss_res: 2.948e+08| loss_f: 3.922e+00| loss_ics: 1.252e+05| loss_bcs: 1.471e-01| Time: 0.01
+mean_grad_res: 5.009
+mean_grad_ics: 141059.469
+mean_grad_bcs: 2.038
+It: 19600| loss: 1.287e+00| loss_res: 5.182e+07| loss_f: 4.284e-01| loss_ics: 1.207e+05| loss_bcs: 2.149e-01| Time: 0.01
+mean_grad_res: 0.061
+mean_grad_ics: 157654.203
+mean_grad_bcs: 3.023
+It: 19700| loss: 4.444e+00| loss_res: 1.736e+09| loss_f: 2.154e+00| loss_ics: 1.530e+05| loss_bcs: 6.805e-02| Time: 0.01
+mean_grad_res: 3.794
+mean_grad_ics: 208934.109
+mean_grad_bcs: 1.038
+It: 19800| loss: 1.346e+00| loss_res: 6.970e+07| loss_f: 4.547e-01| loss_ics: 1.633e+05| loss_bcs: 2.183e-01| Time: 0.01
+mean_grad_res: 0.163
+mean_grad_ics: 249461.109
+mean_grad_bcs: 2.353
+It: 19900| loss: 2.407e+00| loss_res: 2.342e+08| loss_f: 9.244e-01| loss_ics: 2.361e+05| loss_bcs: 2.789e-01| Time: 0.01
+mean_grad_res: 0.748
+mean_grad_ics: 257008.422
+mean_grad_bcs: 4.670
+It: 20000| loss: 4.703e+00| loss_res: 1.319e+07| loss_f: 2.206e+00| loss_ics: 1.700e+05| loss_bcs: 1.452e-01| Time: 0.00
+mean_grad_res: 3.069
+mean_grad_ics: 217047.250
+mean_grad_bcs: 3.461
+It: 20100| loss: 1.050e+01| loss_res: 3.072e+09| loss_f: 5.012e+00| loss_ics: 1.707e+05| loss_bcs: 2.361e-01| Time: 0.00
+mean_grad_res: 3.638
+mean_grad_ics: 232778.453
+mean_grad_bcs: 6.092
+It: 20200| loss: 3.897e+00| loss_res: 2.581e+08| loss_f: 1.766e+00| loss_ics: 1.523e+05| loss_bcs: 1.829e-01| Time: 0.01
+mean_grad_res: 3.025
+mean_grad_ics: 211757.578
+mean_grad_bcs: 2.974
+It: 20300| loss: 1.494e+00| loss_res: 1.780e+06| loss_f: 4.267e-01| loss_ics: 2.130e+05| loss_bcs: 3.204e-01| Time: 0.01
+mean_grad_res: 0.155
+mean_grad_ics: 270444.625
+mean_grad_bcs: 4.664
+It: 20400| loss: 1.432e+01| loss_res: 9.372e+08| loss_f: 5.665e+00| loss_ics: 2.172e+05| loss_bcs: 1.496e+00| Time: 0.00
+mean_grad_res: 7.261
+mean_grad_ics: 320539.594
+mean_grad_bcs: 6.711
+It: 20500| loss: 1.501e+00| loss_res: 1.403e+09| loss_f: 6.633e-01| loss_ics: 1.830e+05| loss_bcs: 8.699e-02| Time: 0.00
+mean_grad_res: 0.941
+mean_grad_ics: 227749.891
+mean_grad_bcs: 1.796
+It: 20600| loss: 1.821e+00| loss_res: 2.285e+09| loss_f: 6.729e-01| loss_ics: 1.460e+05| loss_bcs: 2.377e-01| Time: 0.01
+mean_grad_res: 0.320
+mean_grad_ics: 268788.469
+mean_grad_bcs: 2.561
+It: 20700| loss: 1.293e+00| loss_res: 1.784e+09| loss_f: 5.581e-01| loss_ics: 1.617e+05| loss_bcs: 8.852e-02| Time: 0.01
+mean_grad_res: 0.167
+mean_grad_ics: 205863.188
+mean_grad_bcs: 1.747
+It: 20800| loss: 3.180e+00| loss_res: 1.245e+08| loss_f: 1.482e+00| loss_ics: 1.975e+05| loss_bcs: 1.083e-01| Time: 0.00
+mean_grad_res: 3.063
+mean_grad_ics: 249508.953
+mean_grad_bcs: 1.239
+It: 20900| loss: 3.196e+00| loss_res: 1.720e+08| loss_f: 1.467e+00| loss_ics: 2.733e+05| loss_bcs: 1.304e-01| Time: 0.01
+mean_grad_res: 1.660
+mean_grad_ics: 407204.031
+mean_grad_bcs: 2.829
+It: 21000| loss: 1.050e+01| loss_res: 1.201e+09| loss_f: 5.169e+00| loss_ics: 1.785e+05| loss_bcs: 8.300e-02| Time: 0.01
+mean_grad_res: 5.203
+mean_grad_ics: 233995.375
+mean_grad_bcs: 2.783
+It: 21100| loss: 1.694e+00| loss_res: 1.272e+09| loss_f: 5.832e-01| loss_ics: 2.394e+05| loss_bcs: 2.637e-01| Time: 0.00
+mean_grad_res: 0.443
+mean_grad_ics: 293509.562
+mean_grad_bcs: 4.622
+It: 21200| loss: 1.316e+00| loss_res: 3.938e+08| loss_f: 5.376e-01| loss_ics: 2.000e+05| loss_bcs: 1.203e-01| Time: 0.00
+mean_grad_res: 0.238
+mean_grad_ics: 228184.703
+mean_grad_bcs: 3.670
+It: 21300| loss: 5.237e+00| loss_res: 1.249e+09| loss_f: 2.271e+00| loss_ics: 2.595e+05| loss_bcs: 3.474e-01| Time: 0.00
+mean_grad_res: 3.444
+mean_grad_ics: 337813.938
+mean_grad_bcs: 5.351
+It: 21400| loss: 1.358e+00| loss_res: 1.877e+07| loss_f: 4.919e-01| loss_ics: 1.980e+05| loss_bcs: 1.871e-01| Time: 0.00
+mean_grad_res: 0.109
+mean_grad_ics: 267092.625
+mean_grad_bcs: 3.323
+It: 21500| loss: 1.315e+00| loss_res: 2.212e+08| loss_f: 4.618e-01| loss_ics: 2.887e+05| loss_bcs: 1.958e-01| Time: 0.01
+mean_grad_res: 0.123
+mean_grad_ics: 414896.156
+mean_grad_bcs: 3.300
+It: 21600| loss: 1.102e+00| loss_res: 1.139e+09| loss_f: 5.075e-01| loss_ics: 2.202e+05| loss_bcs: 4.342e-02| Time: 0.00
+mean_grad_res: 0.178
+mean_grad_ics: 283625.844
+mean_grad_bcs: 1.032
+It: 21700| loss: 4.594e+00| loss_res: 4.941e+08| loss_f: 2.039e+00| loss_ics: 1.247e+05| loss_bcs: 2.579e-01| Time: 0.00
+mean_grad_res: 2.378
+mean_grad_ics: 148074.641
+mean_grad_bcs: 3.004
+It: 21800| loss: 3.155e+00| loss_res: 2.485e+09| loss_f: 1.330e+00| loss_ics: 2.050e+05| loss_bcs: 2.474e-01| Time: 0.00
+mean_grad_res: 1.577
+mean_grad_ics: 289999.219
+mean_grad_bcs: 3.967
+It: 21900| loss: 2.834e+00| loss_res: 2.006e+09| loss_f: 1.055e+00| loss_ics: 1.656e+05| loss_bcs: 3.616e-01| Time: 0.01
+mean_grad_res: 0.535
+mean_grad_ics: 248190.328
+mean_grad_bcs: 3.902
+It: 22000| loss: 3.083e+00| loss_res: 2.765e+09| loss_f: 1.293e+00| loss_ics: 2.332e+05| loss_bcs: 2.484e-01| Time: 0.00
+mean_grad_res: 1.498
+mean_grad_ics: 281215.969
+mean_grad_bcs: 3.152
+It: 22100| loss: 3.293e+00| loss_res: 2.789e+08| loss_f: 1.142e+00| loss_ics: 2.370e+05| loss_bcs: 5.043e-01| Time: 0.00
+mean_grad_res: 1.233
+mean_grad_ics: 368753.531
+mean_grad_bcs: 6.919
+It: 22200| loss: 2.712e+00| loss_res: 2.201e+08| loss_f: 1.265e+00| loss_ics: 2.031e+05| loss_bcs: 9.095e-02| Time: 0.01
+mean_grad_res: 1.382
+mean_grad_ics: 289921.094
+mean_grad_bcs: 3.019
+It: 22300| loss: 2.288e+00| loss_res: 7.576e+08| loss_f: 1.034e+00| loss_ics: 2.159e+05| loss_bcs: 1.103e-01| Time: 0.00
+mean_grad_res: 1.747
+mean_grad_ics: 312683.469
+mean_grad_bcs: 2.309
+It: 22400| loss: 3.207e+00| loss_res: 4.800e+08| loss_f: 1.310e+00| loss_ics: 2.066e+05| loss_bcs: 2.933e-01| Time: 0.00
+mean_grad_res: 2.807
+mean_grad_ics: 245104.453
+mean_grad_bcs: 3.353
+It: 22500| loss: 1.496e+00| loss_res: 2.133e+07| loss_f: 7.176e-01| loss_ics: 2.004e+05| loss_bcs: 3.047e-02| Time: 0.00
+mean_grad_res: 0.293
+mean_grad_ics: 243049.688
+mean_grad_bcs: 0.691
+It: 22600| loss: 1.829e+00| loss_res: 1.855e+07| loss_f: 8.237e-01| loss_ics: 2.159e+05| loss_bcs: 9.060e-02| Time: 0.01
+mean_grad_res: 0.665
+mean_grad_ics: 294867.000
+mean_grad_bcs: 1.937
+It: 22700| loss: 5.281e+00| loss_res: 9.201e+08| loss_f: 2.208e+00| loss_ics: 2.357e+05| loss_bcs: 4.324e-01| Time: 0.00
+mean_grad_res: 3.091
+mean_grad_ics: 319181.031
+mean_grad_bcs: 5.014
+It: 22800| loss: 1.871e+00| loss_res: 6.622e+08| loss_f: 6.814e-01| loss_ics: 1.935e+05| loss_bcs: 2.540e-01| Time: 0.01
+mean_grad_res: 0.339
+mean_grad_ics: 275923.844
+mean_grad_bcs: 3.029
+It: 22900| loss: 1.987e+00| loss_res: 2.328e+09| loss_f: 9.116e-01| loss_ics: 1.804e+05| loss_bcs: 8.178e-02| Time: 0.00
+mean_grad_res: 0.827
+mean_grad_ics: 235101.953
+mean_grad_bcs: 3.257
+It: 23000| loss: 1.371e+00| loss_res: 1.761e+08| loss_f: 6.151e-01| loss_ics: 2.339e+05| loss_bcs: 7.069e-02| Time: 0.01
+mean_grad_res: 0.378
+mean_grad_ics: 361463.719
+mean_grad_bcs: 2.824
+It: 23100| loss: 5.358e+00| loss_res: 2.556e+07| loss_f: 2.562e+00| loss_ics: 1.846e+05| loss_bcs: 1.166e-01| Time: 0.01
+mean_grad_res: 4.184
+mean_grad_ics: 283452.562
+mean_grad_bcs: 1.595
+It: 23200| loss: 7.964e+00| loss_res: 2.928e+09| loss_f: 3.684e+00| loss_ics: 1.669e+05| loss_bcs: 2.981e-01| Time: 0.01
+mean_grad_res: 7.229
+mean_grad_ics: 259662.688
+mean_grad_bcs: 4.180
+It: 23300| loss: 1.940e+00| loss_res: 2.526e+08| loss_f: 6.649e-01| loss_ics: 3.058e+05| loss_bcs: 3.051e-01| Time: 0.01
+mean_grad_res: 0.907
+mean_grad_ics: 383878.000
+mean_grad_bcs: 5.580
+It: 23400| loss: 1.409e+00| loss_res: 3.172e+07| loss_f: 5.148e-01| loss_ics: 2.153e+05| loss_bcs: 1.897e-01| Time: 0.00
+mean_grad_res: 0.203
+mean_grad_ics: 267552.531
+mean_grad_bcs: 3.075
+It: 23500| loss: 1.605e+00| loss_res: 5.182e+08| loss_f: 6.847e-01| loss_ics: 2.512e+05| loss_bcs: 1.176e-01| Time: 0.01
+mean_grad_res: 1.437
+mean_grad_ics: 316224.281
+mean_grad_bcs: 3.446
+It: 23600| loss: 6.797e+00| loss_res: 5.966e+08| loss_f: 3.160e+00| loss_ics: 2.180e+05| loss_bcs: 2.389e-01| Time: 0.01
+mean_grad_res: 4.472
+mean_grad_ics: 268508.156
+mean_grad_bcs: 2.229
+It: 23700| loss: 3.379e+00| loss_res: 1.404e+09| loss_f: 1.507e+00| loss_ics: 2.361e+05| loss_bcs: 1.828e-01| Time: 0.00
+mean_grad_res: 1.230
+mean_grad_ics: 333754.875
+mean_grad_bcs: 2.512
+It: 23800| loss: 7.267e+00| loss_res: 1.101e+09| loss_f: 3.565e+00| loss_ics: 2.258e+05| loss_bcs: 6.833e-02| Time: 0.01
+mean_grad_res: 5.584
+mean_grad_ics: 325752.719
+mean_grad_bcs: 2.030
+It: 23900| loss: 3.248e+00| loss_res: 1.936e+09| loss_f: 1.502e+00| loss_ics: 1.974e+05| loss_bcs: 1.214e-01| Time: 0.00
+mean_grad_res: 2.015
+mean_grad_ics: 258679.078
+mean_grad_bcs: 4.196
+It: 24000| loss: 9.217e+00| loss_res: 2.773e+09| loss_f: 4.521e+00| loss_ics: 2.419e+05| loss_bcs: 8.705e-02| Time: 0.00
+mean_grad_res: 7.266
+mean_grad_ics: 278185.094
+mean_grad_bcs: 2.383
+It: 24100| loss: 6.165e+00| loss_res: 1.517e+09| loss_f: 2.651e+00| loss_ics: 2.687e+05| loss_bcs: 4.312e-01| Time: 0.01
+mean_grad_res: 3.125
+mean_grad_ics: 410520.156
+mean_grad_bcs: 6.889
+It: 24200| loss: 1.813e+01| loss_res: 3.116e+09| loss_f: 8.940e+00| loss_ics: 2.271e+05| loss_bcs: 1.251e-01| Time: 0.01
+mean_grad_res: 9.376
+mean_grad_ics: 323151.406
+mean_grad_bcs: 3.669
+It: 24300| loss: 4.931e+00| loss_res: 4.069e+09| loss_f: 2.210e+00| loss_ics: 2.406e+05| loss_bcs: 2.556e-01| Time: 0.00
+mean_grad_res: 2.013
+mean_grad_ics: 354347.375
+mean_grad_bcs: 4.894
+It: 24400| loss: 1.840e+00| loss_res: 5.701e+09| loss_f: 8.300e-01| loss_ics: 2.259e+05| loss_bcs: 9.013e-02| Time: 0.01
+mean_grad_res: 0.941
+mean_grad_ics: 349285.125
+mean_grad_bcs: 2.245
+It: 24500| loss: 6.834e+00| loss_res: 6.264e+08| loss_f: 3.145e+00| loss_ics: 2.323e+05| loss_bcs: 2.720e-01| Time: 0.01
+mean_grad_res: 5.255
+mean_grad_ics: 339923.719
+mean_grad_bcs: 4.809
+It: 24600| loss: 1.006e+01| loss_res: 2.381e+09| loss_f: 4.738e+00| loss_ics: 3.154e+05| loss_bcs: 2.935e-01| Time: 0.00
+mean_grad_res: 5.400
+mean_grad_ics: 456743.031
+mean_grad_bcs: 3.872
+It: 24700| loss: 3.229e+00| loss_res: 2.590e+08| loss_f: 1.433e+00| loss_ics: 2.380e+05| loss_bcs: 1.811e-01| Time: 0.01
+mean_grad_res: 1.254
+mean_grad_ics: 289563.250
+mean_grad_bcs: 2.615
+It: 24800| loss: 1.661e+00| loss_res: 4.179e+08| loss_f: 7.440e-01| loss_ics: 1.915e+05| loss_bcs: 8.634e-02| Time: 0.00
+mean_grad_res: 0.696
+mean_grad_ics: 255686.609
+mean_grad_bcs: 1.953
+It: 24900| loss: 1.492e+00| loss_res: 8.729e+08| loss_f: 4.973e-01| loss_ics: 1.714e+05| loss_bcs: 2.486e-01| Time: 0.01
+mean_grad_res: 0.200
+mean_grad_ics: 210442.422
+mean_grad_bcs: 4.616
+It: 25000| loss: 4.451e+00| loss_res: 7.130e+08| loss_f: 2.194e+00| loss_ics: 1.804e+05| loss_bcs: 3.190e-02| Time: 0.00
+mean_grad_res: 2.148
+mean_grad_ics: 289636.406
+mean_grad_bcs: 2.028
+It: 25100| loss: 1.698e+00| loss_res: 1.675e+09| loss_f: 7.819e-01| loss_ics: 2.995e+05| loss_bcs: 6.684e-02| Time: 0.00
+mean_grad_res: 0.590
+mean_grad_ics: 452222.219
+mean_grad_bcs: 2.989
+It: 25200| loss: 2.255e+00| loss_res: 6.560e+08| loss_f: 7.167e-01| loss_ics: 2.645e+05| loss_bcs: 4.109e-01| Time: 0.00
+mean_grad_res: 0.319
+mean_grad_ics: 360411.469
+mean_grad_bcs: 4.954
+It: 25300| loss: 3.481e+00| loss_res: 1.874e+09| loss_f: 1.603e+00| loss_ics: 2.363e+05| loss_bcs: 1.373e-01| Time: 0.00
+mean_grad_res: 3.439
+mean_grad_ics: 380372.656
+mean_grad_bcs: 2.105
+It: 25400| loss: 1.501e+00| loss_res: 1.005e+08| loss_f: 4.814e-01| loss_ics: 2.113e+05| loss_bcs: 2.692e-01| Time: 0.01
+mean_grad_res: 0.129
+mean_grad_ics: 273486.438
+mean_grad_bcs: 4.925
+It: 25500| loss: 2.928e+00| loss_res: 7.194e+08| loss_f: 1.260e+00| loss_ics: 2.458e+05| loss_bcs: 2.045e-01| Time: 0.00
+mean_grad_res: 2.595
+mean_grad_ics: 327017.031
+mean_grad_bcs: 4.957
+It: 25600| loss: 3.037e+00| loss_res: 2.836e+09| loss_f: 1.336e+00| loss_ics: 2.905e+05| loss_bcs: 1.827e-01| Time: 0.01
+mean_grad_res: 1.065
+mean_grad_ics: 362137.344
+mean_grad_bcs: 3.015
+It: 25700| loss: 6.981e+00| loss_res: 2.913e+08| loss_f: 3.396e+00| loss_ics: 2.580e+05| loss_bcs: 9.430e-02| Time: 0.01
+mean_grad_res: 4.436
+mean_grad_ics: 354156.500
+mean_grad_bcs: 2.582
+It: 25800| loss: 1.334e+00| loss_res: 6.780e+08| loss_f: 5.732e-01| loss_ics: 2.109e+05| loss_bcs: 9.363e-02| Time: 0.01
+mean_grad_res: 0.642
+mean_grad_ics: 346586.781
+mean_grad_bcs: 2.516
+It: 25900| loss: 4.080e+00| loss_res: 5.951e+08| loss_f: 1.579e+00| loss_ics: 3.324e+05| loss_bcs: 4.609e-01| Time: 0.00
+mean_grad_res: 2.457
+mean_grad_ics: 444417.594
+mean_grad_bcs: 5.513
+It: 26000| loss: 3.836e+00| loss_res: 8.141e+08| loss_f: 1.848e+00| loss_ics: 2.225e+05| loss_bcs: 7.039e-02| Time: 0.00
+mean_grad_res: 2.159
+mean_grad_ics: 336967.562
+mean_grad_bcs: 0.917
+It: 26100| loss: 1.428e+00| loss_res: 4.447e+07| loss_f: 6.059e-01| loss_ics: 2.325e+05| loss_bcs: 1.080e-01| Time: 0.01
+mean_grad_res: 0.263
+mean_grad_ics: 337308.812
+mean_grad_bcs: 3.103
+It: 26200| loss: 1.187e+00| loss_res: 3.619e+08| loss_f: 4.330e-01| loss_ics: 3.267e+05| loss_bcs: 1.605e-01| Time: 0.01
+mean_grad_res: 0.152
+mean_grad_ics: 467202.906
+mean_grad_bcs: 2.026
+It: 26300| loss: 5.621e+00| loss_res: 1.481e+09| loss_f: 2.591e+00| loss_ics: 2.296e+05| loss_bcs: 2.198e-01| Time: 0.00
+mean_grad_res: 6.340
+mean_grad_ics: 316916.562
+mean_grad_bcs: 2.965
+It: 26400| loss: 1.529e+00| loss_res: 1.337e+09| loss_f: 7.022e-01| loss_ics: 2.755e+05| loss_bcs: 6.243e-02| Time: 0.00
+mean_grad_res: 1.631
+mean_grad_ics: 424165.406
+mean_grad_bcs: 2.377
+It: 26500| loss: 2.534e+00| loss_res: 4.345e+08| loss_f: 1.066e+00| loss_ics: 3.354e+05| loss_bcs: 2.005e-01| Time: 0.00
+mean_grad_res: 1.343
+mean_grad_ics: 455788.156
+mean_grad_bcs: 2.690
+It: 26600| loss: 2.591e+00| loss_res: 2.436e+09| loss_f: 1.254e+00| loss_ics: 2.461e+05| loss_bcs: 4.187e-02| Time: 0.01
+mean_grad_res: 1.311
+mean_grad_ics: 310285.969
+mean_grad_bcs: 1.156
+It: 26700| loss: 1.186e+00| loss_res: 2.341e+09| loss_f: 5.063e-01| loss_ics: 2.941e+05| loss_bcs: 8.676e-02| Time: 0.02
+mean_grad_res: 0.163
+mean_grad_ics: 374016.750
+mean_grad_bcs: 2.626
+It: 26800| loss: 1.951e+00| loss_res: 4.432e+08| loss_f: 8.828e-01| loss_ics: 2.163e+05| loss_bcs: 9.266e-02| Time: 0.00
+mean_grad_res: 1.011
+mean_grad_ics: 287484.969
+mean_grad_bcs: 1.615
+It: 26900| loss: 8.519e+00| loss_res: 1.722e+08| loss_f: 3.865e+00| loss_ics: 3.126e+05| loss_bcs: 3.944e-01| Time: 0.00
+mean_grad_res: 4.983
+mean_grad_ics: 542179.312
+mean_grad_bcs: 5.243
+It: 27000| loss: 1.818e+00| loss_res: 1.951e+09| loss_f: 7.681e-01| loss_ics: 2.169e+05| loss_bcs: 1.408e-01| Time: 0.00
+mean_grad_res: 1.054
+mean_grad_ics: 303875.531
+mean_grad_bcs: 1.710
+It: 27100| loss: 1.929e+00| loss_res: 6.565e+07| loss_f: 9.380e-01| loss_ics: 2.848e+05| loss_bcs: 2.656e-02| Time: 0.01
+mean_grad_res: 1.243
+mean_grad_ics: 390609.906
+mean_grad_bcs: 1.046
+It: 27200| loss: 1.061e+00| loss_res: 5.980e+08| loss_f: 4.955e-01| loss_ics: 2.874e+05| loss_bcs: 3.513e-02| Time: 0.01
+mean_grad_res: 0.251
+mean_grad_ics: 472882.156
+mean_grad_bcs: 2.000
+It: 27300| loss: 7.139e+00| loss_res: 4.516e+08| loss_f: 3.442e+00| loss_ics: 2.729e+05| loss_bcs: 1.274e-01| Time: 0.00
+mean_grad_res: 5.395
+mean_grad_ics: 348647.438
+mean_grad_bcs: 3.580
+It: 27400| loss: 1.295e+00| loss_res: 1.247e+09| loss_f: 5.793e-01| loss_ics: 2.577e+05| loss_bcs: 6.832e-02| Time: 0.01
+mean_grad_res: 0.163
+mean_grad_ics: 353324.750
+mean_grad_bcs: 1.640
+It: 27500| loss: 5.002e+00| loss_res: 7.940e+07| loss_f: 2.193e+00| loss_ics: 3.294e+05| loss_bcs: 3.084e-01| Time: 0.00
+mean_grad_res: 2.426
+mean_grad_ics: 472181.031
+mean_grad_bcs: 6.375
+It: 27600| loss: 1.468e+00| loss_res: 2.315e+08| loss_f: 5.686e-01| loss_ics: 2.776e+05| loss_bcs: 1.652e-01| Time: 0.00
+mean_grad_res: 0.430
+mean_grad_ics: 423479.406
+mean_grad_bcs: 3.866
+It: 27700| loss: 5.274e+00| loss_res: 7.949e+07| loss_f: 2.554e+00| loss_ics: 3.222e+05| loss_bcs: 8.289e-02| Time: 0.00
+mean_grad_res: 4.518
+mean_grad_ics: 445249.500
+mean_grad_bcs: 3.069
+It: 27800| loss: 1.199e+00| loss_res: 1.255e+08| loss_f: 5.287e-01| loss_ics: 2.387e+05| loss_bcs: 7.057e-02| Time: 0.00
+mean_grad_res: 0.229
+mean_grad_ics: 371036.844
+mean_grad_bcs: 2.186
+It: 27900| loss: 1.061e+01| loss_res: 1.001e+10| loss_f: 5.176e+00| loss_ics: 2.756e+05| loss_bcs: 1.278e-01| Time: 0.01
+mean_grad_res: 11.961
+mean_grad_ics: 440184.250
+mean_grad_bcs: 1.627
+It: 28000| loss: 2.874e+00| loss_res: 1.747e+09| loss_f: 1.294e+00| loss_ics: 3.207e+05| loss_bcs: 1.428e-01| Time: 0.00
+mean_grad_res: 1.406
+mean_grad_ics: 465201.875
+mean_grad_bcs: 3.078
+It: 28100| loss: 1.117e+01| loss_res: 1.451e+09| loss_f: 5.542e+00| loss_ics: 2.428e+05| loss_bcs: 4.279e-02| Time: 0.00
+mean_grad_res: 8.711
+mean_grad_ics: 399344.531
+mean_grad_bcs: 3.470
+It: 28200| loss: 9.368e-01| loss_res: 8.439e+07| loss_f: 4.261e-01| loss_ics: 2.549e+05| loss_bcs: 4.228e-02| Time: 0.01
+mean_grad_res: 0.071
+mean_grad_ics: 391405.219
+mean_grad_bcs: 1.458
+It: 28300| loss: 2.337e+00| loss_res: 3.533e+09| loss_f: 1.078e+00| loss_ics: 2.770e+05| loss_bcs: 9.091e-02| Time: 0.01
+mean_grad_res: 1.675
+mean_grad_ics: 365247.469
+mean_grad_bcs: 2.374
+It: 28400| loss: 6.433e+00| loss_res: 3.433e+09| loss_f: 3.052e+00| loss_ics: 2.869e+05| loss_bcs: 1.643e-01| Time: 0.00
+mean_grad_res: 7.011
+mean_grad_ics: 376855.844
+mean_grad_bcs: 3.762
+It: 28500| loss: 4.014e+00| loss_res: 2.359e+09| loss_f: 1.927e+00| loss_ics: 1.960e+05| loss_bcs: 7.953e-02| Time: 0.01
+mean_grad_res: 2.883
+mean_grad_ics: 305520.781
+mean_grad_bcs: 1.862
+It: 28600| loss: 3.326e+00| loss_res: 4.084e+08| loss_f: 1.612e+00| loss_ics: 2.903e+05| loss_bcs: 5.130e-02| Time: 0.00
+mean_grad_res: 4.612
+mean_grad_ics: 402738.844
+mean_grad_bcs: 3.433
+It: 28700| loss: 1.583e+00| loss_res: 5.120e+08| loss_f: 6.002e-01| loss_ics: 2.900e+05| loss_bcs: 1.913e-01| Time: 0.01
+mean_grad_res: 0.947
+mean_grad_ics: 431350.781
+mean_grad_bcs: 3.993
+It: 28800| loss: 2.936e+00| loss_res: 4.157e+08| loss_f: 1.380e+00| loss_ics: 3.080e+05| loss_bcs: 8.854e-02| Time: 0.00
+mean_grad_res: 1.587
+mean_grad_ics: 390005.719
+mean_grad_bcs: 2.918
+It: 28900| loss: 4.640e+00| loss_res: 1.361e+09| loss_f: 2.221e+00| loss_ics: 2.538e+05| loss_bcs: 9.850e-02| Time: 0.01
+mean_grad_res: 3.466
+mean_grad_ics: 346232.406
+mean_grad_bcs: 2.358
+It: 29000| loss: 1.298e+00| loss_res: 1.570e+07| loss_f: 4.856e-01| loss_ics: 3.084e+05| loss_bcs: 1.632e-01| Time: 0.01
+mean_grad_res: 0.085
+mean_grad_ics: 368409.719
+mean_grad_bcs: 3.516
+It: 29100| loss: 5.758e+00| loss_res: 2.465e+09| loss_f: 2.781e+00| loss_ics: 3.224e+05| loss_bcs: 9.821e-02| Time: 0.01
+mean_grad_res: 3.223
+mean_grad_ics: 496761.094
+mean_grad_bcs: 2.055
+It: 29200| loss: 3.188e+00| loss_res: 1.886e+09| loss_f: 1.460e+00| loss_ics: 2.760e+05| loss_bcs: 1.338e-01| Time: 0.01
+mean_grad_res: 2.160
+mean_grad_ics: 378362.000
+mean_grad_bcs: 3.276
+It: 29300| loss: 1.123e+00| loss_res: 5.820e+07| loss_f: 5.263e-01| loss_ics: 3.411e+05| loss_bcs: 3.529e-02| Time: 0.01
+mean_grad_res: 0.074
+mean_grad_ics: 531511.938
+mean_grad_bcs: 1.191
+It: 29400| loss: 5.405e+00| loss_res: 1.131e+07| loss_f: 2.512e+00| loss_ics: 2.514e+05| loss_bcs: 1.900e-01| Time: 0.01
+mean_grad_res: 3.481
+mean_grad_ics: 381618.125
+mean_grad_bcs: 4.700
+It: 29500| loss: 1.937e+00| loss_res: 1.371e+09| loss_f: 8.802e-01| loss_ics: 3.841e+05| loss_bcs: 8.835e-02| Time: 0.01
+mean_grad_res: 1.405
+mean_grad_ics: 568889.812
+mean_grad_bcs: 2.084
+It: 29600| loss: 5.031e+00| loss_res: 3.796e+09| loss_f: 2.470e+00| loss_ics: 2.880e+05| loss_bcs: 4.531e-02| Time: 0.01
+mean_grad_res: 5.888
+mean_grad_ics: 595477.938
+mean_grad_bcs: 4.232
+It: 29700| loss: 6.269e+00| loss_res: 2.731e+08| loss_f: 3.061e+00| loss_ics: 3.494e+05| loss_bcs: 7.327e-02| Time: 0.00
+mean_grad_res: 3.276
+mean_grad_ics: 478104.344
+mean_grad_bcs: 1.958
+It: 29800| loss: 2.508e+00| loss_res: 5.229e+07| loss_f: 1.216e+00| loss_ics: 3.533e+05| loss_bcs: 3.849e-02| Time: 0.01
+mean_grad_res: 1.309
+mean_grad_ics: 506203.500
+mean_grad_bcs: 1.592
+It: 29900| loss: 1.089e+00| loss_res: 1.838e+09| loss_f: 3.679e-01| loss_ics: 2.990e+05| loss_bcs: 1.765e-01| Time: 0.00
+mean_grad_res: 0.174
+mean_grad_ics: 386322.344
+mean_grad_bcs: 4.134
+It: 30000| loss: 3.440e+00| loss_res: 5.054e+09| loss_f: 1.680e+00| loss_ics: 2.362e+05| loss_bcs: 3.987e-02| Time: 0.01
+mean_grad_res: 2.636
+mean_grad_ics: 421337.250
+mean_grad_bcs: 2.368
+It: 30100| loss: 2.001e+00| loss_res: 7.675e+08| loss_f: 9.092e-01| loss_ics: 2.682e+05| loss_bcs: 9.126e-02| Time: 0.00
+mean_grad_res: 0.802
+mean_grad_ics: 381681.250
+mean_grad_bcs: 2.424
+It: 30200| loss: 2.549e+00| loss_res: 4.330e+09| loss_f: 1.165e+00| loss_ics: 3.350e+05| loss_bcs: 1.094e-01| Time: 0.00
+mean_grad_res: 2.830
+mean_grad_ics: 575062.562
+mean_grad_bcs: 2.660
+It: 30300| loss: 1.700e+00| loss_res: 3.359e+08| loss_f: 7.265e-01| loss_ics: 2.972e+05| loss_bcs: 1.236e-01| Time: 0.01
+mean_grad_res: 0.785
+mean_grad_ics: 411030.281
+mean_grad_bcs: 1.904
+It: 30400| loss: 6.359e+00| loss_res: 2.467e+09| loss_f: 2.991e+00| loss_ics: 2.837e+05| loss_bcs: 1.890e-01| Time: 0.00
+mean_grad_res: 3.174
+mean_grad_ics: 396997.719
+mean_grad_bcs: 4.259
+It: 30500| loss: 1.060e+01| loss_res: 4.714e+07| loss_f: 5.169e+00| loss_ics: 2.469e+05| loss_bcs: 1.308e-01| Time: 0.00
+mean_grad_res: 4.544
+mean_grad_ics: 306969.406
+mean_grad_bcs: 2.835
+It: 30600| loss: 1.927e+00| loss_res: 2.244e+09| loss_f: 8.199e-01| loss_ics: 2.957e+05| loss_bcs: 1.436e-01| Time: 0.01
+mean_grad_res: 2.413
+mean_grad_ics: 404059.875
+mean_grad_bcs: 3.844
+It: 30700| loss: 1.065e+00| loss_res: 2.896e+09| loss_f: 4.205e-01| loss_ics: 3.406e+05| loss_bcs: 1.118e-01| Time: 0.00
+mean_grad_res: 0.270
+mean_grad_ics: 463344.219
+mean_grad_bcs: 3.100
+It: 30800| loss: 3.535e+00| loss_res: 3.432e+08| loss_f: 1.666e+00| loss_ics: 2.263e+05| loss_bcs: 1.014e-01| Time: 0.01
+mean_grad_res: 2.978
+mean_grad_ics: 278771.094
+mean_grad_bcs: 4.021
+It: 30900| loss: 1.961e+00| loss_res: 2.348e+09| loss_f: 8.801e-01| loss_ics: 3.911e+05| loss_bcs: 1.003e-01| Time: 0.00
+mean_grad_res: 0.613
+mean_grad_ics: 608085.875
+mean_grad_bcs: 3.357
+It: 31000| loss: 3.671e+00| loss_res: 5.913e+07| loss_f: 1.765e+00| loss_ics: 2.158e+05| loss_bcs: 7.064e-02| Time: 0.00
+mean_grad_res: 2.495
+mean_grad_ics: 325551.312
+mean_grad_bcs: 1.779
+It: 31100| loss: 3.001e+00| loss_res: 1.863e+09| loss_f: 1.307e+00| loss_ics: 3.131e+05| loss_bcs: 1.941e-01| Time: 0.00
+mean_grad_res: 2.399
+mean_grad_ics: 371379.594
+mean_grad_bcs: 4.802
+It: 31200| loss: 1.444e+00| loss_res: 1.918e+09| loss_f: 5.603e-01| loss_ics: 2.404e+05| loss_bcs: 1.619e-01| Time: 0.01
+mean_grad_res: 0.235
+mean_grad_ics: 402476.750
+mean_grad_bcs: 3.601
+It: 31300| loss: 5.025e+00| loss_res: 8.733e+08| loss_f: 2.388e+00| loss_ics: 3.269e+05| loss_bcs: 1.241e-01| Time: 0.00
+mean_grad_res: 5.168
+mean_grad_ics: 428607.156
+mean_grad_bcs: 3.883
+It: 31400| loss: 1.753e+00| loss_res: 3.788e+08| loss_f: 7.860e-01| loss_ics: 3.961e+05| loss_bcs: 9.065e-02| Time: 0.00
+mean_grad_res: 0.707
+mean_grad_ics: 582256.938
+mean_grad_bcs: 2.947
+It: 31500| loss: 1.000e+00| loss_res: 4.595e+07| loss_f: 4.316e-01| loss_ics: 2.870e+05| loss_bcs: 6.840e-02| Time: 0.01
+mean_grad_res: 0.073
+mean_grad_ics: 360829.500
+mean_grad_bcs: 1.924
+It: 31600| loss: 2.846e+00| loss_res: 2.071e+09| loss_f: 1.359e+00| loss_ics: 3.109e+05| loss_bcs: 6.453e-02| Time: 0.00
+mean_grad_res: 2.519
+mean_grad_ics: 518077.531
+mean_grad_bcs: 3.479
+It: 31700| loss: 8.054e-01| loss_res: 4.341e+08| loss_f: 3.594e-01| loss_ics: 3.081e+05| loss_bcs: 4.332e-02| Time: 0.01
+mean_grad_res: 0.098
+mean_grad_ics: 487040.594
+mean_grad_bcs: 1.676
+It: 31800| loss: 1.059e+00| loss_res: 2.668e+08| loss_f: 4.602e-01| loss_ics: 3.058e+05| loss_bcs: 6.947e-02| Time: 0.01
+mean_grad_res: 0.079
+mean_grad_ics: 418297.875
+mean_grad_bcs: 2.094
+It: 31900| loss: 1.873e+00| loss_res: 2.648e+09| loss_f: 8.850e-01| loss_ics: 2.449e+05| loss_bcs: 5.155e-02| Time: 0.01
+mean_grad_res: 0.760
+mean_grad_ics: 322095.781
+mean_grad_bcs: 1.859
+It: 32000| loss: 6.368e+00| loss_res: 5.153e+09| loss_f: 3.112e+00| loss_ics: 3.215e+05| loss_bcs: 7.177e-02| Time: 0.01
+mean_grad_res: 6.949
+mean_grad_ics: 513969.469
+mean_grad_bcs: 3.185
+It: 32100| loss: 1.331e+00| loss_res: 7.769e+08| loss_f: 5.960e-01| loss_ics: 3.492e+05| loss_bcs: 6.954e-02| Time: 0.01
+mean_grad_res: 0.793
+mean_grad_ics: 464218.469
+mean_grad_bcs: 1.786
+It: 32200| loss: 7.571e+00| loss_res: 6.492e+08| loss_f: 3.744e+00| loss_ics: 3.067e+05| loss_bcs: 4.108e-02| Time: 0.01
+mean_grad_res: 5.105
+mean_grad_ics: 446167.500
+mean_grad_bcs: 3.107
+It: 32300| loss: 3.648e+00| loss_res: 3.752e+09| loss_f: 1.789e+00| loss_ics: 3.017e+05| loss_bcs: 3.512e-02| Time: 0.01
+mean_grad_res: 2.332
+mean_grad_ics: 432194.969
+mean_grad_bcs: 1.770
+It: 32400| loss: 5.085e+00| loss_res: 3.083e+08| loss_f: 2.497e+00| loss_ics: 3.546e+05| loss_bcs: 4.499e-02| Time: 0.00
+mean_grad_res: 3.253
+mean_grad_ics: 536464.562
+mean_grad_bcs: 1.735
+It: 32500| loss: 1.518e+00| loss_res: 8.652e+07| loss_f: 6.992e-01| loss_ics: 3.075e+05| loss_bcs: 5.958e-02| Time: 0.00
+mean_grad_res: 0.626
+mean_grad_ics: 448257.594
+mean_grad_bcs: 2.603
+It: 32600| loss: 7.955e+00| loss_res: 1.336e+09| loss_f: 3.829e+00| loss_ics: 2.809e+05| loss_bcs: 1.484e-01| Time: 0.01
+mean_grad_res: 3.966
+mean_grad_ics: 429720.031
+mean_grad_bcs: 4.175
+It: 32700| loss: 1.597e+00| loss_res: 1.249e+09| loss_f: 6.902e-01| loss_ics: 3.741e+05| loss_bcs: 1.082e-01| Time: 0.00
+mean_grad_res: 0.849
+mean_grad_ics: 569131.000
+mean_grad_bcs: 3.481
+It: 32800| loss: 8.665e+00| loss_res: 4.202e+09| loss_f: 4.283e+00| loss_ics: 3.007e+05| loss_bcs: 5.001e-02| Time: 0.01
+mean_grad_res: 7.192
+mean_grad_ics: 448876.094
+mean_grad_bcs: 2.658
+It: 32900| loss: 1.796e+00| loss_res: 3.824e+09| loss_f: 8.299e-01| loss_ics: 2.862e+05| loss_bcs: 6.806e-02| Time: 0.00
+mean_grad_res: 0.896
+mean_grad_ics: 493700.625
+mean_grad_bcs: 2.797
+It: 33000| loss: 1.108e+00| loss_res: 4.466e+09| loss_f: 5.098e-01| loss_ics: 2.857e+05| loss_bcs: 4.418e-02| Time: 0.01
+mean_grad_res: 0.167
+mean_grad_ics: 501241.500
+mean_grad_bcs: 1.331
+It: 33100| loss: 1.777e+00| loss_res: 4.504e+09| loss_f: 8.002e-01| loss_ics: 2.771e+05| loss_bcs: 8.802e-02| Time: 0.00
+mean_grad_res: 1.150
+mean_grad_ics: 369106.375
+mean_grad_bcs: 2.787
+It: 33200| loss: 4.346e+00| loss_res: 2.743e+09| loss_f: 2.079e+00| loss_ics: 3.318e+05| loss_bcs: 9.463e-02| Time: 0.01
+mean_grad_res: 3.418
+mean_grad_ics: 463106.656
+mean_grad_bcs: 3.452
+It: 33300| loss: 1.474e+00| loss_res: 2.400e+09| loss_f: 5.489e-01| loss_ics: 3.008e+05| loss_bcs: 1.883e-01| Time: 0.00
+mean_grad_res: 0.173
+mean_grad_ics: 400792.094
+mean_grad_bcs: 3.789
+It: 33400| loss: 1.581e+00| loss_res: 2.138e+07| loss_f: 5.798e-01| loss_ics: 3.354e+05| loss_bcs: 2.109e-01| Time: 0.00
+mean_grad_res: 0.070
+mean_grad_ics: 465432.469
+mean_grad_bcs: 4.210
+It: 33500| loss: 1.103e+00| loss_res: 2.025e+09| loss_f: 4.071e-01| loss_ics: 3.354e+05| loss_bcs: 1.443e-01| Time: 0.00
+mean_grad_res: 0.334
+mean_grad_ics: 505438.906
+mean_grad_bcs: 3.228
+It: 33600| loss: 1.182e+01| loss_res: 3.089e+09| loss_f: 5.832e+00| loss_ics: 3.269e+05| loss_bcs: 7.584e-02| Time: 0.00
+mean_grad_res: 6.245
+mean_grad_ics: 411960.156
+mean_grad_bcs: 1.925
+It: 33700| loss: 2.170e+00| loss_res: 3.811e+08| loss_f: 1.056e+00| loss_ics: 2.979e+05| loss_bcs: 2.935e-02| Time: 0.00
+mean_grad_res: 0.893
+mean_grad_ics: 468776.375
+mean_grad_bcs: 1.244
+It: 33800| loss: 1.695e+00| loss_res: 7.191e+08| loss_f: 8.110e-01| loss_ics: 3.120e+05| loss_bcs: 3.674e-02| Time: 0.00
+mean_grad_res: 0.563
+mean_grad_ics: 573089.625
+mean_grad_bcs: 1.729
+It: 33900| loss: 6.941e+00| loss_res: 2.127e+09| loss_f: 3.411e+00| loss_ics: 3.462e+05| loss_bcs: 5.953e-02| Time: 0.00
+mean_grad_res: 4.987
+mean_grad_ics: 503927.594
+mean_grad_bcs: 2.793
+It: 34000| loss: 2.338e+00| loss_res: 2.496e+09| loss_f: 1.122e+00| loss_ics: 4.134e+05| loss_bcs: 4.671e-02| Time: 0.01
+mean_grad_res: 2.270
+mean_grad_ics: 667656.000
+mean_grad_bcs: 1.150
+It: 34100| loss: 6.856e+00| loss_res: 2.398e+09| loss_f: 3.368e+00| loss_ics: 3.129e+05| loss_bcs: 5.966e-02| Time: 0.00
+mean_grad_res: 8.518
+mean_grad_ics: 407374.969
+mean_grad_bcs: 2.495
+It: 34200| loss: 2.951e+00| loss_res: 2.410e+09| loss_f: 1.422e+00| loss_ics: 2.716e+05| loss_bcs: 5.337e-02| Time: 0.01
+mean_grad_res: 3.509
+mean_grad_ics: 357150.156
+mean_grad_bcs: 1.936
+It: 34300| loss: 3.608e+00| loss_res: 1.214e+08| loss_f: 1.380e+00| loss_ics: 3.734e+05| loss_bcs: 4.240e-01| Time: 0.01
+mean_grad_res: 1.728
+mean_grad_ics: 501519.844
+mean_grad_bcs: 8.454
+It: 34400| loss: 2.623e+00| loss_res: 5.869e+08| loss_f: 1.284e+00| loss_ics: 2.866e+05| loss_bcs: 2.764e-02| Time: 0.00
+mean_grad_res: 1.590
+mean_grad_ics: 405598.375
+mean_grad_bcs: 0.729
+It: 34500| loss: 2.856e+00| loss_res: 1.958e+09| loss_f: 1.321e+00| loss_ics: 3.059e+05| loss_bcs: 1.070e-01| Time: 0.00
+mean_grad_res: 1.710
+mean_grad_ics: 567111.875
+mean_grad_bcs: 3.950
+It: 34600| loss: 1.229e+00| loss_res: 1.771e+08| loss_f: 5.114e-01| loss_ics: 3.378e+05| loss_bcs: 1.029e-01| Time: 0.00
+mean_grad_res: 0.050
+mean_grad_ics: 433114.406
+mean_grad_bcs: 3.632
+It: 34700| loss: 1.250e+00| loss_res: 5.130e+08| loss_f: 5.422e-01| loss_ics: 3.224e+05| loss_bcs: 8.280e-02| Time: 0.00
+mean_grad_res: 0.130
+mean_grad_ics: 491500.594
+mean_grad_bcs: 3.397
+It: 34800| loss: 1.035e+00| loss_res: 8.336e+08| loss_f: 4.619e-01| loss_ics: 2.470e+05| loss_bcs: 5.570e-02| Time: 0.01
+mean_grad_res: 0.211
+mean_grad_ics: 320207.281
+mean_grad_bcs: 0.932
+It: 34900| loss: 3.444e+00| loss_res: 1.015e+09| loss_f: 1.485e+00| loss_ics: 2.931e+05| loss_bcs: 2.366e-01| Time: 0.00
+mean_grad_res: 3.404
+mean_grad_ics: 403643.656
+mean_grad_bcs: 5.350
+It: 35000| loss: 1.070e+01| loss_res: 2.345e+09| loss_f: 5.246e+00| loss_ics: 3.335e+05| loss_bcs: 1.040e-01| Time: 0.00
+mean_grad_res: 6.299
+mean_grad_ics: 474826.594
+mean_grad_bcs: 3.563
+It: 35100| loss: 1.668e+00| loss_res: 8.237e+07| loss_f: 6.771e-01| loss_ics: 3.033e+05| loss_bcs: 1.568e-01| Time: 0.02
+mean_grad_res: 0.508
+mean_grad_ics: 420673.844
+mean_grad_bcs: 4.026
+It: 35200| loss: 2.740e+00| loss_res: 1.998e+09| loss_f: 1.193e+00| loss_ics: 4.650e+05| loss_bcs: 1.766e-01| Time: 0.00
+mean_grad_res: 3.080
+mean_grad_ics: 600801.812
+mean_grad_bcs: 3.358
+It: 35300| loss: 1.386e+00| loss_res: 7.641e+08| loss_f: 6.323e-01| loss_ics: 3.443e+05| loss_bcs: 6.084e-02| Time: 0.00
+mean_grad_res: 0.487
+mean_grad_ics: 443675.969
+mean_grad_bcs: 2.085
+It: 35400| loss: 1.434e+00| loss_res: 2.520e+09| loss_f: 6.002e-01| loss_ics: 4.231e+05| loss_bcs: 1.168e-01| Time: 0.00
+mean_grad_res: 0.536
+mean_grad_ics: 643559.625
+mean_grad_bcs: 2.886
+It: 35500| loss: 1.185e+00| loss_res: 3.048e+08| loss_f: 5.575e-01| loss_ics: 3.298e+05| loss_bcs: 3.502e-02| Time: 0.01
+mean_grad_res: 0.371
+mean_grad_ics: 471722.875
+mean_grad_bcs: 1.501
+It: 35600| loss: 1.465e+00| loss_res: 2.433e+09| loss_f: 6.801e-01| loss_ics: 2.861e+05| loss_bcs: 5.221e-02| Time: 0.01
+mean_grad_res: 0.759
+mean_grad_ics: 395814.969
+mean_grad_bcs: 1.252
+It: 35700| loss: 9.841e-01| loss_res: 5.542e+08| loss_f: 4.452e-01| loss_ics: 3.157e+05| loss_bcs: 4.691e-02| Time: 0.02
+mean_grad_res: 0.249
+mean_grad_ics: 471832.219
+mean_grad_bcs: 2.222
+It: 35800| loss: 6.052e+00| loss_res: 2.015e+09| loss_f: 3.000e+00| loss_ics: 3.459e+05| loss_bcs: 2.608e-02| Time: 0.00
+mean_grad_res: 3.648
+mean_grad_ics: 502587.875
+mean_grad_bcs: 2.027
+It: 35900| loss: 1.512e+00| loss_res: 1.503e+08| loss_f: 7.178e-01| loss_ics: 3.612e+05| loss_bcs: 3.842e-02| Time: 0.00
+mean_grad_res: 0.869
+mean_grad_ics: 477813.750
+mean_grad_bcs: 1.578
+It: 36000| loss: 4.462e+00| loss_res: 5.850e+08| loss_f: 2.188e+00| loss_ics: 3.600e+05| loss_bcs: 4.283e-02| Time: 0.00
+mean_grad_res: 4.015
+mean_grad_ics: 534367.938
+mean_grad_bcs: 1.495
+It: 36100| loss: 3.630e+00| loss_res: 4.342e+09| loss_f: 1.713e+00| loss_ics: 4.325e+05| loss_bcs: 1.021e-01| Time: 0.01
+mean_grad_res: 2.697
+mean_grad_ics: 607300.500
+mean_grad_bcs: 3.439
+It: 36200| loss: 1.260e+01| loss_res: 2.402e+08| loss_f: 6.183e+00| loss_ics: 3.148e+05| loss_bcs: 1.151e-01| Time: 0.00
+mean_grad_res: 3.949
+mean_grad_ics: 455985.969
+mean_grad_bcs: 3.910
+It: 36300| loss: 2.764e+00| loss_res: 8.763e+06| loss_f: 1.357e+00| loss_ics: 3.938e+05| loss_bcs: 2.518e-02| Time: 0.01
+mean_grad_res: 1.545
+mean_grad_ics: 631950.875
+mean_grad_bcs: 2.138
+It: 36400| loss: 1.135e+00| loss_res: 1.894e+09| loss_f: 4.892e-01| loss_ics: 3.885e+05| loss_bcs: 7.815e-02| Time: 0.00
+mean_grad_res: 0.360
+mean_grad_ics: 499319.000
+mean_grad_bcs: 2.872
+It: 36500| loss: 3.751e+00| loss_res: 9.690e+08| loss_f: 1.833e+00| loss_ics: 3.012e+05| loss_bcs: 4.230e-02| Time: 0.00
+mean_grad_res: 2.285
+mean_grad_ics: 404092.250
+mean_grad_bcs: 1.718
+It: 36600| loss: 1.212e+00| loss_res: 4.014e+07| loss_f: 5.668e-01| loss_ics: 3.580e+05| loss_bcs: 3.907e-02| Time: 0.00
+mean_grad_res: 0.313
+mean_grad_ics: 512371.500
+mean_grad_bcs: 1.210
+It: 36700| loss: 1.326e+00| loss_res: 7.154e+07| loss_f: 5.490e-01| loss_ics: 3.682e+05| loss_bcs: 1.140e-01| Time: 0.00
+mean_grad_res: 0.527
+mean_grad_ics: 545907.688
+mean_grad_bcs: 3.864
+It: 36800| loss: 1.733e+00| loss_res: 1.047e+09| loss_f: 8.067e-01| loss_ics: 3.491e+05| loss_bcs: 5.971e-02| Time: 0.01
+mean_grad_res: 0.785
+mean_grad_ics: 510237.625
+mean_grad_bcs: 2.237
+It: 36900| loss: 9.703e+00| loss_res: 1.599e+09| loss_f: 4.809e+00| loss_ics: 2.469e+05| loss_bcs: 4.231e-02| Time: 0.00
+mean_grad_res: 5.171
+mean_grad_ics: 375580.656
+mean_grad_bcs: 1.547
+It: 37000| loss: 3.498e+00| loss_res: 3.953e+08| loss_f: 1.712e+00| loss_ics: 2.762e+05| loss_bcs: 3.697e-02| Time: 0.00
+mean_grad_res: 3.094
+mean_grad_ics: 374056.094
+mean_grad_bcs: 2.000
+It: 37100| loss: 1.136e+00| loss_res: 2.942e+08| loss_f: 5.014e-01| loss_ics: 3.772e+05| loss_bcs: 6.671e-02| Time: 0.00
+mean_grad_res: 0.091
+mean_grad_ics: 517373.250
+mean_grad_bcs: 2.037
+It: 37200| loss: 1.662e+00| loss_res: 2.029e+09| loss_f: 7.483e-01| loss_ics: 3.850e+05| loss_bcs: 8.280e-02| Time: 0.01
+mean_grad_res: 0.476
+mean_grad_ics: 545121.562
+mean_grad_bcs: 3.075
+It: 37300| loss: 1.314e+01| loss_res: 4.586e+08| loss_f: 6.522e+00| loss_ics: 3.545e+05| loss_bcs: 4.707e-02| Time: 0.00
+mean_grad_res: 5.938
+mean_grad_ics: 535482.438
+mean_grad_bcs: 1.939
+It: 37400| loss: 5.208e+00| loss_res: 2.270e+09| loss_f: 2.553e+00| loss_ics: 4.008e+05| loss_bcs: 5.085e-02| Time: 0.01
+mean_grad_res: 2.633
+mean_grad_ics: 671675.250
+mean_grad_bcs: 2.014
+It: 37500| loss: 1.728e+00| loss_res: 2.688e+09| loss_f: 7.801e-01| loss_ics: 3.912e+05| loss_bcs: 8.416e-02| Time: 0.00
+mean_grad_res: 0.688
+mean_grad_ics: 519348.250
+mean_grad_bcs: 2.549
+It: 37600| loss: 2.159e+00| loss_res: 2.752e+09| loss_f: 9.895e-01| loss_ics: 3.741e+05| loss_bcs: 9.006e-02| Time: 0.01
+mean_grad_res: 3.109
+mean_grad_ics: 535313.938
+mean_grad_bcs: 2.547
+It: 37700| loss: 3.196e+00| loss_res: 3.087e+08| loss_f: 1.542e+00| loss_ics: 3.850e+05| loss_bcs: 5.587e-02| Time: 0.01
+mean_grad_res: 2.469
+mean_grad_ics: 569218.812
+mean_grad_bcs: 2.964
+It: 37800| loss: 1.208e+00| loss_res: 2.132e+08| loss_f: 5.804e-01| loss_ics: 2.926e+05| loss_bcs: 2.347e-02| Time: 0.00
+mean_grad_res: 0.525
+mean_grad_ics: 532706.500
+mean_grad_bcs: 0.968
+It: 37900| loss: 1.725e+01| loss_res: 2.096e+07| loss_f: 8.524e+00| loss_ics: 3.744e+05| loss_bcs: 1.030e-01| Time: 0.00
+mean_grad_res: 9.085
+mean_grad_ics: 529733.438
+mean_grad_bcs: 3.390
+It: 38000| loss: 1.777e+00| loss_res: 6.498e+08| loss_f: 8.162e-01| loss_ics: 3.638e+05| loss_bcs: 7.241e-02| Time: 0.00
+mean_grad_res: 0.596
+mean_grad_ics: 525192.438
+mean_grad_bcs: 4.030
+It: 38100| loss: 1.278e+00| loss_res: 2.131e+08| loss_f: 5.346e-01| loss_ics: 3.469e+05| loss_bcs: 1.042e-01| Time: 0.00
+mean_grad_res: 0.149
+mean_grad_ics: 544914.125
+mean_grad_bcs: 3.855
+It: 38200| loss: 1.849e+00| loss_res: 2.956e+08| loss_f: 8.750e-01| loss_ics: 3.091e+05| loss_bcs: 4.962e-02| Time: 0.00
+mean_grad_res: 1.057
+mean_grad_ics: 442523.875
+mean_grad_bcs: 3.263
+It: 38300| loss: 1.176e+00| loss_res: 1.846e+08| loss_f: 4.897e-01| loss_ics: 4.672e+05| loss_bcs: 9.832e-02| Time: 0.00
+mean_grad_res: 0.473
+mean_grad_ics: 704807.438
+mean_grad_bcs: 4.056
+It: 38400| loss: 3.801e+00| loss_res: 2.251e+09| loss_f: 1.795e+00| loss_ics: 3.223e+05| loss_bcs: 1.056e-01| Time: 0.01
+mean_grad_res: 2.862
+mean_grad_ics: 486184.000
+mean_grad_bcs: 3.204
+It: 38500| loss: 3.734e+00| loss_res: 3.137e+08| loss_f: 1.837e+00| loss_ics: 3.543e+05| loss_bcs: 3.034e-02| Time: 0.00
+mean_grad_res: 4.761
+mean_grad_ics: 535865.688
+mean_grad_bcs: 1.103
+It: 38600| loss: 1.505e+00| loss_res: 2.862e+08| loss_f: 7.144e-01| loss_ics: 3.869e+05| loss_bcs: 3.799e-02| Time: 0.01
+mean_grad_res: 0.600
+mean_grad_ics: 638701.375
+mean_grad_bcs: 1.727
+It: 38700| loss: 3.672e+00| loss_res: 2.996e+09| loss_f: 1.765e+00| loss_ics: 3.764e+05| loss_bcs: 7.128e-02| Time: 0.01
+mean_grad_res: 3.459
+mean_grad_ics: 506872.594
+mean_grad_bcs: 2.222
+It: 38800| loss: 2.645e+00| loss_res: 2.343e+08| loss_f: 1.288e+00| loss_ics: 3.588e+05| loss_bcs: 3.439e-02| Time: 0.02
+mean_grad_res: 1.521
+mean_grad_ics: 565049.250
+mean_grad_bcs: 1.790
+It: 38900| loss: 2.362e+00| loss_res: 3.602e+09| loss_f: 1.114e+00| loss_ics: 3.253e+05| loss_bcs: 6.731e-02| Time: 0.00
+mean_grad_res: 1.785
+mean_grad_ics: 553215.375
+mean_grad_bcs: 3.468
+It: 39000| loss: 2.406e+00| loss_res: 3.300e+09| loss_f: 1.141e+00| loss_ics: 3.569e+05| loss_bcs: 6.217e-02| Time: 0.01
+mean_grad_res: 1.746
+mean_grad_ics: 517945.656
+mean_grad_bcs: 2.538
+It: 39100| loss: 5.804e+00| loss_res: 6.763e+09| loss_f: 2.892e+00| loss_ics: 2.686e+05| loss_bcs: 9.882e-03| Time: 0.00
+mean_grad_res: 7.447
+mean_grad_ics: 431622.625
+mean_grad_bcs: 0.840
+It: 39200| loss: 1.500e+00| loss_res: 1.185e+08| loss_f: 7.196e-01| loss_ics: 3.102e+05| loss_bcs: 3.017e-02| Time: 0.01
+mean_grad_res: 0.508
+mean_grad_ics: 452858.000
+mean_grad_bcs: 0.835
+It: 39300| loss: 1.316e+00| loss_res: 2.288e+08| loss_f: 5.821e-01| loss_ics: 4.164e+05| loss_bcs: 7.607e-02| Time: 0.00
+mean_grad_res: 0.286
+mean_grad_ics: 533162.000
+mean_grad_bcs: 3.051
+It: 39400| loss: 6.915e+00| loss_res: 8.751e+09| loss_f: 3.421e+00| loss_ics: 3.308e+05| loss_bcs: 3.677e-02| Time: 0.01
+mean_grad_res: 10.055
+mean_grad_ics: 503069.719
+mean_grad_bcs: 1.358
+It: 39500| loss: 7.264e+00| loss_res: 4.203e+09| loss_f: 3.535e+00| loss_ics: 4.001e+05| loss_bcs: 9.732e-02| Time: 0.00
+mean_grad_res: 9.236
+mean_grad_ics: 582755.000
+mean_grad_bcs: 4.104
+It: 39600| loss: 1.146e+00| loss_res: 8.094e+08| loss_f: 4.843e-01| loss_ics: 3.704e+05| loss_bcs: 8.850e-02| Time: 0.00
+mean_grad_res: 0.352
+mean_grad_ics: 534387.562
+mean_grad_bcs: 2.985
+It: 39700| loss: 3.282e+00| loss_res: 2.460e+08| loss_f: 1.604e+00| loss_ics: 4.580e+05| loss_bcs: 3.725e-02| Time: 0.00
+mean_grad_res: 5.000
+mean_grad_ics: 628938.438
+mean_grad_bcs: 1.291
+It: 39800| loss: 1.417e+00| loss_res: 1.952e+09| loss_f: 6.403e-01| loss_ics: 2.974e+05| loss_bcs: 6.815e-02| Time: 0.00
+mean_grad_res: 0.487
+mean_grad_ics: 441581.406
+mean_grad_bcs: 2.180
+It: 39900| loss: 2.450e+00| loss_res: 3.020e+08| loss_f: 9.927e-01| loss_ics: 3.825e+05| loss_bcs: 2.322e-01| Time: 0.01
+mean_grad_res: 1.008
+mean_grad_ics: 524442.688
+mean_grad_bcs: 5.588
+Gradients information stored ...
+It: 40000| loss: 1.827e+00| loss_res: 7.214e+07| loss_f: 8.730e-01| loss_ics: 3.827e+05| loss_bcs: 4.063e-02| Time: 0.65
+mean_grad_res: 1.108
+mean_grad_ics: 543106.062
+mean_grad_bcs: 1.700
+average lambda_bc2.7336e+00
+average lambda_bc2.5019e+05
+average lambda_res1.0
+Save uv NN parameters successfully in %s ...checkpoints/Jan-11-2024_20-58-24-461745_M2
+Final loss loss: 1.827345e+00
+Final loss loss_res: 7.213930e+07
+Final loss loss_f: 8.730455e-01
+Final loss loss_ics: 3.827009e+05
+Final loss loss_bcs: 4.062711e-02

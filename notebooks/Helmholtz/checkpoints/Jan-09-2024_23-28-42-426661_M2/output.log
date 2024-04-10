@@ -1,0 +1,1225 @@
+It: 0, Loss: 6.407e+03, Loss_bcs: 1.194e+00, Loss_res: 6.406e+03,Time: 1.60
+mean_grad_res: 0.555387
+mean_grad_bcs: 0.311962
+Gradients information stored ...
+It: 100, Loss: 7.716e+03, Loss_bcs: 1.976e-01, Loss_res: 7.716e+03,Time: 0.01
+mean_grad_res: 0.386047
+mean_grad_bcs: 1.062307
+Gradients information stored ...
+It: 200, Loss: 8.032e+03, Loss_bcs: 1.271e-01, Loss_res: 8.032e+03,Time: 0.00
+mean_grad_res: 1.272083
+mean_grad_bcs: 0.409055
+It: 300, Loss: 7.064e+03, Loss_bcs: 9.926e-02, Loss_res: 7.063e+03,Time: 0.00
+mean_grad_res: 0.524334
+mean_grad_bcs: 0.569017
+It: 400, Loss: 6.741e+03, Loss_bcs: 1.463e-01, Loss_res: 6.741e+03,Time: 0.00
+mean_grad_res: 0.751410
+mean_grad_bcs: 1.063251
+It: 500, Loss: 5.901e+03, Loss_bcs: 1.065e-01, Loss_res: 5.901e+03,Time: 0.00
+mean_grad_res: 1.012650
+mean_grad_bcs: 0.653625
+It: 600, Loss: 6.242e+03, Loss_bcs: 3.059e-01, Loss_res: 6.241e+03,Time: 0.00
+mean_grad_res: 0.441583
+mean_grad_bcs: 0.969217
+It: 700, Loss: 6.595e+03, Loss_bcs: 5.427e-01, Loss_res: 6.595e+03,Time: 0.00
+mean_grad_res: 1.175611
+mean_grad_bcs: 0.602568
+It: 800, Loss: 6.676e+03, Loss_bcs: 1.579e+00, Loss_res: 6.674e+03,Time: 0.00
+mean_grad_res: 1.459980
+mean_grad_bcs: 0.898271
+It: 900, Loss: 6.579e+03, Loss_bcs: 3.853e+00, Loss_res: 6.575e+03,Time: 0.00
+mean_grad_res: 1.941512
+mean_grad_bcs: 1.893576
+It: 1000, Loss: 6.738e+03, Loss_bcs: 4.765e+00, Loss_res: 6.734e+03,Time: 0.00
+mean_grad_res: 1.235343
+mean_grad_bcs: 3.129629
+Gradients information stored ...
+It: 1100, Loss: 6.346e+03, Loss_bcs: 4.619e+00, Loss_res: 6.341e+03,Time: 0.00
+mean_grad_res: 3.458744
+mean_grad_bcs: 3.099796
+It: 1200, Loss: 6.562e+03, Loss_bcs: 4.633e+00, Loss_res: 6.557e+03,Time: 0.00
+mean_grad_res: 2.784007
+mean_grad_bcs: 1.992532
+It: 1300, Loss: 7.295e+03, Loss_bcs: 3.966e+00, Loss_res: 7.291e+03,Time: 0.00
+mean_grad_res: 2.783328
+mean_grad_bcs: 2.123007
+It: 1400, Loss: 7.306e+03, Loss_bcs: 3.543e+00, Loss_res: 7.303e+03,Time: 0.00
+mean_grad_res: 1.698412
+mean_grad_bcs: 2.001982
+It: 1500, Loss: 7.400e+03, Loss_bcs: 5.291e+00, Loss_res: 7.395e+03,Time: 0.00
+mean_grad_res: 2.748185
+mean_grad_bcs: 5.909786
+It: 1600, Loss: 6.649e+03, Loss_bcs: 4.466e+00, Loss_res: 6.645e+03,Time: 0.00
+mean_grad_res: 4.717207
+mean_grad_bcs: 4.616487
+It: 1700, Loss: 4.990e+03, Loss_bcs: 5.090e+01, Loss_res: 4.939e+03,Time: 0.03
+mean_grad_res: 79.758652
+mean_grad_bcs: 23.384079
+It: 1800, Loss: 4.054e+03, Loss_bcs: 1.744e+02, Loss_res: 3.879e+03,Time: 0.00
+mean_grad_res: 91.488777
+mean_grad_bcs: 63.387901
+It: 1900, Loss: 3.754e+03, Loss_bcs: 1.047e+02, Loss_res: 3.649e+03,Time: 0.01
+mean_grad_res: 120.891907
+mean_grad_bcs: 27.953955
+It: 2000, Loss: 2.930e+03, Loss_bcs: 6.548e+01, Loss_res: 2.865e+03,Time: 0.01
+mean_grad_res: 83.019745
+mean_grad_bcs: 32.769028
+It: 2100, Loss: 2.455e+03, Loss_bcs: 5.851e+01, Loss_res: 2.396e+03,Time: 0.00
+mean_grad_res: 32.461075
+mean_grad_bcs: 42.501472
+It: 2200, Loss: 2.366e+03, Loss_bcs: 5.878e+01, Loss_res: 2.307e+03,Time: 0.00
+mean_grad_res: 48.049427
+mean_grad_bcs: 33.919521
+It: 2300, Loss: 1.678e+03, Loss_bcs: 5.911e+01, Loss_res: 1.619e+03,Time: 0.01
+mean_grad_res: 30.737984
+mean_grad_bcs: 14.051363
+It: 2400, Loss: 2.147e+03, Loss_bcs: 8.387e+01, Loss_res: 2.063e+03,Time: 0.00
+mean_grad_res: 63.180229
+mean_grad_bcs: 21.872398
+It: 2500, Loss: 8.807e+02, Loss_bcs: 9.141e+01, Loss_res: 7.893e+02,Time: 0.00
+mean_grad_res: 27.290285
+mean_grad_bcs: 24.818096
+It: 2600, Loss: 1.367e+03, Loss_bcs: 7.835e+01, Loss_res: 1.288e+03,Time: 0.00
+mean_grad_res: 49.013405
+mean_grad_bcs: 47.571259
+It: 2700, Loss: 1.029e+03, Loss_bcs: 4.838e+01, Loss_res: 9.804e+02,Time: 0.00
+mean_grad_res: 33.952469
+mean_grad_bcs: 36.784081
+It: 2800, Loss: 6.235e+02, Loss_bcs: 4.097e+01, Loss_res: 5.825e+02,Time: 0.00
+mean_grad_res: 34.281609
+mean_grad_bcs: 31.249598
+It: 2900, Loss: 6.019e+02, Loss_bcs: 3.397e+01, Loss_res: 5.679e+02,Time: 0.00
+mean_grad_res: 39.245827
+mean_grad_bcs: 23.047729
+It: 3000, Loss: 4.924e+02, Loss_bcs: 2.359e+01, Loss_res: 4.688e+02,Time: 0.00
+mean_grad_res: 30.557526
+mean_grad_bcs: 24.443497
+It: 3100, Loss: 2.053e+02, Loss_bcs: 1.916e+01, Loss_res: 1.861e+02,Time: 0.00
+mean_grad_res: 34.990364
+mean_grad_bcs: 30.023584
+It: 3200, Loss: 2.946e+02, Loss_bcs: 1.547e+01, Loss_res: 2.792e+02,Time: 0.00
+mean_grad_res: 29.070839
+mean_grad_bcs: 21.290722
+It: 3300, Loss: 1.993e+02, Loss_bcs: 1.735e+01, Loss_res: 1.819e+02,Time: 0.00
+mean_grad_res: 43.457451
+mean_grad_bcs: 20.324581
+It: 3400, Loss: 9.261e+01, Loss_bcs: 1.242e+01, Loss_res: 8.019e+01,Time: 0.00
+mean_grad_res: 23.951624
+mean_grad_bcs: 18.694839
+It: 3500, Loss: 1.605e+02, Loss_bcs: 1.341e+01, Loss_res: 1.471e+02,Time: 0.00
+mean_grad_res: 29.559103
+mean_grad_bcs: 22.543324
+It: 3600, Loss: 1.260e+02, Loss_bcs: 1.327e+01, Loss_res: 1.127e+02,Time: 0.00
+mean_grad_res: 29.909245
+mean_grad_bcs: 17.467297
+It: 3700, Loss: 9.246e+01, Loss_bcs: 1.265e+01, Loss_res: 7.981e+01,Time: 0.01
+mean_grad_res: 27.983660
+mean_grad_bcs: 19.150620
+It: 3800, Loss: 7.881e+01, Loss_bcs: 1.579e+01, Loss_res: 6.302e+01,Time: 0.00
+mean_grad_res: 23.100622
+mean_grad_bcs: 28.013000
+It: 3900, Loss: 5.580e+01, Loss_bcs: 9.158e+00, Loss_res: 4.664e+01,Time: 0.00
+mean_grad_res: 16.649986
+mean_grad_bcs: 10.020412
+It: 4000, Loss: 5.929e+01, Loss_bcs: 1.153e+01, Loss_res: 4.776e+01,Time: 0.00
+mean_grad_res: 24.240093
+mean_grad_bcs: 16.545931
+It: 4100, Loss: 3.704e+01, Loss_bcs: 8.828e+00, Loss_res: 2.821e+01,Time: 0.00
+mean_grad_res: 19.006186
+mean_grad_bcs: 13.408300
+It: 4200, Loss: 5.426e+01, Loss_bcs: 1.063e+01, Loss_res: 4.364e+01,Time: 0.01
+mean_grad_res: 37.710003
+mean_grad_bcs: 35.614029
+It: 4300, Loss: 3.138e+01, Loss_bcs: 8.886e+00, Loss_res: 2.249e+01,Time: 0.00
+mean_grad_res: 11.762501
+mean_grad_bcs: 15.331610
+It: 4400, Loss: 2.825e+01, Loss_bcs: 6.690e+00, Loss_res: 2.156e+01,Time: 0.00
+mean_grad_res: 12.068405
+mean_grad_bcs: 18.820007
+It: 4500, Loss: 2.279e+01, Loss_bcs: 7.629e+00, Loss_res: 1.516e+01,Time: 0.01
+mean_grad_res: 6.207196
+mean_grad_bcs: 20.547277
+It: 4600, Loss: 2.353e+01, Loss_bcs: 6.631e+00, Loss_res: 1.690e+01,Time: 0.00
+mean_grad_res: 16.864845
+mean_grad_bcs: 20.528858
+It: 4700, Loss: 4.036e+01, Loss_bcs: 9.964e+00, Loss_res: 3.040e+01,Time: 0.00
+mean_grad_res: 12.499835
+mean_grad_bcs: 29.566299
+It: 4800, Loss: 2.420e+01, Loss_bcs: 6.599e+00, Loss_res: 1.760e+01,Time: 0.00
+mean_grad_res: 19.645130
+mean_grad_bcs: 13.753681
+It: 4900, Loss: 2.491e+01, Loss_bcs: 5.069e+00, Loss_res: 1.984e+01,Time: 0.00
+mean_grad_res: 7.328238
+mean_grad_bcs: 6.538387
+It: 5000, Loss: 1.863e+01, Loss_bcs: 6.125e+00, Loss_res: 1.250e+01,Time: 0.01
+mean_grad_res: 9.554964
+mean_grad_bcs: 22.477467
+It: 5100, Loss: 2.752e+01, Loss_bcs: 6.152e+00, Loss_res: 2.137e+01,Time: 0.00
+mean_grad_res: 11.101303
+mean_grad_bcs: 17.980757
+It: 5200, Loss: 1.905e+01, Loss_bcs: 4.713e+00, Loss_res: 1.433e+01,Time: 0.00
+mean_grad_res: 9.799975
+mean_grad_bcs: 9.913013
+It: 5300, Loss: 1.591e+01, Loss_bcs: 4.928e+00, Loss_res: 1.098e+01,Time: 0.00
+mean_grad_res: 17.215252
+mean_grad_bcs: 13.421832
+It: 5400, Loss: 3.081e+01, Loss_bcs: 5.400e+00, Loss_res: 2.541e+01,Time: 0.00
+mean_grad_res: 16.584684
+mean_grad_bcs: 18.593899
+It: 5500, Loss: 1.418e+01, Loss_bcs: 4.733e+00, Loss_res: 9.450e+00,Time: 0.00
+mean_grad_res: 8.869576
+mean_grad_bcs: 17.445423
+It: 5600, Loss: 1.866e+01, Loss_bcs: 3.955e+00, Loss_res: 1.470e+01,Time: 0.00
+mean_grad_res: 6.928195
+mean_grad_bcs: 6.059120
+It: 5700, Loss: 1.830e+01, Loss_bcs: 3.998e+00, Loss_res: 1.430e+01,Time: 0.00
+mean_grad_res: 17.697651
+mean_grad_bcs: 12.745737
+It: 5800, Loss: 2.142e+01, Loss_bcs: 4.341e+00, Loss_res: 1.708e+01,Time: 0.00
+mean_grad_res: 13.282692
+mean_grad_bcs: 16.355597
+It: 5900, Loss: 1.171e+01, Loss_bcs: 3.923e+00, Loss_res: 7.786e+00,Time: 0.00
+mean_grad_res: 8.684646
+mean_grad_bcs: 12.260414
+It: 6000, Loss: 1.465e+01, Loss_bcs: 4.331e+00, Loss_res: 1.032e+01,Time: 0.00
+mean_grad_res: 20.566198
+mean_grad_bcs: 23.314577
+It: 6100, Loss: 1.117e+01, Loss_bcs: 3.707e+00, Loss_res: 7.459e+00,Time: 0.00
+mean_grad_res: 9.925046
+mean_grad_bcs: 9.540344
+It: 6200, Loss: 9.217e+00, Loss_bcs: 2.309e+00, Loss_res: 6.908e+00,Time: 0.00
+mean_grad_res: 11.016375
+mean_grad_bcs: 7.020542
+It: 6300, Loss: 1.642e+01, Loss_bcs: 3.422e+00, Loss_res: 1.300e+01,Time: 0.00
+mean_grad_res: 9.434065
+mean_grad_bcs: 8.699412
+It: 6400, Loss: 9.947e+00, Loss_bcs: 3.229e+00, Loss_res: 6.717e+00,Time: 0.00
+mean_grad_res: 14.869411
+mean_grad_bcs: 11.371639
+It: 6500, Loss: 1.070e+01, Loss_bcs: 3.943e+00, Loss_res: 6.758e+00,Time: 0.00
+mean_grad_res: 11.631536
+mean_grad_bcs: 20.844246
+It: 6600, Loss: 1.065e+01, Loss_bcs: 3.488e+00, Loss_res: 7.165e+00,Time: 0.00
+mean_grad_res: 10.675506
+mean_grad_bcs: 12.275522
+It: 6700, Loss: 9.790e+00, Loss_bcs: 2.962e+00, Loss_res: 6.828e+00,Time: 0.00
+mean_grad_res: 8.322976
+mean_grad_bcs: 7.596905
+It: 6800, Loss: 1.102e+01, Loss_bcs: 2.960e+00, Loss_res: 8.057e+00,Time: 0.00
+mean_grad_res: 9.130391
+mean_grad_bcs: 7.171737
+It: 6900, Loss: 1.549e+01, Loss_bcs: 2.349e+00, Loss_res: 1.314e+01,Time: 0.00
+mean_grad_res: 11.609209
+mean_grad_bcs: 8.075092
+It: 7000, Loss: 1.309e+01, Loss_bcs: 2.260e+00, Loss_res: 1.083e+01,Time: 0.00
+mean_grad_res: 6.015261
+mean_grad_bcs: 5.808476
+It: 7100, Loss: 8.798e+00, Loss_bcs: 2.580e+00, Loss_res: 6.218e+00,Time: 0.00
+mean_grad_res: 14.283203
+mean_grad_bcs: 12.462746
+It: 7200, Loss: 1.099e+01, Loss_bcs: 2.325e+00, Loss_res: 8.660e+00,Time: 0.00
+mean_grad_res: 12.407064
+mean_grad_bcs: 7.235178
+It: 7300, Loss: 8.534e+00, Loss_bcs: 2.135e+00, Loss_res: 6.399e+00,Time: 0.00
+mean_grad_res: 9.781397
+mean_grad_bcs: 6.378531
+It: 7400, Loss: 6.738e+00, Loss_bcs: 2.501e+00, Loss_res: 4.237e+00,Time: 0.00
+mean_grad_res: 10.877892
+mean_grad_bcs: 11.426443
+It: 7500, Loss: 1.073e+01, Loss_bcs: 2.367e+00, Loss_res: 8.363e+00,Time: 0.00
+mean_grad_res: 8.359745
+mean_grad_bcs: 8.388571
+It: 7600, Loss: 7.249e+00, Loss_bcs: 2.546e+00, Loss_res: 4.704e+00,Time: 0.00
+mean_grad_res: 10.369027
+mean_grad_bcs: 21.077618
+It: 7700, Loss: 1.275e+01, Loss_bcs: 1.962e+00, Loss_res: 1.079e+01,Time: 0.00
+mean_grad_res: 9.228668
+mean_grad_bcs: 4.918452
+It: 7800, Loss: 7.375e+00, Loss_bcs: 2.091e+00, Loss_res: 5.284e+00,Time: 0.00
+mean_grad_res: 8.197882
+mean_grad_bcs: 7.820391
+It: 7900, Loss: 7.845e+00, Loss_bcs: 2.352e+00, Loss_res: 5.493e+00,Time: 0.00
+mean_grad_res: 6.965376
+mean_grad_bcs: 15.566359
+It: 8000, Loss: 6.075e+00, Loss_bcs: 1.705e+00, Loss_res: 4.370e+00,Time: 0.00
+mean_grad_res: 10.970030
+mean_grad_bcs: 6.824348
+It: 8100, Loss: 1.181e+01, Loss_bcs: 2.231e+00, Loss_res: 9.583e+00,Time: 0.00
+mean_grad_res: 12.846190
+mean_grad_bcs: 9.213451
+It: 8200, Loss: 4.213e+00, Loss_bcs: 2.032e+00, Loss_res: 2.181e+00,Time: 0.00
+mean_grad_res: 7.409761
+mean_grad_bcs: 11.054573
+It: 8300, Loss: 7.101e+00, Loss_bcs: 1.619e+00, Loss_res: 5.482e+00,Time: 0.00
+mean_grad_res: 7.397825
+mean_grad_bcs: 6.134320
+It: 8400, Loss: 6.315e+00, Loss_bcs: 1.909e+00, Loss_res: 4.406e+00,Time: 0.00
+mean_grad_res: 7.892645
+mean_grad_bcs: 4.935050
+It: 8500, Loss: 4.694e+00, Loss_bcs: 1.739e+00, Loss_res: 2.955e+00,Time: 0.00
+mean_grad_res: 4.702680
+mean_grad_bcs: 11.258138
+It: 8600, Loss: 6.440e+00, Loss_bcs: 1.702e+00, Loss_res: 4.739e+00,Time: 0.00
+mean_grad_res: 12.908958
+mean_grad_bcs: 6.011611
+It: 8700, Loss: 3.866e+00, Loss_bcs: 1.668e+00, Loss_res: 2.198e+00,Time: 0.00
+mean_grad_res: 7.810384
+mean_grad_bcs: 12.162205
+It: 8800, Loss: 5.697e+00, Loss_bcs: 1.793e+00, Loss_res: 3.904e+00,Time: 0.00
+mean_grad_res: 9.742408
+mean_grad_bcs: 7.926994
+It: 8900, Loss: 9.235e+00, Loss_bcs: 1.425e+00, Loss_res: 7.811e+00,Time: 0.00
+mean_grad_res: 5.458427
+mean_grad_bcs: 4.958739
+It: 9000, Loss: 8.881e+00, Loss_bcs: 1.278e+00, Loss_res: 7.603e+00,Time: 0.00
+mean_grad_res: 13.324969
+mean_grad_bcs: 5.765834
+It: 9100, Loss: 4.866e+00, Loss_bcs: 1.254e+00, Loss_res: 3.612e+00,Time: 0.00
+mean_grad_res: 5.839055
+mean_grad_bcs: 4.452068
+It: 9200, Loss: 7.665e+00, Loss_bcs: 2.052e+00, Loss_res: 5.613e+00,Time: 0.00
+mean_grad_res: 4.221652
+mean_grad_bcs: 20.353884
+It: 9300, Loss: 5.213e+00, Loss_bcs: 1.586e+00, Loss_res: 3.627e+00,Time: 0.00
+mean_grad_res: 10.549273
+mean_grad_bcs: 6.937289
+It: 9400, Loss: 4.665e+00, Loss_bcs: 1.268e+00, Loss_res: 3.397e+00,Time: 0.00
+mean_grad_res: 6.975353
+mean_grad_bcs: 12.149363
+It: 9500, Loss: 4.277e+00, Loss_bcs: 1.396e+00, Loss_res: 2.881e+00,Time: 0.00
+mean_grad_res: 7.450640
+mean_grad_bcs: 6.527514
+It: 9600, Loss: 4.132e+00, Loss_bcs: 1.270e+00, Loss_res: 2.862e+00,Time: 0.00
+mean_grad_res: 7.426461
+mean_grad_bcs: 7.029985
+It: 9700, Loss: 4.584e+00, Loss_bcs: 9.139e-01, Loss_res: 3.670e+00,Time: 0.00
+mean_grad_res: 6.592009
+mean_grad_bcs: 4.706451
+It: 9800, Loss: 4.269e+00, Loss_bcs: 1.377e+00, Loss_res: 2.891e+00,Time: 0.00
+mean_grad_res: 6.322408
+mean_grad_bcs: 3.845704
+It: 9900, Loss: 3.698e+00, Loss_bcs: 8.911e-01, Loss_res: 2.807e+00,Time: 0.00
+mean_grad_res: 5.482511
+mean_grad_bcs: 7.385724
+It: 10000, Loss: 5.493e+00, Loss_bcs: 1.120e+00, Loss_res: 4.374e+00,Time: 0.00
+mean_grad_res: 9.256080
+mean_grad_bcs: 10.643599
+It: 10100, Loss: 3.643e+00, Loss_bcs: 1.089e+00, Loss_res: 2.554e+00,Time: 0.00
+mean_grad_res: 4.090220
+mean_grad_bcs: 6.150178
+It: 10200, Loss: 5.813e+00, Loss_bcs: 1.145e+00, Loss_res: 4.668e+00,Time: 0.00
+mean_grad_res: 3.983086
+mean_grad_bcs: 7.170575
+It: 10300, Loss: 2.703e+00, Loss_bcs: 1.186e+00, Loss_res: 1.517e+00,Time: 0.00
+mean_grad_res: 4.748489
+mean_grad_bcs: 8.925812
+It: 10400, Loss: 3.118e+00, Loss_bcs: 1.173e+00, Loss_res: 1.945e+00,Time: 0.00
+mean_grad_res: 4.581320
+mean_grad_bcs: 6.407629
+It: 10500, Loss: 3.946e+00, Loss_bcs: 1.602e+00, Loss_res: 2.344e+00,Time: 0.00
+mean_grad_res: 9.339546
+mean_grad_bcs: 21.030539
+It: 10600, Loss: 3.182e+00, Loss_bcs: 9.187e-01, Loss_res: 2.263e+00,Time: 0.00
+mean_grad_res: 4.608855
+mean_grad_bcs: 6.249230
+It: 10700, Loss: 2.977e+00, Loss_bcs: 1.010e+00, Loss_res: 1.967e+00,Time: 0.00
+mean_grad_res: 6.230760
+mean_grad_bcs: 8.450533
+It: 10800, Loss: 3.459e+00, Loss_bcs: 9.677e-01, Loss_res: 2.491e+00,Time: 0.00
+mean_grad_res: 5.591929
+mean_grad_bcs: 6.072577
+It: 10900, Loss: 4.195e+00, Loss_bcs: 9.792e-01, Loss_res: 3.216e+00,Time: 0.00
+mean_grad_res: 6.512271
+mean_grad_bcs: 4.335251
+It: 11000, Loss: 2.388e+00, Loss_bcs: 9.000e-01, Loss_res: 1.488e+00,Time: 0.00
+mean_grad_res: 6.216533
+mean_grad_bcs: 5.773245
+It: 11100, Loss: 2.943e+00, Loss_bcs: 8.636e-01, Loss_res: 2.080e+00,Time: 0.00
+mean_grad_res: 5.944830
+mean_grad_bcs: 8.401175
+It: 11200, Loss: 2.276e+00, Loss_bcs: 8.649e-01, Loss_res: 1.411e+00,Time: 0.00
+mean_grad_res: 3.250173
+mean_grad_bcs: 3.795426
+It: 11300, Loss: 2.934e+00, Loss_bcs: 1.003e+00, Loss_res: 1.931e+00,Time: 0.00
+mean_grad_res: 4.804592
+mean_grad_bcs: 11.542126
+It: 11400, Loss: 2.095e+00, Loss_bcs: 8.000e-01, Loss_res: 1.295e+00,Time: 0.00
+mean_grad_res: 4.744492
+mean_grad_bcs: 8.146803
+It: 11500, Loss: 2.341e+00, Loss_bcs: 5.931e-01, Loss_res: 1.748e+00,Time: 0.00
+mean_grad_res: 4.913515
+mean_grad_bcs: 3.897910
+It: 11600, Loss: 2.739e+00, Loss_bcs: 9.526e-01, Loss_res: 1.786e+00,Time: 0.00
+mean_grad_res: 4.736236
+mean_grad_bcs: 9.705024
+It: 11700, Loss: 3.727e+00, Loss_bcs: 6.602e-01, Loss_res: 3.067e+00,Time: 0.00
+mean_grad_res: 10.388805
+mean_grad_bcs: 4.410691
+It: 11800, Loss: 2.061e+00, Loss_bcs: 6.817e-01, Loss_res: 1.380e+00,Time: 0.00
+mean_grad_res: 5.686133
+mean_grad_bcs: 6.510324
+It: 11900, Loss: 2.542e+00, Loss_bcs: 7.641e-01, Loss_res: 1.778e+00,Time: 0.00
+mean_grad_res: 6.549060
+mean_grad_bcs: 5.091211
+It: 12000, Loss: 1.865e+00, Loss_bcs: 6.293e-01, Loss_res: 1.235e+00,Time: 0.00
+mean_grad_res: 4.043246
+mean_grad_bcs: 7.653027
+It: 12100, Loss: 2.132e+00, Loss_bcs: 5.636e-01, Loss_res: 1.569e+00,Time: 0.01
+mean_grad_res: 5.177697
+mean_grad_bcs: 3.444209
+It: 12200, Loss: 2.899e+00, Loss_bcs: 8.403e-01, Loss_res: 2.059e+00,Time: 0.00
+mean_grad_res: 5.003802
+mean_grad_bcs: 8.079987
+It: 12300, Loss: 2.766e+00, Loss_bcs: 7.727e-01, Loss_res: 1.993e+00,Time: 0.00
+mean_grad_res: 6.505303
+mean_grad_bcs: 7.887041
+It: 12400, Loss: 4.221e+00, Loss_bcs: 7.316e-01, Loss_res: 3.490e+00,Time: 0.00
+mean_grad_res: 7.593397
+mean_grad_bcs: 5.487837
+It: 12500, Loss: 2.164e+00, Loss_bcs: 8.361e-01, Loss_res: 1.328e+00,Time: 0.00
+mean_grad_res: 6.486042
+mean_grad_bcs: 8.848789
+It: 12600, Loss: 2.196e+00, Loss_bcs: 6.347e-01, Loss_res: 1.561e+00,Time: 0.00
+mean_grad_res: 3.677122
+mean_grad_bcs: 6.305519
+It: 12700, Loss: 2.184e+00, Loss_bcs: 7.475e-01, Loss_res: 1.436e+00,Time: 0.00
+mean_grad_res: 3.328844
+mean_grad_bcs: 7.402690
+It: 12800, Loss: 2.524e+00, Loss_bcs: 5.608e-01, Loss_res: 1.963e+00,Time: 0.00
+mean_grad_res: 5.824156
+mean_grad_bcs: 5.534579
+It: 12900, Loss: 2.300e+00, Loss_bcs: 5.874e-01, Loss_res: 1.713e+00,Time: 0.00
+mean_grad_res: 6.011139
+mean_grad_bcs: 4.436701
+It: 13000, Loss: 2.018e+00, Loss_bcs: 5.884e-01, Loss_res: 1.430e+00,Time: 0.00
+mean_grad_res: 6.451499
+mean_grad_bcs: 4.134545
+It: 13100, Loss: 3.021e+00, Loss_bcs: 6.988e-01, Loss_res: 2.323e+00,Time: 0.01
+mean_grad_res: 4.388385
+mean_grad_bcs: 6.125331
+It: 13200, Loss: 2.034e+00, Loss_bcs: 7.537e-01, Loss_res: 1.280e+00,Time: 0.01
+mean_grad_res: 7.237770
+mean_grad_bcs: 7.514853
+It: 13300, Loss: 1.711e+00, Loss_bcs: 5.859e-01, Loss_res: 1.125e+00,Time: 0.00
+mean_grad_res: 4.655618
+mean_grad_bcs: 3.831874
+It: 13400, Loss: 1.778e+00, Loss_bcs: 5.627e-01, Loss_res: 1.216e+00,Time: 0.00
+mean_grad_res: 4.034401
+mean_grad_bcs: 4.211384
+It: 13500, Loss: 2.504e+00, Loss_bcs: 4.311e-01, Loss_res: 2.073e+00,Time: 0.00
+mean_grad_res: 3.227030
+mean_grad_bcs: 3.922809
+It: 13600, Loss: 1.820e+00, Loss_bcs: 6.739e-01, Loss_res: 1.146e+00,Time: 0.00
+mean_grad_res: 3.706681
+mean_grad_bcs: 7.017809
+It: 13700, Loss: 1.439e+00, Loss_bcs: 4.968e-01, Loss_res: 9.425e-01,Time: 0.00
+mean_grad_res: 4.218310
+mean_grad_bcs: 4.314005
+It: 13800, Loss: 1.673e+00, Loss_bcs: 6.033e-01, Loss_res: 1.070e+00,Time: 0.00
+mean_grad_res: 3.293256
+mean_grad_bcs: 8.052253
+It: 13900, Loss: 1.468e+00, Loss_bcs: 4.542e-01, Loss_res: 1.013e+00,Time: 0.00
+mean_grad_res: 3.284127
+mean_grad_bcs: 6.130131
+It: 14000, Loss: 2.029e+00, Loss_bcs: 6.262e-01, Loss_res: 1.402e+00,Time: 0.00
+mean_grad_res: 3.735305
+mean_grad_bcs: 10.624142
+It: 14100, Loss: 2.143e+00, Loss_bcs: 4.746e-01, Loss_res: 1.668e+00,Time: 0.00
+mean_grad_res: 6.931214
+mean_grad_bcs: 8.471394
+It: 14200, Loss: 1.549e+00, Loss_bcs: 4.815e-01, Loss_res: 1.068e+00,Time: 0.00
+mean_grad_res: 4.816706
+mean_grad_bcs: 3.388447
+It: 14300, Loss: 1.831e+00, Loss_bcs: 4.882e-01, Loss_res: 1.343e+00,Time: 0.00
+mean_grad_res: 5.494089
+mean_grad_bcs: 4.843123
+It: 14400, Loss: 1.618e+00, Loss_bcs: 5.261e-01, Loss_res: 1.092e+00,Time: 0.00
+mean_grad_res: 2.394963
+mean_grad_bcs: 5.064136
+It: 14500, Loss: 1.901e+00, Loss_bcs: 5.204e-01, Loss_res: 1.380e+00,Time: 0.00
+mean_grad_res: 5.650929
+mean_grad_bcs: 3.872126
+It: 14600, Loss: 1.914e+00, Loss_bcs: 4.574e-01, Loss_res: 1.457e+00,Time: 0.00
+mean_grad_res: 4.346277
+mean_grad_bcs: 5.140707
+It: 14700, Loss: 1.387e+00, Loss_bcs: 4.630e-01, Loss_res: 9.242e-01,Time: 0.01
+mean_grad_res: 3.526916
+mean_grad_bcs: 7.985040
+It: 14800, Loss: 1.703e+00, Loss_bcs: 4.424e-01, Loss_res: 1.260e+00,Time: 0.00
+mean_grad_res: 3.157656
+mean_grad_bcs: 3.312439
+It: 14900, Loss: 2.185e+00, Loss_bcs: 6.206e-01, Loss_res: 1.564e+00,Time: 0.01
+mean_grad_res: 6.717996
+mean_grad_bcs: 5.671450
+It: 15000, Loss: 1.744e+00, Loss_bcs: 5.172e-01, Loss_res: 1.227e+00,Time: 0.00
+mean_grad_res: 4.752031
+mean_grad_bcs: 5.732484
+It: 15100, Loss: 1.767e+00, Loss_bcs: 4.933e-01, Loss_res: 1.273e+00,Time: 0.00
+mean_grad_res: 5.823280
+mean_grad_bcs: 7.023320
+It: 15200, Loss: 2.929e+00, Loss_bcs: 4.864e-01, Loss_res: 2.443e+00,Time: 0.00
+mean_grad_res: 4.539464
+mean_grad_bcs: 3.865391
+It: 15300, Loss: 1.315e+00, Loss_bcs: 4.763e-01, Loss_res: 8.391e-01,Time: 0.00
+mean_grad_res: 3.576984
+mean_grad_bcs: 5.938310
+It: 15400, Loss: 2.150e+00, Loss_bcs: 5.733e-01, Loss_res: 1.577e+00,Time: 0.00
+mean_grad_res: 5.328112
+mean_grad_bcs: 5.653688
+It: 15500, Loss: 2.268e+00, Loss_bcs: 4.922e-01, Loss_res: 1.776e+00,Time: 0.00
+mean_grad_res: 3.632658
+mean_grad_bcs: 7.878739
+It: 15600, Loss: 1.277e+00, Loss_bcs: 5.745e-01, Loss_res: 7.026e-01,Time: 0.00
+mean_grad_res: 3.087336
+mean_grad_bcs: 9.224928
+It: 15700, Loss: 1.907e+00, Loss_bcs: 4.123e-01, Loss_res: 1.494e+00,Time: 0.00
+mean_grad_res: 5.689778
+mean_grad_bcs: 5.383377
+It: 15800, Loss: 1.293e+00, Loss_bcs: 4.068e-01, Loss_res: 8.859e-01,Time: 0.00
+mean_grad_res: 4.609322
+mean_grad_bcs: 3.999407
+It: 15900, Loss: 1.310e+00, Loss_bcs: 3.882e-01, Loss_res: 9.220e-01,Time: 0.00
+mean_grad_res: 3.584867
+mean_grad_bcs: 6.181706
+It: 16000, Loss: 1.721e+00, Loss_bcs: 3.877e-01, Loss_res: 1.333e+00,Time: 0.00
+mean_grad_res: 6.469484
+mean_grad_bcs: 3.877916
+It: 16100, Loss: 1.353e+00, Loss_bcs: 3.396e-01, Loss_res: 1.013e+00,Time: 0.00
+mean_grad_res: 5.861029
+mean_grad_bcs: 3.088596
+It: 16200, Loss: 1.668e+00, Loss_bcs: 4.774e-01, Loss_res: 1.191e+00,Time: 0.00
+mean_grad_res: 3.324774
+mean_grad_bcs: 6.720975
+It: 16300, Loss: 1.476e+00, Loss_bcs: 4.013e-01, Loss_res: 1.075e+00,Time: 0.00
+mean_grad_res: 3.099290
+mean_grad_bcs: 3.826959
+It: 16400, Loss: 1.292e+00, Loss_bcs: 4.504e-01, Loss_res: 8.420e-01,Time: 0.00
+mean_grad_res: 2.811165
+mean_grad_bcs: 3.868768
+It: 16500, Loss: 2.563e+00, Loss_bcs: 3.855e-01, Loss_res: 2.177e+00,Time: 0.00
+mean_grad_res: 4.115668
+mean_grad_bcs: 2.939976
+It: 16600, Loss: 1.820e+00, Loss_bcs: 6.111e-01, Loss_res: 1.209e+00,Time: 0.00
+mean_grad_res: 5.896292
+mean_grad_bcs: 6.038965
+It: 16700, Loss: 1.415e+00, Loss_bcs: 3.135e-01, Loss_res: 1.101e+00,Time: 0.00
+mean_grad_res: 3.061431
+mean_grad_bcs: 3.248502
+It: 16800, Loss: 1.083e+00, Loss_bcs: 3.961e-01, Loss_res: 6.872e-01,Time: 0.00
+mean_grad_res: 2.819465
+mean_grad_bcs: 3.482315
+It: 16900, Loss: 1.356e+00, Loss_bcs: 4.072e-01, Loss_res: 9.483e-01,Time: 0.00
+mean_grad_res: 3.037668
+mean_grad_bcs: 2.785015
+It: 17000, Loss: 1.646e+00, Loss_bcs: 5.074e-01, Loss_res: 1.138e+00,Time: 0.00
+mean_grad_res: 5.254460
+mean_grad_bcs: 8.165984
+It: 17100, Loss: 1.229e+00, Loss_bcs: 3.405e-01, Loss_res: 8.880e-01,Time: 0.00
+mean_grad_res: 4.585780
+mean_grad_bcs: 3.495730
+It: 17200, Loss: 1.205e+00, Loss_bcs: 3.344e-01, Loss_res: 8.701e-01,Time: 0.00
+mean_grad_res: 5.689795
+mean_grad_bcs: 4.626655
+It: 17300, Loss: 1.785e+00, Loss_bcs: 3.639e-01, Loss_res: 1.422e+00,Time: 0.00
+mean_grad_res: 5.114910
+mean_grad_bcs: 4.438228
+It: 17400, Loss: 1.320e+00, Loss_bcs: 3.680e-01, Loss_res: 9.518e-01,Time: 0.00
+mean_grad_res: 8.352775
+mean_grad_bcs: 5.851464
+It: 17500, Loss: 1.275e+00, Loss_bcs: 3.260e-01, Loss_res: 9.494e-01,Time: 0.00
+mean_grad_res: 5.544748
+mean_grad_bcs: 1.801431
+It: 17600, Loss: 1.095e+00, Loss_bcs: 3.716e-01, Loss_res: 7.234e-01,Time: 0.00
+mean_grad_res: 3.334877
+mean_grad_bcs: 3.585496
+It: 17700, Loss: 1.418e+00, Loss_bcs: 3.677e-01, Loss_res: 1.050e+00,Time: 0.00
+mean_grad_res: 3.714603
+mean_grad_bcs: 5.061275
+It: 17800, Loss: 1.566e+00, Loss_bcs: 3.316e-01, Loss_res: 1.234e+00,Time: 0.00
+mean_grad_res: 3.567974
+mean_grad_bcs: 5.161901
+It: 17900, Loss: 1.458e+00, Loss_bcs: 3.388e-01, Loss_res: 1.119e+00,Time: 0.00
+mean_grad_res: 3.387775
+mean_grad_bcs: 4.252961
+It: 18000, Loss: 1.353e+00, Loss_bcs: 3.522e-01, Loss_res: 1.001e+00,Time: 0.00
+mean_grad_res: 3.841062
+mean_grad_bcs: 5.090740
+It: 18100, Loss: 1.225e+00, Loss_bcs: 3.520e-01, Loss_res: 8.733e-01,Time: 0.01
+mean_grad_res: 4.690548
+mean_grad_bcs: 7.834854
+It: 18200, Loss: 1.134e+00, Loss_bcs: 3.484e-01, Loss_res: 7.852e-01,Time: 0.00
+mean_grad_res: 4.381479
+mean_grad_bcs: 6.215163
+It: 18300, Loss: 1.130e+00, Loss_bcs: 2.892e-01, Loss_res: 8.413e-01,Time: 0.00
+mean_grad_res: 4.904121
+mean_grad_bcs: 4.548567
+It: 18400, Loss: 1.104e+00, Loss_bcs: 3.026e-01, Loss_res: 8.014e-01,Time: 0.00
+mean_grad_res: 2.122688
+mean_grad_bcs: 2.703519
+It: 18500, Loss: 8.705e-01, Loss_bcs: 2.480e-01, Loss_res: 6.224e-01,Time: 0.00
+mean_grad_res: 2.906964
+mean_grad_bcs: 2.035593
+It: 18600, Loss: 9.995e-01, Loss_bcs: 2.332e-01, Loss_res: 7.663e-01,Time: 0.00
+mean_grad_res: 4.166897
+mean_grad_bcs: 1.959571
+It: 18700, Loss: 1.487e+00, Loss_bcs: 4.176e-01, Loss_res: 1.069e+00,Time: 0.00
+mean_grad_res: 4.262868
+mean_grad_bcs: 6.640551
+It: 18800, Loss: 1.130e+00, Loss_bcs: 2.962e-01, Loss_res: 8.336e-01,Time: 0.00
+mean_grad_res: 5.415155
+mean_grad_bcs: 4.682023
+It: 18900, Loss: 1.306e+00, Loss_bcs: 4.645e-01, Loss_res: 8.413e-01,Time: 0.00
+mean_grad_res: 6.260804
+mean_grad_bcs: 8.854383
+It: 19000, Loss: 1.104e+00, Loss_bcs: 2.737e-01, Loss_res: 8.308e-01,Time: 0.00
+mean_grad_res: 5.778847
+mean_grad_bcs: 4.008339
+It: 19100, Loss: 1.412e+00, Loss_bcs: 2.873e-01, Loss_res: 1.125e+00,Time: 0.00
+mean_grad_res: 4.375896
+mean_grad_bcs: 2.984259
+It: 19200, Loss: 9.227e-01, Loss_bcs: 3.021e-01, Loss_res: 6.205e-01,Time: 0.00
+mean_grad_res: 3.534301
+mean_grad_bcs: 3.938238
+It: 19300, Loss: 1.460e+00, Loss_bcs: 3.174e-01, Loss_res: 1.143e+00,Time: 0.00
+mean_grad_res: 2.254638
+mean_grad_bcs: 3.596117
+It: 19400, Loss: 2.368e+00, Loss_bcs: 2.816e-01, Loss_res: 2.087e+00,Time: 0.00
+mean_grad_res: 4.335313
+mean_grad_bcs: 3.727512
+It: 19500, Loss: 1.154e+00, Loss_bcs: 3.196e-01, Loss_res: 8.344e-01,Time: 0.00
+mean_grad_res: 5.559080
+mean_grad_bcs: 2.563757
+It: 19600, Loss: 8.987e-01, Loss_bcs: 2.871e-01, Loss_res: 6.115e-01,Time: 0.00
+mean_grad_res: 3.432352
+mean_grad_bcs: 3.496072
+It: 19700, Loss: 1.197e+00, Loss_bcs: 3.750e-01, Loss_res: 8.225e-01,Time: 0.00
+mean_grad_res: 2.091762
+mean_grad_bcs: 7.271865
+It: 19800, Loss: 1.145e+00, Loss_bcs: 2.938e-01, Loss_res: 8.509e-01,Time: 0.00
+mean_grad_res: 4.899718
+mean_grad_bcs: 4.150288
+It: 19900, Loss: 9.416e-01, Loss_bcs: 2.461e-01, Loss_res: 6.955e-01,Time: 0.01
+mean_grad_res: 3.420377
+mean_grad_bcs: 2.584488
+It: 20000, Loss: 9.212e-01, Loss_bcs: 2.958e-01, Loss_res: 6.254e-01,Time: 0.00
+mean_grad_res: 4.290107
+mean_grad_bcs: 4.705603
+It: 20100, Loss: 1.295e+00, Loss_bcs: 2.821e-01, Loss_res: 1.013e+00,Time: 0.00
+mean_grad_res: 4.214717
+mean_grad_bcs: 3.037476
+It: 20200, Loss: 9.879e-01, Loss_bcs: 3.161e-01, Loss_res: 6.719e-01,Time: 0.00
+mean_grad_res: 2.609391
+mean_grad_bcs: 6.142536
+It: 20300, Loss: 8.938e-01, Loss_bcs: 2.650e-01, Loss_res: 6.288e-01,Time: 0.00
+mean_grad_res: 3.371663
+mean_grad_bcs: 2.467993
+It: 20400, Loss: 9.788e-01, Loss_bcs: 2.397e-01, Loss_res: 7.391e-01,Time: 0.00
+mean_grad_res: 3.628838
+mean_grad_bcs: 2.186100
+It: 20500, Loss: 1.139e+00, Loss_bcs: 2.890e-01, Loss_res: 8.500e-01,Time: 0.00
+mean_grad_res: 3.475243
+mean_grad_bcs: 3.125170
+It: 20600, Loss: 8.299e-01, Loss_bcs: 3.274e-01, Loss_res: 5.024e-01,Time: 0.00
+mean_grad_res: 2.366167
+mean_grad_bcs: 3.126001
+It: 20700, Loss: 9.203e-01, Loss_bcs: 2.369e-01, Loss_res: 6.834e-01,Time: 0.00
+mean_grad_res: 2.949967
+mean_grad_bcs: 3.016439
+It: 20800, Loss: 1.777e+00, Loss_bcs: 2.757e-01, Loss_res: 1.501e+00,Time: 0.01
+mean_grad_res: 3.283979
+mean_grad_bcs: 2.717441
+It: 20900, Loss: 1.209e+00, Loss_bcs: 2.943e-01, Loss_res: 9.143e-01,Time: 0.00
+mean_grad_res: 5.153090
+mean_grad_bcs: 4.518118
+It: 21000, Loss: 7.916e-01, Loss_bcs: 2.200e-01, Loss_res: 5.716e-01,Time: 0.00
+mean_grad_res: 2.247259
+mean_grad_bcs: 3.795734
+It: 21100, Loss: 1.001e+00, Loss_bcs: 2.288e-01, Loss_res: 7.722e-01,Time: 0.00
+mean_grad_res: 3.955525
+mean_grad_bcs: 3.148865
+It: 21200, Loss: 9.559e-01, Loss_bcs: 2.882e-01, Loss_res: 6.677e-01,Time: 0.00
+mean_grad_res: 2.690089
+mean_grad_bcs: 3.377521
+It: 21300, Loss: 9.246e-01, Loss_bcs: 2.418e-01, Loss_res: 6.828e-01,Time: 0.00
+mean_grad_res: 4.237445
+mean_grad_bcs: 3.114263
+It: 21400, Loss: 7.284e-01, Loss_bcs: 2.342e-01, Loss_res: 4.942e-01,Time: 0.00
+mean_grad_res: 2.831802
+mean_grad_bcs: 2.565923
+It: 21500, Loss: 1.487e+00, Loss_bcs: 2.641e-01, Loss_res: 1.223e+00,Time: 0.00
+mean_grad_res: 2.434042
+mean_grad_bcs: 3.622929
+It: 21600, Loss: 8.200e-01, Loss_bcs: 2.340e-01, Loss_res: 5.860e-01,Time: 0.00
+mean_grad_res: 2.482338
+mean_grad_bcs: 2.884672
+It: 21700, Loss: 9.272e-01, Loss_bcs: 2.939e-01, Loss_res: 6.334e-01,Time: 0.01
+mean_grad_res: 3.671038
+mean_grad_bcs: 5.952003
+It: 21800, Loss: 8.923e-01, Loss_bcs: 2.994e-01, Loss_res: 5.929e-01,Time: 0.00
+mean_grad_res: 4.378925
+mean_grad_bcs: 4.287772
+It: 21900, Loss: 9.418e-01, Loss_bcs: 2.306e-01, Loss_res: 7.111e-01,Time: 0.00
+mean_grad_res: 3.836151
+mean_grad_bcs: 3.293881
+It: 22000, Loss: 1.345e+00, Loss_bcs: 2.515e-01, Loss_res: 1.094e+00,Time: 0.00
+mean_grad_res: 3.862008
+mean_grad_bcs: 3.117984
+It: 22100, Loss: 8.088e-01, Loss_bcs: 2.320e-01, Loss_res: 5.768e-01,Time: 0.00
+mean_grad_res: 2.435268
+mean_grad_bcs: 3.297122
+It: 22200, Loss: 9.347e-01, Loss_bcs: 3.089e-01, Loss_res: 6.258e-01,Time: 0.00
+mean_grad_res: 3.595966
+mean_grad_bcs: 2.951192
+It: 22300, Loss: 1.307e+00, Loss_bcs: 2.140e-01, Loss_res: 1.093e+00,Time: 0.00
+mean_grad_res: 2.779095
+mean_grad_bcs: 2.239349
+It: 22400, Loss: 1.040e+00, Loss_bcs: 2.686e-01, Loss_res: 7.715e-01,Time: 0.00
+mean_grad_res: 2.388059
+mean_grad_bcs: 2.773630
+It: 22500, Loss: 8.465e-01, Loss_bcs: 2.400e-01, Loss_res: 6.065e-01,Time: 0.00
+mean_grad_res: 2.308426
+mean_grad_bcs: 2.236183
+It: 22600, Loss: 1.402e+00, Loss_bcs: 2.070e-01, Loss_res: 1.195e+00,Time: 0.00
+mean_grad_res: 4.493286
+mean_grad_bcs: 1.765767
+It: 22700, Loss: 1.090e+00, Loss_bcs: 2.379e-01, Loss_res: 8.524e-01,Time: 0.00
+mean_grad_res: 2.929736
+mean_grad_bcs: 2.452460
+It: 22800, Loss: 7.716e-01, Loss_bcs: 2.599e-01, Loss_res: 5.118e-01,Time: 0.00
+mean_grad_res: 3.455068
+mean_grad_bcs: 4.665873
+It: 22900, Loss: 7.636e-01, Loss_bcs: 2.460e-01, Loss_res: 5.176e-01,Time: 0.00
+mean_grad_res: 2.920714
+mean_grad_bcs: 2.357987
+It: 23000, Loss: 6.413e-01, Loss_bcs: 2.118e-01, Loss_res: 4.296e-01,Time: 0.01
+mean_grad_res: 3.282322
+mean_grad_bcs: 1.535992
+It: 23100, Loss: 9.400e-01, Loss_bcs: 2.362e-01, Loss_res: 7.038e-01,Time: 0.00
+mean_grad_res: 3.360655
+mean_grad_bcs: 2.918048
+It: 23200, Loss: 6.775e-01, Loss_bcs: 2.279e-01, Loss_res: 4.495e-01,Time: 0.00
+mean_grad_res: 3.556102
+mean_grad_bcs: 2.498421
+It: 23300, Loss: 1.207e+00, Loss_bcs: 1.866e-01, Loss_res: 1.020e+00,Time: 0.00
+mean_grad_res: 3.321619
+mean_grad_bcs: 2.211606
+It: 23400, Loss: 2.042e+00, Loss_bcs: 2.191e-01, Loss_res: 1.823e+00,Time: 0.00
+mean_grad_res: 2.574652
+mean_grad_bcs: 4.321493
+It: 23500, Loss: 1.742e+00, Loss_bcs: 2.273e-01, Loss_res: 1.515e+00,Time: 0.00
+mean_grad_res: 3.645487
+mean_grad_bcs: 4.745972
+It: 23600, Loss: 6.612e-01, Loss_bcs: 2.182e-01, Loss_res: 4.430e-01,Time: 0.00
+mean_grad_res: 3.170799
+mean_grad_bcs: 2.620838
+It: 23700, Loss: 1.128e+00, Loss_bcs: 2.525e-01, Loss_res: 8.750e-01,Time: 0.00
+mean_grad_res: 2.568947
+mean_grad_bcs: 2.949255
+It: 23800, Loss: 6.275e-01, Loss_bcs: 2.200e-01, Loss_res: 4.075e-01,Time: 0.01
+mean_grad_res: 2.416070
+mean_grad_bcs: 2.731038
+It: 23900, Loss: 7.922e-01, Loss_bcs: 1.994e-01, Loss_res: 5.928e-01,Time: 0.00
+mean_grad_res: 2.241663
+mean_grad_bcs: 3.166252
+It: 24000, Loss: 8.317e-01, Loss_bcs: 2.148e-01, Loss_res: 6.169e-01,Time: 0.01
+mean_grad_res: 2.345798
+mean_grad_bcs: 1.754121
+It: 24100, Loss: 7.621e-01, Loss_bcs: 1.902e-01, Loss_res: 5.719e-01,Time: 0.00
+mean_grad_res: 3.356433
+mean_grad_bcs: 1.861830
+It: 24200, Loss: 7.339e-01, Loss_bcs: 1.994e-01, Loss_res: 5.345e-01,Time: 0.00
+mean_grad_res: 3.371479
+mean_grad_bcs: 2.213894
+It: 24300, Loss: 7.597e-01, Loss_bcs: 1.944e-01, Loss_res: 5.653e-01,Time: 0.00
+mean_grad_res: 2.846401
+mean_grad_bcs: 1.542123
+It: 24400, Loss: 7.495e-01, Loss_bcs: 1.906e-01, Loss_res: 5.589e-01,Time: 0.00
+mean_grad_res: 2.973560
+mean_grad_bcs: 1.444268
+It: 24500, Loss: 6.868e-01, Loss_bcs: 1.808e-01, Loss_res: 5.060e-01,Time: 0.00
+mean_grad_res: 3.244898
+mean_grad_bcs: 2.656732
+It: 24600, Loss: 9.824e-01, Loss_bcs: 2.332e-01, Loss_res: 7.492e-01,Time: 0.00
+mean_grad_res: 4.454967
+mean_grad_bcs: 3.215958
+It: 24700, Loss: 1.394e+00, Loss_bcs: 1.953e-01, Loss_res: 1.199e+00,Time: 0.00
+mean_grad_res: 1.883035
+mean_grad_bcs: 1.579494
+It: 24800, Loss: 8.856e-01, Loss_bcs: 2.043e-01, Loss_res: 6.813e-01,Time: 0.00
+mean_grad_res: 3.187903
+mean_grad_bcs: 3.205738
+It: 24900, Loss: 9.705e-01, Loss_bcs: 1.867e-01, Loss_res: 7.838e-01,Time: 0.00
+mean_grad_res: 2.476945
+mean_grad_bcs: 1.888366
+It: 25000, Loss: 1.257e+00, Loss_bcs: 2.304e-01, Loss_res: 1.027e+00,Time: 0.00
+mean_grad_res: 3.022754
+mean_grad_bcs: 2.631557
+It: 25100, Loss: 8.904e-01, Loss_bcs: 2.387e-01, Loss_res: 6.517e-01,Time: 0.01
+mean_grad_res: 2.639020
+mean_grad_bcs: 2.722163
+It: 25200, Loss: 5.453e-01, Loss_bcs: 1.964e-01, Loss_res: 3.489e-01,Time: 0.00
+mean_grad_res: 2.993904
+mean_grad_bcs: 2.676048
+It: 25300, Loss: 7.235e-01, Loss_bcs: 1.763e-01, Loss_res: 5.472e-01,Time: 0.00
+mean_grad_res: 4.179374
+mean_grad_bcs: 2.677001
+It: 25400, Loss: 6.443e-01, Loss_bcs: 2.033e-01, Loss_res: 4.410e-01,Time: 0.00
+mean_grad_res: 1.745181
+mean_grad_bcs: 4.369349
+It: 25500, Loss: 9.798e-01, Loss_bcs: 1.842e-01, Loss_res: 7.956e-01,Time: 0.00
+mean_grad_res: 2.298486
+mean_grad_bcs: 2.545334
+It: 25600, Loss: 7.755e-01, Loss_bcs: 1.892e-01, Loss_res: 5.863e-01,Time: 0.01
+mean_grad_res: 2.327596
+mean_grad_bcs: 2.117744
+It: 25700, Loss: 9.000e-01, Loss_bcs: 1.980e-01, Loss_res: 7.020e-01,Time: 0.00
+mean_grad_res: 3.078908
+mean_grad_bcs: 2.170308
+It: 25800, Loss: 7.289e-01, Loss_bcs: 1.769e-01, Loss_res: 5.519e-01,Time: 0.00
+mean_grad_res: 1.710325
+mean_grad_bcs: 1.381446
+It: 25900, Loss: 7.266e-01, Loss_bcs: 2.119e-01, Loss_res: 5.147e-01,Time: 0.00
+mean_grad_res: 2.931269
+mean_grad_bcs: 2.899508
+It: 26000, Loss: 7.687e-01, Loss_bcs: 1.975e-01, Loss_res: 5.712e-01,Time: 0.00
+mean_grad_res: 3.122762
+mean_grad_bcs: 4.083616
+It: 26100, Loss: 1.383e+00, Loss_bcs: 2.127e-01, Loss_res: 1.170e+00,Time: 0.00
+mean_grad_res: 4.067516
+mean_grad_bcs: 3.592336
+It: 26200, Loss: 6.302e-01, Loss_bcs: 1.889e-01, Loss_res: 4.413e-01,Time: 0.00
+mean_grad_res: 1.845830
+mean_grad_bcs: 1.948314
+It: 26300, Loss: 8.629e-01, Loss_bcs: 1.967e-01, Loss_res: 6.662e-01,Time: 0.00
+mean_grad_res: 2.304435
+mean_grad_bcs: 2.294358
+It: 26400, Loss: 1.287e+00, Loss_bcs: 1.880e-01, Loss_res: 1.099e+00,Time: 0.00
+mean_grad_res: 3.668240
+mean_grad_bcs: 3.651800
+It: 26500, Loss: 7.463e-01, Loss_bcs: 1.849e-01, Loss_res: 5.615e-01,Time: 0.00
+mean_grad_res: 2.036830
+mean_grad_bcs: 3.179250
+It: 26600, Loss: 9.625e-01, Loss_bcs: 2.096e-01, Loss_res: 7.529e-01,Time: 0.00
+mean_grad_res: 5.600574
+mean_grad_bcs: 3.335093
+It: 26700, Loss: 7.977e-01, Loss_bcs: 2.083e-01, Loss_res: 5.893e-01,Time: 0.00
+mean_grad_res: 3.103133
+mean_grad_bcs: 2.450088
+It: 26800, Loss: 9.055e-01, Loss_bcs: 1.718e-01, Loss_res: 7.338e-01,Time: 0.00
+mean_grad_res: 3.585872
+mean_grad_bcs: 2.113229
+It: 26900, Loss: 6.824e-01, Loss_bcs: 1.895e-01, Loss_res: 4.930e-01,Time: 0.00
+mean_grad_res: 2.800550
+mean_grad_bcs: 2.284660
+It: 27000, Loss: 7.491e-01, Loss_bcs: 1.742e-01, Loss_res: 5.749e-01,Time: 0.00
+mean_grad_res: 2.567818
+mean_grad_bcs: 1.303672
+It: 27100, Loss: 7.165e-01, Loss_bcs: 1.765e-01, Loss_res: 5.400e-01,Time: 0.00
+mean_grad_res: 2.348154
+mean_grad_bcs: 2.338044
+It: 27200, Loss: 6.946e-01, Loss_bcs: 1.653e-01, Loss_res: 5.293e-01,Time: 0.00
+mean_grad_res: 1.994895
+mean_grad_bcs: 1.862762
+It: 27300, Loss: 6.015e-01, Loss_bcs: 1.791e-01, Loss_res: 4.224e-01,Time: 0.00
+mean_grad_res: 1.969900
+mean_grad_bcs: 2.188289
+It: 27400, Loss: 7.174e-01, Loss_bcs: 1.670e-01, Loss_res: 5.505e-01,Time: 0.00
+mean_grad_res: 3.287916
+mean_grad_bcs: 1.965074
+It: 27500, Loss: 6.126e-01, Loss_bcs: 1.760e-01, Loss_res: 4.366e-01,Time: 0.00
+mean_grad_res: 1.998333
+mean_grad_bcs: 2.106731
+It: 27600, Loss: 7.672e-01, Loss_bcs: 1.661e-01, Loss_res: 6.011e-01,Time: 0.00
+mean_grad_res: 2.894628
+mean_grad_bcs: 1.643016
+It: 27700, Loss: 6.017e-01, Loss_bcs: 2.288e-01, Loss_res: 3.729e-01,Time: 0.00
+mean_grad_res: 2.341477
+mean_grad_bcs: 3.793199
+It: 27800, Loss: 8.862e-01, Loss_bcs: 1.865e-01, Loss_res: 6.997e-01,Time: 0.00
+mean_grad_res: 4.187912
+mean_grad_bcs: 2.546160
+It: 27900, Loss: 7.255e-01, Loss_bcs: 1.802e-01, Loss_res: 5.453e-01,Time: 0.00
+mean_grad_res: 3.144456
+mean_grad_bcs: 3.411695
+It: 28000, Loss: 7.111e-01, Loss_bcs: 1.858e-01, Loss_res: 5.253e-01,Time: 0.00
+mean_grad_res: 2.680943
+mean_grad_bcs: 2.603275
+It: 28100, Loss: 6.178e-01, Loss_bcs: 1.626e-01, Loss_res: 4.551e-01,Time: 0.00
+mean_grad_res: 2.306564
+mean_grad_bcs: 2.250563
+It: 28200, Loss: 5.461e-01, Loss_bcs: 1.701e-01, Loss_res: 3.761e-01,Time: 0.00
+mean_grad_res: 2.117099
+mean_grad_bcs: 1.750820
+It: 28300, Loss: 8.249e-01, Loss_bcs: 1.789e-01, Loss_res: 6.460e-01,Time: 0.00
+mean_grad_res: 3.156493
+mean_grad_bcs: 1.805183
+It: 28400, Loss: 5.517e-01, Loss_bcs: 1.701e-01, Loss_res: 3.816e-01,Time: 0.00
+mean_grad_res: 3.788746
+mean_grad_bcs: 2.903630
+It: 28500, Loss: 6.095e-01, Loss_bcs: 1.573e-01, Loss_res: 4.523e-01,Time: 0.00
+mean_grad_res: 2.111035
+mean_grad_bcs: 1.765634
+It: 28600, Loss: 8.135e-01, Loss_bcs: 1.681e-01, Loss_res: 6.454e-01,Time: 0.00
+mean_grad_res: 2.890544
+mean_grad_bcs: 2.451885
+It: 28700, Loss: 8.151e-01, Loss_bcs: 1.762e-01, Loss_res: 6.389e-01,Time: 0.00
+mean_grad_res: 2.422498
+mean_grad_bcs: 2.795896
+It: 28800, Loss: 8.338e-01, Loss_bcs: 1.993e-01, Loss_res: 6.345e-01,Time: 0.00
+mean_grad_res: 2.771953
+mean_grad_bcs: 2.019942
+It: 28900, Loss: 6.871e-01, Loss_bcs: 1.879e-01, Loss_res: 4.992e-01,Time: 0.00
+mean_grad_res: 2.813488
+mean_grad_bcs: 2.712062
+It: 29000, Loss: 7.289e-01, Loss_bcs: 1.777e-01, Loss_res: 5.513e-01,Time: 0.00
+mean_grad_res: 2.508648
+mean_grad_bcs: 2.083937
+It: 29100, Loss: 5.068e-01, Loss_bcs: 1.683e-01, Loss_res: 3.385e-01,Time: 0.00
+mean_grad_res: 1.471592
+mean_grad_bcs: 1.791038
+It: 29200, Loss: 5.315e-01, Loss_bcs: 1.575e-01, Loss_res: 3.740e-01,Time: 0.00
+mean_grad_res: 1.997488
+mean_grad_bcs: 1.911918
+It: 29300, Loss: 6.758e-01, Loss_bcs: 1.585e-01, Loss_res: 5.173e-01,Time: 0.00
+mean_grad_res: 2.434152
+mean_grad_bcs: 1.339946
+It: 29400, Loss: 6.767e-01, Loss_bcs: 1.589e-01, Loss_res: 5.178e-01,Time: 0.00
+mean_grad_res: 2.137333
+mean_grad_bcs: 1.477639
+It: 29500, Loss: 7.072e-01, Loss_bcs: 1.706e-01, Loss_res: 5.366e-01,Time: 0.00
+mean_grad_res: 3.378963
+mean_grad_bcs: 1.871942
+It: 29600, Loss: 7.117e-01, Loss_bcs: 1.575e-01, Loss_res: 5.543e-01,Time: 0.00
+mean_grad_res: 2.839515
+mean_grad_bcs: 1.679517
+It: 29700, Loss: 6.613e-01, Loss_bcs: 1.745e-01, Loss_res: 4.868e-01,Time: 0.00
+mean_grad_res: 1.598689
+mean_grad_bcs: 1.860455
+It: 29800, Loss: 6.856e-01, Loss_bcs: 1.667e-01, Loss_res: 5.189e-01,Time: 0.00
+mean_grad_res: 2.998412
+mean_grad_bcs: 3.386134
+It: 29900, Loss: 8.737e-01, Loss_bcs: 1.455e-01, Loss_res: 7.283e-01,Time: 0.00
+mean_grad_res: 3.476197
+mean_grad_bcs: 3.232371
+It: 30000, Loss: 8.265e-01, Loss_bcs: 1.421e-01, Loss_res: 6.844e-01,Time: 0.00
+mean_grad_res: 3.617679
+mean_grad_bcs: 1.465870
+It: 30100, Loss: 6.743e-01, Loss_bcs: 1.470e-01, Loss_res: 5.273e-01,Time: 0.00
+mean_grad_res: 2.800401
+mean_grad_bcs: 1.265409
+It: 30200, Loss: 6.342e-01, Loss_bcs: 1.560e-01, Loss_res: 4.783e-01,Time: 0.00
+mean_grad_res: 2.099027
+mean_grad_bcs: 1.869039
+It: 30300, Loss: 9.163e-01, Loss_bcs: 1.699e-01, Loss_res: 7.464e-01,Time: 0.00
+mean_grad_res: 2.189147
+mean_grad_bcs: 1.701699
+It: 30400, Loss: 6.089e-01, Loss_bcs: 1.601e-01, Loss_res: 4.488e-01,Time: 0.00
+mean_grad_res: 2.200267
+mean_grad_bcs: 2.328376
+It: 30500, Loss: 9.316e-01, Loss_bcs: 1.549e-01, Loss_res: 7.767e-01,Time: 0.00
+mean_grad_res: 4.445019
+mean_grad_bcs: 1.558235
+It: 30600, Loss: 5.864e-01, Loss_bcs: 1.513e-01, Loss_res: 4.350e-01,Time: 0.00
+mean_grad_res: 2.685936
+mean_grad_bcs: 1.175370
+It: 30700, Loss: 5.032e-01, Loss_bcs: 1.528e-01, Loss_res: 3.505e-01,Time: 0.00
+mean_grad_res: 1.635729
+mean_grad_bcs: 1.277463
+It: 30800, Loss: 6.752e-01, Loss_bcs: 1.609e-01, Loss_res: 5.143e-01,Time: 0.00
+mean_grad_res: 2.607110
+mean_grad_bcs: 2.155967
+It: 30900, Loss: 8.043e-01, Loss_bcs: 1.658e-01, Loss_res: 6.384e-01,Time: 0.00
+mean_grad_res: 2.950123
+mean_grad_bcs: 1.427043
+It: 31000, Loss: 7.732e-01, Loss_bcs: 1.607e-01, Loss_res: 6.125e-01,Time: 0.00
+mean_grad_res: 1.707691
+mean_grad_bcs: 2.721309
+It: 31100, Loss: 6.751e-01, Loss_bcs: 1.772e-01, Loss_res: 4.979e-01,Time: 0.00
+mean_grad_res: 2.021812
+mean_grad_bcs: 1.209577
+It: 31200, Loss: 7.797e-01, Loss_bcs: 1.742e-01, Loss_res: 6.055e-01,Time: 0.00
+mean_grad_res: 2.132732
+mean_grad_bcs: 2.488968
+It: 31300, Loss: 6.371e-01, Loss_bcs: 1.411e-01, Loss_res: 4.961e-01,Time: 0.00
+mean_grad_res: 2.850395
+mean_grad_bcs: 1.853795
+It: 31400, Loss: 5.460e-01, Loss_bcs: 1.601e-01, Loss_res: 3.858e-01,Time: 0.00
+mean_grad_res: 2.809250
+mean_grad_bcs: 2.444672
+It: 31500, Loss: 6.882e-01, Loss_bcs: 1.688e-01, Loss_res: 5.193e-01,Time: 0.00
+mean_grad_res: 3.196831
+mean_grad_bcs: 1.650982
+It: 31600, Loss: 7.450e-01, Loss_bcs: 1.484e-01, Loss_res: 5.966e-01,Time: 0.00
+mean_grad_res: 3.313974
+mean_grad_bcs: 2.486120
+It: 31700, Loss: 5.817e-01, Loss_bcs: 1.424e-01, Loss_res: 4.393e-01,Time: 0.00
+mean_grad_res: 2.552994
+mean_grad_bcs: 3.465801
+It: 31800, Loss: 6.147e-01, Loss_bcs: 1.731e-01, Loss_res: 4.415e-01,Time: 0.00
+mean_grad_res: 2.459557
+mean_grad_bcs: 1.908209
+It: 31900, Loss: 5.818e-01, Loss_bcs: 1.460e-01, Loss_res: 4.358e-01,Time: 0.00
+mean_grad_res: 2.702338
+mean_grad_bcs: 2.125579
+It: 32000, Loss: 7.199e-01, Loss_bcs: 1.576e-01, Loss_res: 5.623e-01,Time: 0.00
+mean_grad_res: 2.981659
+mean_grad_bcs: 1.413622
+It: 32100, Loss: 5.027e-01, Loss_bcs: 1.693e-01, Loss_res: 3.334e-01,Time: 0.00
+mean_grad_res: 1.904219
+mean_grad_bcs: 1.691351
+It: 32200, Loss: 5.486e-01, Loss_bcs: 1.641e-01, Loss_res: 3.845e-01,Time: 0.00
+mean_grad_res: 1.361853
+mean_grad_bcs: 2.783813
+It: 32300, Loss: 7.943e-01, Loss_bcs: 1.722e-01, Loss_res: 6.222e-01,Time: 0.00
+mean_grad_res: 3.014783
+mean_grad_bcs: 2.283329
+It: 32400, Loss: 5.459e-01, Loss_bcs: 1.312e-01, Loss_res: 4.147e-01,Time: 0.00
+mean_grad_res: 2.040207
+mean_grad_bcs: 2.033887
+It: 32500, Loss: 4.966e-01, Loss_bcs: 1.521e-01, Loss_res: 3.445e-01,Time: 0.00
+mean_grad_res: 2.337913
+mean_grad_bcs: 2.615057
+It: 32600, Loss: 6.094e-01, Loss_bcs: 1.711e-01, Loss_res: 4.382e-01,Time: 0.00
+mean_grad_res: 1.706077
+mean_grad_bcs: 1.525769
+It: 32700, Loss: 5.261e-01, Loss_bcs: 1.512e-01, Loss_res: 3.749e-01,Time: 0.00
+mean_grad_res: 2.241516
+mean_grad_bcs: 0.833909
+It: 32800, Loss: 6.036e-01, Loss_bcs: 1.451e-01, Loss_res: 4.585e-01,Time: 0.00
+mean_grad_res: 1.672161
+mean_grad_bcs: 1.868774
+It: 32900, Loss: 6.015e-01, Loss_bcs: 1.738e-01, Loss_res: 4.277e-01,Time: 0.00
+mean_grad_res: 2.577642
+mean_grad_bcs: 2.920355
+It: 33000, Loss: 6.399e-01, Loss_bcs: 1.343e-01, Loss_res: 5.056e-01,Time: 0.00
+mean_grad_res: 2.412692
+mean_grad_bcs: 1.304058
+It: 33100, Loss: 6.037e-01, Loss_bcs: 1.436e-01, Loss_res: 4.601e-01,Time: 0.00
+mean_grad_res: 3.187022
+mean_grad_bcs: 1.360395
+It: 33200, Loss: 5.913e-01, Loss_bcs: 1.495e-01, Loss_res: 4.418e-01,Time: 0.00
+mean_grad_res: 2.384877
+mean_grad_bcs: 1.332158
+It: 33300, Loss: 6.720e-01, Loss_bcs: 1.584e-01, Loss_res: 5.135e-01,Time: 0.00
+mean_grad_res: 2.847505
+mean_grad_bcs: 1.493389
+It: 33400, Loss: 6.096e-01, Loss_bcs: 1.404e-01, Loss_res: 4.692e-01,Time: 0.00
+mean_grad_res: 2.378588
+mean_grad_bcs: 1.372287
+It: 33500, Loss: 6.085e-01, Loss_bcs: 1.375e-01, Loss_res: 4.709e-01,Time: 0.00
+mean_grad_res: 3.041904
+mean_grad_bcs: 1.695485
+It: 33600, Loss: 6.726e-01, Loss_bcs: 1.580e-01, Loss_res: 5.146e-01,Time: 0.00
+mean_grad_res: 3.506104
+mean_grad_bcs: 2.706425
+It: 33700, Loss: 6.175e-01, Loss_bcs: 1.475e-01, Loss_res: 4.700e-01,Time: 0.00
+mean_grad_res: 1.597904
+mean_grad_bcs: 1.857448
+It: 33800, Loss: 5.881e-01, Loss_bcs: 1.518e-01, Loss_res: 4.362e-01,Time: 0.00
+mean_grad_res: 2.779218
+mean_grad_bcs: 1.101480
+It: 33900, Loss: 7.819e-01, Loss_bcs: 1.210e-01, Loss_res: 6.610e-01,Time: 0.00
+mean_grad_res: 2.192003
+mean_grad_bcs: 0.958249
+It: 34000, Loss: 6.247e-01, Loss_bcs: 1.662e-01, Loss_res: 4.585e-01,Time: 0.00
+mean_grad_res: 1.641756
+mean_grad_bcs: 1.358145
+It: 34100, Loss: 5.444e-01, Loss_bcs: 1.393e-01, Loss_res: 4.051e-01,Time: 0.00
+mean_grad_res: 1.636076
+mean_grad_bcs: 1.154277
+It: 34200, Loss: 5.805e-01, Loss_bcs: 1.471e-01, Loss_res: 4.333e-01,Time: 0.00
+mean_grad_res: 1.257582
+mean_grad_bcs: 1.904579
+It: 34300, Loss: 5.868e-01, Loss_bcs: 1.470e-01, Loss_res: 4.398e-01,Time: 0.00
+mean_grad_res: 1.485421
+mean_grad_bcs: 1.147452
+It: 34400, Loss: 4.714e-01, Loss_bcs: 1.407e-01, Loss_res: 3.307e-01,Time: 0.00
+mean_grad_res: 1.104536
+mean_grad_bcs: 0.997094
+It: 34500, Loss: 5.633e-01, Loss_bcs: 1.254e-01, Loss_res: 4.379e-01,Time: 0.00
+mean_grad_res: 3.637318
+mean_grad_bcs: 1.292027
+It: 34600, Loss: 6.259e-01, Loss_bcs: 1.853e-01, Loss_res: 4.406e-01,Time: 0.00
+mean_grad_res: 1.711502
+mean_grad_bcs: 1.633442
+It: 34700, Loss: 6.032e-01, Loss_bcs: 1.551e-01, Loss_res: 4.482e-01,Time: 0.00
+mean_grad_res: 2.302111
+mean_grad_bcs: 2.065748
+It: 34800, Loss: 6.051e-01, Loss_bcs: 1.291e-01, Loss_res: 4.760e-01,Time: 0.00
+mean_grad_res: 3.163994
+mean_grad_bcs: 1.336864
+It: 34900, Loss: 6.334e-01, Loss_bcs: 1.469e-01, Loss_res: 4.865e-01,Time: 0.00
+mean_grad_res: 2.428022
+mean_grad_bcs: 2.398010
+It: 35000, Loss: 1.149e+00, Loss_bcs: 1.579e-01, Loss_res: 9.914e-01,Time: 0.00
+mean_grad_res: 1.328732
+mean_grad_bcs: 1.791991
+It: 35100, Loss: 5.472e-01, Loss_bcs: 1.574e-01, Loss_res: 3.897e-01,Time: 0.00
+mean_grad_res: 1.838209
+mean_grad_bcs: 1.360109
+It: 35200, Loss: 8.384e-01, Loss_bcs: 1.770e-01, Loss_res: 6.614e-01,Time: 0.00
+mean_grad_res: 3.594955
+mean_grad_bcs: 2.995854
+It: 35300, Loss: 6.593e-01, Loss_bcs: 1.600e-01, Loss_res: 4.993e-01,Time: 0.00
+mean_grad_res: 1.766078
+mean_grad_bcs: 1.693326
+It: 35400, Loss: 5.169e-01, Loss_bcs: 1.634e-01, Loss_res: 3.535e-01,Time: 0.00
+mean_grad_res: 2.540780
+mean_grad_bcs: 1.950570
+It: 35500, Loss: 5.825e-01, Loss_bcs: 1.641e-01, Loss_res: 4.185e-01,Time: 0.00
+mean_grad_res: 3.818472
+mean_grad_bcs: 2.061740
+It: 35600, Loss: 8.821e-01, Loss_bcs: 1.406e-01, Loss_res: 7.415e-01,Time: 0.00
+mean_grad_res: 2.915602
+mean_grad_bcs: 1.478674
+It: 35700, Loss: 5.473e-01, Loss_bcs: 1.384e-01, Loss_res: 4.089e-01,Time: 0.00
+mean_grad_res: 2.372450
+mean_grad_bcs: 1.475478
+It: 35800, Loss: 7.075e-01, Loss_bcs: 1.632e-01, Loss_res: 5.442e-01,Time: 0.00
+mean_grad_res: 2.655151
+mean_grad_bcs: 1.362717
+It: 35900, Loss: 6.686e-01, Loss_bcs: 1.667e-01, Loss_res: 5.019e-01,Time: 0.00
+mean_grad_res: 2.085167
+mean_grad_bcs: 1.651966
+It: 36000, Loss: 4.688e-01, Loss_bcs: 1.126e-01, Loss_res: 3.562e-01,Time: 0.00
+mean_grad_res: 2.281295
+mean_grad_bcs: 1.019300
+It: 36100, Loss: 5.706e-01, Loss_bcs: 1.461e-01, Loss_res: 4.245e-01,Time: 0.00
+mean_grad_res: 2.983421
+mean_grad_bcs: 2.026488
+It: 36200, Loss: 6.001e-01, Loss_bcs: 1.526e-01, Loss_res: 4.475e-01,Time: 0.00
+mean_grad_res: 1.656416
+mean_grad_bcs: 2.699434
+It: 36300, Loss: 6.093e-01, Loss_bcs: 1.357e-01, Loss_res: 4.735e-01,Time: 0.00
+mean_grad_res: 2.850185
+mean_grad_bcs: 1.844934
+It: 36400, Loss: 6.307e-01, Loss_bcs: 1.316e-01, Loss_res: 4.991e-01,Time: 0.00
+mean_grad_res: 1.804640
+mean_grad_bcs: 2.039829
+It: 36500, Loss: 4.878e-01, Loss_bcs: 1.315e-01, Loss_res: 3.563e-01,Time: 0.00
+mean_grad_res: 2.271671
+mean_grad_bcs: 2.335313
+It: 36600, Loss: 5.318e-01, Loss_bcs: 1.162e-01, Loss_res: 4.156e-01,Time: 0.00
+mean_grad_res: 2.007092
+mean_grad_bcs: 1.129186
+It: 36700, Loss: 9.724e-01, Loss_bcs: 1.588e-01, Loss_res: 8.136e-01,Time: 0.00
+mean_grad_res: 3.070972
+mean_grad_bcs: 1.876718
+It: 36800, Loss: 4.918e-01, Loss_bcs: 1.306e-01, Loss_res: 3.612e-01,Time: 0.00
+mean_grad_res: 1.949338
+mean_grad_bcs: 1.401306
+It: 36900, Loss: 7.609e-01, Loss_bcs: 1.649e-01, Loss_res: 5.961e-01,Time: 0.00
+mean_grad_res: 2.551197
+mean_grad_bcs: 1.074523
+It: 37000, Loss: 6.442e-01, Loss_bcs: 1.351e-01, Loss_res: 5.091e-01,Time: 0.00
+mean_grad_res: 3.996132
+mean_grad_bcs: 1.532918
+It: 37100, Loss: 5.031e-01, Loss_bcs: 1.655e-01, Loss_res: 3.376e-01,Time: 0.00
+mean_grad_res: 2.096780
+mean_grad_bcs: 3.315929
+It: 37200, Loss: 4.906e-01, Loss_bcs: 1.429e-01, Loss_res: 3.477e-01,Time: 0.00
+mean_grad_res: 1.142586
+mean_grad_bcs: 1.535438
+It: 37300, Loss: 3.865e-01, Loss_bcs: 1.431e-01, Loss_res: 2.434e-01,Time: 0.00
+mean_grad_res: 1.865534
+mean_grad_bcs: 1.424827
+It: 37400, Loss: 1.095e+00, Loss_bcs: 1.505e-01, Loss_res: 9.449e-01,Time: 0.00
+mean_grad_res: 2.732772
+mean_grad_bcs: 1.464443
+It: 37500, Loss: 4.832e-01, Loss_bcs: 1.443e-01, Loss_res: 3.388e-01,Time: 0.00
+mean_grad_res: 2.782694
+mean_grad_bcs: 1.152879
+It: 37600, Loss: 6.051e-01, Loss_bcs: 1.388e-01, Loss_res: 4.663e-01,Time: 0.00
+mean_grad_res: 2.044894
+mean_grad_bcs: 1.474559
+It: 37700, Loss: 6.314e-01, Loss_bcs: 1.163e-01, Loss_res: 5.152e-01,Time: 0.00
+mean_grad_res: 2.027411
+mean_grad_bcs: 1.177523
+It: 37800, Loss: 8.637e-01, Loss_bcs: 1.332e-01, Loss_res: 7.305e-01,Time: 0.00
+mean_grad_res: 2.232962
+mean_grad_bcs: 1.634723
+It: 37900, Loss: 5.716e-01, Loss_bcs: 1.372e-01, Loss_res: 4.344e-01,Time: 0.00
+mean_grad_res: 2.035591
+mean_grad_bcs: 1.477888
+It: 38000, Loss: 4.991e-01, Loss_bcs: 1.236e-01, Loss_res: 3.755e-01,Time: 0.00
+mean_grad_res: 2.509539
+mean_grad_bcs: 1.489887
+It: 38100, Loss: 5.543e-01, Loss_bcs: 1.429e-01, Loss_res: 4.114e-01,Time: 0.00
+mean_grad_res: 2.121941
+mean_grad_bcs: 2.779708
+It: 38200, Loss: 5.667e-01, Loss_bcs: 1.468e-01, Loss_res: 4.200e-01,Time: 0.00
+mean_grad_res: 1.626925
+mean_grad_bcs: 1.823167
+It: 38300, Loss: 4.340e-01, Loss_bcs: 1.418e-01, Loss_res: 2.922e-01,Time: 0.00
+mean_grad_res: 1.840565
+mean_grad_bcs: 1.856588
+It: 38400, Loss: 5.954e-01, Loss_bcs: 1.104e-01, Loss_res: 4.850e-01,Time: 0.00
+mean_grad_res: 3.523921
+mean_grad_bcs: 1.272034
+It: 38500, Loss: 6.052e-01, Loss_bcs: 1.295e-01, Loss_res: 4.757e-01,Time: 0.00
+mean_grad_res: 2.351088
+mean_grad_bcs: 1.716638
+It: 38600, Loss: 6.201e-01, Loss_bcs: 1.190e-01, Loss_res: 5.011e-01,Time: 0.00
+mean_grad_res: 2.761312
+mean_grad_bcs: 0.957173
+It: 38700, Loss: 9.124e-01, Loss_bcs: 1.213e-01, Loss_res: 7.910e-01,Time: 0.00
+mean_grad_res: 1.437546
+mean_grad_bcs: 1.160365
+It: 38800, Loss: 7.153e-01, Loss_bcs: 1.408e-01, Loss_res: 5.746e-01,Time: 0.00
+mean_grad_res: 2.492847
+mean_grad_bcs: 0.863107
+It: 38900, Loss: 4.959e-01, Loss_bcs: 1.402e-01, Loss_res: 3.557e-01,Time: 0.00
+mean_grad_res: 1.836099
+mean_grad_bcs: 1.663352
+It: 39000, Loss: 4.428e-01, Loss_bcs: 1.383e-01, Loss_res: 3.045e-01,Time: 0.00
+mean_grad_res: 3.169637
+mean_grad_bcs: 1.545911
+It: 39100, Loss: 4.325e-01, Loss_bcs: 1.509e-01, Loss_res: 2.816e-01,Time: 0.00
+mean_grad_res: 1.662184
+mean_grad_bcs: 1.797548
+It: 39200, Loss: 6.797e-01, Loss_bcs: 1.257e-01, Loss_res: 5.539e-01,Time: 0.00
+mean_grad_res: 1.891168
+mean_grad_bcs: 1.466752
+It: 39300, Loss: 6.455e-01, Loss_bcs: 1.385e-01, Loss_res: 5.070e-01,Time: 0.00
+mean_grad_res: 3.315826
+mean_grad_bcs: 1.283417
+It: 39400, Loss: 4.778e-01, Loss_bcs: 1.395e-01, Loss_res: 3.382e-01,Time: 0.00
+mean_grad_res: 1.948621
+mean_grad_bcs: 0.964250
+It: 39500, Loss: 7.932e-01, Loss_bcs: 1.210e-01, Loss_res: 6.723e-01,Time: 0.00
+mean_grad_res: 3.278312
+mean_grad_bcs: 1.024508
+It: 39600, Loss: 5.109e-01, Loss_bcs: 1.256e-01, Loss_res: 3.853e-01,Time: 0.00
+mean_grad_res: 2.233823
+mean_grad_bcs: 0.918978
+It: 39700, Loss: 1.147e+00, Loss_bcs: 1.346e-01, Loss_res: 1.013e+00,Time: 0.00
+mean_grad_res: 2.186947
+mean_grad_bcs: 1.290789
+It: 39800, Loss: 6.019e-01, Loss_bcs: 1.241e-01, Loss_res: 4.779e-01,Time: 0.00
+mean_grad_res: 3.001559
+mean_grad_bcs: 1.290749
+It: 39900, Loss: 5.110e-01, Loss_bcs: 1.314e-01, Loss_res: 3.797e-01,Time: 0.00
+mean_grad_res: 1.361809
+mean_grad_bcs: 1.369805
+Gradients information stored ...
+It: 40000, Loss: 6.918e-01, Loss_bcs: 1.263e-01, Loss_res: 5.655e-01,Time: 0.46
+mean_grad_res: 1.934858
+mean_grad_bcs: 1.565825
+Relative L2 error_u: 5.26e-03
+Relative L2 error_f: 9.58e-03
+Save uv NN parameters successfully in %s ...checkpoints/Jan-09-2024_23-28-42-426661_M2
+Final loss total loss: 7.055970e-01
+Final loss loss_res: 5.750267e-01
+Final loss loss_bc1: 4.988548e-05
+Final loss loss_bc2: 2.035638e-05
+Final loss loss_bc3: 1.066091e-05
+Final loss loss_bc4: 4.966757e-05
+average lambda_bc1.0000e+03
+average lambda_res1.0
+
+
+Method: mini_batch
+
+average of time_list:1.7314e+02
+average of error_u_list:5.2605e-03
+average of error_v_list:9.5779e-03

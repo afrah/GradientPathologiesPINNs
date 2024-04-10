@@ -1,0 +1,49 @@
+It: 0| Loss: 1.115e+04| Loss_bcs: 4.994e+00| loss_ic_ut: 3.942e+00| Loss_res: 1.114e+04|Time: 108.39
+mean_grad_res: 8.786e+01
+mean_grad_bcs: 8.729e-01
+mean_grad_ic_ut: 6.017e-01
+Gradients information stored ...
+It: 100| Loss: 1.099e+03| Loss_bcs: 3.960e+01| loss_ic_ut: 1.315e+01| Loss_res: 1.046e+03|Time: 345.72
+Gradients information stored ...
+It: 200| Loss: 1.575e+02| Loss_bcs: 3.295e+01| loss_ic_ut: 4.069e+01| Loss_res: 8.384e+01|Time: 122.61
+It: 300| Loss: 1.194e+02| Loss_bcs: 2.998e+01| loss_ic_ut: 1.839e+01| Loss_res: 7.108e+01|Time: 111.32
+It: 400| Loss: 8.753e+01| Loss_bcs: 2.982e+01| loss_ic_ut: 7.621e+00| Loss_res: 5.008e+01|Time: 110.42
+It: 500| Loss: 3.765e+01| Loss_bcs: 2.574e+01| loss_ic_ut: 6.706e-01| Loss_res: 1.124e+01|Time: 110.61
+It: 600| Loss: 3.449e+01| Loss_bcs: 2.282e+01| loss_ic_ut: 4.642e-01| Loss_res: 1.121e+01|Time: 110.25
+It: 700| Loss: 2.913e+01| Loss_bcs: 2.009e+01| loss_ic_ut: 2.930e-01| Loss_res: 8.743e+00|Time: 111.10
+It: 800| Loss: 2.532e+01| Loss_bcs: 1.765e+01| loss_ic_ut: 6.759e-01| Loss_res: 7.000e+00|Time: 111.07
+It: 900| Loss: 2.564e+01| Loss_bcs: 1.328e+01| loss_ic_ut: 1.194e+00| Loss_res: 1.116e+01|Time: 109.96
+It: 1000| Loss: 1.599e+01| Loss_bcs: 8.283e+00| loss_ic_ut: 1.469e+00| Loss_res: 6.237e+00|Time: 111.46
+mean_grad_res: 2.509e+01
+mean_grad_bcs: 1.418e+00
+mean_grad_ic_ut: 2.986e+00
+Gradients information stored ...
+It: 1100| Loss: 9.524e+00| Loss_bcs: 2.361e+00| loss_ic_ut: 5.583e-01| Loss_res: 6.604e+00|Time: 124.60
+It: 1200| Loss: 6.439e+00| Loss_bcs: 3.508e-01| loss_ic_ut: 3.126e-01| Loss_res: 5.775e+00|Time: 111.34
+It: 1300| Loss: 4.205e+00| Loss_bcs: 1.372e-01| loss_ic_ut: 2.519e-01| Loss_res: 3.816e+00|Time: 111.57
+It: 1400| Loss: 3.997e+00| Loss_bcs: 1.159e-01| loss_ic_ut: 1.775e-01| Loss_res: 3.703e+00|Time: 111.72
+It: 1500| Loss: 3.785e+00| Loss_bcs: 8.274e-02| loss_ic_ut: 1.844e-01| Loss_res: 3.517e+00|Time: 111.33
+It: 1600| Loss: 2.698e+00| Loss_bcs: 7.641e-02| loss_ic_ut: 1.106e-01| Loss_res: 2.511e+00|Time: 111.67
+It: 1700| Loss: 1.848e+00| Loss_bcs: 6.174e-02| loss_ic_ut: 1.385e-01| Loss_res: 1.648e+00|Time: 113.27
+It: 1800| Loss: 2.200e+00| Loss_bcs: 5.319e-02| loss_ic_ut: 7.821e-02| Loss_res: 2.069e+00|Time: 111.46
+It: 1900| Loss: 1.737e+00| Loss_bcs: 5.135e-02| loss_ic_ut: 8.487e-02| Loss_res: 1.601e+00|Time: 112.87
+It: 2000| Loss: 2.578e+00| Loss_bcs: 4.923e-02| loss_ic_ut: 1.254e-01| Loss_res: 2.403e+00|Time: 112.16
+mean_grad_res: 1.356e+01
+mean_grad_bcs: 5.466e-02
+mean_grad_ic_ut: 1.063e+00
+It: 2100| Loss: 1.756e+00| Loss_bcs: 4.080e-02| loss_ic_ut: 5.984e-02| Loss_res: 1.656e+00|Time: 111.12
+It: 2200| Loss: 1.732e+00| Loss_bcs: 3.933e-02| loss_ic_ut: 5.610e-02| Loss_res: 1.636e+00|Time: 109.96
+It: 2300| Loss: 6.316e+00| Loss_bcs: 3.523e-02| loss_ic_ut: 1.508e-01| Loss_res: 6.130e+00|Time: 111.62
+Using mode: M1
+neural network: [2, 50, 50, 50, 50, 50, 1]
+Using mode: M1
+neural network: [2, 50, 50, 50, 50, 50, 1]
+Using mode: M1
+neural network: [2, 50, 50, 50, 50, 50, 1]
+Using mode: M1
+neural network: [2, 50, 50, 50, 50, 50, 1]
+Using mode: M1
+neural network: [2, 50, 50, 50, 50, 50, 1]
+Using mode: M1
+neural network: [2, 50, 50, 50, 50, 50, 1]
+File directory: /home/vlq26735/code/PhD/GradientPathologiesPINNs/checkpoints/Klein_Gordon/final/Feb-29-2024_11-16-11-243113_M1

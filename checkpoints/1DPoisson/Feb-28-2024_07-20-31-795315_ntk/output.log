@@ -1,0 +1,13 @@
+Using mode: ntk
+neural network: [1, 500, 500, 1]
+Bc1 Training data size : 50
+Bc2 Training data size : 50
+interior Training data size : 100
+Activation function: tanh
+number of iterations: 40001
+starter_learning_rate: 1.0000e-05
+Method desciption : gradual learing rate , with  mini-batch batch. 
+mean_grad_bcs: 2.6941e-01
+mean_grad_res: 1.1576e+02
+lam_res: 1.0057e+00
+lam_bc: 1.7705e+02

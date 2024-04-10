@@ -1,0 +1,120 @@
+It: 0, Loss: 6.582e+03, Loss_bcs: 4.353e-01, Loss_res: 6.582e+03,Time: 1.57
+ kurtosis_grad_res: 2.6285e+02
+ kurtosis_grad_bcs: 4.6910e+01
+std_grad_bcs: -0.007176
+std_grad_res: -0.050990
+adaptive_bcs_val: -3.6628e+04
+adaptive_res_val: -5.1550e+03
+Gradients information stored ...
+It: 100, Loss: -1.031e+10, Loss_bcs: 8.500e+02, Loss_res: 1.994e+06,Time: 0.01
+ kurtosis_grad_res: 1.5670e+01
+ kurtosis_grad_bcs: 7.3352e+00
+std_grad_bcs: 1.109265
+std_grad_res: -27121.123047
+adaptive_bcs_val: -3.6628e+04
+adaptive_res_val: -5.1550e+03
+Gradients information stored ...
+It: 200, Loss: -1.013e+12, Loss_bcs: 2.700e+03, Loss_res: 1.965e+08,Time: 0.01
+ kurtosis_grad_res: 1.6682e+01
+ kurtosis_grad_bcs: 9.4133e+00
+std_grad_bcs: 1.739035
+std_grad_res: -9717475.000000
+adaptive_bcs_val: -3.6628e+04
+adaptive_res_val: -5.1550e+03
+It: 300, Loss: -1.132e+13, Loss_bcs: 5.148e+03, Loss_res: 2.195e+09,Time: 0.01
+ kurtosis_grad_res: 1.5968e+01
+ kurtosis_grad_bcs: 8.5490e+00
+std_grad_bcs: 3.160837
+std_grad_res: -67354160.000000
+adaptive_bcs_val: -3.6628e+04
+adaptive_res_val: -5.1550e+03
+It: 400, Loss: -1.110e+11, Loss_bcs: 7.764e+03, Loss_res: 2.148e+07,Time: 0.01
+ kurtosis_grad_res: 1.6953e+01
+ kurtosis_grad_bcs: 1.7149e+01
+std_grad_bcs: 5.227451
+std_grad_res: 290542.375000
+adaptive_bcs_val: -3.6628e+04
+adaptive_res_val: -5.1550e+03
+It: 500, Loss: -2.120e+11, Loss_bcs: 1.093e+04, Loss_res: 4.105e+07,Time: 0.01
+ kurtosis_grad_res: 3.0122e+01
+ kurtosis_grad_bcs: 9.3605e+00
+std_grad_bcs: 3.287135
+std_grad_res: 9477497.000000
+adaptive_bcs_val: -3.6628e+04
+adaptive_res_val: -5.1550e+03
+It: 600, Loss: -4.659e+12, Loss_bcs: 1.401e+04, Loss_res: 9.036e+08,Time: 0.01
+ kurtosis_grad_res: 2.9585e+01
+ kurtosis_grad_bcs: 1.1308e+01
+std_grad_bcs: 7.477527
+std_grad_res: 426997824.000000
+adaptive_bcs_val: -3.6628e+04
+adaptive_res_val: -5.1550e+03
+It: 700, Loss: -2.898e+14, Loss_bcs: 1.677e+04, Loss_res: 5.621e+10,Time: 0.01
+ kurtosis_grad_res: 2.8127e+01
+ kurtosis_grad_bcs: 1.1983e+01
+std_grad_bcs: 1.516225
+std_grad_res: -16249731072.000000
+adaptive_bcs_val: -3.6628e+04
+adaptive_res_val: -5.1550e+03
+It: 800, Loss: -7.978e+13, Loss_bcs: 2.012e+04, Loss_res: 1.548e+10,Time: 0.01
+ kurtosis_grad_res: 3.3697e+01
+ kurtosis_grad_bcs: 7.5091e+00
+std_grad_bcs: 5.371979
+std_grad_res: 7888491520.000000
+adaptive_bcs_val: -3.6628e+04
+adaptive_res_val: -5.1550e+03
+It: 900, Loss: -2.747e+10, Loss_bcs: 2.328e+04, Loss_res: 5.164e+06,Time: 0.01
+ kurtosis_grad_res: 3.3220e+01
+ kurtosis_grad_bcs: 8.8318e+00
+std_grad_bcs: 6.525162
+std_grad_res: -1425960.000000
+adaptive_bcs_val: -3.6628e+04
+adaptive_res_val: -5.1550e+03
+It: 1000, Loss: -1.055e+09, Loss_bcs: 2.685e+04, Loss_res: 1.395e+04,Time: 0.01
+ kurtosis_grad_res: 7.1268e+00
+ kurtosis_grad_bcs: 7.1348e+00
+std_grad_bcs: 6.558894
+std_grad_res: 1.739044
+adaptive_bcs_val: -3.6628e+04
+adaptive_res_val: -5.1550e+03
+Gradients information stored ...
+It: 1100, Loss: -1.574e+09, Loss_bcs: 2.993e+04, Loss_res: 9.260e+04,Time: 0.01
+ kurtosis_grad_res: 3.0499e+01
+ kurtosis_grad_bcs: 9.3859e+00
+std_grad_bcs: 4.467805
+std_grad_res: -33290.691406
+adaptive_bcs_val: -3.6628e+04
+adaptive_res_val: -5.1550e+03
+It: 1200, Loss: -1.244e+09, Loss_bcs: 3.203e+04, Loss_res: 1.372e+04,Time: 0.01
+ kurtosis_grad_res: 7.1268e+00
+ kurtosis_grad_bcs: 4.2048e+01
+std_grad_bcs: 26.175566
+std_grad_res: 1.680547
+adaptive_bcs_val: -3.6628e+04
+adaptive_res_val: -5.1550e+03
+It: 1300, Loss: -1.328e+10, Loss_bcs: 3.463e+04, Loss_res: 2.330e+06,Time: 0.01
+ kurtosis_grad_res: 3.5880e+01
+ kurtosis_grad_bcs: 3.8376e+01
+std_grad_bcs: 23.191587
+std_grad_res: 2747861.000000
+adaptive_bcs_val: -3.6628e+04
+adaptive_res_val: -5.1550e+03
+It: 1400, Loss: -1.464e+09, Loss_bcs: 3.765e+04, Loss_res: 1.652e+04,Time: 0.01
+ kurtosis_grad_res: 3.8533e+01
+ kurtosis_grad_bcs: 4.3701e+01
+std_grad_bcs: 21.338007
+std_grad_res: -49.853207
+adaptive_bcs_val: -3.6628e+04
+adaptive_res_val: -5.1550e+03
+It: 1500, Loss: nan, Loss_bcs: nan, Loss_res: nan,Time: 0.01
+ kurtosis_grad_res: nan kurtosis_grad_bcs: nanstd_grad_bcs: nanstd_grad_res: nanadaptive_bcs_val: -3.6628e+04
+adaptive_res_val: -5.1550e+03
+It: 1600, Loss: nan, Loss_bcs: nan, Loss_res: nan,Time: 0.01
+ kurtosis_grad_res: nan kurtosis_grad_bcs: nanstd_grad_bcs: nanstd_grad_res: nanadaptive_bcs_val: -3.6628e+04
+adaptive_res_val: -5.1550e+03
+It: 1700, Loss: nan, Loss_bcs: nan, Loss_res: nan,Time: 0.01
+ kurtosis_grad_res: nan kurtosis_grad_bcs: nanstd_grad_bcs: nanstd_grad_res: nanadaptive_bcs_val: -3.6628e+04
+adaptive_res_val: -5.1550e+03
+It: 1800, Loss: nan, Loss_bcs: nan, Loss_res: nan,Time: 0.01
+ kurtosis_grad_res: nan kurtosis_grad_bcs: nanstd_grad_bcs: nanstd_grad_res: nanadaptive_bcs_val: -3.6628e+04
+adaptive_res_val: -5.1550e+03

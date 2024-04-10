@@ -1,0 +1,15 @@
+Using mode: M2
+neural network: [1, 500, 500, 1]
+Bc1 Training data size : 50
+Bc2 Training data size : 50
+interior Training data size : 100
+Activation function: tanh
+number of iterations: 40001
+learning_rates: 1.0000e-05
+Method desciption : gradual learing rate , M2 weighting with velocity pressure representation. mini_batch batch. 
+File directory: /home/vlq26735/code/PhD/GradientPathologiesPINNs/checkpoints/1DPoisson/Feb-27-2024_17-27-24-032485_M2
+It: 0, Loss: 9.718e+00, Loss_bcs: 2.472e-01, Loss_res: 9.470e+00 ,Time: 9.82
+mean_grad_bcs: 9.9812e-02
+mean_grad_res: 1.0992e-02
+self.lam_bc: 1.1101e+00
+self.lam_res : 1.0080e+01

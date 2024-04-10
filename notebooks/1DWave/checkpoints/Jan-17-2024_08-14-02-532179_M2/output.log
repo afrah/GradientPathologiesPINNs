@@ -1,0 +1,11 @@
+It: 0, Loss: 1.257e+00, Loss_res: 1.726e-03,  Loss_bcs: 1.060e+00, Loss_ut_ics: 1.947e-01,, Time: 4.14
+adaptive_constant_res_val: 2.165e+03
+adaptive_constant_ics_val: 1.990e+02
+adaptive_constant_bcs_val: 4.937e+02
+mean_grad_res: 4.620e-02
+mean_grad_bcs: 2.025e-01
+mean_grad_ics: 5.026e-01
+kurtosis_grad_ics: 1.262e+02
+kurtosis_grad_bcs: 1.262e+02
+kurtosis_grad_res: 6.500e+02
+Gradients information stored ...

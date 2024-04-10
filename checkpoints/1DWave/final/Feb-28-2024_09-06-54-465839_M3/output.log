@@ -1,0 +1,35 @@
+Using mode: M3
+neural network: [2, 500, 500, 1]
+Batch size : 300
+Activation function: tanh
+number of iterations: 1000
+starter_learning_rate: 1.0000e-03
+Method desciption : gradual learing rate , M3, with  mini_batch batch. 
+File directory: /home/vlq26735/code/PhD/GradientPathologiesPINNs/checkpoints/1DWave/final/Feb-28-2024_09-06-54-465839_M3
+It: 0, Loss: 1.328e+01, Loss_res: 7.545e+00,  Loss_bcs: 4.458e+00, Loss_ut_ics: 1.278e+00,, Time: 34.11
+mean_grad_res: 1.704e-01
+mean_grad_ics: 9.212e-02
+mean_grad_bcs: 2.730e-01
+Gradients information stored ...
+It: 100, Loss: 5.792e+00, Loss_res: 1.560e+00,  Loss_bcs: 3.964e-01, Loss_ut_ics: 1.923e-02,, Time: 185.75
+Gradients information stored ...
+It: 200, Loss: 1.009e+01, Loss_res: 3.016e+00,  Loss_bcs: 2.966e-01, Loss_ut_ics: 4.170e-03,, Time: 302.36
+It: 300, Loss: 9.304e+00, Loss_res: 2.632e+00,  Loss_bcs: 4.516e-01, Loss_ut_ics: 2.522e-02,, Time: 373.28
+It: 400, Loss: 7.784e+00, Loss_res: 2.252e+00,  Loss_bcs: 3.509e-01, Loss_ut_ics: 2.937e-03,, Time: 444.35
+It: 500, Loss: 1.328e+00, Loss_res: 2.154e-01,  Loss_bcs: 3.261e-01, Loss_ut_ics: 1.934e-03,, Time: 514.76
+It: 600, Loss: 1.247e+00, Loss_res: 1.977e-01,  Loss_bcs: 3.129e-01, Loss_ut_ics: 2.032e-03,, Time: 585.16
+It: 700, Loss: 5.948e-01, Loss_res: 2.438e-03,  Loss_bcs: 2.931e-01, Loss_ut_ics: 2.096e-03,, Time: 655.41
+It: 800, Loss: 7.432e-01, Loss_res: 1.850e-03,  Loss_bcs: 3.681e-01, Loss_ut_ics: 2.627e-03,, Time: 726.00
+It: 900, Loss: 7.370e-01, Loss_res: 2.144e-02,  Loss_bcs: 3.346e-01, Loss_ut_ics: 2.277e-03,, Time: 796.45
+elapsed: 9.61e+02
+Relative L2 error_u: 1.08e+00
+Relative L2 error_r: inf
+file directory:/home/vlq26735/code/PhD/GradientPathologiesPINNs/checkpoints/1DWave/final/Feb-28-2024_09-06-54-465839_M3
+Save uv NN parameters successfully in %s .../home/vlq26735/code/PhD/GradientPathologiesPINNs/checkpoints/1DWave/final/Feb-28-2024_09-06-54-465839_M3
+Final loss total loss: 6.273454e-01
+Final loss loss_res: 4.689637e-03
+Final loss loss_bcs: 3.045225e-01
+Final loss loss_bc1: 4.486171e-02
+Final loss loss_bc2: 2.632972e-02
+Final loss loss_ics_u: 2.333311e-01
+Final loss loss_ics_u_t: 2.626755e-03

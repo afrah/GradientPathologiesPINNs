@@ -1,0 +1,8 @@
+Using mode: M2
+neural network: [1, 500, 500, 1]
+Bc1 Training data size : 50
+Bc2 Training data size : 50
+interior Training data size : 100
+Activation function: tanh
+number of iterations: 1
+learning_rates: 1.0000e-05

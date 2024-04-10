@@ -1,0 +1,28 @@
+Using mode: M2
+neural network: [2, 50, 50, 50, 1]
+Batch size : 300
+Activation function: tanh
+number of iterations: 1001
+starter_learning_rate: 1.0000e-03
+Method desciption : gradual learing rate , M2, with  mini_batch batch. 
+File directory: /home/vlq26735/code/PhD/GradientPathologiesPINNs/checkpoints/Helmholtz/final/Feb-28-2024_13-36-02-214477_M2
+mean_grad_res: 5.189e+01
+mean_grad_bcs: 8.268e-01
+adaptive_constant_val: -5.638e+01
+Gradients information stored ...
+Gradients information stored ...
+mean_grad_res: 1.361e+05
+mean_grad_bcs: 6.198e+02
+adaptive_constant_val: -2.032e+02
+Gradients information stored ...
+elapsed: 2.53e+03
+Relative L2 error_u: 2.15e+02
+Relative L2 error_f: 3.73e+00
+file directory:/home/vlq26735/code/PhD/GradientPathologiesPINNs/checkpoints/Helmholtz/final/Feb-28-2024_13-36-02-214477_M2
+Save uv NN parameters successfully in %s .../home/vlq26735/code/PhD/GradientPathologiesPINNs/checkpoints/Helmholtz/final/Feb-28-2024_13-36-02-214477_M2
+Final loss total loss: -3.780749e+06
+Final loss loss_res: 8.767768e+04
+Final loss loss_bcs1: 1.825601e+04
+Final loss loss_bcs2: 1.418285e+04
+Final loss loss_bcs3: 2.002971e+04
+Final loss loss_bcs4: 1.614076e+04
